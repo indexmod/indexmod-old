@@ -1,13 +1,49 @@
---- 
---- 
+---
+---
 @import "jekyll-theme-minimal";
 
 .intro {
 	font-family: 'Helvetica Neue';
 	font-size: 24px;
 	font-weight: 700;
-	line-height: 1.4em;
+	line-height: 1.5em;
 	list-style-type: none;
+}
+
+.tooltip {
+	  font-family: 'Helvetica Neue';
+	  font-size: 24px;
+	  font-weight: 700;
+	  line-height: 1em;
+    position: relative;
+    display: inline-block;
+    border-bottom: 0px dotted white;
+}
+
+.tooltip .tooltiptext {
+	  font-family: 'Helvetica Neue';
+		font-size: 24px;
+	  font-weight: 700;
+	  line-height: 1em;
+    visibility: hidden;
+    width: 50px;
+    background-color: silver;
+    color: black;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+		/* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -25px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
 }
 
 .date {
@@ -159,5 +195,3 @@ img {
 	width: 100%;
 	height: auto;
 }
-
-
