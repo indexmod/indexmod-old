@@ -38,9 +38,17 @@
 		<header>
 			<div class="container">
 				<a href="index"><img alt="Indexmod" src="/indexmod-eye.gif" style="width:auto;height:auto;border:0;"></a>
-<br>
 			</div>
-			<marquee behavior="scroll" scrollamount="1" direction="down" height="40px" loop="-1" style="border:0px" width="150px">{% assign mypages = site.pages | sort: "order" %} {% for page in mypages %} <span class="intro"><a href="{{page.url|absolute_url}}">{{ page.shortname }} {{ page.content | number_of_words }}</a></span> {% endfor %}</marquee>
+			<br>
+			<br>
+		<marquee behavior="scroll" scrollamount="10" direction="left" height="80px" loop="-1" style="border:0px" width="80px" onmouseover="this.stop();" onmouseout="this.start();">{% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}<div class="tooltip"><a href="{{page.url|absolute_url}}">{{ page.shortname }}</a>
+			  <span class="tooltiptext">{{ page.content | number_of_words }}</span>
+			</div>
+			{% endfor %}</marquee>
+
+
+
+
 		</header>
 		<section>
 			{{ content }}
