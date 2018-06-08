@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: EN }}">
+<head>
+	<meta charset="utf-8">
+	<meta content="HnrT2NSmVB_2fsV9rS25TEMeTKJSkBfqer0xKAkTBak" name="google-site-verification">
+	<meta content="chrome=1" https-equiv="X-UA-Compatible">
+	<link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
+	<link href="/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57">
+	<link href="/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60">
+	<link href="/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
+	<link href="/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
+	<link href="/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+	<link href="/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
+	<link href="/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+	<link href="/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
+	<link href="/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180">
+	<link href="/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png">
+	<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+	<link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png">
+	<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+	<link href="/manifest.json" rel="manifest">
+	<meta content="#ffffff" name="msapplication-TileColor">
+	<meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
+	<meta content="#ffffff" name="theme-color">
+	<meta content="bd6cadbefee34d7e" name="yandex-verification">
+	<style>
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+</style>
+	<meta content="Indexmod blockchainpedia" name="description">
+	<meta content="{{page.shortname}} | {{ page.content | number_of_words }}" name="title">
+
+
+	<!-- Indexmod blockchainpedia browser and facebook presentation -->
+
+	<meta content="{{page.title}} | {{page.shortname}} ({{ page.content | number_of_words }})" property="og:title">
+	<meta content="{{site.url}}/images/{{page.permalink}}.jpg" property="og:image">
+	<meta content="Indexmod" property="og:site_name">
+	<meta content="Indexmod is a fashion and art blockchainpedia. Updated on {{ site.time | date_to_long_string }}. This is an article of the “{{page.title}}” at {{site.title}}" property="og:description">
+
+	<!-- Indexmod blockchainpedia browser and facebook presentation -->
+</head>
+<body>
+	<link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
+	<meta content="width=device-width" name="viewport"><!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+	<div class="wrapper">
+		<header>
+			<div class="container">
+				<a href="index"><img src="/indexmod-eye.gif" alt="Indexmod" style="width:auto;height:auto;border:0;">
+</a><br>
+			</div>
+		</header>
+		<section>
+			<h1>{{page.title}}</h1>
+			<div>
+				<p><a class="one" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}"><u>S</u>hare</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="one" href="https://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}"><u>E</u>dit</a></p>
+			</div>{{ content | toc }}
+			<div>
+				<p><a class="one" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}"><u>S</u>hare</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="one" href="https://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}"><u>E</u>dit</a></p>
+				<p></p>
+			</div>
+		</section><br>
+		<footer>
+			{% include footer.html %}
+		</footer>
+	</div>
+	<script src="{{%20'/assets/js/scale.fix.js'%20|%20relative_url%20}}">
+	</script> {% if site.google_analytics %}
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119267756-1">
+	</script>
+
+	<script>
+	                     window.dataLayer = window.dataLayer || [];
+	                     function gtag(){dataLayer.push(arguments);}
+	                     gtag('js', new Date());
+
+	                     gtag('config', 'UA-119267756-1');
+
+
+	</script>
+
+	<!-- Yandex.Metrika counter -->
+	<script type="text/javascript">
+	   (function (d, w, c) {
+	       (w[c] = w[c] || []).push(function() {
+	           try {
+	               w.yaCounter48876245 = new Ya.Metrika({
+	                   id:48876245,
+	                   clickmap:true,
+	                   trackLinks:true,
+	                   accurateTrackBounce:true,
+	                   webvisor:true
+	               });
+	           } catch(e) { }
+	       });
+
+	       var n = d.getElementsByTagName("script")[0],
+	           s = d.createElement("script"),
+	           f = function () { n.parentNode.insertBefore(s, n); };
+	       s.type = "text/javascript";
+	       s.async = true;
+	       s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+	       if (w.opera == "[object Opera]") {
+	           d.addEventListener("DOMContentLoaded", f, false);
+	       } else { f(); }
+	   })(document, window, "yandex_metrika_callbacks");
+	</script> <noscript>
+	<div><img alt="" src="https://mc.yandex.ru/watch/48876245" style="position:absolute; left:-9999px;"></div></noscript> <!-- /Yandex.Metrika counter -->
+	 {% endif %}
+</body>
+</html>

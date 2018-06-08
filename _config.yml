@@ -1,0 +1,30 @@
+---
+title: Indexmod blockchainpedia
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+description: Indexmod is a fashion and art blockchainpedia
+show_sidebar: false
+show_downloads: false
+show_title: false
+show_description: false
+google_analytics: 'UA-'
+theme: jekyll-theme-minimal
+include: ['.htaccess']
+gems:
+
+prose:
+  rooturl: 'https://indexmod.ga'
+  siteurl: 'https://indexmod.ga'
+  relativeLinks: 'https://prose.github.io/starter/links.jsonp'
+  media: '/images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
