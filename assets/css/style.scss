@@ -1,7 +1,16 @@
 ---
 ---
-@import "jekyll-theme-minimal";
 @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+
+
+body {
+
+	max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+	
+	}
 
 .intro {
 	font-family: 'Helvetica Neue';
