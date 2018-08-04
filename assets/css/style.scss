@@ -89,6 +89,7 @@ h2, h3, h4, h5, h6 {
 
 
 table {
+	width: 100%;
 	font-family: 'Verdana', serif;
 	font-size: 15px;
 	line-height: 1em;
@@ -97,10 +98,10 @@ table {
 	border-collapse: collapse;
 }
 th {
-	font-family: 'Verdana', serif;;
+	font-family: 'Verdana', serif;
 	background-color: white;
 	color: red;
-	font-weight: 200;
+	font-weight: 500;
 	padding: 9px;
 	text-align: left;
 	height: auto;
