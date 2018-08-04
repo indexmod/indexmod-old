@@ -3,8 +3,12 @@ title: Lecharlatan (靴下)
 permalink: lecharlatan-靴下
 layout: default-new
 published: true
-shortname: LCLT
+shortname: LECHARLATAN
 indexmod: '9,50'
+birth: 2016
+facebook: 719
+instagram: 4235
+youtube: 3380
 ---
 (設立	2016年, モスクワ) 衣料品ブランドです、ロシアストリートウェアブランド <span id="a1">[\[1\]](#f1)</span>、アンレイ・ボジエフによるル・シャラタンを設立した高品質のソックスを提供する独立したレーベル <span id="a2">[\[2\]](#f2)</span> そして マリア・アルダロワ <span id="a3">[\[3\]](#f3)</span>, 後で共同設立者から購入した Andrey Bozhyev（2015）によってLecharlatanとして登録されました。TEDxサドーヴェリングのパートナー <span id="a4">[\[4\]](#f4)</span>。
 
@@ -17,7 +21,7 @@ indexmod: '9,50'
 ## コンセンサス
 
 |年|イベント|
-|----|---------|
+|-|-|
 |2014|共同設立者からの購入|
 |2015|Lecharlatan の登録|
 |2016|Строгий юноша の立ち上げ|
@@ -51,17 +55,6 @@ indexmod: '9,50'
 |2016|ミュージックビデオ|Nadyulya — Pati y Nadyuli <span id="a11">[\[11\]](#f11)</span>|ダンサー|
 |2015|ミュージックビデオ|Ligalaiz — Karavan <span id="a12">[\[12\]](#f12)</span>|ダンサー|
 |2015|テレビ番組|ジミー・ファロンとの今夜のショーでのキング・ライブ <span id="a13">[\[13\]](#f13)</span>|Olly Alexander|
-
-## {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|719||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|4235||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|3380||
-|年齢|5||
-|Indexmod|{{ page.content | number_of_words }}||
-|合計|9,503233||
 
 ## も参照してください
 
