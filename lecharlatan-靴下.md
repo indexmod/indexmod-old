@@ -1,7 +1,7 @@
 ---
 title: Lecharlatan (靴下)
 permalink: lecharlatan-靴下
-layout: default
+layout: default-new
 published: true
 shortname: LCLT
 indexmod: '9,50'
