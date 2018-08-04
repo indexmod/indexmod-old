@@ -9,7 +9,7 @@ body {
   margin: auto;
   background: white;
   padding: 10px;
-	
+
 	}
 
 .intro {
@@ -57,10 +57,10 @@ body {
 }
 
 .date {
-	font-family: 'Old Standard TT', serif;
+	font-family: 'Verdana', serif;
 	font-size: 24px;
 	line-height: 1.3em;
-	font-weight: 500;
+	font-weight: 200;
 	color: black;
 }
 
@@ -76,56 +76,56 @@ h1 {
 	font-size: 40px;
 	font-weight: 900;
 	line-height: 1em;
-	color: #454343;
+	color: black;
 }
 
 h2, h3, h4, h5, h6 {
-	font-family: 'Helvetica Neue';
-	font-size: 32px;
-	font-weight: 900;
+	font-family: 'Verdana';
+	font-size: 30px;
+	font-weight: 300;
 	line-height: 1em;
-	color: #454343;
+	color: black;
 }
 
 
 table {
-	font-family: 'Monaco', serif;
-	font-size: 18px;
+	font-family: 'Verdana', serif;
+	font-size: 15px;
 	line-height: 1em;
-	font-weight: 900;
-	color: #454343;
+	font-weight: 100;
+	color: black;
 	border-collapse: collapse;
 }
 th {
-	font-family: 'Monaco', serif;;
-	background-color: #f5f5f5;
+	font-family: 'Verdana', serif;;
+	background-color: white;
 	color: red;
-	font-weight: 900;
+	font-weight: 200;
 	padding: 9px;
 	text-align: left;
 	height: auto;
 	vertical-align: top;
-	border: 0.1px solid #e0e0e0;
+	border: 0.1px solid black;
 }
 td {
 	padding: 9px;
 	text-align: left;
-	font-weight: 900;
+	font-weight: 100;
 	height: auto;
 	vertical-align: top;
-	border: 0.1px solid #e0e0e0;
+	border: 0.1px solid black;
 }
 tr:hover {
-	background-color: #f5f5f5;
+	background-color: yellow;
 }
 .highlighter-rouge {
-	font-family: 'Monaco';
-	font-size: 19px;
+	font-family: 'Verdana';
+	font-size: 15px;
 	line-height: 4em;
-	font-weight: 900;
-	color: #4e80d8;
-	border: solid 0.1px #e0e0e0;
-	background-color: #f5f5f5;
+	font-weight: 100;
+	color: black;
+	border: solid 0.1px black;
+	background-color: white;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
@@ -136,21 +136,21 @@ del {
 }
 
 strong {
-	color: #454343;
+	color: black;
 	font-family: 'Helvetica Neue';
-	font-size: 24px;
+	font-size: 15px;
 	line-height:15px;
-	font-weight: 900;
+	font-weight: 200;
 }
 em {
-	color: #454343;
+	color: black;
 	font-size: 24px;
 	line-height: 0.1em;
-	font-weight: 900;
+	font-weight: 200;
 }
 li {
 	font-family: 'Helvetica Neue';
-	font-size: 24px;
+	font-size: 25px;
 	line-height: 1.6em;
 	font-weight: 900;
 	color: #4e80d8;
@@ -193,8 +193,8 @@ img {
 	min-width: 100%;
 	height: auto;
 	margin: 0em 0em 0em 0em;
-	-webkit-filter: grayscale(95%);
-	filter: grayscale(95%);
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
 }
 
 .container {
