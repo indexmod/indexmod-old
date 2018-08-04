@@ -3,7 +3,7 @@ title: Lecharlatan (靴下)
 permalink: lecharlatan-靴下
 layout: default-new
 published: true
-shortname: LCLT
+shortname: LECHARLATAN
 indexmod: '9,50'
 birth: 2016
 facebook: 719
