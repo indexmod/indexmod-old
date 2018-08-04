@@ -91,7 +91,7 @@ h2, h3, h4, h5, h6 {
 table {
 	width: 100%;
 	font-family: 'Verdana', serif;
-	font-size: 15px;
+	font-size: 24px;
 	line-height: 1em;
 	font-weight: 100;
 	color: black;
@@ -117,6 +117,7 @@ td {
 }
 tr:hover {
 	background-color: white;
+	font-weight: 900;
 }
 .highlighter-rouge {
 	font-family: 'Verdana';
@@ -140,13 +141,13 @@ strong {
 	font-family: 'Verdana';
 	font-size: 24px;
 	line-height:15px;
-	font-weight: 500;
+	font-weight: 900;
 }
 em {
 	color: black;
 	font-size: 24px;
 	line-height: 0.1em;
-	font-weight: 500;
+	font-weight: 900;
 }
 
 li {
