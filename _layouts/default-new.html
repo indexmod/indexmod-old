@@ -1,15 +1,21 @@
 <!DOCTYPE html>
 <head>
 {% include facebook.html %}
+{% include yandex.html %}
 {% include meta.html %}
 </head>
 <body>
 <h1>{{page.title}}</h1>
 {% include share-edit.html %}
+<hr>
 {{ content }}
+<hr>
 {% include share-edit.html %}
 {% include footer-1.html %}
 {% include footer-2.html %}
+<div class="container">
+<a href="index"><img alt="Indexmod" src="/indexmod-eye.gif" style="width:auto;height:auto;border:0;"></a>
+</div>
 <p>{{ site.time | date: "%Y" }} © Indexmod</p>
 </body>
 </html>
