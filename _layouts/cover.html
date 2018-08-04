@@ -38,8 +38,8 @@
 			</div>
 			<br>
 			<br>
-		<marquee behavior="scroll" scrollamount="10" direction="left" height="80px" loop="-1" style="border:0px" width="80px" onmouseover="this.stop();" onmouseout="this.start();">{% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}<div class="tooltip"><a href="{{page.url|absolute_url}}">{{ page.shortname }}</a>
-			  <span class="tooltiptext">{{ page.content | number_of_words }}</span>
+		<marquee behavior="scroll" scrollamount="15" direction="left" height="80px" loop="-1" style="border:0px" width="100%" onmouseover="this.stop();" onmouseout="this.start();">{% assign mypages = site.pages | sort: "order" %} {% for page in mypages %} {% include indexmod.html %}<div class="tooltip"><a href="{{page.url|absolute_url}}">{{ page.shortname }}</a>
+			  <span class="tooltiptext">{{ page.content | include indexmod.html }}</span>
 			</div>
 			{% endfor %}</marquee>
 
@@ -63,7 +63,7 @@
 	      function gtag(){dataLayer.push(arguments);}
 	      gtag('js', new Date());
 	      gtag('config', 'UA-112478299-1');
-	</script> 
+	</script>
 	 {% endif %}
 </body>
 </html>
