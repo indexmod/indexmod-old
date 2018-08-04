@@ -97,27 +97,26 @@ table {
 	color: black;
 	border-collapse: collapse;
 }
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
 th {
 	font-family: 'Verdana', serif;
-	background-color: white;
-	color: black;
 	font-weight: 900;
-	padding: 9px;
-	text-align: left;
-	height: auto;
-	vertical-align: top;
-	border: 0.1px solid silver;
+	text-align: left;	height: auto;
+	vertical-align: center;
 }
 td {
-	padding: 9px;
-	text-align: left;
 	font-weight: 100;
 	height: auto;
-	vertical-align: top;
-	border: 0.1px solid black;
+	vertical-align: center;
 }
 tr:hover {
-	background-color: yellow;
+	background-color: white;
 }
 .highlighter-rouge {
 	font-family: 'Verdana';
