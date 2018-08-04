@@ -1,24 +1,25 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: EN }}">
 <head>
-
+{% include facebook.html %}
+{% include yandex.html %}
+{% include meta.html %}
 </head>
 <body>
-	<link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
-	<div class="wrapper">
-		<header>
-			<div class="container">
-				<a href="index"><img src="/indexmod-eye.gif" alt="Indexmod" style="width:auto;height:auto;border:0;">
-</a><br>
-			</div>
-		</header>
-		<section>
-			<h1>{{page.title}}</h1>
-			{{ content }}
-			</div>
-		</section>
-		<footer>
-		</footer>
+<h1>{{page.title}}</h1>
+{% include share-edit.html %}
+<br>
+<hr>
+<br>
+{{ content }}
+<br>
+<hr>
+<br>
+{% include share-edit.html %}
+{% include footer-1.html %}
+{% include footer-2.html %}
+<div class="container">
+<a href="index"><img alt="Indexmod" src="/indexmod-eye.gif" style="width:auto;height:auto;border:0;"></a>
 </div>
+<p>{{ site.time | date: "%Y" }} © Indexmod</p>
 </body>
 </html>

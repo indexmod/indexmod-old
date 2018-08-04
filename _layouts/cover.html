@@ -1,69 +1,26 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: EN }}">
 <head>
-	<meta charset="utf-8">
-	<meta content="HnrT2NSmVB_2fsV9rS25TEMeTKJSkBfqer0xKAkTBak" name="google-site-verification">
-	<meta content="chrome=1" http-equiv="X-UA-Compatible">
-	<link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
-	<link href="/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57">
-	<link href="/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60">
-	<link href="/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
-	<link href="/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
-	<link href="/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
-	<link href="/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
-	<link href="/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
-	<link href="/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
-	<link href="/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180">
-	<link href="/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png">
-	<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
-	<link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png">
-	<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
-	<link href="/manifest.json" rel="manifest">
-	<meta content="#ffffff" name="msapplication-TileColor">
-	<meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
-	<meta content="#ffffff" name="theme-color">
-	<meta content="bd6cadbefee34d7e" name="yandex-verification">
-	<title>{{ site.title }}</title>
+{% include facebook.html %}
+{% include yandex.html %}
+{% include meta.html %}
 </head>
 <body>
-	{% seo %}
-	<link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
-	<meta content="width=device-width" name="viewport"><!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-	<div class="wrapper">
-		<header>
-			<div class="container">
-				<a href="index"><img alt="Indexmod" src="/indexmod-eye.gif" style="width:auto;height:auto;border:0;"></a>
-			</div>
-			<br>
-			<br>
-		<marquee behavior="scroll" scrollamount="15" direction="left" height="80px" loop="-1" style="border:0px" width="100%" onmouseover="this.stop();" onmouseout="this.start();">{% assign mypages = site.pages | sort: "order" %} {% for page in mypages %} <div class="tooltip"><a href="{{page.url|absolute_url}}">{{ page.shortname }} {% include indexmod.html %}</a>
-			  <span class="tooltiptext">{% include indexmod.html %}</span>
-			</div>
-			{% endfor %}</marquee>
-
-
-
-
-		</header>
-		<section>
-			{{ content }}
-		</section>
-		<footer>
-		</footer>
-	</div>
-	<script src="{{%20'/assets/js/scale.fix.js'%20|%20relative_url%20}}">
-	</script> {% if site.google_analytics %} <!-- Global site tag (gtag.js) - Google Analytics -->
-
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112478299-1">
-	</script>
-	<script>
-	      window.dataLayer = window.dataLayer || [];
-	      function gtag(){dataLayer.push(arguments);}
-	      gtag('js', new Date());
-	      gtag('config', 'UA-112478299-1');
-	</script>
-	 {% endif %}
+<h1>{{page.title}}</h1>
+<marquee behavior="scroll" scrollamount="15" direction="left" height="80px" loop="-1" style="border:0px" width="100%" onmouseover="this.stop();" onmouseout="this.start();">{% assign mypages = site.pages | sort: "order" %} {% for page in mypages %} <div class="tooltip"><a href="{{page.url|absolute_url}}">{{ page.shortname }} {% include indexmod.html %}</a>
+    <span class="tooltiptext">{% include indexmod.html %}</span>
+  </div>
+  {% endfor %}</marquee>
+  <br>
+  <hr>
+  <br>
+{{ content }}
+<br>
+<hr>
+<br>
+{% include footer-1.html %}
+<div class="container">
+<a href="index"><img alt="Indexmod" src="/indexmod-eye.gif" style="width:auto;height:auto;border:0;"></a>
+</div>
+<p>{{ site.time | date: "%Y" }} © Indexmod</p>
 </body>
 </html>
