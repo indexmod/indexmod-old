@@ -2,14 +2,14 @@
 <head>
 {% include facebook.html %}
 {% include yandex.html %}
-{% include meta.html %}
+{% include meta-cover.html %}
 </head>
 <body>
+<h1>{{page.title}}</h1>
 <marquee behavior="scroll" scrollamount="15" direction="left" height="80px" loop="-1" style="border:0px" width="100%" onmouseover="this.stop();" onmouseout="this.start();">{% assign mypages = site.pages | sort: "order" %} {% for page in mypages %} <div class="tooltip"><a href="{{page.url|absolute_url}}">{{ page.shortname }} {% include indexmod.html %}</a>
     <span class="tooltiptext">{% include indexmod.html %}</span>
   </div>
   {% endfor %}</marquee>
-  <br>
   <hr>
   <br>
 {{ content }}
@@ -23,3 +23,4 @@
 <p>{{ site.time | date: "%Y" }} © Indexmod</p>
 </body>
 </html>
+
