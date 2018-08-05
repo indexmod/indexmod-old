@@ -2,7 +2,7 @@
 title: Lecharlatan (靴下)
 permalink: lecharlatan-靴下
 givenname: Lecharlatan
-familyname: ' '
+familyname: true
 layout: default
 shortname: LECHARLATAN
 originlang: Rus.

@@ -2,7 +2,7 @@
 title: Lecharlatan (socks)
 permalink: lecharlatan
 givenname: Lecharlatan
-familyname: ' '
+familyname: true
 layout: default
 shortname: LECHARLATAN
 originlang: Rus.
