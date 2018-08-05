@@ -1,6 +1,6 @@
 ---
 title: Lecharlatan (socks)
-permalink: lecharlatan-靴下
+permalink: lecharlatan
 layout: default-new
 shortname: LECHARLATAN
 originlang: Rus.
