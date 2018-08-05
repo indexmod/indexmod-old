@@ -60,7 +60,7 @@ body {
 	font-family: 'Verdana', serif;
 	font-size: 24px;
 	line-height: 1.3em;
-	font-weight: 200;
+	font-weight: 900;
 	color: black;
 }
 
@@ -93,7 +93,7 @@ table {
 	font-family: 'Verdana', serif;
 	font-size: 20px;
 	line-height: 1em;
-	font-weight: 500;
+	font-weight: 900;
 	color: black;
 	border-collapse: collapse;
 }
@@ -111,7 +111,7 @@ th {
 	vertical-align: center;
 }
 td {
-	font-weight: 500;
+	font-weight: 100;
 	height: auto;
 	vertical-align: center;
 }
@@ -121,9 +121,9 @@ tr:hover {
 }
 .highlighter-rouge {
 	font-family: 'Verdana';
-	font-size: 19px;
+	font-size: 24px;
 	line-height: 4em;
-	font-weight: 450;
+	font-weight: 900;
 	color: black;
 	border: solid 0.1px silver;
 	background-color: #E8FFF5;
@@ -141,7 +141,7 @@ strong {
 	font-family: 'Verdana';
 	font-size: 24px;
 	line-height:15px;
-	font-weight: 459;
+	font-weight: 900;
 }
 em {
 	color: black;
@@ -152,7 +152,7 @@ em {
 
 li {
 	font-family: 'Verdana';
-	font-size: 25px;
+	font-size: 24px;
 	line-height: 1.6em;
 	font-weight: 900;
 	color: #4e80d8;
@@ -162,7 +162,7 @@ ul {
 	font-size: 24px;
 	line-height: 1.6em;
 	font-weight: 900;
-	color: #454343;
+	color: #4e80d8;
 }
 
 a.one:link {color:#4e80d8; font-family: 'Verdana'; font-size: 24px; line-height:15px; font-weight: 900;}
@@ -172,22 +172,22 @@ a.one:hover {color:green; font-family: 'Verdana'; font-size: 24px; line-height:1
 a:link {
 	color: #4e80d8;
 	text-decoration: none;
-	font-weight: 700;
+	font-weight: 900;
 }
 a:visited {
 	color: #4e80d8;
 	text-decoration: none;
-	font-weight: 700;
+	font-weight: 900;
 }
 a:hover {
 	color: green;
 	text-decoration: none;
-	font-weight: 700;
+	font-weight: 900;
 }
 a:active {
 	color: #4e80d8;
 	text-decoration: none;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 img {
