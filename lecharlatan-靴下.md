@@ -27,12 +27,6 @@ founder: 'Andrey Bozhyev'
 
 (設立	2016年, モスクワ) 衣料品ブランドです、ロシアストリートウェアブランド <span id="a1">[\[1\]](#f1)</span>、アンレイ・ボジエフによるル・シャラタンを設立した高品質のソックスを提供する独立したレーベル <span id="a2">[\[2\]](#f2)</span> そして マリア・アルダロワ <span id="a3">[\[3\]](#f3)</span>, 後で共同設立者から購入した Andrey Bozhyev（2015）によってLecharlatanとして登録されました。TEDxサドーヴェリングのパートナー <span id="a4">[\[4\]](#f4)</span>。
 
-![](https://static01.nyt.com/images/2015/07/05/arts/05SNAPSHOT/05SNAPSHOT-blog427.jpg)
-
-**Olly Alexander が Lecharlatan 靴下**
-
-*写真: [Tom Jamieson](tom-jamieson) / [The New York Times](https://www.nytimes.com/2015/07/05/arts/music/olly-alexander-releases-his-debut-album-with-years-years)*
-
 ## コンセンサス
 
 |年|イベント|

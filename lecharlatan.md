@@ -1,20 +1,33 @@
 ---
 title: Lecharlatan (socks)
-permalink: lecharlatan
-layout: default
-published: true
-shortname: LCLT
-indexmod: '9,50'
+permalink: lecharlatan-靴下
+layout: default-new
+shortname: LECHARLATAN
+originlang: Rus.
+originspell: Лешарлатан
+appearing: Est.
+birth: 2015
+city: Moscow
+facebook: '719'
+instagram: '67'
+youtube: '2668'
+vimeo: '0'
+twitter: '0'
+vkontakte: '2257'
+tumblr: '0'
+origin: Russian
+profession: brand of socks
+photo: Olly Alexander wears Lecharlatan socks
+photographer: Tom Jamieson
+source: The New York Times
+photographerurl: tom-jamieson
+sourceurl: https://www.nytimes.com/2015/07/05/arts/music/olly-alexander-releases-his-debut-album-with-years-years
+founder: 'Andrey Bozhyev'
 ---
+
 (Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded Le Charlatan by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as Lecharlatan by Andrey Bozhyev (2015). Partner of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>.
 
-![](https://static01.nyt.com/images/2015/07/05/arts/05SNAPSHOT/05SNAPSHOT-blog427.jpg)
-
-**Olly Alexander wears Lecharlatan socks**
-
-*Photo: [Tom Jamieson](tom-jamieson) / [The New York Times](https://www.nytimes.com/2015/07/05/arts/music/olly-alexander-releases-his-debut-album-with-years-years)*
-
-# Conspectus
+## Conspectus
 
 |Year|Milestone|
 |----|---------|
@@ -30,7 +43,7 @@ indexmod: '9,50'
 
 *Photo: [Jurij Treskow](/jurij-treskow) / [Wikipedia](https://en.wikipedia.org/wiki/Ivan_Dorn)*
 
-# Stores
+## Stores
 
 |Year|Store|Country|
 |----|---------|---|
@@ -38,7 +51,7 @@ indexmod: '9,50'
 |2015|Podium Market|Russia|
 |2016|Uggla|Japan|
 
-# Filmography
+## Filmography
 
 |Year|Category|Name|Who wear|
 |---|---|---|---|
@@ -52,18 +65,7 @@ indexmod: '9,50'
 |2015|Music video|Ligalaiz — Karavan <span id="a12">[\[12\]](#f12)</span>|Dancer|
 |2015|TV show|Years and Years King Live at The Tonight Show with Jimmy Fallon <span id="a13">[\[13\]](#f13)</span>|Olly Alexander|
 
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|719||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|4235||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|3380||
-|Age|5||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|9,5||
-
-# See also
+## See also
 
 + [Be In (サイト)](be-in-site)
 + [Berdyansk Marketplace (ブランド)](berdyansk-marketplace)
@@ -71,7 +73,7 @@ indexmod: '9,50'
 + [Lecharlatan (靴下)](lecharlatan-靴下)
 + [Ssanaia tryapka (服)](ssanye-tryapki-clothes)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements)
 
