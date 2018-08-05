@@ -1,11 +1,14 @@
 <table style="width:90%">
 <tr>
-    <th>{{page.givenname}} {{page.givenname}}</th>
+    <th>{{page.givenname}} {{page.givenname}} ({{page.othername}} {{page.profession}})</th>
 </tr>
-  <tr>
-    <td>Born/Est.: <b>{{ site.time | date: "%Y" | minus: page.birth }}</b></td>
+    <tr>
+    <td>Born/Est.: <b>{{ page.birth }}</b></td>
   </tr>
   <tr>
-    <td>Place: <b>{{ site.city }}</b></td>
+    <td>Age: <b>{{ site.time | date: "%Y" | minus: page.birth }}</b></td>
+  </tr>
+  <tr>
+    <td>Place: <b>{{ page.city }}</b></td>
   </tr>
 </table>
