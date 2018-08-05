@@ -1,7 +1,7 @@
 ---
 title: Lecharlatan (靴下)
 permalink: lecharlatan-靴下
-layout: default-new
+layout: default
 shortname: LECHARLATAN
 originlang: Rus.
 originspell: Лешарлатан

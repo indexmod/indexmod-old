@@ -1,7 +1,7 @@
 ---
 title: Lecharlatan (socks)
 permalink: lecharlatan
-layout: default-new
+layout: default
 shortname: LECHARLATAN
 originlang: Rus.
 originspell: Лешарлатан
