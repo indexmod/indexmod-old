@@ -9,13 +9,13 @@
     <td><b>Other:</b><br>{{page.othername}}</td>
     </tr>
     <tr>
-    <td><b>Born:</b><br>{{ page.birth }}</td>
+    <td><b>Born:</b>{{ page.birth }}</td>
   </tr>
      <tr>
-    <td><b>Est.:</b><br>{{ page.est }}</td>
+    <td><b>Est.:</b>{{ page.est }}</td>
   </tr>
   <tr>
-    <td><b>Age:</b><br>{{ site.time | date: "%Y" | minus: page.birth }}</td>
+    <td><b>Age:</b>{{ site.time | date: "%Y" | minus: page.birth }}</td>
   </tr>
   <tr>
     <td><b>Place:</b><br>{{ page.city }}</td>
