@@ -1,35 +1,35 @@
 <table style="width:90%">
 <tr>
-    <td><b>Name:</b><br>{{page.givenname}}</td>
+    <td><b>Name:</b> <br>{{page.givenname}}</td>
     </tr>
     <tr>
-    <td><b>Fam.:</b><br>{{page.familyname}}</td>
+    <td><b>Fam.:</b> <br>{{page.familyname}}</td>
     </tr>
     <tr>
-    <td><b>Other:</b><br>{{page.othername}}</td>
+    <td><b>Other:</b> <br>{{page.othername}}</td>
     </tr>
     <tr>
-    <td><b>{{ page.appearing }}: {{ page.birth }}</td>
+        <td><b>{{ page.appearing }}:</b> {{ page.birth }}</td>
   </tr>
   <tr>
-    <td><b>Age:</b>{{ site.time | date: "%Y" | minus: page.birth }}</td>
+    <td><b>Age:</b> {{ site.time | date: "%Y" | minus: page.birth }}</td>
   </tr>
   <tr>
-    <td><b>Place:</b><br>{{ page.city }}</td>
+    <td><b>Place:</b> <br>{{ page.city }}</td>
   </tr>
     <tr>
-    <td><b>Founder:</b><br>{{ page.founder }}</td>
+    <td><b>Founder:</b> <br>{{ page.founder }}</td>
   </tr>
     <tr>
-    <td><b>Facebook:</b><br>{{ page.facebook }}</td>
+    <td><b>Facebook: </b><br>{{ page.facebook }}</td>
   </tr>
     <tr>
-    <td><b>Instagram:</b><br>{{ page.instagram }}</td>
+    <td><b>Instagram:</b> <br>{{ page.instagram }}</td>
   </tr>
     <tr>
-    <td><b>Vkontakte:</b><br>{{ page.vkontakte }}</td>
+    <td><b>Vkontakte:</b> <br>{{ page.vkontakte }}</td>
   </tr>
     <tr>
-    <td><b>Youtube:</b><br>{{ page.youtube }}</td>
+    <td><b>Youtube:</b> <br>{{ page.youtube }}</td>
   </tr>
 </table>
