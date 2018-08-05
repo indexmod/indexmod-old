@@ -9,10 +9,7 @@
     <td><b>Other:</b><br>{{page.othername}}</td>
     </tr>
     <tr>
-    <td><b>Born:</b>{{ page.birth }}</td>
-  </tr>
-     <tr>
-    <td><b>Est.:</b>{{ page.est }}</td>
+    <td><b>{{ page.appearing }}:</b>{{ page.birth }}</td>
   </tr>
   <tr>
     <td><b>Age:</b>{{ site.time | date: "%Y" | minus: page.birth }}</td>
