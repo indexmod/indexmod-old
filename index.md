@@ -1,11 +1,7 @@
 ---
 layout: cover
-title: Index
+title: 
 ---
-
-<!--- Do not change the "index.md" --->
-
-# Index
 
 <ul>
 
