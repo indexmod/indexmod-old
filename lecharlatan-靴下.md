@@ -9,7 +9,7 @@ appearing: Est.
 birth: 2015
 city: Moscow
 facebook: '719'
-instagram: '67'
+instagram: '4258'
 youtube: '2668'
 vkontakte: '2257'
 vimeo: '0'
