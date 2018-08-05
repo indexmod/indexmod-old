@@ -27,14 +27,6 @@ sourceurl: index
 founder: 'Olga Govorova'
 ---
 
-(Ukr. Джива, 設立	{{ page.birth }}年, {{ page.city }}) 心理療法士Olga Govorova (Ольга Говорова)によって創設された装飾品 - お守りの亜麻からのベッドリネンのブランド。
-
-![](/images/dzhyva-リネン.jpg)
-
-**Olga Govorovaはethnopark "Ukrayins'ke Village"近くの下着のサンプルを紹介しています (2018)**
-
-*写真: [Andrei Dei](dei-andrei) / [Indexmod](indexmod)*
-
 ## コンセンサス
 
 |年|イベント|
