@@ -219,10 +219,3 @@ img {
     width: 50%;
     padding: 20px;
 }
-
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
