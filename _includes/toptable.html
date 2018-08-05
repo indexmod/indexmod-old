@@ -1,23 +1,26 @@
 <table style="width:90%">
 <tr>
-    <td>Given: <b>{{page.givenname}}</b></td>
+    <td><b>Given:</b> {{page.givenname}}</td>
     </tr>
     <tr>
-    <td>Family: <b>{{page.familyname}}</b></td>
+    <td><b>Family:</b> {{page.familyname}}</td>
     </tr>
     <tr>
-    <td>Other: <b>{{page.othername}}</b></td>
+    <td><b>Other:</b> {{page.othername}}</td>
     </tr>
     <tr>
-    <td>Born/Est.: <b>{{ page.birth }}</b></td>
+    <td><b>Born:</b> {{ page.birth }}</td>
+  </tr>
+     <tr>
+    <td><b>Est.:</b> {{ page.est }}</td>
   </tr>
   <tr>
-    <td>Age: <b>{{ site.time | date: "%Y" | minus: page.birth }}</b></td>
+    <td><b>Age:</b> {{ site.time | date: "%Y" | minus: page.birth }}</td>
   </tr>
   <tr>
-    <td>Place: <b>{{ page.city }}</b></td>
+    <td><b>Place:</b> {{ page.city }}</td>
   </tr>
     <tr>
-    <td>Founder: <b>{{ page.founder }}</b></td>
+    <td><b>Founded:</b>{{ page.founder }}</td>
   </tr>
 </table>
