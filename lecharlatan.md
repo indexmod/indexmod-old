@@ -11,9 +11,9 @@ city: Moscow
 facebook: '719'
 instagram: '67'
 youtube: '2668'
+vkontakte: '2257'
 vimeo: '0'
 twitter: '0'
-vkontakte: '2257'
 tumblr: '0'
 origin: Russian
 profession: brand of socks
