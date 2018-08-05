@@ -91,9 +91,9 @@ h2, h3, h4, h5, h6 {
 table {
 	width: 100%;
 	font-family: 'Verdana', serif;
-	font-size: 24px;
+	font-size: 20px;
 	line-height: 1em;
-	font-weight: 100;
+	font-weight: 500;
 	color: black;
 	border-collapse: collapse;
 }
@@ -111,12 +111,12 @@ th {
 	vertical-align: center;
 }
 td {
-	font-weight: 100;
+	font-weight: 500;
 	height: auto;
 	vertical-align: center;
 }
 tr:hover {
-	background-color: white;
+	background-color: #E8FFF5;
 	font-weight: 900;
 }
 .highlighter-rouge {
