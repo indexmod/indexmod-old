@@ -1,38 +1,38 @@
 <table style="width:90%">
 <tr>
-    <td><b>Gvn.:</b> {{page.givenname}}</td>
+    <td><b>Name:</b><nobr>{{page.givenname}}</nobr></td>
     </tr>
     <tr>
-    <td><b>Fml.:</b> {{page.familyname}}</td>
+    <td><b>Fam.:</b><nobr>{{page.familyname}}</nobr></td>
     </tr>
     <tr>
-    <td><b>Oth.:</b> {{page.othername}}</td>
+    <td><b>Other:</b><nobr>{{page.othername}}</nobr></td>
     </tr>
     <tr>
-    <td><b>Brn:</b> {{ page.birth }}</td>
+    <td><b>Born:</b><nobr>{{ page.birth }}</nobr></td>
   </tr>
      <tr>
-    <td><b>Est.:</b> {{ page.est }}</td>
+    <td><b>Est.:</b><nobr>{{ page.est }}</nobr></td>
   </tr>
   <tr>
-    <td><b>Age:</b> {{ site.time | date: "%Y" | minus: page.birth }}</td>
+    <td><b>Age:</b><nobr>{{ site.time | date: "%Y" | minus: page.birth }}</nobr></td>
   </tr>
   <tr>
-    <td><b>Plc.:</b> {{ page.city }}</td>
+    <td><b>Place:</b><nobr>{{ page.city }}</nobr></td>
   </tr>
     <tr>
-    <td><b>Fnd.: </b>{{ page.founder }}</td>
+    <td><b>Founder:</b><nobr>{{ page.founder }}</nobr></td>
   </tr>
     <tr>
-    <td><b>Fbk: </b>{{ page.facebook }}</td>
+    <td><b>Facebook:</b><nobr>{{ page.facebook }}</nobr></td>
   </tr>
     <tr>
-    <td><b>Inm.: </b>{{ page.instagram }}</td>
+    <td><b>Instagram:</b><nobr>{{ page.instagram }}</nobr></td>
   </tr>
     <tr>
-    <td><b>Vk.: </b>{{ page.vkontakte }}</td>
+    <td><b>Vkontakte:</b><nobr>{{ page.vkontakte }}</nobr></td>
   </tr>
     <tr>
-    <td><b>Ytb.: </b>{{ page.youtube }}</td>
+    <td><b>Youtube:</b><nobr>{{ page.youtube }}</nobr></td>
   </tr>
 </table>
