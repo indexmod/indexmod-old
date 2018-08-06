@@ -2,11 +2,11 @@
 title: Lecharlatan (靴下)
 permalink: lecharlatan-靴下
 givenname: Lecharlatan
-familyname: true
+familyname: null
 layout: default
 shortname: LECHARLATAN
 originlang: Rus.
-originspell: Лешарлатан
+originspell: Ле-Шарлатан
 appearing: Est.
 birth: 2015
 city: Moscow
@@ -23,8 +23,10 @@ photo: Olly Alexander が Lecharlatan 靴下
 photographer: Tom Jamieson
 source: The New York Times
 photographerurl: tom-jamieson
-sourceurl: https://www.nytimes.com/2015/07/05/arts/music/olly-alexander-releases-his-debut-album-with-years-years
-founder: 'Andrey Bozhyev'
+sourceurl: >-
+  https://www.nytimes.com/2015/07/05/arts/music/olly-alexander-releases-his-debut-album-with-years-years
+founder: Andrey Bozhyev
+published: true
 ---
 
 (設立	2016年, モスクワ) 衣料品ブランドです、ロシアストリートウェアブランド <span id="a1">[\[1\]](#f1)</span>、アンレイ・ボジエフによるル・シャラタンを設立した高品質のソックスを提供する独立したレーベル <span id="a2">[\[2\]](#f2)</span> そして マリア・アルダロワ <span id="a3">[\[3\]](#f3)</span>, 後で共同設立者から購入した Andrey Bozhyev（2015）によってLecharlatanとして登録されました。TEDxサドーヴェリングのパートナー <span id="a4">[\[4\]](#f4)</span>。
