@@ -6,7 +6,7 @@ familyname: null
 layout: default
 shortname: LECHARLATAN
 originlang: Rus.
-originspell: Лешарлатан
+originspell: Ле-Шарлатан
 appearing: Est.
 birth: 2015
 city: Moscow
