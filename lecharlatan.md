@@ -2,11 +2,11 @@
 title: Lecharlatan (socks)
 permalink: lecharlatan
 givenname: Lecharlatan
-familyname: true
+familyname:
 layout: default
 shortname: LECHARLATAN
 originlang: Rus.
-originspell: Лешарлатан
+originspell: Ле Шарлатан
 appearing: Est.
 birth: 2015
 city: Moscow
@@ -17,7 +17,7 @@ vkontakte: '2257'
 vimeo: '0'
 twitter: '0'
 tumblr: '0'
-origin: Russian
+origin: a Russian
 profession: brand of socks
 photo: Olly Alexander wears Lecharlatan socks
 photographer: Tom Jamieson
@@ -32,7 +32,7 @@ founder: 'Andrey Bozhyev'
 ## Conspectus
 
 |Year|Milestone|
-|----|---------|
+|-|-|
 |2014|Purchasing from co-founder|
 |2015|Registering of Lecharlatan|
 |2016|Launching of Строгий юноша|
@@ -48,7 +48,7 @@ founder: 'Andrey Bozhyev'
 ## Stores
 
 |Year|Store|Country|
-|----|---------|---|
+|-|-|-|
 |2014|Tsvetnoy Central Market|Russia|
 |2015|Podium Market|Russia|
 |2016|Uggla|Japan|
@@ -56,7 +56,7 @@ founder: 'Andrey Bozhyev'
 ## Filmography
 
 |Year|Category|Name|Who wear|
-|---|---|---|---|
+|-|-|-|-|
 |2018|Music video|Poshlaya Molly — Tipichnaya vecherinka s basseynom <span id="a5">[\[5\]](#f5)</span>|Main character|
 |2017|Music video|Monetochka — Poslednyaya diskoteka <span id="a6">[\[6\]](#f6)</span>|Main character|
 |2017|Music video|Nusha — Nebya lubit <span id="a7">[\[7\]](#f7)</span>|Dancer|
