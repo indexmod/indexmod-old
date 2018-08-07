@@ -88,7 +88,7 @@ table {
 	font-family: 'Verdana', serif;
 	font-size: 20px;
 	line-height: 1.1em;
-	font-weight: 900;
+	font-weight: 500;
 	color: black;
 	border-collapse: collapse;
 }
@@ -105,13 +105,13 @@ th {
 	vertical-align: center;
 }
 td {
-	font-weight: 900;
+	font-weight: 500;
 	height: auto;
 	vertical-align: center;
 }
 tr:hover {
 	background-color: #E8FFF5;
-	font-weight: 900;
+	font-weight: 500;
 }
 
 table.top {
@@ -128,21 +128,15 @@ th.top, td.top {
 	text-align: left;
 	border-bottom: 1px solid #ddd;
 }
-th.top {
-	font-family: 'Verdana', serif;
-	font-weight: 900;
-	text-align: left;
-	height: auto;
-	vertical-align: center;
-}
+
 td.top {
-	font-weight: 900;
+	font-weight: 500;
 	height: auto;
 	vertical-align: center;
 }
 tr:hover {
 	background-color: #E8FFF5;
-	font-weight: 900;
+	font-weight: 500;
 }
 
 .highlighter-rouge {
@@ -172,7 +166,7 @@ em {
 	color: black;
 	font-size: 20px;
 	line-height: 0.1em;
-	font-weight: 900;
+	font-weight: 500;
 }
 li {
 	font-family: 'Verdana';
