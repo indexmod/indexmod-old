@@ -18,7 +18,7 @@ appearing: Est.
 vkontakte: '0'
 origin: Ukrainian
 profession: brabd of linen
-photo: Olga Govorovaはethnopark “Ukrayins’ke Village”近くの下着のサンプルを紹介しています (2018)
+photo: Olga Govorovaはethnopark Ukrayins’ke Village 近くの下着のサンプルを紹介しています (2018)
 photographer: Andrei Dei
 source: Indexmod Blockchainpedia
 photographerurl: dei-andrei
