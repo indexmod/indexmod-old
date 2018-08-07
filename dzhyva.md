@@ -12,7 +12,6 @@ vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 givenname: Dzhyva
-layout:
 originlang: Ukr.
 originspell: Джива
 appearing: Est.
