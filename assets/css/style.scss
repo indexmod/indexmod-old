@@ -127,18 +127,18 @@ table.top {
 	color: black;
 	border-collapse: collapse;
 }
-th.top, td.top {
+table.top th, td {
 	padding: 10px;
 	text-align: left;
 	border-bottom: 1px solid #ddd;
 }
 
-td.top {
+table.top td {
 	font-weight: 500;
 	height: auto;
 	vertical-align: center;
 }
-tr:hover {
+table.top tr:hover {
 	background-color: #E8FFF5;
 	font-weight: 500;
 }
