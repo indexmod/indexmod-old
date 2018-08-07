@@ -37,7 +37,7 @@ founder: 'Andrey Bozhyev'
 |2015|Registering of Lecharlatan|
 |2016|Launching of Строгий юноша|
 |2017|Launching of Русский успех by Vika Rynski|
-|2017|Production socks for TEDxSadovoeRing|
+|2017|Garments for TEDxSadovoeRing|
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/16/Иван_Дорн_фотосессия.png)
 
