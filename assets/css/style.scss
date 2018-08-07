@@ -63,6 +63,12 @@ p {
 	font-weight: 900;
 	color: black;
 }
+
+.indexmod {
+	font-weight: 800;
+	color: green;
+}
+
 h1 {
 	font-family: 'Old Standard TT', serif;
 	font-size: 42px;
@@ -99,7 +105,7 @@ th {
 	vertical-align: center;
 }
 td {
-	font-weight: 100;
+	font-weight: 900;
 	height: auto;
 	vertical-align: center;
 }
@@ -107,6 +113,38 @@ tr:hover {
 	background-color: #E8FFF5;
 	font-weight: 900;
 }
+
+table.top {
+	width: 100%;
+	font-family: 'Verdana', serif;
+	font-size: 10px;
+	line-height: 1.1em;
+	font-weight: 900;
+	color: black;
+	border-collapse: collapse;
+}
+th.top, td.top {
+	padding: 10px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+th.top {
+	font-family: 'Verdana', serif;
+	font-weight: 900;
+	text-align: left;
+	height: auto;
+	vertical-align: center;
+}
+td.top {
+	font-weight: 900;
+	height: auto;
+	vertical-align: center;
+}
+tr:hover {
+	background-color: #E8FFF5;
+	font-weight: 900;
+}
+
 .highlighter-rouge {
 	font-family: 'Verdana';
 	font-size: 20px;
@@ -222,4 +260,3 @@ img {
 	width: 50%;
 	padding: 10px;
 }
-
