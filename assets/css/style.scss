@@ -121,11 +121,12 @@ tr:hover {
 table.top {
 	width: 100%;
 	font-family: 'Verdana', serif;
-	font-size: 15px;
+	font-size: 12px;
 	line-height: 1.1em;
 	font-weight: 900;
 	color: black;
 	border-collapse: collapse;
+	margin-left: 1px;
 }
 table.top th, td {
 	padding: 10px;
@@ -141,6 +142,11 @@ table.top td {
 table.top tr:hover {
 	background-color: #E8FFF5;
 	font-weight: 500;
+}
+
+.toptable-meta {
+	font-weight: 500;
+	color: green;
 }
 
 .highlighter-rouge {
