@@ -29,7 +29,7 @@ founder: Olga Govorova
 published: true
 ---
 
-## コンセンサス
+## Conspectus
 
 |年|イベント|
 |-|-|
@@ -37,12 +37,12 @@ published: true
 |2018|ショールームのオープニング|
 
 
-## も参照してください
+## See also
 
 + (英語で) [Baltic Shamans](baltic-shamans)
 
 
-## 脚注
+## Footnotes
 
 [[1, 2]](#a1) <span id="f1"></span> [{{page.title}} (Indexmod)](index)
 
