@@ -48,7 +48,6 @@ body {
 .tooltip:hover .tooltiptext {
 	visibility: visible;
 }
-
 .date {
 	font-family: 'Verdana', serif;
 	font-size: 20px;
@@ -63,7 +62,6 @@ p {
 	font-weight: 900;
 	color: black;
 }
-
 .rate {
 	font-weight: 800;
 	color: green;
@@ -72,7 +70,6 @@ p {
 	font-weight: 900;
 	color: black;
 }
-
 h1 {
 	font-family: 'Old Standard TT', serif;
 	font-size: 42px;
@@ -117,7 +114,6 @@ tr:hover {
 	background-color: #E8FFF5;
 	font-weight: 500;
 }
-
 table.top {
 	width: 100%;
 	font-family: 'Verdana', serif;
@@ -133,7 +129,6 @@ table.top th, td {
 	text-align: left;
 	border-bottom: 1px solid #ddd;
 }
-
 table.top td {
 	font-weight: 500;
 	height: auto;
@@ -143,12 +138,10 @@ table.top tr:hover {
 	background-color: #E8FFF5;
 	font-weight: 500;
 }
-
 .toptable-meta {
 	font-weight: 500;
 	color: green;
 }
-
 .highlighter-rouge {
 	font-family: 'Verdana';
 	font-size: 19px;
@@ -264,10 +257,9 @@ img {
 	width: 50%;
 	padding: 10px;
 }
-
 .hr {
 	width: 30%;
-	border: none;
- height: 0.1px;
-	color: black;
+	border: 0;
+	height: 1px;
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
