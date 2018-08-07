@@ -5,19 +5,19 @@ layout: default
 shortname: DZHIVA
 birth: '2017'
 city: Kiev
-facebook: '283'
+facebook: '285'
 instagram: '262'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
+youtube:
+vimeo:
+twitter:
+tumblr:
 givenname: Dzhyva
 originlang: Ukr.
-originspell: Джива
+originspell: Джи́ва
 appearing: Est.
-vkontakte: '0'
-origin: Ukrainian
-profession: brabd of linen
+vkontakte:
+origin: an Ukrainian
+profession: brand of natural linen from flax and hemp with selection of old signs and patterns as a charm or amulet.
 photo: Olga Govorova Ukrayinske Village 近くの下着のサンプルを紹介しています
 photographer: Andrei Dei
 source: Indexmod Blockchainpedia
@@ -40,6 +40,8 @@ founder: 'Olga Govorova'
 
 
 ## 脚注
+
+[[1, 2]](#a1) <span id="f1"></span> [{{page.title}} (Indexmod)](index)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/pg/dzhyvalinen/about/?ref=page_internal)
 
