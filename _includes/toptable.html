@@ -1,15 +1,15 @@
-<table class="top" style="width:99%">
+<table class="top" style="width:100%">
 <tr>
-    <td><b>Name:</b> <br>{{page.givenname}}</td>
+    <td><b>Name:</b> <span class="toptable-meta"><br>{{page.givenname}}</span></td>
     </tr>
     <tr>
-    <td><b>Surname:</b> <br>{{page.familyname}}</td>
+    <td><b>Surname:</b> <span class="toptable-meta">{{page.familyname}}</span></td>
     </tr>
     <tr>
-    <td><b>Other:</b> <br>{{page.othername}}</td>
-    </tr>
+    <td><b>Other:</b> <span class="toptable-meta">{{page.othername}}</td>
+    </span></tr>
     <tr>
-        <td><b>{{ page.appearing }}:</b> {{ page.birth }}</td>
+        <td><b>{{ page.appearing }}:</b> <span class="toptable-meta">{{ page.birth }}</span></td>
   </tr>
   <tr>
     <td><b>Age:</b> <span class="toptable-meta">{{ site.time | date: "%Y" | minus: page.birth }}</span></td>
