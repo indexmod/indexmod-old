@@ -3,8 +3,27 @@ title: 'Galetsky, Anton'
 permalink: galetsky-anton
 layout: default
 published: true
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
-# Galetsky, Anton
 
 (Rus. Антон Галецкий, 1986, Tumen) Russian fashion designer, stylist studied at the Omsk State Institute of Service  <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/galetsky-anton.md)
 

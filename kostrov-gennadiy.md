@@ -2,6 +2,26 @@
 title: Kostrov, Gennadiy
 permalink: kostrov-gennadiy
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a Gennadiy Kostrov (Rus. Геннадий Костров)—Russian theater producer1, the member of the Board of Directors of CB “Genbank”2, President of the Moscow School of a New Cinema, founder of Tasty Project, managing Clumba Club, ArtClumba, Fassbinder, Domozhilov3 working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.

@@ -8,13 +8,25 @@ birth: '2000'
 age: '18'
 updateyear: '2018'
 city: Калгари
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-published: true
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Англ. Imran Amed, род. {{ page.birth }} <span id="a1">[\[1\]](#f1)</span>, {{ page.city }})  британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Голоса" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.

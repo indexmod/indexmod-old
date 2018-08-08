@@ -2,7 +2,26 @@
 title: Indexmod encyclopedia NFC
 permalink: indexmod-encyclopedia-nfc
 layout: info
-published: true
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Est. 2013, Moscow) from the end of 2015, following trends of IoT, Indexmod started researching over NFC technology. From now every new article will have corresponded to NFC tag located on an object of the article <span id="a1">[\[1\]](#f1)</span>.
 

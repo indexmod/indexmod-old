@@ -4,6 +4,26 @@ permalink: zverkov-nikolay
 layout: default
 published: true
 shortname: ZRNY
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Rus. Николай Зверьков, born 1983, Moscow) is a celebrity photographer who stands for 77-th (2016) position at 100 most influential in Russian fashion by SNC edition <span id="a1">[\[1\]](#f1)</span>, working and living in Moscow.
 

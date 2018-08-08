@@ -9,12 +9,24 @@ birth: '2001'
 age: '8'
 updateyear: '2017'
 city: Moscow
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
 founder: Johnson Hartig
 ---
 (Est. {{ page.birth }}, {{ page.city }}) is a is an American fashion brand founded by Johnson Hartig <span id="a1">[\[1\]](#f1)</span>.
@@ -57,7 +69,7 @@ Today he lives and works in Los Angeles with his rescue troopers Terence and Dig
 + Taylor Swift
 + Karl Lagerfeld
 + Anna Wintour
-+ Mick Jagger 
++ Mick Jagger
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
@@ -70,5 +82,3 @@ Today he lives and works in Los Angeles with his rescue troopers Terence and Dig
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
-
-

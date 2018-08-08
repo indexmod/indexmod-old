@@ -3,9 +3,27 @@ title: Not Art (2014)
 permalink: not-art-2014
 layout: default
 published: true
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
-
-# {{page.title}}
 
 (Rus. Не искусство, 2014, Moscow) is a perfomance by Roman Putyatin in a genre of media happening <span id="a1">[\[1\]](#f1)</span>.
 

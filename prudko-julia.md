@@ -2,9 +2,28 @@
 title: Prudko, Julia
 permalink: prudko-julia
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
-# {{page.title}}
 
 (Est. 2013, city) is a Julia Prudko  009  SNC (Rus. Юлия Прудько) born1, Moscow—is a Russian journalist, a founder of June & July agency, top 10 in Russia of the most influence on fashion scene2, working and living in Moscow. Login to edit Julia Prudko <span id="a1">[\[1\]](#f1)</span>.
 

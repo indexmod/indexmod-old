@@ -2,6 +2,26 @@
 title: Walk of Shame (brand)
 permalink: walk-of-shame-brand
 layout: default
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) Walk of Shame, est. 2011, is a brandname of female dress founded by Russian stylist Andrey Artyomov <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.

@@ -3,9 +3,27 @@ title: 'Pepperstein, Pavel'
 permalink: pepperstein-pavel
 layout: default
 published: true
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
-
-
 
 (Rus. Павел Пепперштейн, born 1966, Moscow) is a Russian artist and writer, critic, art theorist, one of the founders of the art group “Inspection “Medical Hermeneutics” <span id="a1">[\[1\]](#f1)</span>, a Kandinsky Prize winner, a member of the Venice Biennale, “master of modern art” the work of whom collectors are chasing all over the world2. Sign in to edit Pavel Pepperstein.
 
@@ -121,7 +139,7 @@ Vladimir Fedorov
 # Footnotes
 
 1, 3 Wikipedia
-2 Платье короля: Павел Пепперштейн дебютирует в роли дизайнера одежды—Vogue Россия 
+2 Платье короля: Павел Пепперштейн дебютирует в роли дизайнера одежды—Vogue Россия
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 

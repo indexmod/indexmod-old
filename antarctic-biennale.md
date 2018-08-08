@@ -4,6 +4,25 @@ permalink: antarctic-biennale
 layout: default
 published: true
 shortname: ATBN
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Rus. Первая антарктическая биенале, est. {{ page.birth }}, {{ page.city }}) is a initiated by curator Nadim Samman and Russian artist Alexander Ponomarev at the 14th Venice Architecture Biennale (June 7 November 23, 2014) where was first presented pavilion of Antarctica <span id="a1">[\[1\]](#f1)</span>.
 

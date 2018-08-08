@@ -4,6 +4,25 @@ permalink: kelly-brunt-megyn-marie
 layout: default
 published: true
 shortname: KBMM
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Eng. Megyn Marie Kelly-Brunt; укр. Мегін Келлі, род. 1970, Шампейн) американская журналистка и телеведущая стала изветстна в России после нескольких интервью с Дональдом Трампом и Владимиром Путиным, также известна в США поддержкой анти-ЛГБТ групп <span id="a1">[\[1\]](#f1)</span>.

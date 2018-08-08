@@ -4,6 +4,26 @@ permalink: urban-a-liana-2015
 layout: default
 published: true
 shortname: URLI
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (2015, Bangkok) is an installation by Andrei Dei set on the rooftop in the Hossein Farmani's <span id="a1">[\[1\]](#f1)</span> "Rooftop Gallery" on Sukhumvit Street in Bangkok in 2015. Wires and pipes of city communications at Urban-a-Liana are presented as living self-organizing forms.
 

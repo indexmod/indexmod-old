@@ -5,6 +5,26 @@ position: null
 layout: default
 published: true
 shortname: BUVI
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Rus. Виталик Бутерин, born 1994, Russia) is a programmer, founder of Ethereum and co-founder of Bitcoin Magazine, living and working in Switzerland <span id="a1">[\[1\]](#f1)</span>.
 

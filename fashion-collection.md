@@ -2,6 +2,26 @@
 title: Fashion Collection
 permalink: fashion-collection
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Rus. Модная коллекция) magazine published in Russia since 2003. The magazine’s editor in chief is Marina Demchenko. Magazine published in more than 20 cities of Russia <span id="a1">[\[1\]](#f1)</span>.

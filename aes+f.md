@@ -4,6 +4,25 @@ permalink: aes+f
 layout: default
 published: true
 shortname: AESF
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Rus. АЕС+Ф, est. 1987, Moscow) is one of the most commercially successful Russian art group formedi by Tatiana Arzamasova, Lev Evzovich and Evgeny Svyatsky, and than expanded with the addition of the photographer Vladimir Fridkes in 1995 <span id="a1">[\[1\]](#f1)</span>.
@@ -2006,7 +2025,7 @@ University, Philadelphia (April 3-May 31), AIGA National Design Center, New York
 
 + Lectures in University Saint Denis Paris 8, 1999
 
-+ Lectures in Rutgers University, Mason Gross 
++ Lectures in Rutgers University, Mason Gross
 School of Arts, 1998
 
 + Lectures in Columbia University, Harvard University, 1989

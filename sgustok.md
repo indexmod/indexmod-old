@@ -2,6 +2,26 @@
 title: Sgustok
 permalink: sgustok
 layout: default
+shortname: XXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a Sgustok (Bel. Згустак) Belarussian online magazine and music label founded by Sgustok Studio based in Minsk. Sgustok magazine was created in 2005 as a result of the cultural experiment, since 2009, it is coming out as an annual edition distributed in “pdf” and “disk” versions <span id="a1">[\[1\]](#f1)</span>.

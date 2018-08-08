@@ -6,7 +6,25 @@ published: true
 shortname: KRBG
 founder: Polina Bestuzheva
 birth: 2010
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
 city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Rus. Кристаллберг, est. {{ page.birth }}, {{ page.city }}) is a fashion brand founded by Polina Bestuzheva in 2010. In the period from 2010 to 2015 under the name Kristallberg got one collection F / W 2010-2011.
 

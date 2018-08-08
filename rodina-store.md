@@ -15,6 +15,25 @@ vimeo: '0,0'
 vkontakte: '23246'
 published: true
 founder: Artiom Malyshev
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Also Rodinastore.ru, est. {{ page.birth }}, {{ page.city }}) is an online store based on Russian and Ukrainian streetwear brands with worldwide shipping <span id="a1">[\[1\]](#f1)</span>, also owned local clothing line, franchizing chain in 6 Russian cities (2018) all founded by {{ page.founder }} <span id="a2">[\[2\]](#f2)</span>.

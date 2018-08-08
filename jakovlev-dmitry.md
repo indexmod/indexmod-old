@@ -5,6 +5,26 @@ layout: default
 shortname: JADM
 indexmod: '0,05'
 published: true
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Rus. Дмитрий Яковлев, birth. 1980, Nizhny Novgorod <span id="a1">[\[1\]](#f1)</span>) is a Russain visual-artist, photographer, art director, member of Association Typographique Internationale and Art Directors Club <span id="a2">[\[2\]](#f2)</span>, founder of KunstGroup and Russian-speaking community about typography Ru_Typography, co-founder of DailyType, participant of type competitions and art exhibitions, founder and Art director (JTF Design) <span id="a3">[\[3\]](#f3)</span>

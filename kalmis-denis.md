@@ -2,6 +2,26 @@
 title: Kalmis, Denis
 permalink: kalmis-denis
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a Denis Kalmis (Rus. Денис Калмыш), born 1988 Chisinau, Moldova1—Chef of the “Café Garage”, author of the cookbook “Povar v Garazhe”, “GQ Russia Top 100 Stylish Men 2013”2 working in so-called “simple food” style, living in Moscow <span id="a1">[\[1\]](#f1)</span>.

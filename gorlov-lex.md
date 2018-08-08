@@ -2,9 +2,28 @@
 title: Gorlov, Lex
 permalink: gorlov-lex
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
-# {{page.title}}
 
 (Est. 2013, city) Lex Gorlov (Rus. Лекс Горлов) born 1984, Moscow—is an Russian artist, illustrator, His works are in private collections in Russia and the UK, from 2015 lives and works in Moscow <span id="a1">[\[1\]](#f1)</span>.
 

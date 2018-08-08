@@ -4,6 +4,26 @@ permalink: mmoma
 layout: default
 published: true
 shortname: MMOMA
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Rus. Московский музей современного искусства, est. 1999, Moscow) museum in Russia with activities exclusively on the the 20-th and 21-st centuries founded with the support of the Moscow City Government and Moscow City Department of Culture <span id="a1">[\[1\]](#f1)</span>.
 

@@ -4,6 +4,26 @@ permalink: fontan-1950
 layout: default
 published: true
 shortname: FNTN
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (1950, Филадельфия) авторское повторение работы 1917 года "Писсуар из фаянса" Марселя Дюшана, находится художественном музее в Филадельфии <span id="a1">[\[1\]](#f1)</span>, представляет собой пример так называемого "реди-мейда", предмета из обыденности ставшего произведением искусства благодаря "произвольному субъективированию мира объектов", то есть мысленному действию художника переводящему предмет в объект.

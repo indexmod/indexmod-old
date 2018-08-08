@@ -2,6 +2,25 @@
 title: Babulevich, Alexander
 permalink: babulevich-alexander
 layout: default
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Rus. Александр Бабулевич, born 1942, Vologda) Alexander Babulevich is a member of the Association of Art Critics (AIS), specializations in Futurism, Dadaism, abstract, Soviet and Russian art of the second half of the 20th century. For a long time he worked in the State Literary Museum of the recording head of the department, where he studied the conservation and study of archive recordings of Russian literature. He has participated in numerous exhibitions in Russia, Japan, Australia, USA, Canada, Belgium, Denmark, Yugoslavia, Argentina and Italy. His works are in the collections of the Museum of Modern Art in Frankfurt, other museums and private collections in Europe <span id="a1">[\[1\]](#f1)</span>.

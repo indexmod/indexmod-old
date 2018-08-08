@@ -14,7 +14,25 @@ instagram: '28200'
 youtube: '261'
 vimeo: '0,0'
 twitter: '1888'
-tumblr: '0,0'
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, Government of South Australia) is fashion event in Australia, nurtured by the City of Norwood, Payneham and St Peters, the festival was elevated onto the international stage in 2015 under the ownership of the South Australian Government and management of Events South Australia, the state’s major events arm.

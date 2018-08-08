@@ -6,16 +6,24 @@ published: true
 shortname: PUDO
 indexmod: Indexmod
 birth: '1968'
-age: '50'
 updateyear: '2018'
 city: Moscow
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-founder: Name
+originspell: Шаблон
+appearing: Updated
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
 ---
 
 (Rus. Донис Пупис, born {{ page.birth }}, {{ page.city }}) is Russian-Cypriot fashion designer, graduate Moscow Textile academy, founder of the brand Nina Donis, living and working in Moscow and Cyprus <span id="a1">[\[1\]](#f1)</span>.

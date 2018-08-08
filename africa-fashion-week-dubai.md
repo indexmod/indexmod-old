@@ -3,7 +3,25 @@ title: Africa Fashion Week Dubai
 permalink: africa-fashion-week-dubai
 layout: default
 shortname: AFDB
-published: true
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Est. 2014, Dubai) is fashion event in UAE organized by Africa Development Studies Center. See also: Estella Couture, Estella Ogbonna <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 

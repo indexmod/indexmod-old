@@ -2,6 +2,26 @@
 title: Stravinsky, Daria
 permalink: stravinsky-daria
 layout: default
+shortname: INDEXMOD
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a Daria Stravinsky  730  FB (Rus. Дарья Стравински) born 1990, Moscow—Russian designer, founder of LLC “Slashdotdash”, brand of “Dasha Stravinsky”1 and same name online store powered on Squarespace <span id="a1">[\[1\]](#f1)</span>.

@@ -4,6 +4,25 @@ permalink: sachkov-mikhail
 layout: default
 published: true
 shortname: SAMI
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Est. 2013, city) is a Miс Sachkov (Rus. Михаил Сачков) born 1974, Moscow-Russian artist, co-founder and art director in 4S4R, one of the first Russian artists began to work in the genre of fashion film, living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 

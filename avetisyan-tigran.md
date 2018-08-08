@@ -6,16 +6,25 @@ shortname: AVTI
 indexmod: Indexmod
 birth: '1989'
 age: '29'
-updateyear: '2018'
-city: Georgia
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-published: true
-founder: Name
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Est. {{ page.birth }}, {{ page.city }}) is a is the 29-year old Russian-Armenian designer who’s making fashion with a critical edge. Having previously worked for Acne and Lanvin, the Saint Martins graduate moved back to Moscow to distance himself from the fashion world and focus on his own label.  <span id="a1">[\[1\]](#f1)</span>.
 

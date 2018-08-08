@@ -4,10 +4,29 @@ permalink: loshadka-party
 published: true
 layout: default
 shortname: LPRT
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Рус. Лошадка-пати, еst. 2009, Saint Petersburg) is a series of parties in Moscow, St. Petersburg,  Kiev and Odessa founded by Dmitri Estrin (Дима Эстрин). The event is known for its freak shows, contrast music program and "the loud bring-ups" <span id="a1">[\[1\]](#f1)</span>.
- 
+
  ![](https://www.be-in.ru/media/beingallery/gallery/userdata/user_8/img3345.jpg)
 
 **Dmitri Estrin (left), founder of Loshadka Prty at discussion by Be-in.ru in 2010**

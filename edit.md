@@ -3,6 +3,26 @@ title: How to edit
 permalink: edit
 layout: info
 published: true
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 ## Link to Editor
@@ -130,11 +150,11 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 
 ## Translate some page in
 
-Create the copy of the page which you want to be translated. Use another language translated [sample of the page](internet-yami-ichi) as guide. 
+Create the copy of the page which you want to be translated. Use another language translated [sample of the page](internet-yami-ichi) as guide.
 
-Put this 
+Put this
 
-`Translation label` 
+`Translation label`
 
 on top section of the page as warning for other editors.
 

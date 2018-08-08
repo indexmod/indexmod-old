@@ -2,6 +2,26 @@
 title: Sincerism
 permalink: sincerism
 layout: default
+shortname: XXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a (Rus. Синсеризм) 1st dec. 00s, Moscow, is a term for vector in contemporary art evolution that follows after postmodernism. The term of Sincerism firstly was noted by Evgeny Stasenko. <span id="a1">[\[1\]](#f1)</span>.

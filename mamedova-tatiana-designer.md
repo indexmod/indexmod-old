@@ -4,9 +4,29 @@ permalink: mamedova-tatiana
 layout: default
 published: true
 shortname: MATA
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Rus. Татьяна Мамедова, born 1976, Moscow) is a Russian and Azerbaijani futurist artis <span id="a1">[\[1\]](#f1)</span>, film costume designer, an uniform designer <span id="a2">[\[2\]](#f2)</span> director of the fashion shows, founder of the brands Ali (conceptual ready-to-wear), EMP.OS (yoga and sportswear) and Tatiana Mamedova Atelier (high dressmaking brand), former art-director of MFW (Moscow Fashion Week), graduate of Slava Zaitsev Laboratory of Fashion.
- 
+
 ![](/images/tatiana-mamedova-pierre-cardin.jpg)
 
 **Tatiana Mamedova and Pierre Cardin**

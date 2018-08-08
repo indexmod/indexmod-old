@@ -3,6 +3,26 @@ title: 'Chistova, Anna'
 permalink: chistova-anna
 layout: default
 published: true
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Rus. Анна Чистова, born. 1980, Ekaterinburg) Russian designer of evening dresses, artist and actress <span id="a1">[\[1\]](#f1)</span>, co-founder ChistovaEndourova brand, founder and owner of [Chistova](chistova-clothes) brand. Anna also known as costume creator and stylist for «Духless» (2005) and «Духless 2» (2015).
 

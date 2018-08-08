@@ -4,6 +4,26 @@ permalink: v-a-c-foundation
 layout: default
 published: true
 shortname: VACF
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Rus. Фонд «Виктория—искусство быть современным», est. 2009, Moscow) founded and headed by Leonid Mikhelson <span id="a1">[\[1\]](#f1)</span>, and dedicated to the international presentation, production and development of Russian contemporary art, focusing on supporting and expanding the platform for home-grown talent, giving artists the opportunity to experience, engage with and interrogate international cultural practices whilst developing an authentic and autonomous artistic language <span id="a2">[\[2\]](#f2)</span>.
 

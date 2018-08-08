@@ -23,8 +23,7 @@ photo: Olly Alexander が Lecharlatan 靴下
 photographer: Tom Jamieson
 source: The New York Times
 photographerurl: tom-jamieson
-sourceurl: >-
-  https://www.nytimes.com/2015/07/05/arts/music/olly-alexander-releases-his-debut-album-with-years-years
+sourceurl: https://www.nytimes.com/2015/07/05/arts/music/olly-alexander-releases-his-debut-album-with-years-years
 founder: Andrey Bozhyev
 published: true
 ---

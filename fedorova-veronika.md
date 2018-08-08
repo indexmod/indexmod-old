@@ -27,7 +27,7 @@ sourceurl: https://peopletalk.ru/article/novoe-pokolenie-doch-glavreda-glamour-m
 founder:
 ---
 
-## {{page.title}} family
+## Family
 
 |Relative|Name, ocupation|
 |-|-|

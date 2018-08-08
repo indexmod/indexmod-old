@@ -2,9 +2,27 @@
 title: Longevity Cook Book
 permalink: longevity-cook-book
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
-
-# {{page.title}}
 
 (Est. 2013, city) is a Longevity Cook Book (Rus. Поваренная книга бессмертия) est. in 2014, LA and Moscow—international multimedia project, a practical guide, which can be followed by any person to extend life and reduce the risk of age-related diseases, a scientific approach to longevity established by Maria Konovalenko (Мария Коноваленко), Nastya Shubina (Настя Шубина), Anna Kozlova (Анна Козлова) and Mikhail Batin (Михаил Батин) with a goal to create a multimedia project that will summarize all the scientific knowledge in the field of life extension and unveil the practical steps people can take to “cook” their longevity, to develop a longevity diet and provide recipes using life-extending products, to give advice on longevity lifestyle and describe scientific research that will allow people to “cook” their longevity.1 Login to edit Longevity Cook Book <span id="a1">[\[1\]](#f1)</span>.
 

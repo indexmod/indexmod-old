@@ -2,6 +2,26 @@
 title: Sung, Vincent
 permalink: sung-vincent
 layout: default
+shortname: INDEXMOD
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Belg. Vincent Boris Sung), born 1969, Busan, South Korea—Belgian-Korean photographer, a founder of Le Flux Asia, Brand Manager in “Yellow Korner” in Bangkok <span id="a1">[\[1\]](#f1)</span>. Vincent was adopted in 1971 by a Belgian-French family and grew up in Brussels.

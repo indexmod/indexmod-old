@@ -2,9 +2,28 @@
 title: Lucky cookies
 permalink: lucky-cookies
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
-# {{page.title}}
 
 (Est. 2013, city) is a Lucky cookies (Rus. Печеньки удачи) re-pres. 2016, Moscow—is an installation by Nora Kaza ltd. at the Internet Yami-Ichi1 in form of legendary Chinese cookies with the predictions in QR-codes. Sign in to edit Lucky cookies
 See also

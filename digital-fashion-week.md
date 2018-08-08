@@ -2,6 +2,26 @@
 title: Digital Fashion Week
 permalink: page-template
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2012, Bangkok) Digital Fashion Week (DFW), est. 2012—is the world’s first shoppable live streamed fashion week where viewers can make instant purchases on the runway, is a platform for modern, current and lifestyle-forward brands, held in collaboration with British Council and DFW Creative in Singapore and Siam Paragon Group in Bangkok, the only fashion event that promotes the best young fashion designers through events and digital platforms in Asia.

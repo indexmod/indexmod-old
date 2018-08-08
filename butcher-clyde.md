@@ -5,7 +5,6 @@ layout: default
 published: true
 indexmod: Indexmod
 birth: '1942'
-age: '-'
 updateyear: '2018'
 city: Kansas City
 facebook: '0,0'
@@ -15,6 +14,26 @@ vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 shortname: BUCL
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Born 1942, Kansas City) American black-and-white photographer, as a child, he spent most of his time drawing boat designs and crafting ship prototypes from scrap metal. Some of the photographer's works are in the collection and exhibited at Gallery of Classic Photography of Moscow <span id="a1">[\[1\]](#f1)</span>.
 

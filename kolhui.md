@@ -4,6 +4,25 @@ permalink: kolhui
 layout: default
 published: true
 shortname: KLHI
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Rus. Колхуи, колдовские художники, "witchcraft artists", est. 2002, Saint Petersburg) is a group, about 13 participants, of artists, also artist Nikolai Kopeikin one of the founders, formed in 2002 to explore so called multrealism <span id="a1">[\[1\]](#f1)</span>. The works of the group's participants are in more than 30 museums of Russia and abroad. Exhibitions of the group, with different composition, about 15 in Moscow, St. Petersburg, Geneva, V. Novgorod, etc.
 

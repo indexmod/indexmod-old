@@ -17,9 +17,7 @@ originspell: Джи́ва
 appearing: est.
 vkontakte: null
 origin: an Ukrainian
-profession: >-
-  brand of natural linen from flax and hemp with selection of old signs and
-  patterns as a charm or amulet.
+profession: brand of natural linen from flax and hemp with selection of old signs and patterns as a charm or amulet.
 photo: Olga Govorova Ukrayinske Village 近くの下着のサンプルを紹介しています
 photographer: Andrei Dei
 source: Indexmod Blockchainpedia

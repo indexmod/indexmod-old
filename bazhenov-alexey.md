@@ -3,19 +3,26 @@ title: 'Bazhenov, Alexey'
 permalink: bazhenov-alexey
 layout: default
 shortname: BAAL
-indexmod: Indexmod
-birth: 19XX
-age: XX
-updateyear: '2018'
-city: Saint Petersburg
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-published: true
-founder: Name
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a founder and CEO of Be-in.ru <span id="a1">[\[1\]](#f1)</span>, who describes fashion as “the energy of society, aimed at fighting against automatism” <span id="a3">[\[3\]](#f3)</span>. Living and working in Saint Petersburg.

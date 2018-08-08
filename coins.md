@@ -1,7 +1,7 @@
 ---
 Title: Donate
 Permalink: coins
-Layout: default
+Layout: info
 published: true
 shortname: ICOI
 ---

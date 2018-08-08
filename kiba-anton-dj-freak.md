@@ -2,6 +2,26 @@
 title: Kiba, Anton (DJ Freak)
 permalink: kiba-anton-dj-freak
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a Anton Kiba, DJ Freak (Rus. Антон Киба) born 1982, Moscow—is a Russian artist, hacker and “fricker” 1, an attacker of computers and telephone networks, the creator of computer viruses, extremal, an “old school radioelektronschik” 2, the creator of audio workstations based on primitive computers 80s, the author of the unique light effects and luminous show costumes, graphic designer, including web-art and pixel-art <span id="a1">[\[1\]](#f1)</span>.

@@ -3,6 +3,26 @@ title: Butenop, Olga
 permalink: butenop-olga
 position:
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Rus. Ольга Бутеноп) 1985, Moscow—is a Russian new media art, video, installation and mixed media artist, works mostly based on perception and memory, the relationship to time and living space, change and transformation of reality and consciousness. Graduated from the Biology department, MSU (2008). Graduated from the Photojournalism department, MSU in 2009. Member of the Russian Union of Art Photographers since 2010. Graduated The Institute of Contemporary Art Moscow (2013) <span id="a1">[\[1\]](#f1)</span>.

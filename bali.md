@@ -4,6 +4,25 @@ permalink: bali
 position: null
 layout: default
 published: true
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span> is an island and province of Indonesia. The province includes the island of Bali and a few smaller neighbouring islands. It is located between Java to the west and Lombok. Its capital of Denpasar is located at the southern part of the island. With a population of 3,890,757 in the 2010 census, and currently 4,225,000 as of January 2014, the island is home to most of Indonesia's Hindu minority. Login to edit

@@ -4,6 +4,25 @@ permalink: indexmod-blockchainpedia
 layout: default
 published: true
 shortname: INBL
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Est. 2006, Moscow) a wiki-site based on the conception of hybriding wiki, blockchain, ICO and social networking developing by Andrei Deinichenko <span id="a1">[\[1\]](#f1)</span>. In the very beginning Indexmod brand was described as game <span id="a2">[\[2\]](#f2)</span> and TV programm <span id="a3">[\[3\]](#f3)</span>.
 
@@ -39,7 +58,7 @@ Indexmod was established as brand and concept from the idea of visualization of 
 |Indexmod|{{ page.content | number_of_words }}||
 |Total|0,01||
 
-## See also 
+## See also
 
 + [Index](index)
 + [Indexmod Coin](coins)

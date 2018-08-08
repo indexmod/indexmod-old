@@ -3,9 +3,28 @@ title:  Putyatin, Roman
 permalink: putyatin-roman
 layout: default
 published: true
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
-# {{page.title}}
 
 (Est. 2013, city) is a Roman Putyatin, U5E7N4M3 (Rus. Роман Путятин) 19??, Moscow—is a Russian artist working in a genre of video <span id="a1">[\[1\]](#f1)</span>.
 

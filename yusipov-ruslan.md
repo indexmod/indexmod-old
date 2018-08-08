@@ -4,6 +4,26 @@ permalink: yusipov-ruslan
 layout: default
 published: true
 shortname: YURU
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 `To remove Template tag go Edit`
 
@@ -58,4 +78,3 @@ Later while visiting Europe he bought one more cartridge for the synth with Retr
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
-

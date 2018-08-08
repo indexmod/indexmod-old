@@ -2,6 +2,26 @@
 title: Tregulova, Zelfira
 permalink: tregulova-zelfira
 layout: default
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Tat. Зөлфирә Исмәгыйль кызы Трегулова; born. 1955, Riga) art critic, curator of international museum exhibition projects, Ph.D. in History of Arts, Director of the State Tretyakov Gallery (2015), also nkown as Vladimir Putin's confidant in the pre-election campaign of 2018. <span id="a1">[\[1\]](#f1)</span>.

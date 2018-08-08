@@ -5,13 +5,21 @@ layout: default
 shortname: NEVA
 indexmod: Indexmod
 birth: '1983'
-age: '35'
 updateyear: '2018'
 city: Sverdlovsk
 facebook: '2916'
 instagram: '2680'
-youtube: '0,0'
-vimeo: '0,0'
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
 soundcloud: '180'
 published: true
 ---

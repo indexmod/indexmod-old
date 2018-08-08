@@ -8,12 +8,25 @@ indexmod: Indexmod
 birth: '2000'
 age: '18'
 updateyear: '2018'
-FCB: '0,0'
-INS: '0,0'
-YOU: '0,0'
-VIM: '0,0'
-TWT: '0,0'
-TMR: '0,0'
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Ukr. Гриби, est. 2016, Kiev, dis. 2017) Ukrainian, UkrPop emotional phenomenon, styled as ‘gopniks’ [hoodlum] <span id="a1">[\[1\]](#f1)</span>, hiphop-house <span id="a2">[\[2\]](#f2)</span> band founded by musician from Lugansk <span id="a3">[\[3\]](#f3)</span>, Yuri Bardash (Kruzheva), Ilya Kapustin (4atty aka Tilla), Symptom NZHN and Kyivstoner (Correspondent Raduzhny) who “incorporate elements of Russian hip-hop and turns them into well-made house music.”, with 2017 Spring hit Tayet Lyod (“The Ice is Melting”) in one month have reached 50 million number of views <span id="a3">[\[3\]](#f3)</span>.
