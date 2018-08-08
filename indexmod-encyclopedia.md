@@ -47,17 +47,6 @@ The aim of Indexmod to simplify wiki syntax for a pretty and light format. Follo
 
 Indexmod was established as brand and concept from the idea of visualization of the statistics about fashion and artists. Firstly it has realized in the poster supplied to Afisha magazine in Moscow in 2005. Later in 2006, Indexmod was established as brand name covering an experimental project to arrange data about designers and artists. Today Indexmod developing as the wiki (Indexmod Encyclopedia) on the one hand, as rating engine (Indexmod) on the other hand. The aim of the project is to create an elegant looking, alternative software based on the idea of an anonymous real-time wiki editing and semantic markup integration. 2018, renamed to Indexmod blockchainpedia with domain Indexmod.gq (Equatorial Guinea).
 
-## {{page.title}} Indexmod [*](indexmod)
-
-|Varables|2018|2019|
-|-|-|-|
-|Facebook <span id="a4">[\[4\]](#f4)</span>|223||
-|Instagram <span id="a5">[\[5\]](#f5)</span>|147||
-|YouTube <span id="a6">[\[6\]](#f6)</span>|17||
-|Age|12||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|0,01||
-
 ## See also
 
 + [Index](index)
