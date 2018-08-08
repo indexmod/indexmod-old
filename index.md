@@ -1,7 +1,5 @@
 ---
 layout: cover
-permalink: index
-
 ---
 
 <ul>
