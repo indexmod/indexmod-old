@@ -1,6 +1,7 @@
 ---
 layout: cover
-title: 
+permalink: index
+
 ---
 
 <ul>
@@ -11,5 +12,5 @@ title:
   <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
   </li>
   {% endfor %}
-  
+
 </ul>
