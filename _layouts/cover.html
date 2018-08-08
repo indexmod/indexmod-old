@@ -7,7 +7,7 @@
 <body>
 <span class="rates-top">
 
- <marquee behavior="slide" scrollamount="70" direction="up" height="100%" loop="-1" style="border:0px" width="99%" padding="1px" onmouseover="this.stop();" onmouseout="this.start();">
+ <marquee behavior="scroll" scrollamount="70" direction="left" height="80px" loop="-1" style="border:0px" width="99%" padding="0px" onmouseover="this.stop();" onmouseout="this.start();">
 
  {% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}
 
