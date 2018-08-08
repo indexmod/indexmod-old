@@ -4,35 +4,27 @@ permalink: abolenkin-andrei
 layout: default
 published: true
 shortname: ABOLENKINANDREI
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Eng.
+originspell: Андрей Аболенкин
+appearing: born
+birth: 1972
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+facebook: '375'
+instagram: '504'
+youtube: '0'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
 origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
+profession: style and fashion expert, consultant and promoter. Andrei working and living in Moscow
+photo: Andrei Abolenkin in 2014
+photographer: Igor Vasiliadis
 source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographerurl: vasiliadis-igor
 sourceurl: index
 founder: 'Andrei Dei'
 ---
-
-(Rus. Андрей Аболенкин, born 1972, Moscow) is a Russian style and fashion expert <span id="a1">[\[1\]](#f1)</span>, consultant and promoter. Andrei working and living in Moscow.
-
-![Andrei Abolenkin in 2014](/images/andrei-abolenkin-by-igor-vasiliadis-2014.jpg)
-
-**Andrei Abolenkin in 2014**
-
-*Photo: [Igor Vasiliadis](igor-vasiliadis) / [Indexmod Encyclopedia](index)*
-
 
 ## See also
 

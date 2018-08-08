@@ -6,7 +6,8 @@ published: true
 birth: '2013'
 city: Aberdeen
 shortname: ABERDEENFASH
-originspell: Шаблон
+originlang: Eng.
+originspell: Aberdeen Fashion Week
 appearing: Updated
 birth: 2018
 city: Moscow

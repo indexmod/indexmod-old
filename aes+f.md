@@ -4,8 +4,9 @@ permalink: aes+f
 layout: default
 published: true
 shortname: AESF
-originspell: Шаблон
-appearing: Updated
+originlang: Rus.
+originspell: АЕС+Ф
+appearing: est.
 birth: 2018
 city: Moscow
 facebook: '500000'

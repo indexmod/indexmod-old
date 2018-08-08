@@ -4,6 +4,7 @@ permalink: adjara-fashion-week
 layout: default
 published: true
 shortname: ADJARAFASH
+originlang: Ge.
 originspell: Шаблон
 appearing: Updated
 birth: 2018

@@ -3,6 +3,7 @@ title: About (clothing)
 permalink: about-clothing
 layout: default
 shortname: ABOUTCLOTHING
+originlang: Lit.
 originspell: Шаблон
 appearing: Updated
 birth: 2018
