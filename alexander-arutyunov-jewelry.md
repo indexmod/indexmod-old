@@ -2,8 +2,8 @@
 title: Alexander Arutyunov Jewelry
 permalink: alexander-arutyunov-jewelry
 layout: default
-shortname: ALJW
-originspell: Шаблон
+shortname: ALEXANDERARUTYUNOVJEWLRY
+originspell: Александр Арутюнов Джуелри
 appearing: Updated
 birth: 2018
 city: Moscow

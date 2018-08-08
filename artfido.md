@@ -2,7 +2,7 @@
 title: Artfido
 permalink: artfido
 layout: default
-shortname: ARFI
+shortname: ARTFIDO
 originspell: Шаблон
 appearing: Updated
 birth: 2018

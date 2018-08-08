@@ -2,8 +2,8 @@
 title: Alexander Terekhov (brand)
 permalink: alexander-terekhov-brand
 layout: default
-shortname: ALTR
-originspell: Шаблон
+shortname: ALEXANDERTERHOV
+originspell: Александр Терехов (одежда)
 appearing: Updated
 birth: 2018
 city: Moscow

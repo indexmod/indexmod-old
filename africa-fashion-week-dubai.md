@@ -2,7 +2,7 @@
 title: Africa Fashion Week Dubai
 permalink: africa-fashion-week-dubai
 layout: default
-shortname: AFDB
+shortname: AFRFASHWDUBAI
 originspell: Шаблон
 appearing: Updated
 birth: 2018

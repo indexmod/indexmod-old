@@ -3,7 +3,7 @@ title: Art-Athina
 permalink: art-athina
 position: null
 layout: default
-shortname: ARAT
+shortname: ARTATHINA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

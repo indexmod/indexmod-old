@@ -2,8 +2,8 @@
 title: Alaverdian, Natalia
 permalink: alaverdian-natalia
 layout: default
-shortname: ALNA
-originspell: Шаблон
+shortname: ALAVERDIAN
+originspell: Наталья Алавердян
 appearing: Updated
 birth: 2018
 city: Moscow

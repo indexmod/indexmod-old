@@ -2,8 +2,8 @@
 title: Artomat (site)
 permalink: artomat-site
 layout: default
-shortname: ARMT
-originspell: Шаблон
+shortname: ARTOMATSITE
+originspell: Артомат (сайт)
 appearing: Updated
 birth: 2018
 city: Moscow

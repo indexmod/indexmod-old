@@ -3,7 +3,7 @@ title: Airborne Troops Day (2013)
 permalink: airborne-troops-day-2013
 layout: default
 published: true
-shortname: AIBT
+shortname: AIRTROOPS
 originspell: Шаблон
 appearing: Updated
 birth: 2018

@@ -3,7 +3,7 @@ title: Africa Fashion Week Paris
 permalink: africa-fashion-week-paris
 layout: default
 published: true
-shortname: INDEXMOD
+shortname: AFRFASHWPARIS
 originspell: Шаблон
 appearing: Updated
 birth: 2018

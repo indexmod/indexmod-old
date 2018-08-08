@@ -2,7 +2,7 @@
 title: Art Newspaper, The
 permalink: art-newspaper-the
 layout: default
-shortname: ANMG
+shortname: ARTNEWSPAPER
 originspell: Шаблон
 appearing: Updated
 birth: 2018

@@ -3,7 +3,7 @@ title: Acid Noodles
 permalink: acid-noodles
 layout: default
 published: true
-shortname: ACND
+shortname: ACIDNOODLES
 originspell: Шаблон
 appearing: Updated
 birth: 2018

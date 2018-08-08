@@ -2,7 +2,8 @@
 title: Babulevich, Alexander
 permalink: babulevich-alexander
 layout: default
-originspell: Шаблон
+shortname: BABULEVICH
+originspell: Александр Бабулевич
 appearing: Updated
 birth: 2018
 city: Moscow

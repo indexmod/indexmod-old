@@ -3,7 +3,7 @@ title: Africa Fashion Week London
 permalink: africa-fashion-week-london
 layout: default
 published: true
-shortname: INDEXMOD
+shortname: AFRFASHWLONDON
 originspell: Шаблон
 appearing: Updated
 birth: 2018

@@ -2,8 +2,8 @@
 title: Artcom Media
 permalink: artcom-media
 layout: default
-shortname: ARME
-originspell: Шаблон
+shortname: ARTCOMMEDIA
+originspell: Артком Медиа
 appearing: Updated
 birth: 2018
 city: Moscow

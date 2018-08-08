@@ -2,6 +2,7 @@
 title: Antimuseum
 permalink: antimuseum
 layout: default
+shortname: ANTIMUSEUM
 originspell: Шаблон
 appearing: Updated
 birth: 2018

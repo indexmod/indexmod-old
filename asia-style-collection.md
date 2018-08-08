@@ -3,7 +3,7 @@ title: Asia Style Collection
 permalink: asia-style-collection
 position:
 layout: default
-shortname: ASCL
+shortname: ASIASTYLECOLLECT
 originspell: Шаблон
 appearing: Updated
 birth: 2018

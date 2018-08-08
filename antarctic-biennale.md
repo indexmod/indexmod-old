@@ -3,7 +3,7 @@ title: Antarctic Biennale
 permalink: antarctic-biennale
 layout: default
 published: true
-shortname: ATBN
+shortname: ANTARCTICBIENNALE
 originspell: Шаблон
 appearing: Updated
 birth: 2018

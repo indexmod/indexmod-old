@@ -3,8 +3,8 @@ title: Arsenicum (brand)
 permalink: arsenicum-brand
 position:
 layout: default
-shortname: ARBR
-originspell: Шаблон
+shortname: ARSENICUM
+originspell: Арсеникум (одежда)
 appearing: Updated
 birth: 2018
 city: Moscow

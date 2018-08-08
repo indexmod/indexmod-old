@@ -2,8 +2,8 @@
 title: Artyomov, Andrey
 permalink: artyomov-andrey
 layout: default
-shortname: ARAN
-originspell: Шаблон
+shortname: ARTYOMOV
+originspell: Андрей Артёмов (одежда)
 appearing: Updated
 birth: 2018
 city: Moscow

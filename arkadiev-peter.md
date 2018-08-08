@@ -3,8 +3,8 @@ title: Arkadiev, Peter
 permalink: arkadiev-peter
 layout: social
 published: true
-shortname: ARPE
-originspell: Шаблон
+shortname: ARKADIEV
+originspell: Петр Аркадьев
 appearing: Updated
 birth: 2018
 city: Moscow

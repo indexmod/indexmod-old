@@ -3,8 +3,7 @@ title: 'Abolenkin, Andrei'
 permalink: abolenkin-andrei
 layout: default
 published: true
-shortname: ABAN
-shortname: INDEXMOD
+shortname: ABOLENKINANDREI
 originspell: Шаблон
 appearing: Updated
 birth: 2018

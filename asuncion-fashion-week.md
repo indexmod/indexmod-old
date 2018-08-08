@@ -3,7 +3,7 @@ title: Asuncion Fashion Week
 permalink: asuncion-fashion-week
 position:
 layout: default
-shortname: ASFW
+shortname: ASUNCION
 originspell: Шаблон
 appearing: Updated
 birth: 2018

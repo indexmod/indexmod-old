@@ -3,8 +3,8 @@ title: Athenian, Timon
 permalink: athenian-timon
 layout: default
 published: true
-shortname: ATTI
-originspell: Шаблон
+shortname: ATHENIANTIMON
+originspell: Тимон Антенян
 appearing: Updated
 birth: 2018
 city: Moscow

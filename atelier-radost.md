@@ -3,7 +3,7 @@ title: Atelier Radost
 permalink: atelier-radost
 layout: default
 shortname: RADOST
-originspell: Шаблон
+originspell: Радость (ателье)
 appearing: Updated
 birth: 2018
 city: Moscow

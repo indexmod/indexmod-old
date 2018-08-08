@@ -2,8 +2,8 @@
 title: 'Avetisyan, Tigran'
 permalink: avetisyan-tigran
 layout: default
-shortname: AVTI
-indexmod: Indexmod
+shortname: AVETISYAN
+indexmod: Тигран Аветисян
 birth: '1989'
 age: '29'
 originspell: Шаблон

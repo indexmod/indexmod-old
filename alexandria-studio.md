@@ -2,10 +2,9 @@
 title: Alexandria studio
 permalink: alexandria-studio
 layout: default
-shortname: ALST
-indexmod: Indexmod
+shortname: ALEXANDRIASTUD
 birth: '1991'
-originspell: Шаблон
+originspell: Александрия (студия)
 appearing: Updated
 birth: 2018
 city: Moscow

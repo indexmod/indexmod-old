@@ -2,8 +2,8 @@
 title: Arutunov, Alexandr
 permalink: arutunov-alexandr
 layout: default
-shortname: ARAL
-originspell: Шаблон
+shortname: ARUTUNOV
+originspell: Александр Арутюнов (дизайнер)
 appearing: Updated
 birth: 2018
 city: Moscow

@@ -4,7 +4,7 @@ permalink: asia-fashion-week-london
 position: null
 layout: default
 published: true
-shortname: ASFWL
+shortname: ASIAFASHWLONDON
 originspell: Шаблон
 appearing: Updated
 birth: 2018

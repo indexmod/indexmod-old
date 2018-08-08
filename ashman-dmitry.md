@@ -3,8 +3,8 @@ title: Ashman, Dmitry
 permalink: ashman-dmitry
 layout: default
 published: true
-shortname: ASDM
-originspell: Шаблон
+shortname: ASHMAN
+originspell: Дмитрий Ашман
 appearing: Updated
 birth: 2018
 city: Moscow

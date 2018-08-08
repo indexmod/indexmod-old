@@ -5,8 +5,7 @@ layout: default
 published: true
 birth: '2013'
 city: Aberdeen
-shortname: ABFW
-shortname: INDEXMOD
+shortname: ABERDEENFASH
 originspell: Шаблон
 appearing: Updated
 birth: 2018

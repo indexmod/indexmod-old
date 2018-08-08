@@ -3,7 +3,7 @@ title: Avedon, Richard
 permalink: avedon-richard
 position:
 layout: default
-shortname: AVRI
+shortname: AVEDON
 originspell: Шаблон
 appearing: Updated
 birth: 2018

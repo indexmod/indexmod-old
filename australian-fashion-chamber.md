@@ -4,7 +4,7 @@ permalink: australian-fashion-chamber
 position: null
 layout: default
 published: true
-shortname: AUFC
+shortname: AUSTRALIANFASHCHAMBER
 originspell: Шаблон
 appearing: Updated
 birth: 2018

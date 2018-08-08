@@ -3,8 +3,8 @@ title: 'Al-Numan, Leila'
 permalink: al-numan-leila
 layout: default
 published: true
-shortname: ANUL
-originspell: Шаблон
+shortname: ALNUMANLEILA
+originspell: Лейла Аль-Нуман 
 appearing: Updated
 birth: 2018
 city: Moscow

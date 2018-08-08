@@ -2,8 +2,8 @@
 title: Anton Lisin (brand)
 permalink: anton-lisin-brand
 layout: default
-shortname: ANLI
-originspell: Шаблон
+shortname: ANTONLISINBRD
+originspell: Антон Лисин (одежда)
 appearing: Updated
 birth: 2018
 city: Moscow

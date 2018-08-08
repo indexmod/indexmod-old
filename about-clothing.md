@@ -2,8 +2,7 @@
 title: About (clothing)
 permalink: about-clothing
 layout: default
-shortname: ABCL
-shortname: INDEXMOD
+shortname: ABOUTCLOTHING
 originspell: Шаблон
 appearing: Updated
 birth: 2018

@@ -3,7 +3,7 @@ title: Ankara Fashion Week
 permalink: ankara-fashion-week
 layout: default
 published: true
-shortname: ARFW
+shortname: ANKARAFASHW
 originspell: Шаблон
 appearing: Updated
 birth: 2018

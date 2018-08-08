@@ -2,8 +2,8 @@
 title: Amsterdam Street Art
 permalink: amsterdam-street-art
 layout: default
-shortname: AMSR
-originspell: Шаблон
+shortname: AMSTERDAMSTRART
+originspell: Amsterdam Street Art
 appearing: Updated
 birth: 2018
 city: Moscow

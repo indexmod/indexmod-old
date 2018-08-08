@@ -3,7 +3,7 @@ title: Adjara Fashion Week
 permalink: adjara-fashion-week
 layout: default
 published: true
-shortname: AJFW
+shortname: ADJARAFASH
 originspell: Шаблон
 appearing: Updated
 birth: 2018

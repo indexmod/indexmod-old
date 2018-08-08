@@ -2,7 +2,7 @@
 title: Athens Xclusive Designers Week
 permalink: athens-xclusive-designers-week
 layout: default
-shortname: AEDW
+shortname: ANSXCLUSIVE
 originspell: Шаблон
 appearing: Updated
 birth: 2018

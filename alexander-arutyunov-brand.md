@@ -3,8 +3,8 @@ title: Alexander Arutyunov (brand)
 permalink: alexander-arutyunov-brand
 layout: default
 published: true
-shortname: ALAR
-originspell: Шаблон
+shortname: ALEXANDERARUTYUNOV
+originspell: Александр Арутюнов
 appearing: Updated
 birth: 2018
 city: Moscow

@@ -3,7 +3,7 @@ title: Azerbaijan Fashion Week
 permalink: azerbaijan-fashion-week
 position:
 layout: default
-shortname: AZFW
+shortname: AZERBAIJANFW
 originspell: Шаблон
 appearing: Updated
 birth: 2018

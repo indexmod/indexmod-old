@@ -2,15 +2,11 @@
 title: 'Амед, Имран (блогер)'
 permalink: amed-imran
 layout: default
-shortname: AMIM
-indexmod: Indexmod
-birth: '2000'
-age: '18'
-updateyear: '2018'
+shortname: АМЕДИМРАН
 city: Калгари
 originspell: Шаблон
-appearing: Updated
-birth: 2018
+appearing: род.
+birth: 1972
 city: Moscow
 facebook: '500000'
 instagram: '500500'
@@ -19,8 +15,8 @@ vimeo: '100'
 twitter: '400'
 tumblr: '900'
 vkontakte: '0'
-origin: Russian
-profession: English language wiki
+origin: Canadian
+profession: предприниматель, основатель и генеральный директор “The Business of Fashion”
 photo: This is sample for image caption
 photographer: Andrei Dei
 source: Indexmod Blockchainpedia

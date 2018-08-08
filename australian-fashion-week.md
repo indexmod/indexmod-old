@@ -3,7 +3,7 @@ title: Australian Fashion Week
 permalink: australian-fashion-week
 position:
 layout: default
-shortname: AUFW
+shortname: AUSTRALIANFW
 originspell: Шаблон
 appearing: Updated
 birth: 2018

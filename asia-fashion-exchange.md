@@ -3,7 +3,7 @@ title: Asia Fashion Exchange
 permalink: asia-fashion-exchange
 position:
 layout: default
-shortname: ASFE
+shortname: ASIAFASHEXCHANGE
 originspell: Шаблон
 appearing: Updated
 birth: 2018

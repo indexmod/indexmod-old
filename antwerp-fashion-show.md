@@ -2,7 +2,7 @@
 title: Antwerp Fashion Show
 permalink: antwerp-fashion-show
 layout: default
-shortname: AWFW
+shortname: ANTWRPFASHSW
 originspell: Шаблон
 appearing: Updated
 birth: 2018

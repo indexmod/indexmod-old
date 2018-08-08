@@ -3,7 +3,7 @@ title: Amsterdam Fashion Week
 permalink: amsterdam-fashion-week
 layout: default
 published: true
-shortname: AMFW
+shortname: AMSTERDAMFASHW
 originspell: Шаблон
 appearing: Updated
 birth: 2018

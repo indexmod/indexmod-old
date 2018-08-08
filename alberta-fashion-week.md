@@ -3,7 +3,7 @@ title: Alberta Fashion Week
 permalink: alberta-fashion-week
 layout: default
 published: true
-shortname: ABFW
+shortname: ALBERTAFASHW
 originspell: Шаблон
 appearing: Updated
 birth: 2018

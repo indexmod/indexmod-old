@@ -1,9 +1,9 @@
 ---
 title: Arefieva, Natali
 permalink: arefieva-natali
-shortname: ARNA
+shortname: AREFIEVA
 layout: default
-originspell: Шаблон
+originspell: Наталия Арефьева
 appearing: Updated
 birth: 2018
 city: Moscow

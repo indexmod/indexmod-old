@@ -3,7 +3,7 @@ title: Adelaide Fashion Festival
 permalink: adelaide-fashion-festival
 layout: default
 published: true
-shortname: ADFF
+shortname: ADELAIDEFASH
 indexmod: '0,34'
 birth: '2013'
 age: '5'

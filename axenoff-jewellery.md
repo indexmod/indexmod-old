@@ -3,8 +3,8 @@ title: Axenoff Jewellery
 permalink: axenoff-jewellery
 layout: default
 published: true
-shortname: AXJW
-originspell: Шаблон
+shortname: AXENOFFJRY
+originspell: Аксёнофф Джуелри
 appearing: Updated
 birth: 2018
 city: Moscow

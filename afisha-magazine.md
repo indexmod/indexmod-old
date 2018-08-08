@@ -3,7 +3,7 @@ title: Afisha (magazine)
 permalink: afisha-magazine
 layout: default
 published: true
-shortname: AFMG
+shortname: AFISHAMAG
 originspell: Шаблон
 appearing: Updated
 birth: 2018

@@ -3,8 +3,8 @@ title: Amazônia Fashion Week
 permalink: amazonia-fashion-week
 layout: default
 published: true
-shortname: AZFW
-originspell: Шаблон
+shortname: AMAZÔNIAFASHW
+originspell: Amazônia Fashion Week
 appearing: Updated
 birth: 2018
 city: Moscow

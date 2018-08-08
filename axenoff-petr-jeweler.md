@@ -3,8 +3,8 @@ title: Axenoff, Petr (jeweler)
 permalink: axenoff-petr-jeweler
 position:
 layout: default
-shortname: AXPE
-originspell: Шаблон
+shortname: AXENOFPETR
+originspell: Петр Аксёнов
 appearing: Updated
 birth: 2018
 city: Moscow

@@ -2,7 +2,7 @@
 title: 'Akhmadullina, Alena (designer)'
 permalink: akhmadullina-alena-designer
 layout: default
-shortname: AKHM
+shortname: AKHMADULLINA
 originspell: Шаблон
 appearing: Updated
 birth: 2018
