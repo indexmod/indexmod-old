@@ -1,7 +1,7 @@
 ---
 title: Identity of Indexmod
 permalink: identity-of-indexmod
-layout: info
+layout: default
 shortname: XXXXXXXXX
 originspell: Шаблон
 appearing: Updated
@@ -21,7 +21,8 @@ photographer: Andrei Dei
 source: Indexmod Blockchainpedia
 photographerurl: dei-andrei
 sourceurl: index
-founder: 'Andrei Dei'
+founder: Andrei Dei
+published: true
 ---
 
 (Est. 2006, Moscow) a sign for Indexmod Encyclopedia of Art and Fashion created by Andrei Deinichenko in 2015 based on the earlier image of 2011 by Andrei Abramov (Odinmay).
