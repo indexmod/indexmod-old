@@ -32,6 +32,10 @@ prose:
     - /_includes
     - 404.md
     - README.md
+    - feed.xml
+    - sitemap.xml
+    - robots.txt
+    - redirects.json
 
 
 gems:
