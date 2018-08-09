@@ -1,17 +1,35 @@
-title: git-wiki
-description: git-wiki is a jekyll theme originally based on jekyll-theme-minimal
-show_downloads: true
+---
+
+title: Indexmod blockchainpedia
+timezone: UTC
+description: Indexmod is a fashion and art blockchainpedia
+
+show_sidebar: false
+show_downloads: false
+show_title: false
+show_description: false
 git_branch: master
-logo_url:
-google_analytics:
-theme: 
-wiki_folder: wiki
+
+theme: jekyll-theme-minimal
+include: ['.htaccess']
+
 use_github_wiki: false
 use_prose_io: true
-google_cse_token: 
 custom_head: false
 custom_sidebar: false
 custom_footer: false
+
+prose:
+  rooturl: 'https://indexmod.ga'
+  siteurl: 'https://indexmod.ga'
+  relativeLinks: 'https://prose.github.io/starter/links.jsonp'
+  media: '/images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+
 gems:
   - jekyll-sitemap
   - jekyll-mentions
