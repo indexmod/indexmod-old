@@ -248,20 +248,12 @@ img {
 }
 
 img.cover {
-	max-width: 90%;
-	min-width: 99%;
+	max-width: 50%;
+	min-width: 50%;
 	height: auto;
-	margin: 0em 0em 0em 0em;
-	-webkit-filter: grayscale(50%);
-	filter: grayscale(50%);
-}
-.container img.cover {
-	width: 250px;
-}
-.container img.cover {
-	display: block;
-	width: 100%;
-	height: auto;
+	margin: 5em 5em 5em 5em;
+	-webkit-filter: grayscale(90%);
+	filter: grayscale(90%);
 }
 
 /* Create two equal columns that floats next to each other */
