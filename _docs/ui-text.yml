@@ -12,7 +12,7 @@ ru: &DEFAULT_RU
   less_than                  : "меньше"
   minute_read                : "минут(ы) на чтение"
   share_on_label             : "Поделиться"
-  meta_label                 :
+
   tags_label                 : "Метки:"   # "Теги:" / "Тэги:"
   categories_label           : "Разделы:"  # Категории:
   date_label                 : "Дата изменения:"  # Опубликовано:
