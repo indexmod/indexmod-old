@@ -246,9 +246,24 @@ img {
 	width: 100%;
 	height: auto;
 }
-* {
-	box-sizing: border-box;
+
+img.cover {
+	max-width: 90%;
+	min-width: 99%;
+	height: auto;
+	margin: 0em 0em 0em 0em;
+	-webkit-filter: grayscale(50%);
+	filter: grayscale(50%);
 }
+.container img.cover {
+	width: 250px;
+}
+.container img.cover {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
 /* Create two equal columns that floats next to each other */
 
 .column {
