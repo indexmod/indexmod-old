@@ -10,21 +10,13 @@
 	color: white;
 }
 
-.rex:hover {
-	font-family: 'Helvetica Neue';
-	font-size: 21px;
-	font-weight: 100;
-	line-height: 1.5em;
-	color: black;
-}
-
 .rates-top {
 	font-family: 'Helvetica Neue';
 	font-size: 20px;
 	line-height: 1.5em;
 	font-weight: 100;
-	-webkit-filter: grayscale(90%);
-	filter: grayscale(90%);
+	-webkit-filter: grayscale(50%);
+	filter: grayscale(50%);
 }
 
 .rates-top:hover {
@@ -32,6 +24,8 @@
 	font-size: 20px;
 	line-height: 1.5em;
 	font-weight: 900;
+	-webkit-filter: grayscale(0%);
+	filter: grayscale(0%);
 }
 
 .memo {
@@ -274,9 +268,4 @@ img {
 	float: left;
 	width: 50%;
 	padding: 10px;
-}
-.hr {
-
-	height: 1px;
- color: black;
 }
