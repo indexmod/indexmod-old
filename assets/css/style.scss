@@ -1,4 +1,283 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
 
-@import "style.scss";
+.rex {
+	font-family: 'Helvetica Neue';
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 1.5em;
+	color: white;
+}
+
+.rex:hover {
+	font-family: 'Helvetica Neue';
+	font-size: 21px;
+	font-weight: 100;
+	line-height: 1.5em;
+	color: black;
+}
+
+.rates-top {
+	font-family: 'Helvetica Neue';
+	font-size: 20px;
+	line-height: 1.5em;
+	font-weight: 100;
+	-webkit-filter: grayscale(90%);
+	filter: grayscale(90%);
+}
+
+.rates-top:hover {
+	font-family: 'Helvetica Neue';
+	font-size: 20px;
+	line-height: 1.5em;
+	font-weight: 900;
+}
+
+.memo {
+
+	font-family: 'Old Standard TT', serif;
+	font-size: 19px;
+	line-height: 1.5em;
+	font-weight: 900;
+	color: black;
+}
+
+
+
+.intro {
+	font-family: 'Verdana';
+	font-size: 20px;
+	font-weight: 900;
+	line-height: 1.5em;
+	list-style-type: none;
+}
+
+body {
+	max-width: 600px;
+	margin: auto;
+	padding: 20px;
+	background: white;
+}
+
+.tooltip:hover .tooltiptext {
+	visibility: visible;
+}
+.date {
+	font-family: 'Verdana', serif;
+	font-size: 20px;
+	line-height: 1.5em;
+	font-weight: 900;
+	color: black;
+}
+p {
+	font-family: 'Old Standard TT', serif;
+	font-size: 20px;
+	line-height: 1.5em;
+	font-weight: 900;
+	color: black;
+}
+.rate {
+	font-weight: 800;
+	color: green;
+}
+.rate:hover {
+	font-weight: 900;
+	color: black;
+}
+
+h1 {
+	font-family: 'Old Standard TT', serif;
+	font-size: 42px;
+	font-weight: 900;
+	line-height: 1.3em;
+	color: black;
+}
+h2, h3, h4, h5, h6 {
+	font-family: 'Verdana';
+	font-size: 25px;
+	font-weight: 900;
+	line-height: 1.5em;
+	color: black;
+}
+table {
+	width: 100%;
+	font-family: 'Verdana', serif;
+	font-size: 17px;
+	line-height: 1.1em;
+	font-weight: 500;
+	color: black;
+	border-collapse: collapse;
+}
+
+
+th, td {
+	padding: 10px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+th {
+	font-family: 'Verdana', serif;
+	font-weight: 900;
+	text-align: left;
+	height: auto;
+	vertical-align: center;
+}
+td {
+	font-weight: 500;
+	height: auto;
+	vertical-align: center;
+}
+tr:hover {
+	background-color: #E8FFF5;
+	font-weight: 500;
+}
+table.top {
+	width: 100%;
+	font-family: 'Verdana', serif;
+	font-size: 17px;
+	line-height: 1.1em;
+	font-weight: 500;
+	color: black;
+	border-collapse: collapse;
+	margin-left: 1px;
+}
+table.top th, td {
+	padding: 10px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+table.top td {
+	font-weight: 500;
+	height: auto;
+	vertical-align: center;
+}
+table.top tr:hover {
+	background-color: #E8FFF5;
+	font-weight: 500;
+}
+.toptable-meta {
+	font-weight: 500;
+	color: green;
+}
+.highlighter-rouge {
+	font-family: 'Verdana';
+	font-size: 19px;
+	line-height: 4em;
+	font-weight: 500;
+	color: black;
+	border: solid 0.1px silver;
+	background-color: #E8FFF5;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding: 9px 9px;
+}
+del {
+	color: silver;
+}
+strong {
+	color: black;
+	font-family: 'Verdana';
+	font-size: 19px;
+	line-height: 0.1em;
+	font-weight: 500;
+}
+em {
+	color: black;
+	font-size: 19px;
+	line-height: 0.1em;
+	font-weight: 500;
+}
+li {
+	font-family: 'Verdana';
+	font-size: 20px;
+	line-height: 1.5em;
+	font-weight: 900;
+	color: #4e80d8;
+}
+ul {
+	font-family: 'Old Standard TT', serif;
+	font-size: 20px;
+	line-height: 1.5em;
+	font-weight: 900;
+	color: #4e80d8;
+}
+a.one:link {
+	color: #4e80d8;
+	font-family: 'Verdana';
+	font-size: 20px;
+	line-height: 1.5em;
+	font-weight: 900;
+}
+a.one:visited {
+	color: #4e80d8;
+	font-family: 'Verdana';
+	font-size: 20px;
+	line-height: 1.5em;
+	font-weight: 900;
+}
+a.one:hover {
+	color: green;
+	font-family: 'Verdana';
+	font-size: 20px;
+	line-height: 1.5em;
+	font-weight: 900;
+}
+a:link {
+	color: #4e80d8;
+	text-decoration: none;
+	font-weight: 900;
+}
+a:visited {
+	color: #4e80d8;
+	text-decoration: none;
+	font-weight: 900;
+}
+a:hover {
+	color: green;
+	text-decoration: none;
+	font-weight: 900;
+}
+a:active {
+	color: #4e80d8;
+	text-decoration: none;
+	font-weight: 900;
+}
+.footnote {
+	color: #4e80d8;
+	text-decoration: none;
+	font-weight: 900;
+}
+img {
+	max-width: 95%;
+	min-width: 95%;
+	height: auto;
+	margin: 0em 0em 0em 0em;
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+}
+.container {
+	width: 50px;
+}
+.container img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+* {
+	box-sizing: border-box;
+}
+/* Create two equal columns that floats next to each other */
+
+.column {
+	float: left;
+	width: 50%;
+	padding: 10px;
+}
+.hr {
+	width: 30%;
+	height: 0px;
+        border: none;
+        border-top: 1px solid black;
+}
