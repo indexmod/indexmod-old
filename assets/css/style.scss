@@ -2,13 +2,30 @@
 ---
 @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
 
-
-body {
-	max-width: 500px;
-	margin: auto;
-	padding: 20px;
-	background: white;
+.rex {
+	font-family: 'Helvetica Neue';
+	font-size: 23px;
+	font-weight: 100;
+	line-height: 1.5em;
+	color: black;
 }
+
+.rates-top {
+	font-family: 'Helvetica Neue';
+	font-size: 22px;
+	line-height: 1.5em;
+	font-weight: 900;
+}
+
+.memo {
+
+	font-family: 'Old Standard TT', serif;
+	font-size: 19px;
+	line-height: 1.5em;
+	font-weight: 900;
+	color: black;
+}
+
 .intro {
 	font-family: 'Verdana';
 	font-size: 20px;
@@ -16,39 +33,17 @@ body {
 	line-height: 1.5em;
 	list-style-type: none;
 }
-.tooltip {
-	font-family: 'Verdana';
-	font-size: 20px;
-	font-weight: 900;
-	line-height: 1.5em;
-	position: relative;
-	display: inline-block;
-	border-bottom: 0px dotted white;
+
+body {
+	max-width: 600px;
+	margin: auto;
+	padding: 20px;
+	background: white;
 }
-.tooltip .tooltiptext {
-	font-family: 'Verdana';
-	font-size: 20px;
-	font-weight: 900;
-	line-height: 1.5em;
-	visibility: hidden;
-	width: 50px;
-	background-color: #E8FFF5;
-	color: black;
-	text-align: center;
-	border-radius: 6px;
-	padding: 5px 0;
-	/* Position the tooltip */
-	/* Position the tooltip */
-	position: absolute;
-	z-index: 1;
-	top: 100%;
-	left: 50%;
-	margin-left: -25px;
-}
+
 .tooltip:hover .tooltiptext {
 	visibility: visible;
 }
-
 .date {
 	font-family: 'Verdana', serif;
 	font-size: 20px;
@@ -63,6 +58,15 @@ p {
 	font-weight: 900;
 	color: black;
 }
+.rate {
+	font-weight: 800;
+	color: green;
+}
+.rate:hover {
+	font-weight: 900;
+	color: black;
+}
+
 h1 {
 	font-family: 'Old Standard TT', serif;
 	font-size: 42px;
@@ -80,12 +84,14 @@ h2, h3, h4, h5, h6 {
 table {
 	width: 100%;
 	font-family: 'Verdana', serif;
-	font-size: 20px;
+	font-size: 17px;
 	line-height: 1.1em;
-	font-weight: 900;
+	font-weight: 500;
 	color: black;
 	border-collapse: collapse;
 }
+
+
 th, td {
 	padding: 10px;
 	text-align: left;
@@ -99,19 +105,47 @@ th {
 	vertical-align: center;
 }
 td {
-	font-weight: 100;
+	font-weight: 500;
 	height: auto;
 	vertical-align: center;
 }
 tr:hover {
 	background-color: #E8FFF5;
-	font-weight: 900;
+	font-weight: 500;
+}
+table.top {
+	width: 100%;
+	font-family: 'Verdana', serif;
+	font-size: 17px;
+	line-height: 1.1em;
+	font-weight: 500;
+	color: black;
+	border-collapse: collapse;
+	margin-left: 1px;
+}
+table.top th, td {
+	padding: 10px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+table.top td {
+	font-weight: 500;
+	height: auto;
+	vertical-align: center;
+}
+table.top tr:hover {
+	background-color: #E8FFF5;
+	font-weight: 500;
+}
+.toptable-meta {
+	font-weight: 500;
+	color: green;
 }
 .highlighter-rouge {
 	font-family: 'Verdana';
-	font-size: 20px;
-	line-height: 1.9em;
-	font-weight: 900;
+	font-size: 19px;
+	line-height: 4em;
+	font-weight: 500;
 	color: black;
 	border: solid 0.1px silver;
 	background-color: #E8FFF5;
@@ -126,15 +160,15 @@ del {
 strong {
 	color: black;
 	font-family: 'Verdana';
-	font-size: 20px;
+	font-size: 19px;
 	line-height: 0.1em;
-	font-weight: 900;
+	font-weight: 500;
 }
 em {
 	color: black;
-	font-size: 20px;
+	font-size: 19px;
 	line-height: 0.1em;
-	font-weight: 900;
+	font-weight: 500;
 }
 li {
 	font-family: 'Verdana';
@@ -212,9 +246,20 @@ img {
 	width: 100%;
 	height: auto;
 }
-* {
-	box-sizing: border-box;
+
+img.cover {
+	max-width: 50%;
+	min-width: 50%;
+	height: auto;
+	margin: 5em 5em 5em 5em;
+	-webkit-filter: grayscale(90%);
+	filter: grayscale(90%);
 }
+
+* {	
+	box-sizing: border-box;
+	{
+
 /* Create two equal columns that floats next to each other */
 
 .column {
@@ -222,4 +267,3 @@ img {
 	width: 50%;
 	padding: 10px;
 }
-

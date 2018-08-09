@@ -2,9 +2,27 @@
 title: HOF Art
 permalink: hof-art
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
-
-# HOF Art
 
 (Est. 2013, BKK, originally HOF Art Space) is a  gallery in Thailand, studios and lofts, for painting, sculpture and ceramic founded in 2005 by Jarut Wongkumjantra. From 2014 colocate with the W District project founded Wichai Poolworaluk <span id="a1">[\[1\]](#f1)</span>.
 

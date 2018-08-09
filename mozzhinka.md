@@ -1,7 +1,7 @@
 ---
 title: Mozzhinka
 permalink: mozzhinka
-layout: default
+layout: info
 published: true
 ---
 

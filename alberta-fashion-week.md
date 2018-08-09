@@ -3,7 +3,26 @@ title: Alberta Fashion Week
 permalink: alberta-fashion-week
 layout: default
 published: true
-shortname: ABFW
+shortname: ALBERTAFASHW
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2009, Calgary) is a bi-yearly fashion event in Canada founded by David R. Politi featuring local and national, Canadian designers, first shows were held between October 4–10, 2009, at the Banke of Nova Scotia, on Stephen Avenue. The last show was announced May 16–21, 2011 <span id="a1">[\[1\]](#f1)</span>.

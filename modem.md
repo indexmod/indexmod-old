@@ -4,7 +4,26 @@ permalink: modem
 layout: default
 published: true
 shortname: MODEM
-indexmod: '0,00'
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Est. 1997, Paris) is an online platform founded by Ezio Barbaro, the Modem editions “are the working tool and source of professional information dedicated to those who operate in the fields of fashion and design” <span id="a1">[\[1\]](#f1)</span>.
 

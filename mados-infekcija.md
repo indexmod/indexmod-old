@@ -4,6 +4,26 @@ permalink: mados-infekcija
 layout: default
 published: true
 shortname: MDIA
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Рус. Модная инфекция, осн. 1999, Вильнюс) самое большое в Литве ежегодное шоу моды <span id="a1">[\[1\]](#f1)</span>, проводится в Центре Современного Искусства Вильнюса (Šiuolaikinio Meno Centras) раз в год весной. Первый сезон открыт в 1999 показом дизайнера Сандры Страукайте (Sandra Straukaitė). События «Модной инфекции» проходят при поддержке Bosca производителя игристого вина и вермутов из Италии <span id="a2">[\[2\]](#f2)</span>.

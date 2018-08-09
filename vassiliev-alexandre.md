@@ -2,9 +2,29 @@
 title: Vassiliev, Alexandre
 permalink: vassiliev-alexandre
 layout: default
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
-(Est. 2013, city) is a subject, description-one Alexandre Vassiliev (Rus. Александр Васильев) born 1958, Moscow—internationally renowned1 theater artist, interior designer, art and fashion historian, author of books and articles, lecturer, TV presenter, an honorary member of the Russian Academy of Arts, the founder of the international interior design award “Lily of Alexandre Vassiliev” <span id="a1">[\[1\]](#f1)</span>. 
+(Est. 2013, city) is a subject, description-one Alexandre Vassiliev (Rus. Александр Васильев) born 1958, Moscow—internationally renowned1 theater artist, interior designer, art and fashion historian, author of books and articles, lecturer, TV presenter, an honorary member of the Russian Academy of Arts, the founder of the international interior design award “Lily of Alexandre Vassiliev” <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 

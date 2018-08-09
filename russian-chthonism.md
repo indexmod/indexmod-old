@@ -5,6 +5,25 @@ layout: default
 shortname: RUCH
 indexmod: Indexmod
 published: true
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2016 Moscow) is an art movement in Russia, focused on dead, mummified displays of the tradition of culture in contemporary art based on metaphor of the  Ancient "subterranean" <span id="a1">[\[1\]](#f1)</span> deities or spirits of the underworld, or refers to anything which is under the earth, described by Michael Klimin and group of artists and based at headquarters in Tsentr Krasny <span id="a2">[\[2\]](#f2)</span> in Moscow.

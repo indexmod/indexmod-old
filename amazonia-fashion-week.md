@@ -3,7 +3,26 @@ title: Amazônia Fashion Week
 permalink: amazonia-fashion-week
 layout: default
 published: true
-shortname: AZFW
+shortname: AMAZÔNIAFASHW
+originspell: Amazônia Fashion Week
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a The Amazon Fashion Week is a fashion event that has been taking place since 2007 and features parade brands from Pará, a new creators parade and a fashion fair <span id="a1">[\[1\]](#f1)</span>.

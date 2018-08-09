@@ -2,6 +2,26 @@
 title: Diogenes project
 permalink: page-template
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (It. Progetto Diogene) est. 2007, Turin—is an artistic self-identity group of people working together to create a place for reflecting and exchanging ideas concerning the issues and means of contemporary art practice.
 

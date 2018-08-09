@@ -3,6 +3,26 @@ title: Vemina
 permalink: vemina
 layout: default
 published: true
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Rus. Дом моды «Вемина», est. 1991, Moscow) Russian fashion house founded by Lisa Romanyuk <span id="a1">[\[1\]](#f1)</span>, Today Vemina house owns brand Lisa Romanyuk Vemina and produces two lines of women's clothing Lisa Romanyuk Vemina (haute couture) Veimna City (prêt-à-porter). Among the specific customers of the house are persones correspondent to politics, business, cinema such as Anastasia Makeeva, Irina Medvedeva, Svetlana Zeynalova, Irina Alferova, Valentina Talyzina  <span id="a2">[\[2\]](#f2)</span>.

@@ -2,6 +2,26 @@
 title: Terekhov, Alexander (designer)
 permalink: terekhov-alexander-designer
 layout: default
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) Alexander Terekhov (Rus. Александр Терехов, born 1980, Vyazniki) is a fashion designer, founder of Alexander Terekhov woman's clothing brand. See also: Natalia Vodianova, Mikhail Kusnirovich, Angelina Jolie, Aizel, Cycles and Seasons by Master Card, Elf's by Terekhov, Fashion’s Night Out, GQ Man of the Year, Magic Bar, Mischa Barton, New York Fashion Week, Rusmoda, Russky Siluet , TsUM, Терехов, Александр (Энциклопедия моды).

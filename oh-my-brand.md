@@ -4,7 +4,26 @@ permalink: oh-my-brand
 layout: default
 published: true
 shortname: OHMY
-indexmod: '0,80'
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2010, Saint Petersburg) is a Russian brand of basic clothes with moto "Bread, salt and matches" <span id="a1">[\[1\]](#f1)</span> founded by Sergei Kovelenov (Сергей Ковеленов), positioning itself as a competitor of Uniqlo, Gap, Benetton, H&M <span id="a2">[\[2\]](#f2)</span>.

@@ -2,6 +2,26 @@
 title: Sochi
 permalink: sochi
 layout: default
+shortname: XXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a Sochi (Rus. Сочи) is a city in Russian Federation on the Black Sea coast near the border of Abkhazia. The Greater Sochi area is 3,526 square kilometers sprawls for 145 kilometers along the shores of the Black Sea near the Caucasus Mountains, is a Russia's largest resort city, part of the Caucasian Riviera, one of the few places in Russia with a subtropical climate <span id="a1">[\[1\]](#f1)</span>.

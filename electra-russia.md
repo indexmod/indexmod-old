@@ -4,7 +4,26 @@ permalink: electra-russia
 layout: default
 published: true
 shortname: ELRA
-indexmod: '2,12'
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2010 <span id="a1">[\[1\]](#f1)</span>, Saint Petersburg <span id="a2">[\[2\]](#f2)</span>) is an official representation of the Californian company Electra Bicycle Company (Founded in 1993), which is a division of the American Trek Bicycle Company in Russia and the CIS based on private limited company "VeloKultura SPb. Ltd." (ООО «ВелоКультура СПб.») and operates the brand's stores in Moscow, St. Petersburg, Sochi, Yekaterinburg, Saratov, Krasnodar, Voronezh, Tyumen and Minsk.
@@ -15,7 +34,7 @@ indexmod: '2,12'
 
 *Photo: [Nikita Kopeikin and Sergey Kuznetsov](http://retaildesignblog.net/2014/08/24/electra-bikehub-by-andrey-ukolov-ekaterina-osipova-saint-petersburg-russia) / [Retaildesignblog.net](http://retaildesignblog.net/2014/08/24/electra-bikehub-by-andrey-ukolov-ekaterina-osipova-saint-petersburg-russia)*
 
-# {{page.title}} celebrities list 
+# {{page.title}} celebrities list
 
 |Year|Celeb|
 |-|-|

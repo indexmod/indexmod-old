@@ -2,7 +2,26 @@
 title: House of Artists on Vavilov 65
 permalink: house-of-artists-on-vavilov-65
 layout: default
-published: true
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Est. 2013, city) House of Artists on Vavilov 65а (Rus. Дом художника на Вавилова)—a 13th floor complex of workshops built in Soviet Era on Vavilov Street in Moscow near the crossroad of Cheremushki Market. Many famous artists such as AES+F and Vyacheslav Nazaruk for decades working in their workshops located the house <span id="a1">[\[1\]](#f1)</span>.
 

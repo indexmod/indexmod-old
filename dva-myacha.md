@@ -12,9 +12,26 @@ city: Moscow
 facebook: '6778'
 instagram: '4672'
 youtube: '47'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 founder: Evgeni Raykov (2016)
 ---
 (Est. {{ page.birth }}, {{ page.city }}) is a Soviet brand reinvented by Evgeni Raykov <span id="a1">[\[1\]](#f1)</span> based on the cult in the 60-s in the USSR <span id="a2">[\[2\]](#f2)</span> so-called “two balls” brand of sneakers that have been imported from China <span id="a3">[\[3\]](#f3)</span> in 1960 — 1980 <span id="a4">[\[4\]](#f4)</span>. After 3 years of testing, and searching for investors, ready-to-wear online sales began on July 6, 2016, and retail sales started from July 13, 2016, in department store “Tsvetnoy” <span id="a5">[\[5, 6, 7, 8, 9\]](#f5)</span>.

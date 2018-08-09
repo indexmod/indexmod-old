@@ -3,6 +3,26 @@ title: 'Фуджиока, Садам'
 permalink: fujioka-sadam
 layout: default
 published: true
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (англ. Internet Yami-Ichi; яп. インターネットヤミ市; осн. 2012, Токио) «черный рынок зависимых от интернета», «свободный рынок офлайн-браузинга», который дает возможность спроецировать цифровой мир в реальную жизнь в виде материализованных интернет-явлений в исполнении художников, дизайнеров, программистов и энтузиастов интернет-культуры. Впервые рынок Ями-Ичи провели в Токио в 2012 году, в последующие годы рынок проводили в Нью-Йорке, Амстердаме, Брюсселе, Сан-Паулу, Берлине, Москве <span id="a1">[\[1\]](#f1)</span>, так же в Новом Орлеане проходил одноимённый микро-рынок <span id="a2">[\[2\]](#f2)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/internet-yami-ichi.md)

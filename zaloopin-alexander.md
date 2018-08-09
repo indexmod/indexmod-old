@@ -4,7 +4,26 @@ permalink: zaloopin-aleksander
 layout: default
 published: true
 shortname: ZLOO
-indexmod: '0,004'
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Rus. Александр Залупин, born 1969, Rostov-on-Don <span id="a1">[\[1\]](#f1)</span>)  is a Russian singer, musician, performance artist, "the first and so far the only open gay-chansonnier of Russia", creator of "texts of the life stories, written from the first person" <span id="a2">[\[2\]](#f2)</span>, "the father of the gay chanson, bard, voice of the generation, genius of the madmen, a favorite of women, men and not-a-men, singer of the endless snow-covered field, the King of a multi-layered messages, the most modern in art" <span id="a3">[\[3\]](#f3)</span> person by judgments of various journalists.

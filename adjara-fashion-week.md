@@ -3,8 +3,27 @@ title: Adjara Fashion Week
 permalink: adjara-fashion-week
 layout: default
 published: true
-shortname: AJFW
-indexmod: '0,00'
+shortname: ADJARAFASH
+originlang: Ge.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2015, Batumi) is fashion event in Georgia held in Batumi Palm Apartment.

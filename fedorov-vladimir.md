@@ -3,6 +3,26 @@ title: 'Fedorov, Vladimir'
 permalink: fedorov-vladimir
 layout: default
 published: true
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Ukr. Федоров Володимир, born 1963, Sumi, dead, 2018 Kharkiv) Ukrainian-Russian artist, co-founder of the art group “Inspection of Medical Hermeneutics”, Precious fetish of "Medical Hermeneutics" <span id="a1">[\[1\]](#f1)</span>, in 2014 moved to Moscow, in 2015 have worked with Ivana Babushkina at House of Artists on Vavilov 65 <span id="a2">[\[2\]](#f2)</span>.

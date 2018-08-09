@@ -4,6 +4,26 @@ permalink: butler-john-director
 layout: default
 published: true
 shortname: BAJH
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Англ. John Butler) это имя учетной записи и псевдоним в видеохостинге Vimeo с девизом «Человеческая полезность, в эпоху искусственного безразличия» <span id="a1">[\[1\]](#f1)</span>, который принадлежит, предположительно, человеку с псевдонимом или с настоящим именем Джон Батлер, видео-артисту работающему с виртуальной реальностью <span id="a3">[\[3\]](#f3)</span>, автору музыки и создателю серии сверхкоротких научно-фантастических видео эпизодов затрагивающих темы искусственного интеллекта и людей в будущем.

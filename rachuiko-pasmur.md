@@ -4,7 +4,25 @@ permalink: rachuiko-pasmur
 layout: default
 shortname: RAPA
 indexmod: '0,1208'
-published: true
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Rus. Пасмур Рачуйко, born. 1986, Rostov-on-Don) is a Russian artist working using a subjectivist pantheon of symbolic characters and pop culture memes, among which self-portraits occupy a key position, being placed in the context of issues surrounding gender, social and national identification, educated at the St. Petersburg State University of Culture and Arts, painting since 2012 <span id="a1">[\[1\]](#f1)</span>, as well as, the artist carries out performances using locally foraged foods as media, such as snails and nettles, works are held in private and museum collections in Coldrerio (Switzerland), Milan (Italy), Moscow and St. Petersburg (Russia), among his works there are also ceramic tiles <span id="a2">[\[2\]](#f2)</span>. Living and working in Rostov-on-Don.

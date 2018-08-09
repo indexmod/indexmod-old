@@ -3,7 +3,26 @@ title: Art-Athina
 permalink: art-athina
 position: null
 layout: default
-shortname: ARAT
+shortname: ARTATHINA
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) Art-Athina (International Contemporary Art Fair of Athens) est. 1993—is an annual international contemporary art fair that takes place in Athens, Greece launched by the Hellenic Art Galleries Association, Art-Athina stands today as one of the longest lasting contemporary art fairs in Europe and as the largest annual visual arts event in Greece. A meeting point for international artistic creation, Art-Athina brings together significant Greek and foreign art galleries, cultural institutions, curators, collectors, art critics and art lovers <span id="a1">[\[1\]](#f1)</span>.

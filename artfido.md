@@ -2,7 +2,26 @@
 title: Artfido
 permalink: artfido
 layout: default
-shortname: ARFI
+shortname: ARTFIDO
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) Artfido (artFido) est. 2011—is an online sales and auction, independent, owned by art lovers wanting to bring art to everyone site dedicated to art based in Carlton North, Victoria, Australia. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.

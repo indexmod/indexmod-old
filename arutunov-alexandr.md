@@ -2,7 +2,26 @@
 title: Arutunov, Alexandr
 permalink: arutunov-alexandr
 layout: default
-shortname: ARAL
+shortname: ARUTUNOV
+originspell: Александр Арутюнов (дизайнер)
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) Alexandr Arutunov (Rus. Александр Арутюнов, born, 1981, Georgia) is a Russian-Georgian fashion designer founder of Alexander Arutyunov fashion brand and Alexander Arutyunov Jewelry working and living in Moscow.  <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.

@@ -2,6 +2,26 @@
 title: Taiga (jewelry)
 permalink: taiga-jewelry
 layout: default
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 Taiga (Rus. Тайга, эмбиент-украшения ручной работы, est. 2013, Moscow) is a Russian “ambient”, casual, exclusive, middle-segment  jewelry brand and shop founded by Anastasia Taiga, brand is promoted through social networks and sells products of private goldsmiths, as well as its own products under the Taiga brand. Average prices from 3 to 25 thousand rubles. Jewelry made by locals in silver and silver gilt and some natural stones. The target audience average 17 — 40 years old, with the gender split 70% (women) and 30% (men).  

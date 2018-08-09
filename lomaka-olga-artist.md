@@ -2,9 +2,27 @@
 title: Lomaka, Olga (artist)
 permalink: lomaka-olga-artist
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
-
-# {{page.title}}
 
 (Est. 2013, city) is a Lomaka, Olga (artist)
 Olga Lomaka (Rus. Ольга Ломака)—British-Russian artist living and studing in London at Central Saint Martins College, Fashion Design Camberwell College of Arts. Lomaka started study at painting courses Central Saint Martins College of Arts and Loyola University in Chicago. Login to edit Olga Lomaka

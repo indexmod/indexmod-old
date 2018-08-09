@@ -2,6 +2,26 @@
 title: Khromtchenko, Evelina
 permalink: khromtchenko-evelina
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a (Rus. Эвелина Хромченко) born, 1971, Ufa—is a Russian journalist and media person, one of the most recognisable and influential fashion figures in Russia, having been editor-in-chief of L’Officiel Russia for 13 years as well as a television presenter, radio personality, and PR executive, working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.

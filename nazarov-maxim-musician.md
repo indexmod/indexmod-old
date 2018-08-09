@@ -4,7 +4,28 @@ permalink: nazarov-maxim-musician
 layout: default
 published: true
 shortname: NAMA
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
+
 (Born. 1984 <span id="a1">[\[1\]](#f1)</span>, Moscow) is a Russian musician <span id="a1">[\[2\]](#f1)</span>, founder of Audio Visual Entertainment Company (AVEC) <span id="a3">[\[3\]](#f3)</span> living in Moscow and NYC.
 
 ![](/images/{{page.permalink}}.jpg)

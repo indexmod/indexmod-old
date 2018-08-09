@@ -3,6 +3,26 @@ title: Как редактировать
 permalink: edit-ru
 layout: info
 published: true
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 ## Ссылка Edit
@@ -123,7 +143,7 @@ published: true
 
 ## Раздел «См. также»
 
-«См. также» соединяет определенную статью со связанными по теме статьями в Indexmod blockchainpedia. Используй шаблон ниже  для форматирование списка ссылок. 
+«См. также» соединяет определенную статью со связанными по теме статьями в Indexmod blockchainpedia. Используй шаблон ниже  для форматирование списка ссылок.
 
 Код
 
@@ -135,11 +155,11 @@ published: true
 
 ## Раздел Ссылки
 
-Код 
+Код
 
 `[[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)] (http://example.net/article)`
 
-Будет показан так 
+Будет показан так
 
 [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)
 

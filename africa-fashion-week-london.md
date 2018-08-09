@@ -3,7 +3,26 @@ title: Africa Fashion Week London
 permalink: africa-fashion-week-london
 layout: default
 published: true
-shortname: AFWL
+shortname: AFRFASHWLONDON
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Est. 2011, London) is a fashion event in England founded by Ronke Ademiluyi <span id="a1">[\[1\]](#f1)</span>, annual event showcasing and celebrating work from established and emerging African designers.
 

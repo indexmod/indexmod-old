@@ -5,17 +5,25 @@ layout: default
 shortname: DAVI
 indexmod: Indexmod
 birth: '1968'
-age: '50'
-updateyear: '2018'
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
 city: Moscow
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-published: true
-founder: Name
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a Russian journalist, former editor-in-chief of the Russian magazine Vogue, former editor-consultant of the Glamor magazine, previously worked as editor-in-chief of the magazine Tatler <span id="a1">[\[1\]](#f1)</span>. In 2018 Victoria left the publishing house where she worked for 20 years.

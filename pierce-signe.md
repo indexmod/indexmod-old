@@ -2,9 +2,28 @@
 title: Pierce, Signe
 permalink: pierce-signe
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
-# {{page.title}}
 
 (Est. 2013, city) is a Signe Kristine Pierce born 1988, Tucson— is an American multimedia artist and performer. Pierce studied at the School of Visual Arts in Manhattan, where she received a BFA in Photography with a focus on performance art in 2011. During her time at the School of Visual Arts, Signe interned for Saturday Night Live and the Metropolitan Museum of Art in New York.1 Sign in to edit Signe Pierce <span id="a1">[\[1\]](#f1)</span>. American Reflexxx
 Signe Pierce rose with the 2014 short film, American Reflexxx, in collaboration with director Alli Coates. The film shows masked and portraying a hyper-sexualized personage, becoming an object of derision and then attacked.2
@@ -40,7 +59,7 @@ Hiding in love
 # Footnotes
 
 1, 2 Signe Pierce—From Wikipedia, the free encyclopedia
-3 American Reflexxx / Hiding in love—Corsa 
+3 American Reflexxx / Hiding in love—Corsa
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 

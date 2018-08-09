@@ -4,6 +4,26 @@ permalink: duma-miroslava
 layout: default
 published: true
 shortname: DUMI
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Born 1985, Surgut) model, journalist from Russia <span id="a1">[\[1\]](#f1)</span>, founder of Buro 24/7, ambassador of Chanel (2013), spokeswoman in "Chime for Change" by Gucci <span id="a2">[\[2\]](#f2)</span>, graduated MGIMO (Masters in International Business Administration). From 2007 worked for Harper’s Bazaar, Axel Springer Russia, Conde Nast and TSUM Moscow.

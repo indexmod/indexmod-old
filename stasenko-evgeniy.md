@@ -2,6 +2,26 @@
 title: Stasenko, Evgeniy
 permalink: stasenko-evgeniy
 layout: default
+shortname: INDEXMOD
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a Evgeniy Stasenko (Rus. Евгений Стасенко) born 1958, Budapest, —is a Russian artist living and working in Spain <span id="a1">[\[1\]](#f1)</span>.

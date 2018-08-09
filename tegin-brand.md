@@ -2,6 +2,26 @@
 title: Tegin (brand)
 permalink: tegin-brand
 layout: default
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) Tegin, Tegin Fashion House (Rus. Тегин) is a name for haute couture and prêt-à-porter wear for woman and kids and fashion house founded in 2001 by Russian-Ukrainian designer Svetlana Tegin1, “Svetlana is often called “the queen of cashmere” due to an exclusive quality of her products that use Mongolian Cashmere

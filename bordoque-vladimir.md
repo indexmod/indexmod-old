@@ -4,6 +4,26 @@ permalink: bordoque-vladimir
 layout: default
 published: true
 shortname: BOVL
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Ukr. Володимир Бордок, also Vova Bordo, born 1982, Dniepropetrovsk) is a Russian and Ukrainian artist, journalist, founder the brand "13. 15." <span id="a1">[\[1\]](#f1)</span>, former Chief Editor of Vconfession online edition, former art director of Air Store in Moscow, DJ, accessories designer, author of fashionable concepts, shop windows decorator, promoter and collector <span id="a2">[\[2\]](#f2)</span> living in Moscow.
 

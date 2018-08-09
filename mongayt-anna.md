@@ -3,6 +3,26 @@ title: 'Mongayt, Anna'
 permalink: mongayt-anna
 layout: default
 published: true
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Rus. Анна Монгайт, maiden Loshak <span id="a1">[\[1\]](#f1)</span>, born. 1978, Odessa) Russian journalist, actress, TV presenter, creative producer of the television channel "Rain".
@@ -30,7 +50,7 @@ published: true
 |Son|Matvei Mongayt|
 |Son|Demian Mongayt|
 
-# Anna Mongayt Indexmod 
+# Anna Mongayt Indexmod
 
 |Year|Facebook|Instagram|Age|AMI|
 |-|-|-|-|-|

@@ -4,6 +4,25 @@ permalink: samokatjan-misak
 layout: default
 published: true
 shortname: SAMI
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Rus. Мисак Самоктьян, born. in 1983, Stanitsa Marianskaya) is a Russian visual artist student of Rodchenko School <span id="a1">[\[1\]](#f1)</span>, co-founder of [Proun](proun-movement), also known as [Minasyan (Минасян)](minasyan-misak), curator in Synthposium festival <span id="a2">[\[2\]](#f2)</span>, a transcendental person who does not exist in the consciousness of being-for-itself, phenomenon of the phenomenon, existential emanation of self, ontological accident, escapist-technocrat, minimalist, nothingness structuralist, intelligent dadaist, scholastic saboteur, techno mannerist, catechist of the absurd. Misak living and working in Moscow.
 

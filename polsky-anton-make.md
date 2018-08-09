@@ -2,9 +2,28 @@
 title: Polsky, Anton (Make)
 permalink: polsky-anton-make
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
-## {{page.title}}
 
 (Est. 2013, city) is a Anton Polsky (Rus. Антон Польский) born 1982, Moscow—a Russian interventionist, artist, activist and designer, graduate of Russia’s State Humanitarian University, Department of History of Art.1 <span id="a1">[\[1\]](#f1)</span>.
 

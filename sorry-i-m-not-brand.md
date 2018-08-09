@@ -2,6 +2,26 @@
 title: Sorry, I'm not (brand)
 permalink: sorry-i-m-not-brand
 layout: default
+shortname: XXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Rus. Сорри, Ай Эм Нот, ООО) est. 2013, Moscow, is a Russian fashion brand founded by Nikita Moiseenko <span id="a1">[\[1\]](#f1)</span>. Sorry, I'm not is a streetwear brand inspired by paintings, contemporary art, biology and sciences headquartered in Moscow with link to St. Petersburg combining the spirit of the two capitals. The brand's unique feature is its print all over 100% cotton fabric. All collections are limited, each item is custom-made and unique, production facility is located in the center of Moscow and specializing in fabric printing and making t-shirts using own unique patterns.
 

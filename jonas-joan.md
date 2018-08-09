@@ -2,9 +2,27 @@
 title: Jonas, Joan
 permalink: jonas-joan
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
-
-# {{page.title}}
 
 (Est. 2013, city) Joan Jonas, born 1936, New York City—is an American visual artist and a pioneer of video and performance art who is one of the most important female artists in the late 1960s and early 1970s. Jonas' projects and experiments provided the foundation on which much video performance art would be based. Her influences also extended to conceptual art, theatre, performance art and other visual media. She lives and works in New York and Nova Scotia, Canada <span id="a1">[\[1\]](#f1)</span>.
 

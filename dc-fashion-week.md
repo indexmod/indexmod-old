@@ -2,6 +2,26 @@
 title: DC Fashion Week
 permalink: dc-fashion-week
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) DC Fashion Week (DCFW) est. in 2013, Washington—is a not-profit corporation organized for charitable and educational purposes, providing free consulting services and business development assistance in the areas of fashion design, clothing merchandising and modeling to new or underprivileged fashion designers in the District of Columbia who wish to enter the fashion apparel industry; providing scholarships and tuition assistance to underprivileged students wishing to attend accredited fashion programs; and providing education regarding fashion show production.

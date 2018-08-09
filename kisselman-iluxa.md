@@ -2,6 +2,26 @@
 title: Kisselman, Iluxa
 permalink: kisselman-iluxa
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is Iluxa Kisselman (Rus. Илья Киссельман) born 1973, Moscow—Russian artist, art director, working with a number of technics from pencil graphics to video and animation, a graduate of Moscow Architectural Institute, founder and teacher of the Kisselman Studio <span id="a1">[\[1\]](#f1)</span>.

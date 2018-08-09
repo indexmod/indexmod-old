@@ -2,6 +2,26 @@
 title: Volkova, Lotta
 permalink: volkova-lotta
 layout: default
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 ((Rus. Лотта Волкова, born, Vladivostok) is a Russian stylist, photographer, filmmaker, founder of the brand Lotta Skeletrix, “coolest stylist in the industry,” “queen of the Parisian underground”, “fashion arbiter of her generation" <span id="a1">[\[1\]](#f1)</span>.

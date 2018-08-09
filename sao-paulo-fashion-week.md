@@ -2,6 +2,26 @@
 title: São Paulo Fashion Week
 permalink: sao-paulo-fashion-week
 layout: default
+shortname: XXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Int. SPFW) is a trade show held semi-annually in São Paulo. It is notable as “Latin America's pre-eminent fashion event” and it is considered the fifth largest fashion week after in the world behind New York, London, Paris and Milan. It has been controversial in the past because of a “longstanding bias towards white models”. In 2009, quotas were imposed that required that 10 percent of models be “black or indigenous” as a way to foster equal opportunity.

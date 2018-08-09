@@ -3,6 +3,26 @@ title: Basel
 permalink: basel
 position:
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span> Basel (Lat. Regio TriRhena) is Switzerland's city 3rd behind Zürich and Geneva, the tri-national metropolitan region near the border and has abroad suburbs in France and Germany. The local German is called Basel German. The city has a large number of theatres and museums, including the Museum of Fine Arts, the world's oldest collection accessible to the public. Sign in to edit Basel

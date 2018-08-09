@@ -2,9 +2,28 @@
 title: Lianozovo Curse
 permalink: lianozovo-curse
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
-# {{page.title}}
 
 (Est. 2013, city) is a Lianozovo Curse or Lianozovo platform Curse (Rus. Проклятие платформы Лианозово)—a TV series based on idea and storyboard on following hypothetical novel by Andrei Deinichenko from in 2015 in Moscow and directed by Miс Sachkov.1 Sign in to edit Lianozovo platform Curse <span id="a1">[\[1\]](#f1)</span>.
 
@@ -12,7 +31,7 @@ layout: default
 
 **Image title**
 Cover of the Lianozovo platform Curse, first half of the 2010s
-Illustration: Mic Sachkov / Indexmod 
+Illustration: Mic Sachkov / Indexmod
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus

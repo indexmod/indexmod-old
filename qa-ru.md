@@ -1,7 +1,7 @@
 ---
 title: FAQ
 permalink: qa-ru
-layout: info-ru
+layout: info
 published: true
 ---
 # Почему некоторые статьи по-английски?

@@ -4,6 +4,25 @@ permalink: indexmod-blockchainpedia
 layout: default
 published: true
 shortname: INBL
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Est. 2006, Moscow) a wiki-site based on the conception of hybriding wiki, blockchain, ICO and social networking developing by Andrei Deinichenko <span id="a1">[\[1\]](#f1)</span>. In the very beginning Indexmod brand was described as game <span id="a2">[\[2\]](#f2)</span> and TV programm <span id="a3">[\[3\]](#f3)</span>.
 
@@ -28,18 +47,7 @@ The aim of Indexmod to simplify wiki syntax for a pretty and light format. Follo
 
 Indexmod was established as brand and concept from the idea of visualization of the statistics about fashion and artists. Firstly it has realized in the poster supplied to Afisha magazine in Moscow in 2005. Later in 2006, Indexmod was established as brand name covering an experimental project to arrange data about designers and artists. Today Indexmod developing as the wiki (Indexmod Encyclopedia) on the one hand, as rating engine (Indexmod) on the other hand. The aim of the project is to create an elegant looking, alternative software based on the idea of an anonymous real-time wiki editing and semantic markup integration. 2018, renamed to Indexmod blockchainpedia with domain Indexmod.gq (Equatorial Guinea).
 
-## {{page.title}} Indexmod [*](indexmod)
-
-|Varables|2018|2019|
-|-|-|-|
-|Facebook <span id="a4">[\[4\]](#f4)</span>|223||
-|Instagram <span id="a5">[\[5\]](#f5)</span>|147||
-|YouTube <span id="a6">[\[6\]](#f6)</span>|17||
-|Age|12||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|0,01||
-
-## See also 
+## See also
 
 + [Index](index)
 + [Indexmod Coin](coins)

@@ -3,9 +3,28 @@ title: Propaganda (2016)
 permalink: propaganda-2016
 layout: default
 published: true
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
-# {{page.title}}
 
 (Est. 2013, city) is a Propaganda (Rus. Пропаганда) created in 2016, Moscow—is a sound installation by Kazakov in a genre of sound-art <span id="a1">[\[1\]](#f1)</span>.
 

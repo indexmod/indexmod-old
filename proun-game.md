@@ -4,7 +4,25 @@ permalink: proun-game
 layout: default
 published: true
 shortname: PROUN
-indexmod: Indexmod
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Созд. 2011, Амстердам) независимая игра-гонка для платформ PC и Mac, созданная голландским девелопером Юстом ван Донгеном <span id="a1">[\[1\]](#f1)</span>, с абстрактным игровым пространством напоминающим по стилю супрематческие [прауны](proun-visual-concept) Эль Лисицкого, в котором нет понятий вверха и низа, в которой шарик-игрок движется по кабелю пронизывающему мир геометрических объектов и больших цветных поверхностей, с целью избегать препятствия вращаясь вокруг поверхности кабеля и разогнаться как можно быстрее <span id="a2">[\[2\]](#f2)</span>.

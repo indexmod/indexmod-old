@@ -4,6 +4,26 @@ permalink: eykhbaum-cecilia
 layout: default
 published: true
 shortname: EYCE
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 
@@ -26,7 +46,7 @@ shortname: EYCE
 
 ![](https://static.vogue.ru/iblock/14d/14d02322a09d07a225c4e036eb98db23.jpg)
 
-**Cecilia Eykhbaum (center) 
+**Cecilia Eykhbaum (center)
 visiting New Year's Eve of the Naked Heart Foundation and the presentation of Pavel Kaplevich's opera**
 
 *Photo: [Vogue](index) / [Vogue.ru](https://www.vogue.ru/fashion/people-and-parties/Voskresnyy_SHCHelkunchik/)*

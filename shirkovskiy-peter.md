@@ -2,6 +2,26 @@
 title: Shirkovskii, Peter
 permalink: shirkovskii-peter
 layout: default
+shortname: XXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2013, city) is a Peter Shirkovskiy (Rus. Петя Ширковский), a Russian ethnographer3, film director, a collector of paintings and graphic art, curator4, jewelry designer5, the inspector for cultural heritage of Vorobievy Gory area in Moscow, specialist in “Odessa conceptualist group of the 1980s”, founder of “Shirka Film”, the author and a representative of the “Ukrainian Art 1980—2000”, Curator in Kiev for Indexmod Encyclopedia, graduate of Russian State University for the Humanities <span id="a1">[\[1\]](#f1)</span>.

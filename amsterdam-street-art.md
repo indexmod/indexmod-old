@@ -2,7 +2,26 @@
 title: Amsterdam Street Art
 permalink: amsterdam-street-art
 layout: default
-shortname: AMSR
+shortname: AMSTERDAMSTRART
+originspell: Amsterdam Street Art
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Est. 2010, Amsterdam) Amsterdam Street Art—a non-profit organization, before 2014 Amsterdam Street Art festival has provided an exchange between street artists and the creative sector in the Amsterdam, from 2015 organization is going abroad with international activities. <span id="a1">[\[1\]](#f1)</span>, In collaboration with Lombardi Properties in Miami, USA-ASA presented Amsterdam art during Art Basel Miami in 2014. This project was a collaborative clash of street art, contemporary art, local architecture, top-notch design, American culture and Dutch roots <span id="a2">[\[2\]](#f2)</span>.

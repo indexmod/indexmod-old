@@ -3,6 +3,26 @@ title: Bourdine, Natalia
 permalink: bourdine-natalia
 position:
 layout: default
+shortname: XXXXXXXXX
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 (Rus. Наталья Бурдина) born Slonim, Belorussia. Co-Founder and Editor-in-Chief of Relooking and Femme Kiosque. From 2011 to 2013 Editor-in-Chief  «Industria mody» and «International textiles» at Edipresse. Login to edit

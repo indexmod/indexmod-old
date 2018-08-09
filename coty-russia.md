@@ -6,6 +6,26 @@ published: true
 shortname: COTR
 birth: 1999
 city: Moscow
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 (Rus. Коти Россия, est {{ page.birth }}, {{ page.city }}) is a dauter of global leader in beauty with 47 brands in 40 countries with the capitalisation of $4.4b in revenue <span id="a1">[\[1\]](#f1)</span>. In Russia Coty have more than 150 employees and representatives in different regions.
 

@@ -2,6 +2,26 @@
 title: Vogoς
 permalink: vogoc
 layout: default
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
 ---
 
 Vogoς, Vogoς magazine (Rus. Журнал Вогос) est. 2016, Moscow—is a “magazine about glamor and discourse” announced by a group of Moscow contemporary art enthusiasts. Expected release date June 2016. <span id="a1">[\[1\]](#f1)</span> extra text.
