@@ -24,11 +24,15 @@ prose:
   siteurl: 'https://indexmod.ga'
   relativeLinks: 'https://prose.github.io/starter/links.jsonp'
   media: '/images'
+
   ignore:
     - index.md
     - _config.yml
     - /_layouts
     - /_includes
+    - 404.md
+    - README.md
+
 
 gems:
   - jekyll-sitemap
