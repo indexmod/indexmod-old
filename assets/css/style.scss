@@ -4,7 +4,15 @@
 
 .rex {
 	font-family: 'Helvetica Neue';
-	font-size: 23px;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 1.5em;
+	color: white;
+}
+
+.rex:hover {
+	font-family: 'Helvetica Neue';
+	font-size: 21px;
 	font-weight: 100;
 	line-height: 1.5em;
 	color: black;
@@ -12,7 +20,16 @@
 
 .rates-top {
 	font-family: 'Helvetica Neue';
-	font-size: 22px;
+	font-size: 20px;
+	line-height: 1.5em;
+	font-weight: 100;
+	-webkit-filter: grayscale(90%);
+	filter: grayscale(90%);
+}
+
+.rates-top:hover {
+	font-family: 'Helvetica Neue';
+	font-size: 20px;
 	line-height: 1.5em;
 	font-weight: 900;
 }
@@ -25,6 +42,8 @@
 	font-weight: 900;
 	color: black;
 }
+
+
 
 .intro {
 	font-family: 'Verdana';
