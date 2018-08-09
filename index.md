@@ -3,9 +3,7 @@ title:
 layout: cover
 ---
 
-## List of articles 
-
-
+**List of articles**
 
 <ul>
 
