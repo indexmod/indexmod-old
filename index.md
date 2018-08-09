@@ -3,6 +3,8 @@ title:
 layout: cover
 ---
 
+**List of articles**
+
 <ul>
 
   {% assign mypages = site.pages | sort: "order" %}
