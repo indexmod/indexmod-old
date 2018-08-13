@@ -12,18 +12,22 @@
 <span class="rates-top">
 
  <marquee behavior="scroll" scrollamount="17" direction="left" height="80px" loop="-1" style="border:0px" width="99%" padding="0px" onmouseover="this.stop();" onmouseout="this.start();">
+{% for page in site.pages %}
+{% unless page.exclude %}
 
- {% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}
+{% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}
+
 
  <a href="{{page.url|absolute_url}}"> {{ page.shortname }} <span class="rate">{% include indexmod.html %}</a></span> <span class="rex"> | </span>
+ {% endunless %}
  {% endfor %}
 
 </marquee>
 
 </span>
- 
+
 {% include editors-word.html %}
- 
+
 <hr>
 
 {{ content }}
