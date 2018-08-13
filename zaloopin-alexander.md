@@ -2,37 +2,38 @@
 title: 'Zaloopin, Aleksander'
 permalink: zaloopin-aleksander
 layout: default
-published: true
 shortname: ZALOOPIN
+givenname: Aleksander
+familyname: Zaloopin
+othername:
 originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
+originspell: Александр Залупин
+appearing: Born
+birth: 1969
+city: Rostov-on-Don
+facebook: '0'
+instagram: '0'
+youtube: '0'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
+vkontakte: '47'
 origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
-founder: 'Andrei Dei'
+profession: Russian singer, musician, performance artist, "the first and so far the only open gay-chansonnier of Russia"
+photo: Aleksander Zaloopin in 2012
+photographer: Sergei Misenko
+source: Sobaka
+photographerurl: misenko-sergei
+sourceurl: http://www.sobaka.ru/city/portrety/13779
+founder: 'Aleksander Zaloopin'
 ---
 
-(Rus. Александр Залупин, born 1969, Rostov-on-Don <span id="a1">[\[1\]](#f1)</span>)  is a Russian singer, musician, performance artist, "the first and so far the only open gay-chansonnier of Russia", creator of "texts of the life stories, written from the first person" <span id="a2">[\[2\]](#f2)</span>, "the father of the gay chanson, bard, voice of the generation, genius of the madmen, a favorite of women, men and not-a-men, singer of the endless snow-covered field, the King of a multi-layered messages, the most modern in art" <span id="a3">[\[3\]](#f3)</span> person by judgments of various journalists.
+Alexander born 1969, Rostov-on-Don <span id="a1">[\[1\]](#f1)</span>)  described himself and by media as "the first and so far the only open gay-chansonnier of Russia", creator of "texts of the life stories, written from the first person" <span id="a2">[\[2\]](#f2)</span>, "the father of the gay chanson, bard, voice of the generation, genius of the madmen, a favorite of women, men and not-a-men, singer of the endless snow-covered field, the King of a multi-layered messages, the most modern in art" <span id="a3">[\[3\]](#f3)</span> person by judgments of various journalists.
 
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+**Модный художник в Лондоне в майке «Cock Magnet»**
 
-**Aleksander Zaloopin in 2012**
-
-*Photo: [Sergei Misenko](misenko-sergei) / [Sobaka](http://www.sobaka.ru/city/portrety/13779)*
+![](https://pp.userapi.com/c845018/v845018416/949af/BXfYUjSOR9w.jpg)
+*Photo: [Александр Залупин](zaloopin-aleksander) / [Vk.com](https://pp.userapi.com/c845018/v845018416/949af/BXfYUjSOR9w.jpg)*
 
 ## Singles and albums
 
@@ -49,7 +50,9 @@ founder: 'Andrei Dei'
 ## See also
 
 + [Kirill Shamanov](shamanov-kirill)
+
 + [Zaitsev, Vyacheslav](zaitsev-vyacheslav)
+
 + [Zambia Fashion Week, The](zambia-fashion-week-the)
 
 ## Footnotes
