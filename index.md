@@ -4,7 +4,7 @@ layout: cover
 exclude: true
 ---
 
-## List of articles
+# The articles
 
 <ul>
 
