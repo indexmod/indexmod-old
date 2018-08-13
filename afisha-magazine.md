@@ -2,38 +2,31 @@
 title: Afisha (magazine)
 permalink: afisha-magazine
 layout: default
-published: true
 shortname: AFISHAMAG
 givenname: Name
 familyname: Family name
 othername: Other name
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originspell: Журнал Афиша
+appearing: Est.
+birth: 1999
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
+facebook: '868677'
+instagram: '55700'
+youtube: '1045562'
+vimeo: '0'
+twitter: '300000'
+tumblr: '0'
+vkontakte: '286786'
 origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
+profession: magazine and website by Russian Ilya Oskolkov-Tsentsiper and American Andrew Paulson
+photo: 9-th issue 26 july — 8 august of the 1999
+photographer: Archive
+source: Afisha.ru
 photographerurl: dei-andrei
-sourceurl: index
-founder: 'Andrei Dei'
+sourceurl: http://s.afisha.ru/MediaStorage/90/75/907504f3175744c187fa690b646a.jpg
+founder: 'Ilya Oskolkov-Tsentsiper, Andrew Paulson'
 ---
-(Rus. Афиша, est. 1999, Moscow) is Russian brand name founded by Russian Ilya Oskolkov-Tsentsiper and American Andrew Paulson, now magazine and website, about the urban, development culture, fashion, food, entertainment, and owned by Rambler&Co (2016) <span id="a1">[\[1\]](#f1)</span>.
-
-![](http://s.afisha.ru/MediaStorage/90/75/907504f3175744c187fa690b646a.jpg)
-
-**9-th issue 26 july — 8 august of the 1999**
-
-*Photo: [Archive](index) / [Afisha.ru](http://s.afisha.ru/MediaStorage/90/75/907504f3175744c187fa690b646a.jpg)*
+Brand name founded by Russian Ilya Oskolkov-Tsentsiper and American Andrew Paulson, now magazine and website, about the urban, development culture, fashion, food, entertainment, and owned by Rambler&Co (2016) <span id="a1">[\[1\]](#f1)</span>.
 
 # See also
 
