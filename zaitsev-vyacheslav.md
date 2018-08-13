@@ -3,7 +3,7 @@ title: 'Zaitsev, Vyacheslav'
 permalink: zaitsev-vyacheslav
 layout: default
 published: true
-shortname: ZAVY
+shortname: ZAITSEV
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

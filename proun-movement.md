@@ -2,7 +2,7 @@
 title: Proun (movement)
 permalink: proun-movement
 layout: default
-shortname: PRMV
+shortname: PROUN
 published: true
 originspell: Шаблон
 appearing: Updated

@@ -2,7 +2,7 @@
 title: Mutasov, Gennady
 permalink: mutasov-gennady
 layout: default
-published: true
+shortname: MUTASOV
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

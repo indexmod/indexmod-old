@@ -2,6 +2,7 @@
 title: Raskovalova, Yana (jeweller)
 permalink: raskovalova-yana-jeweller
 layout: default
+shortname: RASKOVALOVA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

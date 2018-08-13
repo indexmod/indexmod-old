@@ -2,6 +2,7 @@
 title: Mazurenko, Roman
 permalink: mazurenko-roman
 layout: default
+shortname: MAZURENKO
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

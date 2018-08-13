@@ -3,7 +3,7 @@ title: Sever (2017)
 permalink: sever-2017
 layout: default
 published: true
-shortname: XXXXX
+shortname: SEVER2017
 originspell: Шаблон
 appearing: Updated
 birth: 2018

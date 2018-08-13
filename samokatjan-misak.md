@@ -3,7 +3,7 @@ title: 'Samokatjan, Misak'
 permalink: samokatjan-misak
 layout: default
 published: true
-shortname: SAMI
+shortname: SAMOKATJAN
 originspell: Шаблон
 appearing: Updated
 birth: 2018

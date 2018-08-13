@@ -2,9 +2,7 @@
 title: 'Nazarov, Maxim (musician)'
 permalink: nazarov-maxim-musician
 layout: default
-published: true
-shortname: NAMA
-shortname: XXXXXXXXX
+shortname: NAZAROV
 originspell: Шаблон
 appearing: Updated
 birth: 2018

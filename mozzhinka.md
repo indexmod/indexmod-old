@@ -1,8 +1,9 @@
 ---
 title: Mozzhinka
 permalink: mozzhinka
-layout: info
-published: true
+layout: default
+shortname: MOZZHINKA
+
 ---
 
 # {{page.title}}

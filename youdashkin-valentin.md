@@ -2,7 +2,7 @@
 title: 'Youdashkin, Valentin'
 permalink: youdashkin-valentin
 layout: default
-shortname: YUVA
+shortname: YOUDASHKIN
 published: true
 originlang: Rus.
 originspell: Шаблон

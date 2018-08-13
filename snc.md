@@ -2,7 +2,7 @@
 title: SNC
 permalink: snc
 layout: default
-shortname: XXXXX
+shortname: SNCMAG
 originspell: Шаблон
 appearing: Updated
 birth: 2018

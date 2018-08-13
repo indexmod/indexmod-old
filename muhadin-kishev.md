@@ -2,6 +2,7 @@
 title: Muhadin, Kishev
 permalink: muhadin-kishev
 layout: default
+shortname: MUHADIN
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

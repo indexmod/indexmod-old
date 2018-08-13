@@ -2,7 +2,7 @@
 title: Panika Derevya (brand)
 permalink: panika-derevya-brand
 layout: default
-shortname: XXXXXXXXX
+shortname: PANIKADEREVYA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

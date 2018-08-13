@@ -3,7 +3,7 @@ title: Nina Donis
 permalink: nina-donis
 layout: default
 published: true
-shortname: NIDO
+shortname: NINADONIS
 indexmod: '0,26'
 birth: '2000'
 age: '18'

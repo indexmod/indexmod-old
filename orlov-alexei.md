@@ -2,6 +2,7 @@
 title: Orlov, Alexei
 permalink: orlov-alexei
 layout: default
+shortname: ORLOV
 originspell: Шаблон
 appearing: Updated
 birth: 2018

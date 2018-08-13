@@ -2,7 +2,7 @@
 title: Rodina (store)
 permalink: rodina-store
 layout: default
-shortname: RDSR
+shortname: RODINA
 indexmod: Indexmod
 birth: '2014'
 age: '4'

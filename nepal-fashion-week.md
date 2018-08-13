@@ -1,10 +1,9 @@
 ---
-title: 'Himalayan Times TGIF Nepal Fashion Week, The'
+title: Himalayan Times TGIF Nepal Fashion Week, The
 permalink: himalayan-times-tgif-nepal-fashion-week-the
 layout: default
 published: true
-shortname: TGIFNFW
-shortname: XXXXXXXXX
+shortname: HIMALAYAN
 originspell: Шаблон
 appearing: Updated
 birth: 2018

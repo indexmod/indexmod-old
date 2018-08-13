@@ -2,6 +2,7 @@
 title: Mikhailovskaya, Olga
 permalink: mikhailovskaya-olga
 layout: default
+shortname: MIKHAILOVSKAYA
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

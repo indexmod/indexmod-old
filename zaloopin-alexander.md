@@ -3,7 +3,7 @@ title: 'Zaloopin, Aleksander'
 permalink: zaloopin-aleksander
 layout: default
 published: true
-shortname: ZLOO
+shortname: ZALOOPIN
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

@@ -1,7 +1,7 @@
 ---
 title: PinchukArtCentre
 permalink: pinchukartcentre
-shortname: PIAC
+shortname: PINCHUK
 layout: default
 published: true
 originspell: Шаблон

@@ -3,7 +3,7 @@ title: 'Zverkov, Nikolay'
 permalink: zverkov-nikolay
 layout: default
 published: true
-shortname: ZRNY
+shortname: ZVERKOV
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

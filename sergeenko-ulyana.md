@@ -3,7 +3,7 @@ title: 'Sergeenko, Ulyana'
 permalink: sergeenko-ulyana
 layout: default
 published: true
-shortname: SEUL
+shortname: SERGEENKO
 originspell: Шаблон
 appearing: Updated
 birth: 2018

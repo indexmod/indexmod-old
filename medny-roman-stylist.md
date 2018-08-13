@@ -2,6 +2,7 @@
 title: Medny, Roman (stylist)
 permalink: medny-roman-stylist
 layout: default
+shortname: MEDNY
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

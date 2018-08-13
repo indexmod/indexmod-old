@@ -3,7 +3,7 @@ title: 'Minasyan, Misak'
 permalink: minasyan-misak
 layout: default
 published: true
-shortname: MIMI
+shortname: MINASYAN
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

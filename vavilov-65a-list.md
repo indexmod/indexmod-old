@@ -2,6 +2,7 @@
 title: Vavilov 65A (List)
 permalink: vavilov-65a-list
 layout: info
+shortname: VAVILOV
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

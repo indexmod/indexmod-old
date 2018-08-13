@@ -3,7 +3,7 @@ title: Tokyo Fashion Express
 permalink: tokyo-fashion-express
 layout: default
 published: true
-shortname: TFEX
+shortname: TOKYOEXPRESS
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

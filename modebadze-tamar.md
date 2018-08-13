@@ -2,6 +2,7 @@
 title: Modebadze, Tamar
 permalink: modebadze-tamar
 layout: default
+shortname: MODEBADZE
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

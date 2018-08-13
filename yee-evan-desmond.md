@@ -2,7 +2,7 @@
 title: 'Yee, Evan Desmond'
 permalink: yee-evan-desmond
 layout: default
-published: true
+shortname: YEE
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

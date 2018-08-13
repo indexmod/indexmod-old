@@ -2,7 +2,7 @@
 title: New York Fashion Week
 permalink: new-york-fashion-week
 layout: default
-shortname: XXXXXXXXX
+shortname: NYCFW
 originspell: Шаблон
 appearing: Updated
 birth: 2018

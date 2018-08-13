@@ -3,7 +3,7 @@ title: V-A-C Foundation
 permalink: v-a-c-foundation
 layout: default
 published: true
-shortname: VACF
+shortname: VACFOUNDATION
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

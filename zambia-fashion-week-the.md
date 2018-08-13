@@ -3,7 +3,7 @@ title: 'Zambia Fashion Week, The'
 permalink: zambia-fashion-week-the
 layout: default
 published: true
-shortname: ZMFW
+shortname: ZAMBIA
 indexmod: Indexmod
 birth: '2011'
 age: '7'

@@ -3,6 +3,7 @@ title: Reserve Vintage, La
 permalink: reserve-vintage-la
 layout: default
 originspell: Шаблон
+shortname: RESERVEVINTAGE
 appearing: Updated
 birth: 2018
 city: Moscow

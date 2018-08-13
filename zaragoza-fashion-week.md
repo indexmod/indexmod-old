@@ -3,7 +3,7 @@ title: Zaragoza Fashion Week
 permalink: zaragoza-fashion-week
 layout: default
 published: true
-shortname: ZAFW
+shortname: ZARAGOZA
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

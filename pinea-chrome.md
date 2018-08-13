@@ -3,7 +3,7 @@ title: Pinea Chrome
 permalink: pinea-chrome
 layout: default
 published: true
-shortname: PICH
+shortname: PINEACHROME
 originspell: Шаблон
 appearing: Updated
 birth: 2018

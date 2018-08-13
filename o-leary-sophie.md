@@ -3,7 +3,7 @@ title: 'O''Leary, Sophie'
 permalink: o-leary-sophie
 layout: default
 published: true
-shortname: OLSO
+shortname: OLEARY
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

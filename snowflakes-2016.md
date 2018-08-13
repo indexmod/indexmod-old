@@ -2,7 +2,7 @@
 title: Snowflakes (2016)
 permalink: snowflakes-2016
 layout: default
-shortname: XXXXX
+shortname: SNOWFLAKES
 originspell: Шаблон
 appearing: Updated
 birth: 2018

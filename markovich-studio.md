@@ -2,7 +2,7 @@
 title: Markovich studio
 permalink: markovich-studio
 layout: default
-shortname: MAST
+shortname: MARKOVICH
 indexmod: Indexmod
 birth: '2000'
 age: '18'

@@ -3,7 +3,7 @@ title: Partizaning (gorup)
 permalink: partizaning-gorup
 layout: default
 published: true
-shortname: XXXXXXXXX
+shortname: PARTIZANING
 originspell: Шаблон
 appearing: Updated
 birth: 2018
