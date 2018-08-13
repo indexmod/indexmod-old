@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: Be In Open
 permalink: be-in-open
@@ -33,8 +32,6 @@ sourceurl: index
 founder: 'Andrei Dei'
 founder: Be-in (site) and Alexey Bazhenov
 ---
-=======
->>>>>>> 84f73bd556dcc3e315eb7b46472adc2add3fae8e
 
 (Est. {{ page.birth }}, {{ page.city }}) is a fashion event in Moscow founded {{ page.founder }} <span id="a1">[\[1\]](#f1)</span>.
 
