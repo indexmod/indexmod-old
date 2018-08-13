@@ -13,21 +13,13 @@ git_branch: master
 theme: jekyll-theme-minimal
 
 include: ['.htaccess']
-<<<<<<< HEAD
-exclude:
-=======
 
 exclude: 
->>>>>>> 13527c8e18e7550f2d2ad9c0f91a1ae0066f744e
 - style.css
 - redirects.json
 - sitemap.xml
 - robots.txt
 - feed.xml
-<<<<<<< HEAD
-=======
-
->>>>>>> 13527c8e18e7550f2d2ad9c0f91a1ae0066f744e
 
 use_github_wiki: false
 use_prose_io: true
