@@ -6,6 +6,7 @@ shortname: AFISHA
 givenname:
 familyname:
 othername: Журна Афиша
+originallang: Rus.
 originspell: Афиша
 appearing: Est.
 birth: 1999
