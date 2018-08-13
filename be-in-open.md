@@ -2,7 +2,7 @@
 title: Be In Open
 permalink: be-in-open
 layout: default
-shortname: BIOP
+shortname: BEINOPEN
 indexmod: Indexmod
 birth: '2016'
 age: '3'
@@ -11,7 +11,6 @@ city: Moscow
 facebook: '1250'
 instagram: '13500'
 youtube: '393'
-shortname: XXXXXXXXX
 originspell: Шаблон
 appearing: Updated
 birth: 2018

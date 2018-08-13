@@ -3,7 +3,7 @@ title: 'Al-Numan, Leila'
 permalink: al-numan-leila
 layout: default
 published: true
-shortname: ALNUMANLEILA
+shortname: ALNUMAN
 givenname: Name
 familyname: Family name
 othername: Other name

@@ -3,7 +3,7 @@ title: Dva Myacha
 permalink: dva-myacha
 layout: default
 published: true
-shortname: DVMH
+shortname: DVANYACHA
 indexmod: '2,53'
 birth: '1965'
 age: '53'

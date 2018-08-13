@@ -2,7 +2,7 @@
 title: 'Амед, Имран (блогер)'
 permalink: amed-imran
 layout: default
-shortname: АМЕДИМРАН
+shortname: AMED
 givenname: Name
 familyname: Family name
 othername: Other name

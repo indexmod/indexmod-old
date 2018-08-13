@@ -5,7 +5,7 @@ layout: default
 givenname: Andrei
 familyname: Abolenkin
 published: true
-shortname: ABOLENKINANDREI
+shortname: ABOLENKIN
 originlang: Eng.
 originspell: Андрей Аболенкин
 appearing: born

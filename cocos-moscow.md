@@ -2,7 +2,7 @@
 title: Cocos Moscow
 permalink: cocos-moscow
 layout: default
-shortname: COMO
+shortname: COCOS
 indexmod: Indexmod
 birth: '2017'
 age: '1'

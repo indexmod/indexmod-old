@@ -3,8 +3,7 @@ title: Buro 24/7
 permalink: buro-24-7
 layout: default
 published: true
-shortname: B247
-shortname: XXXXXXXXX
+shortname: BURO247
 originspell: Шаблон
 appearing: Updated
 birth: 2018

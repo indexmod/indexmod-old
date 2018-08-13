@@ -2,7 +2,7 @@
 title: 'Delvey, Anna'
 permalink: delvey-anna
 layout: default
-shortname: DVAN
+shortname: DELVEY
 indexmod: Indexmod
 birth: '1991'
 age: '27'
@@ -10,7 +10,6 @@ updateyear: '2018'
 city: Russian Federation
 facebook: '0,0'
 instagram: '44700'
-shortname: XXXXXXXXX
 originspell: Шаблон
 appearing: Updated
 city: Moscow

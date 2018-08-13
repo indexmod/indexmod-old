@@ -2,7 +2,7 @@
 title: Home Concept
 permalink: home-concept
 layout: default
-shortname: HOCO
+shortname: HOMECONCEPT
 indexmod: Indexmod
 birth: '2006'
 age: '12'

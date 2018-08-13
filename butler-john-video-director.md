@@ -3,8 +3,7 @@ title: 'Батлер, Джон (режиссёр)'
 permalink: butler-john-director
 layout: default
 published: true
-shortname: BAJH
-shortname: XXXXXXXXX
+shortname: BUTLER
 originspell: Шаблон
 appearing: Updated
 birth: 2018

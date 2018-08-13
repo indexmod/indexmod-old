@@ -3,8 +3,7 @@ title: E-Soap
 permalink: e-soap
 layout: default
 published: true
-shortname: ESOP
-shortname: XXXXXXXXX
+shortname: ESOAP
 originspell: Шаблон
 appearing: Updated
 birth: 2018

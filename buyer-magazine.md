@@ -2,7 +2,7 @@
 title: Buyer (magazine)
 permalink: buyer-magazine
 layout: default
-shortname: XXXXXXXXX
+shortname: BUYERMAG
 originspell: Шаблон
 appearing: Updated
 birth: 2018

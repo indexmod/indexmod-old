@@ -13,8 +13,7 @@ youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
-shortname: BUCL
-shortname: XXXXXXXXX
+shortname: BUTCHER
 originspell: Шаблон
 appearing: Updated
 birth: 2018

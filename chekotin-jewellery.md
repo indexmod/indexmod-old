@@ -2,7 +2,7 @@
 title: Chekotin Jewellery
 permalink: chekotin-jewellery
 layout: default
-shortname: CHJW
+shortname: CHEKOTIN
 indexmod: Indexmod
 birth: '2007'
 age: '11'

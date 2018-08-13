@@ -2,10 +2,9 @@
 title: 'Davydova, Victoria'
 permalink: davydova-victoria
 layout: default
-shortname: DAVI
+shortname: DAVYDOVA
 indexmod: Indexmod
 birth: '1968'
-shortname: XXXXXXXXX
 originspell: Шаблон
 appearing: Updated
 city: Moscow

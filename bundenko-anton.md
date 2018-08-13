@@ -3,10 +3,9 @@ title: 'Bundenko, Anton'
 permalink: bundenko-anton
 layout: default
 published: true
-shortname: BUAN
+shortname: BUNDENKO
 indexmod: '0,01'
 birth: '1989'
-shortname: XXXXXXXXX
 originspell: Шаблон
 appearing: Updated
 birth: 2018

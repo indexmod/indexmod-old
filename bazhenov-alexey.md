@@ -3,7 +3,7 @@ title: 'Bazhenov, Alexey'
 permalink: bazhenov-alexey
 layout: default
 shortname: BAAL
-shortname: XXXXXXXXX
+shortname: BAZHENOV
 originspell: Шаблон
 appearing: Updated
 birth: 2018
