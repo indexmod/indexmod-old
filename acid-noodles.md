@@ -8,9 +8,10 @@ familyname: Family name
 othername: Other name
 originlang: Rus.
 originspell: Эйсид-нудлс
-appearing: happened
+appearing: Happened
 birth: 2018
-city: Moscow, Tsvetnoy Central Market
+city: Moscow
+venue: Tsvetnoy Central Market
 facebook: '0'
 instagram: '0'
 youtube: '0'
