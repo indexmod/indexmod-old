@@ -2,7 +2,6 @@
 title: How to edit
 permalink: edit
 layout: info
-published: true
 exclude: true
 ---
 
