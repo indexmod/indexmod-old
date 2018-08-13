@@ -17,7 +17,7 @@
 {% site.pages | sort: "order" %}
 {% unless page.exclude %}
 
- <a href="{{page.url|absolute_url}}"> {{ page.shortname }} <span class="rate">{% include indexmod.html %}</a></span> <span class="rex"> | </span>
+ <a href="{{page.url|absolute_url | remove: "/assets/css/style.css" | remove: "/redirects.json" | remove: "/sitemap.xml" | remove: "/robots.txt" | remove: "/feed.xml"}}"> {{ page.shortname }} <span class="rate">{% include indexmod.html %}</a></span> <span class="rex"> | </span>
  {% endunless %}
  {% endfor %}
 

@@ -1,5 +1,3 @@
-{% unless page.exclude %}
-
 {% assign number_of_words = content | strip_html | number_of_words %}
 {% assign social = page.facebook | plus: page.instagram | plus: page.youtube | plus: page.vimeo | plus: page.vkontakte | plus: page.twitter | plus: page.tumblr | plus: page.youtube %}
 {% assign age = site.time | date: "%Y" | minus: page.birth %}
@@ -7,5 +5,3 @@
 {% assign indexmod = index | times: number_of_words | divided_by: 100 %}
 
 {{ indexmod | round: 2 }}
-
-{% endunless %}
