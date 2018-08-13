@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-{% include facebook.html %}
+{% include facebook-cover.html %}
 {% include yandex.html %}
 {% include google.html %}
 {% include meta-cover.html %}
@@ -16,7 +16,7 @@
 {% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}
 {% unless page.exclude %}
 
- <a href="{{page.url|absolute_url | remove: /assets/css/style.scss}}"> {{ page.shortname }} <span class="rate">{% include indexmod.html %}</a></span> <span class="rex"> | </span>
+ <a href="{{page.url|absolute_url}}"> {{ page.shortname }} <span class="rate">{% include indexmod.html %}</a></span> <span class="rex"> | </span>
  {% endunless %}
  {% endfor %}
 
