@@ -16,7 +16,7 @@
 {% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}
 {% unless page.exclude %}
 
- <a href="{{page.url|absolute_url | remove: "style.css" | remove: "redirects.json" | remove: "sitemap.xml" | remove: "robots.txt" | remove: "feed.xml"}}"> {{ page.shortname }} <span class="rate">{% include indexmod.html %}</a></span> <span class="rex"> | </span>
+ <a href="{{page.url|absolute_url | remove: /assets/css/style.scss}}"> {{ page.shortname }} <span class="rate">{% include indexmod.html %}</a></span> <span class="rex"> | </span>
  {% endunless %}
  {% endfor %}
 
