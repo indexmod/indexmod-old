@@ -6,7 +6,7 @@ shortname: AFISHA
 givenname: Afisha
 familyname:
 othername: Журнал Афиша
-originallang: Rus.
+originlang: Rus.
 originspell: Афиша
 appearing: Est.
 birth: 1999
