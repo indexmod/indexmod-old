@@ -12,7 +12,7 @@ git_branch: master
 
 theme: jekyll-theme-minimal
 include: ['.htaccess']
-exclude: ['/style.css', '/redirects.json', '/sitemap.xml', '/robots.txt', '/feed.xml']
+exclude: ['/index.html', '/style.css', '/redirects.json', '/sitemap.xml', '/robots.txt', '/feed.xml']
 
 use_github_wiki: false
 use_prose_io: true
