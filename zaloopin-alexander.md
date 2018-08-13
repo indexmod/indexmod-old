@@ -31,9 +31,12 @@ founder: 'Aleksander Zaloopin'
 
 Alexander born 1969, Rostov-on-Don <span id="a1">[\[1\]](#f1)</span>)  described himself and by media as "the first and so far the only open gay-chansonnier of Russia", creator of "texts of the life stories, written from the first person" <span id="a2">[\[2\]](#f2)</span>, "the father of the gay chanson, bard, voice of the generation, genius of the madmen, a favorite of women, men and not-a-men, singer of the endless snow-covered field, the King of a multi-layered messages, the most modern in art" <span id="a3">[\[3\]](#f3)</span> person by judgments of various journalists.
 
-**Модный художник в Лондоне в майке «Cock Magnet»**
+
 
 ![](https://pp.userapi.com/c845018/v845018416/949af/BXfYUjSOR9w.jpg)
+
+**Модный художник в Лондоне в майке «Cock Magnet»**
+
 *Photo: [Александр Залупин](zaloopin-aleksander) / [Vk.com](https://pp.userapi.com/c845018/v845018416/949af/BXfYUjSOR9w.jpg)*
 
 ## Singles and albums
@@ -51,9 +54,7 @@ Alexander born 1969, Rostov-on-Don <span id="a1">[\[1\]](#f1)</span>)  describ
 ## See also
 
 + [Kirill Shamanov](shamanov-kirill)
-
 + [Zaitsev, Vyacheslav](zaitsev-vyacheslav)
-
 + [Zambia Fashion Week, The](zambia-fashion-week-the)
 
 ## Footnotes
