@@ -3,9 +3,9 @@ title: Afisha (magazine)
 permalink: afisha-magazine
 layout: default
 shortname: AFISHA
-givenname:
+givenname: Afisha
 familyname:
-othername: Журна Афиша
+othername: Журнал Афиша
 originallang: Rus.
 originspell: Афиша
 appearing: Est.
