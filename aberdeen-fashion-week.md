@@ -3,7 +3,7 @@ title: Aberdeen Fashion Week
 permalink: aberdeen-fashion-week
 layout: default
 published: true
-birth: '2013'
+birth: 2013
 city: Aberdeen
 shortname: ABERDEEN
 givenname: Aberdeen Fashion Week
@@ -12,7 +12,6 @@ othername: AFW
 originlang: Eng.
 originspell: Aberdeen Fashion Week
 appearing: Est.
-birth: 2018
 city: Aberdeen, UK
 venue: Copthorne Hotel
 facebook: '123'
