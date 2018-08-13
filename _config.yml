@@ -12,7 +12,16 @@ git_branch: master
 
 theme: jekyll-theme-minimal
 include: ['.htaccess']
+<<<<<<< HEAD
 exclude: ['/index.html', '/style.css', '/redirects.json', '/sitemap.xml', '/robots.txt', '/feed.xml']
+=======
+exclude: 
+- style.css
+- redirects.json
+- sitemap.xml
+- robots.txt
+- feed.xml
+>>>>>>> 7bcf213854564c436cfdc6b88120ef1f0a54747f
 
 use_github_wiki: false
 use_prose_io: true
