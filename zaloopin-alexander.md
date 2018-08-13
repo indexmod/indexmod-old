@@ -10,10 +10,11 @@ originlang: Rus.
 originspell: Александр Залупин
 appearing: Born
 birth: 1969
+venue: “Chinese Pilot Jao Da” Club Moscow (recent)
 city: Rostov-on-Don
-facebook: '0'
-instagram: '0'
-youtube: '0'
+facebook: '1290'
+instagram: '391'
+youtube: '80'
 vimeo: '0'
 twitter: '0'
 tumblr: '0'
