@@ -2,7 +2,7 @@
 title: Lianozovo Curse
 permalink: lianozovo-curse
 layout: default
-shortname: XXXXXXXXX
+shortname: LIANOZOVO
 originspell: Шаблон
 appearing: Updated
 birth: 2018

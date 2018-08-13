@@ -3,7 +3,7 @@ title: Kristallberg
 permalink: kristallberg
 layout: default
 published: true
-shortname: KRBG
+shortname: KRISTALLBERG
 founder: Polina Bestuzheva
 birth: 2010
 shortname: XXXXXXXXX

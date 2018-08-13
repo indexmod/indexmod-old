@@ -3,7 +3,7 @@ title: Lumpen (agency)
 permalink: lumpen-agency
 layout: default
 published: true
-shortname: XXXXXXXXX
+shortname: LUMPEN
 originspell: Шаблон
 appearing: Updated
 birth: 2018

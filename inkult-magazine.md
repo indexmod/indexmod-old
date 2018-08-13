@@ -2,7 +2,7 @@
 title: Inkult Magazine
 permalink: inkult-magazine
 layout: default
-shortname: XXXXXXXXX
+shortname: INKULT
 originspell: Шаблон
 appearing: Updated
 birth: 2018

@@ -2,7 +2,7 @@
 title: Lomakin, Artur (designer)
 permalink: lomakin-artur-designer
 layout: default
-shortname: XXXXXXXXX
+shortname: LOMAKIN
 originspell: Шаблон
 appearing: Updated
 birth: 2018

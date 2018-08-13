@@ -2,7 +2,7 @@
 title: Jonas, Joan
 permalink: jonas-joan
 layout: default
-shortname: XXXXXXXXX
+shortname: JONAS
 originspell: Шаблон
 appearing: Updated
 birth: 2018

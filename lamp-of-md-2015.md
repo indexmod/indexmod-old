@@ -3,7 +3,7 @@ title: Lamp of MD (2015)
 permalink: lamp-of-md-2015
 layout: default
 published: true
-shortname: XXXXXXXXX
+shortname: LAMP2015
 originspell: Шаблон
 appearing: Updated
 birth: 2018

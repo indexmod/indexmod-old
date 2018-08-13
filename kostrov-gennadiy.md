@@ -2,7 +2,7 @@
 title: Kostrov, Gennadiy
 permalink: kostrov-gennadiy
 layout: default
-shortname: XXXXXXXXX
+shortname: KOSTROV
 originspell: Шаблон
 appearing: Updated
 birth: 2018

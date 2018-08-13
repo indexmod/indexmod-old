@@ -2,7 +2,7 @@
 title: Khromtchenko, Evelina
 permalink: khromtchenko-evelina
 layout: default
-shortname: XXXXXXXXX
+shortname: KHROMCHENKO
 originspell: Шаблон
 appearing: Updated
 birth: 2018

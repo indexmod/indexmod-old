@@ -1,6 +1,7 @@
 ---
 title: Lecharlatan (靴下)
 permalink: lecharlatan-靴下
+shortname: LECHARLATAN 靴下
 givenname: Lecharlatan
 familyname: null
 layout: default

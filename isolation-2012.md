@@ -2,7 +2,7 @@
 title: Isolation (2012)
 permalink: isolation-2012
 layout: default
-shortname: XXXXXXXXX
+shortname: ISOLATION2012
 originspell: Шаблон
 appearing: Updated
 birth: 2018

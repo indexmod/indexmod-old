@@ -3,7 +3,7 @@ title: 'Kozochka, Sima'
 permalink: kozochka-sima
 layout: default
 published: true
-shortname: KOSI
+shortname: KOZOCHKA
 originspell: Шаблон
 appearing: Updated
 birth: 2018
