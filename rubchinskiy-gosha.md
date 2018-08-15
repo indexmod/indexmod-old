@@ -19,7 +19,7 @@ tumblr:
 vkontakte: '45992'
 origin: Russian
 profession: fashion designer and photographer and the founder of his eponymous brand
-photo: This is sample for image caption
+photo: G. Rubchinsky
 photographer:  Jacopo Raule
 source: Lenta.ru, Getty Images
 photographerurl: jacopo-raule
