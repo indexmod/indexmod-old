@@ -7,7 +7,7 @@ givenname: Georgiy
 familyname: Rubchinskiy
 originlang: Rus.
 originspell: Георгий Рубчинский
-appearing: Born.
+appearing: Born
 birth: 1984
 city: Moscow
 facebook: '24496'
