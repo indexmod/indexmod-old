@@ -1,7 +1,7 @@
 ---
 title: Rubchinskiy, Gosha
 permalink: rubchinskiy-gosha
-layout: default
+layout: campaign
 shortname: RUBCHINSKIY
 givenname: Georgiy
 familyname: Rubchinskiy
@@ -14,7 +14,7 @@ facebook: '24496'
 instagram: '433000'
 youtube:
 vimeo:
-twitter: 
+twitter:
 tumblr:
 vkontakte: '45992'
 origin: Russian
