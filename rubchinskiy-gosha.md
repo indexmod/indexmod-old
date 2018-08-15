@@ -6,6 +6,7 @@ shortname: RUBCHINSKIY
 givenname: Georgiy
 familyname: Rubchinskiy
 originlang: Rus.
+othername: Гоша Рубчинский
 originspell: Георгий Рубчинский
 appearing: Born
 birth: 1984
