@@ -7,7 +7,7 @@ givenname: Georgiy
 familyname: Rubchinskiy
 originlang: Rus.
 originspell: Георгий Рубчинский
-appearing: Updated
+appearing: Born.
 birth: 1984
 city: Moscow
 facebook: '24496'
@@ -37,6 +37,7 @@ The success of Rubchinsky and Demna Gvasalia of Vetements brought huge attention
 
 # See also
 
++ [Gosha Rubchinskiy (brand)](gosha-rubchinskiy)
 + [Lecharlatan](lecharlatan)
 
 # Footnotes
