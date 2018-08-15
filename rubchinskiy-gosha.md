@@ -19,7 +19,7 @@ tumblr:
 vkontakte: '45992'
 origin: Russian
 profession: fashion designer and photographer and the founder of his eponymous brand
-photo: G. Rubchinsky
+photo: Georgiy Rubchinsky in 2017 after the defile of Comm de Garson in Paris, near the store of Le Сollette
 photographer:  Jacopo Raule
 source: Lenta.ru, Getty Images
 photographerurl: jacopo-raule
