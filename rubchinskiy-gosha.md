@@ -1,0 +1,44 @@
+---
+title: Rubchinskiy, Gosha
+permalink: rubchinskiy-gosha
+layout: default
+shortname: RUBCHINSKIY
+givenname: Georgiy
+familyname: Rubchinskiy
+originlang: Rus.
+originspell: Георгий Рубчинский
+appearing: Updated
+birth: 1984
+city: Moscow
+facebook: '24496'
+instagram: '433000'
+youtube:
+vimeo:
+twitter: 
+tumblr:
+vkontakte: '45992'
+origin: Russian
+profession: fashion designer and photographer and the founder of his eponymous brand
+photo: This is sample for image caption
+photographer:  Jacopo Raule
+source: Lenta.ru, Getty Images
+photographerurl: jacopo-raule
+sourceurl: https://lenta.ru/news/2018/04/04/gr_new/
+founder: 'of label Gosha Rubchinskiy'
+---
+
+
+The success of Rubchinsky and Demna Gvasalia of Vetements brought huge attention to so-called "Post-Soviet" aesthetics.[19] The trend wasn't limited to major chain stores such as Urban Outfitters and Topman that started selling garment with Cyrillic slogans, but also led to a renaissance in clothing design in Russia and Ukraine.[20]. The list of brands that contributed to the Post-Soviet streetwear trend included Sputnik 1985, Volchok, Mech, LECHARLATAN, R-SSA, Podmost, Syndicate, Otocyon, Artem Shumov, Anastasia Dokuchaeva, Yasya Minochkina, Turbo Yulia, Alexandr Rogov and many others <span id="a2">[\[2\]](#f3)</span>.
+
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
+
+**Gosha and friends at cafe on Manezhnaya magazine in 2006**
+*Photo: [Alexei Platonov](platonov-alexei) / [Mania Mag](mania-mag)*
+
+# See also
+
++ [Lecharlatan](lecharlatan)
+
+# Footnotes
+
+[[1]](#a1) <span id="f1"></span> [Gosha Rubchinskiy (Wikipedia)](https://en.wikipedia.org/wiki/Gosha_Rubchinskiy)
