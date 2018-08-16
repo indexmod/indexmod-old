@@ -20,7 +20,7 @@ tumblr:
 vkontakte: '45992'
 origin: Russian
 profession: fashion designer and photographer and the founder of his eponymous brand
-photo: Georgiy Rubchinsky in 2017 after the defile of Comm de Garson in Paris, near the store of Le Сollette
+photo: Georgiy Rubchinsky in Paris
 photographer:  Jacopo Raule
 source: Lenta.ru, Getty Images
 photographerurl: jacopo-raule
@@ -33,7 +33,7 @@ The success of Rubchinsky and Demna Gvasalia of Vetements brought huge attention
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
-**Gosha and friends at cafe on Manezhnaya in 2006**
+**Gosha and friends at cafe on Manezhnaya in 2007**
 
 *Photo: [Alexei Platonov](platonov-alexei) / [Mania Mag](mania-mag)*
 
