@@ -24,6 +24,7 @@ sourceurl: index
 founder: ''
 ---
 
+
 (Est. {{ page.birth }}, {{ page.city }}) is a founder and CEO of Be-in.ru <span id="a1">[\[1\]](#f1)</span>, who describes fashion as “the energy of society, aimed at fighting against automatism” <span id="a3">[\[3\]](#f3)</span>. Living and working in Saint Petersburg.
 
 
