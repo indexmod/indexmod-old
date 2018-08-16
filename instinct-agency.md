@@ -2,7 +2,7 @@
 title: Instinct (agency)
 permalink: instinct-agency
 layout: default
-shortname: XXXXXXXXX
+shortname: INSTINKT
 originspell: Шаблон
 appearing: Updated
 birth: 2018

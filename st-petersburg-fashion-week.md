@@ -2,7 +2,7 @@
 title: St. Petersburg Fashion Week
 permalink: st-petersburg-fashion-week
 layout: default
-shortname: INDEXMOD
+shortname: SPBFW
 originspell: Шаблон
 appearing: Updated
 birth: 2018

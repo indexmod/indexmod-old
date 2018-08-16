@@ -2,7 +2,7 @@
 title: New York
 permalink: new-york
 layout: default
-shortname: XXXXXXXXX
+shortname: NYC
 originspell: Шаблон
 appearing: Updated
 birth: 2018

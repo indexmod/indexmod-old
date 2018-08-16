@@ -3,7 +3,7 @@ title: 'Galinskaia, Olga'
 permalink: galinskaia-olga
 layout: default
 published: true
-shortname: GAOL
+shortname: GALINSKAYA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

@@ -3,7 +3,7 @@ title: Ями-Ичи (рынок)
 permalink: internet-yami-ichi
 layout: default
 published: true
-shortname: YAIC
+shortname: YAMIICHI
 originspell: Шаблон
 appearing: Updated
 birth: 2018

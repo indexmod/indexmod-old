@@ -1,6 +1,7 @@
 ---
 title: Malevich Experience (2016)
 permalink: malevich-experience-2016
+shortname: MALEVICH2016
 layout: default
 published: true
 originlang: Rus.

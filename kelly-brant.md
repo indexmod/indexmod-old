@@ -2,6 +2,7 @@
 title: 'Келли-Брант, Мегин Мари'
 permalink: kelly-brunt-megyn-marie
 layout: default
+shortname: KELLYBRUNT
 published: true
 shortname: KBMM
 originspell: Шаблон

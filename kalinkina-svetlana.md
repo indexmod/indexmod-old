@@ -2,7 +2,7 @@
 title: Kalinkina, Svetlana
 permalink: kalinkina-svetlana
 layout: default
-shortname: XXXXXXXXX
+shortname: KALINKINA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

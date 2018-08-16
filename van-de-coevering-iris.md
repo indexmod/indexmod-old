@@ -2,7 +2,7 @@
 permalink: van-de-coevering-iris
 published: true
 layout: default
-shortname: VDCI
+shortname: VANDECOEVERING
 birth: 1974
 city: Baku
 title: Iris Van de Coevering

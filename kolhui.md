@@ -3,7 +3,7 @@ title: Kolhui
 permalink: kolhui
 layout: default
 published: true
-shortname: KLHI
+shortname: KOLHUI
 originspell: Шаблон
 appearing: Updated
 birth: 2018

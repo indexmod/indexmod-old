@@ -3,7 +3,7 @@ title: 'Pupis, Donis'
 permalink: pupis-donis
 layout: default
 published: true
-shortname: PUDO
+shortname: PUPIS
 indexmod: Indexmod
 birth: '1968'
 updateyear: '2018'

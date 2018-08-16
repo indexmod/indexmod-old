@@ -2,7 +2,7 @@
 title: Konovalova, Daria
 permalink: konovalova-daria
 layout: default
-shortname: XXXXXXXXX
+shortname: KONOVALOVA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

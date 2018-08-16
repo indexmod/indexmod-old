@@ -3,7 +3,7 @@ title: Berdyansk Marketplace
 permalink: berdyansk-marketplace
 layout: default
 published: true
-shortname: BEMA
+shortname: BERDMARKET
 originspell: Шаблон
 appearing: Updated
 birth: 2018

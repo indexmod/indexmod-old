@@ -3,7 +3,7 @@ title: 'Turovnikova, Natalia'
 permalink: turovnikova-natalia
 layout: default
 published: true
-shortname: TUNA
+shortname: TUROVNIKOVA
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

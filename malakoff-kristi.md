@@ -4,6 +4,7 @@ permalink: malakoff-kristi
 layout: default
 originlang: Rus.
 originspell: Шаблон
+shortname: MALAKOFF
 appearing: Updated
 birth: 2018
 city: Moscow

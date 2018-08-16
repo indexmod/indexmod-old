@@ -2,6 +2,7 @@
 title: Moscow Institute of Kosmic Anomaly
 permalink: moscow-institute-of-kosmic-anomaly
 layout: default
+shortname: MIKA
 published: true
 originlang: Rus.
 originspell: Шаблон

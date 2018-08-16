@@ -3,7 +3,7 @@ title: 'Gvasalia, Demna'
 permalink: gvasalia-demna
 layout: default
 published: true
-shortname: XXXXXXXXX
+shortname: GVASALIA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

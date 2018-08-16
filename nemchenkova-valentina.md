@@ -2,7 +2,7 @@
 title: 'Nemchenkova, Valentina'
 permalink: nemchenkova-valentina
 layout: default
-shortname: NEVA
+shortname: NENCHENKOVA
 indexmod: Indexmod
 birth: '1983'
 updateyear: '2018'

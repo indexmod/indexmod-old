@@ -3,7 +3,7 @@ title: 'Monroe, Vlad'
 permalink: monroe-vlad
 layout: default
 published: true
-shortname: MOVL
+shortname: MONROEVLAD
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

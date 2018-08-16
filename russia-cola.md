@@ -2,7 +2,7 @@
 title: Russia Cola
 permalink: russia-cola
 layout: default
-published: true
+shortname: RUSSIACOLA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

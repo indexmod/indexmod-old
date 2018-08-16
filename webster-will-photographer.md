@@ -4,6 +4,7 @@ permalink: webster-will-photographer
 position:
 layout: default
 originlang: Rus.
+shortname: WEBSTER
 originspell: Шаблон
 appearing: Updated
 birth: 2018

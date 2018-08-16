@@ -2,7 +2,7 @@
 title: Fedorova, Veronika
 permalink: fedorova-veronika
 layout: default
-shortname: FEDOROVAV
+shortname: FEDOROVA2
 birth: '1997'
 city: Moscow
 photo: Veronika Fedorova in 2017

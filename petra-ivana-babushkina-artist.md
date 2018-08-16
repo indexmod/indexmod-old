@@ -3,7 +3,7 @@ title: Petra-Ivana Babushkina (artist)
 permalink: petra-ivana-babushkina-artist
 layout: default
 published: true
-shortname: IVBA
+shortname: BABUSHKINA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

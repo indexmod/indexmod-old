@@ -2,6 +2,7 @@
 title: Malhotra, Shriya
 permalink: malhotra-shriya
 layout: default
+shortname: MALHOTRA
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

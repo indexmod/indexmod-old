@@ -3,7 +3,7 @@ title: Promenad 8
 permalink: promenad-8
 layout: default
 published: true
-shortname: XXXXXXXXX
+shortname: PROMENAD8
 originspell: Шаблон
 appearing: Updated
 birth: 2018

@@ -2,7 +2,7 @@
 title: Stolyarov, Yuri
 permalink: stolyarov-yuri
 layout: default
-shortname: INDEXMOD
+shortname: STOLYAROV
 originspell: Шаблон
 appearing: Updated
 birth: 2018

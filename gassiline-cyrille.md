@@ -2,7 +2,7 @@
 title: Gassiline, Cyrille
 permalink: gassiline-cyrille
 layout: default
-shortname: XXXXXXXXX
+shortname: GASSILINE
 originspell: Шаблон
 appearing: Updated
 birth: 2018

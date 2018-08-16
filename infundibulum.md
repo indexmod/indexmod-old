@@ -3,7 +3,7 @@ title: Infundibulum
 permalink: infundibulum
 layout: default
 published: true
-shortname: XXXXXXXXX
+shortname: INFUNDIBULUM
 originspell: Шаблон
 appearing: Updated
 birth: 2018

@@ -1,7 +1,7 @@
 ---
 title: Wacher, Brit
 permalink: wacher-brit
-position:
+shortname: WACHER
 layout: default
 originlang: Rus.
 originspell: Шаблон

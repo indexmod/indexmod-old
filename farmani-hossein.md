@@ -3,8 +3,7 @@ title: 'Farmani, Hossein'
 permalink: farmani-hossein
 layout: default
 published: true
-shortname: FRHS
-shortname: XXXXXXXXX
+shortname: FARMANI
 originspell: Шаблон
 appearing: Updated
 birth: 2018

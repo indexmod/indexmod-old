@@ -3,7 +3,7 @@ title: Nocuous Rift
 permalink: nocuous-rift
 layout: default
 published: true
-shortname: XXXXXXXXX
+shortname: NOCUOUSRIFT
 originspell: Шаблон
 appearing: Updated
 birth: 2018

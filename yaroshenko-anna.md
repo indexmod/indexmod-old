@@ -2,7 +2,7 @@
 title: 'Yaroshenko, Anna'
 permalink: yaroshenko-anna
 layout: default
-published: true
+shortname: YAROSHENKO
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

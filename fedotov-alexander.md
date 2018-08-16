@@ -2,7 +2,7 @@
 title: Fedotov, Alexander
 permalink: fedotov-alexander
 layout: default
-shortname: XXXXXXXXX
+shortname: FEDOTOV
 originspell: Шаблон
 appearing: Updated
 birth: 2018

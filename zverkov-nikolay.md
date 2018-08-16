@@ -3,21 +3,21 @@ title: 'Zverkov, Nikolay'
 permalink: zverkov-nikolay
 layout: default
 published: true
-shortname: ZRNY
+shortname: ZVERKOV
 originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originspell: Николай Зверьков
+appearing: Born
+birth: 1983
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+facebook: '0'
+instagram: '0'
+youtube: '0'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
 origin: Russian
-profession: English language wiki
+profession: celebrity photographer
 photo: This is sample for image caption
 photographer: Andrei Dei
 source: Indexmod Blockchainpedia

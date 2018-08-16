@@ -2,7 +2,7 @@
 title: Nipstick (stickers)
 permalink: nipstick-stickers
 layout: default
-shortname: XXXXXXXXX
+shortname: NIPSTICK
 originspell: Шаблон
 appearing: Updated
 birth: 2018

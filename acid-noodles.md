@@ -8,9 +8,10 @@ familyname: Family name
 othername: Other name
 originlang: Rus.
 originspell: Эйсид-нудлс
-appearing: happened
+appearing: Happened
 birth: 2018
-city: Moscow, Tsvetnoy Central Market
+city: Moscow
+venue: Tsvetnoy Central Market
 facebook: '0'
 instagram: '0'
 youtube: '0'
@@ -37,7 +38,7 @@ Young artists Mic Sachov, Slava Filimonov, Pavel Samokhvalov, Natalia Stuyk and 
 + [Andrei Abolenkin](abolenkin-andrei)
 + [Adelaide Fashion Festival](adelaide-fashion-festival)
 + [City Gif by Slava Filimonov](city-gif-by-slava-filimonov)
-+ [Chill out cinema by Mic Sachkov (4S4R)](chill-out-cinema-by-mic-sachkov)
++ [Chill out cinema by Mic Sachkov](chill-out-cinema-by-mic-sachkov)
 + [Neon Room Vitaly Burykin](neon-room-vitaly-burykin)
 + [Tsvetnoy Central Market](tsvetnoy-central-market)
 + [Pavel Samokhvalov](samokhvalov-pavel)

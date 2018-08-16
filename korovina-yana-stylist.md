@@ -2,7 +2,7 @@
 title: Korovina, Yana (stylist)
 permalink: korovina-yana-stylist
 layout: default
-shortname: XXXXXXXXX
+shortname: KOROVINA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

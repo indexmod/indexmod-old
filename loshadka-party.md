@@ -3,7 +3,7 @@ title: Loshadka Prty (party)
 permalink: loshadka-party
 published: true
 layout: default
-shortname: LPRT
+shortname: LOSHADKA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

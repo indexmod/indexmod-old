@@ -2,7 +2,7 @@
 title: 'Vu, Zong'
 permalink: vu-zong
 layout: default
-shortname: VUZO
+shortname: VUZONG
 indexmod: Indexmod
 birth: '1986'
 age: '32'

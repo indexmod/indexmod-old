@@ -3,7 +3,7 @@ title: Propaganda (2016)
 permalink: propaganda-2016
 layout: default
 published: true
-shortname: XXXXXXXXX
+shortname: PROPAGANDA2016
 originspell: Шаблон
 appearing: Updated
 birth: 2018

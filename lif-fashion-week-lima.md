@@ -2,7 +2,7 @@
 title: LIF Fashion Week (Lima)
 permalink: lif-fashion-week-lima
 layout: default
-shortname: LIFW
+shortname: LIMA
 indexmod: Indexmod
 birth: '2011'
 age: '7'

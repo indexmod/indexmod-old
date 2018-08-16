@@ -4,7 +4,6 @@ permalink: diary-of-space-journeys-the
 layout: default
 published: true
 shortname: DSPJ
-shortname: XXXXXXXXX
 originspell: Шаблон
 appearing: Updated
 birth: 2018

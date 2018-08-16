@@ -2,7 +2,7 @@
 title: Muzeon Park of Arts
 permalink: muzeon-park-of-arts
 layout: default
-published: true
+shortname: MUZEON
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

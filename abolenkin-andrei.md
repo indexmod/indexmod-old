@@ -5,10 +5,10 @@ layout: default
 givenname: Andrei
 familyname: Abolenkin
 published: true
-shortname: ABOLENKINANDREI
+shortname: ABOLENKIN
 originlang: Eng.
 originspell: Андрей Аболенкин
-appearing: born
+appearing: Born
 birth: 1972
 city: Moscow
 facebook: '375'
@@ -25,7 +25,7 @@ photographer: Igor Vasiliadis
 source: Indexmod Blockchainpedia
 photographerurl: vasiliadis-igor
 sourceurl: index
-founder: 'Andrei Dei'
+founder: ''
 ---
 
 ## See also

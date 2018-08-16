@@ -3,7 +3,7 @@ title: Urban-a-Liana (2015)
 permalink: urban-a-liana-2015
 layout: default
 published: true
-shortname: URLI
+shortname: URBANALIANA
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

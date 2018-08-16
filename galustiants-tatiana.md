@@ -2,7 +2,7 @@
 title: Galustiants, Tatiana
 permalink: galustiants-tatiana
 layout: default
-shortname: XXXXXXXXX
+shortname: GALUSTIANTS
 originspell: Шаблон
 appearing: Updated
 birth: 2018

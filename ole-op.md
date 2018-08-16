@@ -2,7 +2,7 @@
 title: Ole Op
 permalink: ole-op
 layout: default
-shortname: OLOP
+shortname: OLEOP
 indexmod: Indexmod
 birth: '2018'
 age: '0'

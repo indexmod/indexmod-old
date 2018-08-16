@@ -2,7 +2,7 @@
 title: Kharitonov, Gleb
 permalink: kharitonov-gleb
 layout: default
-shortname: KHGB
+shortname: KHARITONOV
 anothername: Heisler
 indexmod: Indexmod
 birth: '1991'

@@ -3,8 +3,7 @@ title: 'Duma, Miroslava'
 permalink: duma-miroslava
 layout: default
 published: true
-shortname: DUMI
-shortname: XXXXXXXXX
+shortname: DUMA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

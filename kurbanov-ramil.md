@@ -2,7 +2,7 @@
 title: Kurbanov, Ramil
 permalink: kurbanov-ramil
 layout: default
-shortname: XXXXXXXXX
+shortname: KUBANOV
 originspell: Шаблон
 appearing: Updated
 birth: 2018

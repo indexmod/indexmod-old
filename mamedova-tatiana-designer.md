@@ -2,6 +2,7 @@
 title: 'Mamedova, Tatiana'
 permalink: mamedova-tatiana
 layout: default
+shortname: MAMEDOVA
 published: true
 shortname: MATA
 originlang: Rus.

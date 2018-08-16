@@ -2,6 +2,7 @@
 title: Ministry of Supply (brand)
 permalink: ministry-of-supply-brand
 layout: default
+shortname: MOFS 
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

@@ -3,7 +3,7 @@ title: Levadnaja Details
 permalink: levadnaja-details
 layout: default
 published: true
-shortname: LEDE
+shortname: LEVADNAJA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

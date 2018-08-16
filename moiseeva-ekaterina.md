@@ -2,6 +2,7 @@
 title: Moiseeva, Ekaterina
 permalink: moiseeva-ekaterina
 layout: default
+shortname: MOISEEVA
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

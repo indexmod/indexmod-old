@@ -2,7 +2,7 @@
 title: Wild Orchid
 permalink: wild-orchid-lingerie
 layout: default
-shortname: WIOR
+shortname: WILD
 indexmod: Indexmod
 birth: '2010'
 age: '8'

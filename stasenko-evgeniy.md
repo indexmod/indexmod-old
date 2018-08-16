@@ -2,7 +2,7 @@
 title: Stasenko, Evgeniy
 permalink: stasenko-evgeniy
 layout: default
-shortname: INDEXMOD
+shortname: STASENKO
 originspell: Шаблон
 appearing: Updated
 birth: 2018

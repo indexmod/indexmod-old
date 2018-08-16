@@ -3,7 +3,7 @@ title: Ретаблос (иконы)
 permalink: retablos
 layout: default
 published: true
-shortname: RTBL
+shortname: RETABLOS
 originspell: Шаблон
 appearing: Updated
 birth: 2018

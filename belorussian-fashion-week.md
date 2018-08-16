@@ -3,7 +3,7 @@ title: Belorussian Fashion Week
 permalink: belorussian-fashion-week
 layout: default
 published: true
-shortname: BLFW
+shortname: BELORUSSIAN
 originspell: Шаблон
 appearing: Updated
 birth: 2018

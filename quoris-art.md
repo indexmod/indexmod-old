@@ -2,7 +2,7 @@
 title: Quoris Art
 permalink: quoris-art
 layout: default
-shortname: XXXXXXXXX
+shortname: QUORIS
 originspell: Шаблон
 appearing: Updated
 birth: 2018

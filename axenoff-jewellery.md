@@ -3,7 +3,7 @@ title: Axenoff Jewellery
 permalink: axenoff-jewellery
 layout: default
 published: true
-shortname: AXENOFFJRY
+shortname: AXENOFFJ
 originspell: Аксёнофф Джуелри
 appearing: Updated
 birth: 2018

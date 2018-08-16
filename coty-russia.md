@@ -3,7 +3,7 @@ title: Coty Russia
 permalink: coty-russia
 layout: default
 published: true
-shortname: COTR
+shortname: COTYRUSSIA
 birth: 1999
 city: Moscow
 originlang: Rus.

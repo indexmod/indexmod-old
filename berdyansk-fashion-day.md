@@ -3,7 +3,7 @@ title: Berdyansk Fashion Day
 permalink: berdyansk-fashion-day
 layout: default
 published: true
-shortname: BFDY
+shortname: BERDYANSK
 originspell: Шаблон
 appearing: Updated
 birth: 2018

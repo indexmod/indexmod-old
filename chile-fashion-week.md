@@ -3,7 +3,7 @@ title: Chile Fashion Week
 permalink: chile-fashion-week
 layout: default
 published: true
-shortname: CHFW
+shortname: CHILE
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

@@ -2,7 +2,7 @@
 title: Kim, Tricia (jeweller)
 permalink: kim-tricia-jeweller
 layout: default
-shortname: XXXXXXXXX
+shortname: KIM
 originspell: Шаблон
 appearing: Updated
 birth: 2018

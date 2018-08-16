@@ -2,6 +2,7 @@
 title: Mademuaselle, Sasha
 permalink: mademuaselle-sasha
 layout: default
+shortname: MADMUASELLE
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

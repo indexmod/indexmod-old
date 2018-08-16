@@ -3,35 +3,30 @@ title: Zaragoza Fashion Week
 permalink: zaragoza-fashion-week
 layout: default
 published: true
-shortname: ZAFW
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+shortname: ZARAGOZA
+originlang: Spa.
+originspell: Semana de la Moda de Zaragoza
+appearing: Est.
+birth: 2010
+city: Zaragoza
+facebook: '0'
+instagram: '0'
+youtube: '0'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
-founder: 'Andrei Dei'
+venue: Centro de artesanía de Aragón
+origin: Spanish
+profession: fashion event
+photo: Identity pack "Semana de la Moda, Zaragoza
+photographer: Estudio Mique
+source: Behance
+photographerurl: estudio-mique
+sourceurl: https://www.behance.net/gallery/37053981/Semana-de-la-Moda-Zaragoza
+founder: ''
 ---
-(Spa. Semana de la Moda de Zaragoza, est. 2011 <span id="a1">[\[1\]](#f1)</span>, Zaragoza) is a fashion event in Spain.
-
-![](/images/zaragoza-fashion-week.jpg)
-
-**Identity pack "Semana de la Moda, Zaragoza"**
-
-*Photo: [Estudio Mique](estudio-mique) / [Behance](https://www.behance.net/gallery/37053981/Semana-de-la-Moda-Zaragoza)*
+Is a fashion event in Spain founded in 2011 <span id="a1">[\[1\]](#f1)</span>, Zaragoza).
 
 # Conspectus
 

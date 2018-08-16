@@ -3,11 +3,10 @@ title: 'Fedorova, Maria'
 permalink: fedorova-maria
 layout: default
 shortname: FEMA
-indexmod: Indexmod
+indexmod: FEDOROVA
 birth: '1972'
 age: '46'
 updateyear: '2018'
-shortname: XXXXXXXXX
 originspell: Шаблон
 appearing: Updated
 birth: 2018

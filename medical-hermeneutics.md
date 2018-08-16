@@ -2,6 +2,7 @@
 title: Medical Hermeneutics
 permalink: medical-hermeneutics
 layout: default
+shortname: MHERMENEUTICS
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

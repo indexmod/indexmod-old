@@ -2,6 +2,7 @@
 title: Moscow Fashion Week
 permalink: moscow-fashion-week
 layout: default
+shortname: MOSCOW
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

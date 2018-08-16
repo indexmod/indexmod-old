@@ -3,7 +3,7 @@ title: 'Yoshida, Kenji'
 permalink: yoshida-kenji
 layout: default
 published: true
-shortname: YOKE
+shortname: YOSHIDA
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

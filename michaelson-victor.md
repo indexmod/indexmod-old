@@ -3,7 +3,7 @@ title: 'Michaelson, Victor'
 permalink: michaelson-victor
 layout: default
 published: true
-shortname: MAVI
+shortname: MICHAELSON
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

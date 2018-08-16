@@ -2,6 +2,7 @@
 title: Ognennaya Lady
 permalink: ognennaya-lady
 layout: default
+shortname: OGNENNAYA
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

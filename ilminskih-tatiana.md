@@ -2,7 +2,7 @@
 title: Ilminskih, Tatiana
 permalink: ilminskih-tatiana
 layout: default
-shortname: XXXXXXXXX
+shortname: ILMINSKIH
 originspell: Шаблон
 appearing: Updated
 birth: 2018

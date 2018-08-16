@@ -2,7 +2,7 @@
 title: Laska (tattoo)
 permalink: laska-tattoo
 layout: default
-shortname: XXXXXXXXX
+shortname: LASKA
 originspell: Шаблон
 appearing: Updated
 birth: 2018

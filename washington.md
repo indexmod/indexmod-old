@@ -4,7 +4,7 @@ permalink: washington
 position: null
 layout: default
 published: true
-shortname: WSHN
+shortname: WASHINGTON
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

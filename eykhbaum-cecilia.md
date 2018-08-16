@@ -3,8 +3,7 @@ title: 'Eykhbaum, Cecilia'
 permalink: eykhbaum-cecilia
 layout: default
 published: true
-shortname: EYCE
-shortname: XXXXXXXXX
+shortname: EYKHBAUM
 originspell: Шаблон
 appearing: Updated
 birth: 2018

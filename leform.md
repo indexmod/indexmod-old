@@ -3,7 +3,7 @@ title: Leform
 permalink: leform
 layout: default
 published: true
-shortname: LFRM
+shortname: LEFORM
 indexmod: '3,5'
 birth: '1997'
 age: '21'

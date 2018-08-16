@@ -3,7 +3,7 @@ title: Electromuseum
 permalink: electromuseum
 layout: default
 published: true
-shortname: EMUS
+shortname: ELECTROMUSEUM
 originspell: Шаблон
 appearing: Updated
 birth: 2018

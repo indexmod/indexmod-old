@@ -2,7 +2,7 @@
 title: Idelson Vero Decor Lab
 permalink: idelson-vero-decor-lab
 layout: default
-shortname: IVDL
+shortname: IDELSON
 indexmod: Indexmod
 birth: '2006'
 age: '12'

@@ -2,6 +2,7 @@
 title: Molchanov, Alexei
 permalink: molchanov-alexei
 layout: default
+shortname: MOLCHANOV
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

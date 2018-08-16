@@ -2,7 +2,7 @@
 title: Subhashok, Adeler
 permalink: subhashok-adeler
 layout: default
-shortname: INDEXMOD
+shortname: SUBHASHOK
 originspell: Шаблон
 appearing: Updated
 birth: 2018

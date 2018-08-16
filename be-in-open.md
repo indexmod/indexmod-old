@@ -2,7 +2,7 @@
 title: Be In Open
 permalink: be-in-open
 layout: default
-shortname: BIOP
+shortname: BEINOPEN
 indexmod: Indexmod
 birth: '2016'
 age: '3'
@@ -11,7 +11,6 @@ city: Moscow
 facebook: '1250'
 instagram: '13500'
 youtube: '393'
-shortname: XXXXXXXXX
 originspell: Шаблон
 appearing: Updated
 birth: 2018
@@ -50,17 +49,6 @@ founder: Be-in (site) and Alexey Bazhenov
 |2017|Хлебозавод №9|
 |2018 <span id="a2">[\[2\]](#f2)</span>|Хлебозавод №9|
 
-## Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter|{{ page.twitter }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
 
 ## See also
 

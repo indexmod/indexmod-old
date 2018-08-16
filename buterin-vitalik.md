@@ -4,8 +4,7 @@ permalink: buterin-vitalik
 position: null
 layout: default
 published: true
-shortname: BUVI
-shortname: XXXXXXXXX
+shortname: BUTERIN
 originspell: Шаблон
 appearing: Updated
 birth: 2018

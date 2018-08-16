@@ -3,7 +3,7 @@ title: 'Puhoff, Yan'
 permalink: pouhoff-yan
 layout: default
 published: true
-shortname: XXXXXXXXX
+shortname: PUHOFF
 originspell: Шаблон
 appearing: Updated
 birth: 2018
