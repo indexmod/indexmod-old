@@ -35,7 +35,7 @@ The success of Rubchinsky and Demna Gvasalia of Vetements brought huge attention
 
 **Gosha and friends at cafe on Manezhnaya in 2007**
 
-*Photo: [Alexei Platonov](platonov-alexei) / [Mania Mag](mania-mag)*
+*[Alexei Platonov](platonov-alexei) / [Mania Mag](mania-mag)*
 
 # See also
 
