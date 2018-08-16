@@ -37,11 +37,11 @@ The success of Rubchinsky and Demna Gvasalia of Vetements brought huge attention
 
 *[Alexei Platonov](platonov-alexei) / [Mania Mag](mania-mag)*
 
-# See also
+## See also
 
 + [Gosha Rubchinskiy (brand)](gosha-rubchinskiy)
 + [Lecharlatan](lecharlatan)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Gosha Rubchinskiy (Wikipedia)](https://en.wikipedia.org/wiki/Gosha_Rubchinskiy)
