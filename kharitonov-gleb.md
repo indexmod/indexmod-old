@@ -1,6 +1,6 @@
 ---
 title: Heisler, Gleb
-permalink: kharitonov-gleb
+permalink: heisler-gleb
 layout: default
 shortname: HEISLER
 givenname: Gleb
@@ -29,10 +29,8 @@ sourceurl: index
 founder: of Heisler.gq site
 ---
 
-
 ## See also
 
-+ [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
 ## Footnotes
