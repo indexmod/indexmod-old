@@ -20,7 +20,7 @@ twitter: '0'
 tumblr: '0'
 vkontakte: '0'
 origin: Russian
-profession: Russian artist, founder of Heisler.gq site
+profession: artist, founder of Heisler.gq site
 photo: Gleb Heisler
 photographer: Look At Me
 source: Look At Me
