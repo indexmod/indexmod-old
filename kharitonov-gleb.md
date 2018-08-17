@@ -21,8 +21,8 @@ tumblr: '0'
 vkontakte: '0'
 origin: Russian
 profession: Russian artist, founder of Heisler.gq site
-photo: This is sample for image caption
-photographer: Andrei Dei
+photo: Gleb Heisler
+photographer: Look At Me
 source: Look At Me
 photographerurl: index
 sourceurl: index
