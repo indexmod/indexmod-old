@@ -14,7 +14,7 @@ city: Moscow
 venue: headquarters at d. Chernaya, Moscow Region
 facebook: '10'
 instagram: '141'
-youtube: '30'
+youtube: '181'
 vimeo: '221'
 twitter: '20'
 tumblr: '0'
