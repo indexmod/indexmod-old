@@ -19,7 +19,7 @@ vimeo: '15'
 twitter: '5'
 tumblr: '0'
 vkontakte: '0'
-origin: a Russian
+origin: a Russian /
 profession: English language wiki-site based on the conception of hybriding wiki, blockchain, ICO and social networking
 photo: Indexmod site layout in 2015
 photographer: Andrei Dei
