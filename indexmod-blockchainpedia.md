@@ -15,13 +15,13 @@ venue: headquarters at d. Chernaya, Moscow Region
 facebook: '10'
 instagram: '0'
 youtube: '30'
-vimeo: '15'
+vimeo: '221'
 twitter: '5'
 tumblr: '0'
 vkontakte: '0'
 origin: a Russian /
 profession: English language wiki-site based on the conception of hybriding wiki, blockchain, ICO and social networking
-photo: Indexmod site layout in 2015
+photo: Indexmod Encyclopedia's site layout in 2015 based on Google sites engine
 photographer: Andrei Dei
 source: Indexmod Blockchainpedia
 photographerurl: dei-andrei
