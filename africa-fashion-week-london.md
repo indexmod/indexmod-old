@@ -19,7 +19,7 @@ vimeo: 0
 twitter: 0
 tumblr: 0
 vkontakte: 0
-origin: International
+origin: an International
 profession: fashion event in England
 photo: Ronke Ademiluyi, a founder and Chief Executive officer of Africa Fashion Week London and African Fashion Week Nigeria
 photographer: Guardian Woman Nigeria
