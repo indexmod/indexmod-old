@@ -82,6 +82,4 @@ Andrei has worked with scientists at the “Science for Life Extension”, train
 
 [[4]](#a4) <span id="f4"></span> [Andrei Deinichenko (Instagram)](https://www.instagram.com/deinichenkoandrei/)
 
-https://www.youtube.com/channel/UC2AP3VC8Nc_lD6JBc0VVv4g/about?disable_polymer=1
-
 [[5, 6, 7, 8]](#a5) <span id="f5"></span> [Andrei Deinichenko (IMDB)](http://www.imdb.com/name/nm6826609/)
