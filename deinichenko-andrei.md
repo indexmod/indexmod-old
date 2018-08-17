@@ -21,7 +21,7 @@ tumblr: '0'
 vkontakte: '0'
 origin: a Russian
 profession: journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta fellowship
-photo: Andrei Deinichenko in 2007 at Eastern gallery 
+photo: Andrei Deinichenko in 2007 at the Eastern gallery 
 photographer: Donor Darom
 source: LiveJournal
 photographerurl: donor-darom
