@@ -19,8 +19,8 @@ vimeo: '0'
 twitter: '0'
 tumblr: '0'
 vkontakte: '0'
-origin: Russian
-profession: Russian journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta fellowship
+origin: a Russian
+profession: journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta fellowship
 photo: Andrei Dei in 2007
 photographer: Donor Darom
 source: LiveJournal
