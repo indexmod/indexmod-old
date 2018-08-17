@@ -7,9 +7,11 @@ familyname:
 shortname: INDEXMOD
 originlang: Rus.
 originspell: Индексмод
+othername: Индексмод
 appearing: Est.
 birth: 2018
 city: Moscow
+venue: headquarters at d. Chernaya, Moscow Region
 facebook: '10'
 instagram: '0'
 youtube: '30'
