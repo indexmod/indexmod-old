@@ -9,14 +9,14 @@ originlang: Rus.
 originspell: Индексмод
 othername: Индексмод
 appearing: Est.
-birth: 2018
+birth: 2006
 city: Moscow
 venue: headquarters at d. Chernaya, Moscow Region
 facebook: '10'
 instagram: '141'
 youtube: '30'
 vimeo: '221'
-twitter: '5'
+twitter: '20'
 tumblr: '0'
 vkontakte: '0'
 origin: a Russian /
