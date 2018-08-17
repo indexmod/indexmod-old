@@ -68,9 +68,6 @@ Andrei has worked with scientists at the “Science for Life Extension”, train
 |Page Value|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
 
-|Year|Facebook|Instagram|YouTube|Age|DEI|
-|-|-|-|-|-|-|
-|2018|292 <span id="a3">[\[3\]](#f3)</span>|32 <span id="a4">[\[4\]](#f4)</span>|2759|47|0,144901|
 
 # Filmography
 
