@@ -22,7 +22,7 @@ tumblr: '0'
 vkontakte: '0'
 origin: a Russian
 profession: artist, founder art director at the “Alexandria” studio
-photo: Leila Al-Numan
+photo: Leila Al-Numan at St Petersburg in 2017
 photographer: St. Petersburg State University
 source: Spbu.ru
 photographerurl: http://english.spbu.ru/news/1403-art-university-graduate-a-creator-or-an-artisan
