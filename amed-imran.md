@@ -9,7 +9,7 @@ othername: Имран Амед
 city: Калгари
 originlang: Eng.
 originspell: Imran Amed
-appearing: Род.
+appearing: Born
 birth: 1972
 facebook: '1644'
 instagram: '461000'
@@ -18,8 +18,8 @@ vimeo: '0'
 twitter: '1081000'
 tumblr: '0'
 vkontakte: '0'
-origin: британско-канадский
-profession: предприниматель, основатель и генеральный директор “The Business of Fashion”
+origin:  a British-Canadian
+profession: entrepreneur, founder and CEO of "The Business of Fashion"
 photo: Имран Амед выступает во время презентации "BoF Голоса" в Сиднейском оперном театре
 photographer: Getty
 source: GQ Австралия
