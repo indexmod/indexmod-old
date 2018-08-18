@@ -6,7 +6,7 @@ shortname: AMED
 givenname: Imran
 familyname: Amed
 othername: Имран Амед
-city: Калгари
+city: Calgary
 originlang: Eng.
 originspell: Imran Amed
 appearing: Born
