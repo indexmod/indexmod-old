@@ -31,7 +31,7 @@ founder: reinvented by Evgeni Raykov (2016)
 Based on the cult in the 60-s in the USSR <span id="a2">[\[2\]](#f2)</span> so-called “two balls” brand of sneakers that have been imported from China <span id="a3">[\[3\]](#f3)</span> in 1960 — 1980 <span id="a4">[\[4\]](#f4)</span>. After 3 years of testing, and searching for investors, ready-to-wear online sales began on July 6, 2016, and retail sales started from July 13, 2016, in department store “Tsvetnoy” <span id="a5">[\[5, 6, 7, 8, 9\]](#f5)</span>.
 
 
-*Director of Photography: [Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
+*[Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
 
 ## Сharacteristics
 
@@ -43,7 +43,7 @@ Based on the cult in the 60-s in the USSR <span id="a2">[\[2\]](#f2)</span> so-c
 
 **A still from video campaign<br>directed by Anastasya Zavadskaya**
 
-*Director of Photography: [Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
+*[Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
 
 ## Crowdfunding story
 
@@ -53,7 +53,7 @@ In 2013, regarded the Converse as a competitor, Dva Myacha started crowdfunding 
 
 **A still from video campaign<br>directed by Anastasya Zavadskaya**
 
-*Director of Photography: [Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
+*[Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
 
 ## See also
 
