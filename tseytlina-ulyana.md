@@ -1,12 +1,12 @@
 ---
 title: 'Tseytlina, Ulyana'
 permalink: tseytlina-ulyana
-layout: default
+layout: campaign
 givenname: Ulyana
-familyname: Shestakova
+familyname: Tseytlina
 shortname: TSEYTLINA
-othername:
-originlang: Eng.
+othername: Ulyana Shestakova
+originlang: Rus.
 originspell: Ульяна Цейтлина
 appearing: Born
 birth: 1968
