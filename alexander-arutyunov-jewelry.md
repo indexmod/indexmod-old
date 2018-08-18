@@ -2,7 +2,7 @@
 title: Alexander Arutyunov Jewelry
 permalink: alexander-arutyunov-jewelry
 layout: default
-shortname: ALEXANDERARUTYUNOVJEWLRY
+shortname: ARUTYUNOVJEWLRY
 originspell: Александр Арутюнов Джуелри
 originlang: Rus.
 appearing: Est.
