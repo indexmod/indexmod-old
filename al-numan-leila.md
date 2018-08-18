@@ -26,7 +26,7 @@ photo: Leila Al-Numan
 photographer: St. Petersburg State University
 source: Spbu.ru
 photographerurl: http://english.spbu.ru/news/1403-art-university-graduate-a-creator-or-an-artisan
-sourceurl: http://english.spbu.ru/news/1403-art-university-graduate-a-creator-or-an-artisan
+sourceurl: http://english.spbu.ru
 founder: 'of the “Alexandria” studio'
 ---
 
