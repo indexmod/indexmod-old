@@ -8,16 +8,16 @@ shortname: DVAMYACHA
 venue: Tsvetnoy store, Moscow
 birth: '1965'
 city: Moscow
-facebook: '6778'
-instagram: '4672'
-youtube: '47'
+facebook: '7068'
+instagram: '9617'
+youtube: '77'
 originlang: Rus.
 originspell: Два мяча
 appearing: Est.
 vimeo: '0'
 twitter: '0'
 tumblr: '0'
-vkontakte: '0'
+vkontakte: '6784'
 origin: a Soviet
 profession: brand that was reinvented after the cult in the 60-s in the USSR
 photo: A still from video campaign directed by Anastasya Zavadskaya
