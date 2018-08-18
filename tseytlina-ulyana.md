@@ -4,7 +4,8 @@ permalink: tseytlina-ulyana
 layout: default
 givenname: Ulyana
 familyname: Shestakova
-shortname: TSETLINA
+shortname: TSEYTLINA
+othername:
 originlang: Eng.
 originspell: Ульяна Цейтлина
 appearing: Born
@@ -19,7 +20,7 @@ tumblr: '0'
 vkontakte: '0'
 origin: Russian
 profession: celebrity living in Moscow
-photo: Uliana at Monte-Carlo durinf Tatler Russia photo session in 2018
+photo: Uliana at Monte-Carlo during Tatler Russia photo session in 2018
 photographer: Egor Zaika
 source: Facebook
 photographerurl: zaika-egor
