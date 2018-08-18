@@ -1,8 +1,12 @@
 ---
 title: How to edit
 permalink: edit
+excluding: true
 layout: info
-exclude: true
+published: true
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+founder: 'Andrei Dei'
 ---
 
 ## Link to Editor
