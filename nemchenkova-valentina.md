@@ -2,7 +2,7 @@
 title: 'Nemchenkova, Valentina'
 permalink: nemchenkova-valentina
 layout: default
-shortname: NENCHENKOVA
+shortname: NEMCHENKOVA
 givenname: Valentina
 familyname: Nemchenkova
 othername: Валентина Немченкова
