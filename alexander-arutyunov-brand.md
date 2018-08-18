@@ -18,7 +18,7 @@ venue: Alexander Arutyunov Showroom, Mokhovaya, 11
 vkontakte: '0'
 origin: a Russian-Georgian
 profession: fashion brand based in Moscow
-photo: Staff of the Prosecco Bar waring t-shirts by Alexander Arutyunov
+photo: Staff of the Prosecco Bar wearing t-shirts by Alexander Arutyunov
 photographer: Prosecco Bar
 source: Facebook
 photographerurl: https://www.facebook.com/prsccobar/photos/a.1520556148072515/1679327238862071/?type=3&theater
