@@ -13,7 +13,7 @@ appearing: Born
 birth: 1972
 facebook: '1644'
 instagram: '461000'
-youtube: '3775591'
+youtube: '0'
 vimeo: '0'
 twitter: '1081000'
 tumblr: '0'
