@@ -9,7 +9,7 @@ originlang: Eng.
 originspell: Ульяна Цейтлина
 appearing: Born
 birth: 1968
-city: Saint Petersburg
+city: Leningrad
 facebook: '0'
 instagram: '0'
 youtube: '0'
@@ -18,11 +18,11 @@ twitter: '0'
 tumblr: '0'
 vkontakte: '0'
 origin: Russian
-profession: celebrity
+profession: celebrity living in Moscow
 photo: Uliana at Monte-Carlo durinf Tatler Russia photo session in 2018
-photographer: Andrei Zaika
+photographer: Egor Zaika
 source: Facebook
-photographerurl: zaika-andrei
+photographerurl: zaika-egor
 sourceurl: index
 founder:
 ---
