@@ -3,38 +3,33 @@ title: 'Амед, Имран (блогер)'
 permalink: amed-imran
 layout: default
 shortname: AMED
-givenname: Name
-familyname: Family name
-othername: Other name
+givenname: Imran
+familyname: Amed
+othername: Имран Амед
 city: Калгари
-originspell: Шаблон
-appearing: род.
+originlang: Eng.
+originspell: Imran Amed
+appearing: Род.
 birth: 1972
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+facebook: '1644'
+instagram: '461000'
+youtube: '3775591'
+vimeo: '0'
+twitter: '1081000'
+tumblr: '0'
 vkontakte: '0'
-origin: Canadian
+origin: британско-канадский
 profession: предприниматель, основатель и генеральный директор “The Business of Fashion”
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photo: Имран Амед выступает во время презентации "BoF Голоса" в Сиднейском оперном театре
+photographer: Getty
+source: GQ Австралия
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+founder: 'основатель проектов “The Business of Fashion” и "BoF Голоса"'
 ---
 
-(Англ. Imran Amed, род. {{ page.birth }} <span id="a1">[\[1\]](#f1)</span>, {{ page.city }})  британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Голоса" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
+Британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Голоса" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
 
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Имран Амед выступает во время презентации "BoF Голоса" в Сиднейском оперном театре**
-
-*Фото: [Getty](getty) / [GQ Австралия](gq)*
 
 ## Наргады и премии
 
@@ -44,18 +39,6 @@ founder: 'Andrei Dei'
 |2012| 100 самых влиятельных персон Британской цифровой экономике (Wired)|
 |2015|Почётный профессор модного бизнеса Каледонский университет Глазго|
 |2016|Совет дизайнеров Америки номинант премии Медиа имени Евгении Шеппард|
-
-## {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
-|Age|{{ page.age }}||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|{{ page.indexmod }}||
 
 ## Cм. также
 
