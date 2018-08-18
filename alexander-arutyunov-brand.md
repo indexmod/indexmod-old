@@ -29,7 +29,7 @@ founder: 'Alexander Arutyunov'
 
 ## See also
 
-+ [{{page.title}} jewelry](index)
++ [{{page.title}} jewelry](alexander-arutyunov-jewelry)
 
 ## Footnotes
 
