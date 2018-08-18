@@ -6,9 +6,9 @@ givenname: Ulyana
 familyname: Shestakova
 shortname: TSETLINA
 originlang: Eng.
-originspell: Ульяна Цетлина
+originspell: Ульяна Цейтлина
 appearing: Born
-birth: 1960
+birth: 1968
 city: Saint Petersburg
 facebook: '0'
 instagram: '0'
@@ -33,4 +33,4 @@ founder:
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Ульяна Цетлина (Tatler)](https://www.tatler.ru/nashi_lyudi/whoiswho/32339_ulyana_tseytlina.php)
+[[1]](#a1) <span id="f1"></span> [Ульяна Цейтлина (Tatler)](https://www.tatler.ru/nashi_lyudi/whoiswho/32339_ulyana_tseytlina.php)
