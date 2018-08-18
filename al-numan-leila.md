@@ -12,6 +12,7 @@ originspell: Лейла Аль-Нуман
 appearing: Born.
 birth: 1969
 city: Moscow
+venue: Vavilov 65A, House of Artists
 facebook: '0'
 instagram: '0'
 youtube: '0'
