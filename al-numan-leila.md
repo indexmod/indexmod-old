@@ -7,6 +7,7 @@ shortname: ALNUMAN
 givenname: Leila
 familyname: Al-Numan
 othername: Лейла Аль-Нуман
+originlang: Rus.
 originspell: Лейла Аль-Нуман
 appearing: Born.
 birth: 1969
