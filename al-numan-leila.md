@@ -19,7 +19,7 @@ vimeo: '0'
 twitter: '0'
 tumblr: '0'
 vkontakte: '0'
-origin: Russian
+origin: a Russian
 profession: artist, founder art director at the “Alexandria” studio
 photo: Leila Al-Numan
 photographer: St. Petersburg State University
