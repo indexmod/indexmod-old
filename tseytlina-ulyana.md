@@ -19,7 +19,7 @@ twitter: '0'
 tumblr: '0'
 vkontakte: '0'
 origin: Russian
-profession: celebrity living in Moscow
+profession: celebrity living in Saint Petersburg
 photo: Uliana at Monte-Carlo during Tatler Russia photo session in 2018
 photographer: Egor Zaika
 source: Facebook
