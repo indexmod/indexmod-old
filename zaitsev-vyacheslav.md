@@ -16,7 +16,7 @@ twitter: 524
 tumblr: '0'
 vkontakte: '0'
 origin: a Soviet and Russian
-profession: fashion designer, painter, graphic artist and theatrical costume designer
+profession: fashion and theatrical costume designer, graphic artist
 photo: Российская неделя моды: от хиджаба к киберпротезам
 photographer: Photographer
 source: Source
