@@ -6,7 +6,8 @@ layout: info
 published: true
 source: Indexmod Blockchainpedia
 photographerurl: dei-andrei
-founder: 'Andrei Dei'
+founder: Andrei Dei
+exclude: true
 ---
 
 ## Link to Editor
