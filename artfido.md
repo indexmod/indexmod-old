@@ -4,6 +4,7 @@ permalink: artfido
 layout: default
 shortname: ARTFIDO
 othername: artFido
+originlang: Eng.
 originspell: Artfido
 appearing: Est.
 birth: 2013
