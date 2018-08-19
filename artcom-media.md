@@ -2,6 +2,9 @@
 title: Artcom Media
 permalink: artcom-media
 layout: default
+givenname: Artcom Media
+familyname:
+othername: Артком Медиа Групп
 shortname: ACMG
 originlang: Rus.
 originspell: Артком Медиа Групп
