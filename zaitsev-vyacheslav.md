@@ -19,9 +19,9 @@ twitter: 0
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
-origin: a Soviet and Russian
+origin: a Soviet
 profession: fashion and theatrical costume designer, graphic artist
-photo: 
+photo:
 photographer: Photographer
 source: Source
 photographerurl: index
