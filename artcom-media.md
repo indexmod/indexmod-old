@@ -16,7 +16,7 @@ twitter: '124'
 tumblr: '0'
 vkontakte: '0'
 origin: an international
-profession: media group founded in 2008. Today ACMG is a global network which operates in Italy, Germany, France and Russia and has over 500 employees across the world
+profession: media group with headquarters in Russia, a global network which operates in Italy, Germany and France
 photo: During the photoshoot of publishing house team connected with the10th anniversary of the ACMG
 photographer: Archive
 source: Acmgroup.info
