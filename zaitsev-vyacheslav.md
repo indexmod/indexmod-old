@@ -16,13 +16,13 @@ twitter: 524
 tumblr: '0'
 vkontakte: '0'
 origin: a Soviet and Russian
-profession: fashion designer, painter, graphic artist and theatrical costume designer, founder, CEO, creative director of Slava Zaitsev fashion house in Moscow
+profession: fashion designer, painter, graphic artist and theatrical costume designer
 photo: Российская неделя моды: от хиджаба к киберпротезам
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-founder: of Slava Zaitsev fashion house
+founder: CEO, creative director of Slava Zaitsev fashion house
 ---
 
 ## See also
@@ -31,4 +31,4 @@ founder: of Slava Zaitsev fashion house
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Zaitsev's official website (Zaitsev Dom Mody)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Zaitsev's official website (Zaitsev Dom Mody)](index)
