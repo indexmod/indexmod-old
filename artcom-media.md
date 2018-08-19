@@ -30,12 +30,11 @@ founder: Antonio Alizzi
 
 A publishing house part of Russian media holding company, established in 1995, specializes in the publication of licensed versions of foreign magazines, includes publishing group Artcom Media, advertising, digital and event agency.
 
-
-# Magazines and websites
+## Magazines and websites
 
 Magazines about fashion and lifestyle:  Numéro, Port, SNC, Golf Digest. Publications on design: Interni, Objekt, Exterieurs Design, L'Officiel in Russia and in Germany. Digital department of the holding includes an online resource about fashion and the iconic events of the life of the metropolis TrendSpace.ru, Sncmagazine.ru, Portmagazine.ru, RussianDesignHub.ru.
 
-# Milestones
+## Milestones
 
 |Year|Milestone|
 |-|-|
