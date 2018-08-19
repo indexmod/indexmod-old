@@ -18,17 +18,16 @@ tumblr: '0'
 vkontakte: '0'
 venue: Centro de artesanía de Aragón
 origin: Spanish
-profession: fashion event
+profession: fashion event in Zaragoza
 photo: Identity pack "Semana de la Moda, Zaragoza
 photographer: Estudio Mique
 source: Behance
 photographerurl: estudio-mique
 sourceurl: https://www.behance.net/gallery/37053981/Semana-de-la-Moda-Zaragoza
-founder: ''
+founder: 'Federación de industrias Textiles'
 ---
-Is a fashion event in Spain founded in 2011 <span id="a1">[\[1\]](#f1)</span>, Zaragoza).
 
-# Conspectus
+## Conspectus
 
 |Year|Place|
 |----|-----|
@@ -36,12 +35,12 @@ Is a fashion event in Spain founded in 2011 <span id="a1">[\[1\]](#f1)</span>, Z
 |2011|Centro de artesanía de Aragón|
 |2018||
 
-# See also
+## See also
 
 + [Zaragoza](Zaragoza)
 + [Barcelona Fashion Week](barcelona-fashion-week )
 + [Cibeles Madrid Fashion Week](cibeles-madrid-fashion-week)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Semana de la Moda, Zaragoza at Federación de industrias Textiles y de la Confección de Aragón, (FITCA)](http://fitca.com/?p=2560)
