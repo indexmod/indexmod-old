@@ -3,70 +3,30 @@ title: Artfido
 permalink: artfido
 layout: default
 shortname: ARTFIDO
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+othername: artFido
+originspell: Artfido
+appearing: Est.
+birth: 2013
+city: Victoria
+facebook: '2600000'
+instagram: '1100000'
+youtube: '116000'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
+origin: an Australian
+profession: online sales and auction, independent, owned by art lovers wanting to bring art to everyone site dedicated to art based in Carlton North, Victoria
+photo: Fragment of “cute dog” for smart puns “fetching art” symbol
+photographer: Artfido
+source: Artfido
+photographerurl: artfido
+sourceurl: artfido
 founder: 'Andrei Dei'
 ---
 
-(Est. 2013, city) Artfido (artFido) est. 2011—is an online sales and auction, independent, owned by art lovers wanting to bring art to everyone site dedicated to art based in Carlton North, Victoria, Australia. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+An online sales and auction, independent, owned by art lovers wanting to bring art to everyone site dedicated to art based in Carlton North, Victoria, Australia.
 
-![](/images/image-name.jpg)
+## Footnotes
 
-*Image caption*
-
-Fragment of “cute dog” for smart puns “fetching art” symbol
-Photo: author unknown / Artfido
-
-(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/{{page.permalink}}.jpg)
-
-**Image**
-
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
-
-# See also
-
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-
-# Footnotes
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[1]](#a1) <span id="f1"></span> [ (Artfido.com)](https://www.artfido.com/)
