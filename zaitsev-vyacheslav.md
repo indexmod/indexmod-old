@@ -12,21 +12,21 @@ appearing: Born
 birth: 1938
 city: Ivanovo
 facebook: 0
-instagram: 2232
+instagram: 0
 youtube: 0
 vimeo: 0
-twitter: 524
+twitter: 0
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
 origin: a Soviet and Russian
 profession: fashion and theatrical costume designer, graphic artist
-photo: Российская неделя моды: от хиджаба к киберпротезам
+photo: 
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-founder: CEO, creative director of Slava Zaitsev fashion house
+founder:
 published: true
 exclude: true
 ---
