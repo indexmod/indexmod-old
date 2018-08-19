@@ -12,7 +12,7 @@ appearing: Born
 birth: 1938
 city: Ivanovo
 facebook: 0
-instagram: 0
+instagram: 2232
 youtube: 0
 vimeo: 0
 twitter: 0
@@ -21,7 +21,7 @@ vkontakte: 0
 soundcloud: 0
 origin: a Soviet
 profession: fashion and theatrical costume designer, graphic artist
-photo:
+photo: Vyacheslav Zaitsev
 photographer: Photographer
 source: Source
 photographerurl: index
