@@ -20,22 +20,25 @@ twitter: '0'
 tumblr: '0'
 vkontakte: '0'
 origin: a Russian
-profession: journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta fellowship
+profession: >-
+  journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta
+  fellowship
 photo: Andrei Deinichenko in 2007 at the Eastern gallery
 photographer: Donor Darom
 source: LiveJournal
 photographerurl: donor-darom
-sourceurl: http://donor-darom.livejournal.com/70036.html
-founder: 'Andrei Dei'
+sourceurl: 'http://donor-darom.livejournal.com/70036.html'
+founder: Andrei Dei
+published: true
 ---
 
 Russian journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta fellowship, <span id="a1">[\[1\]](#f1)</span>, layout and prints designer <span id="a2">[\[2\]](#f2)</span>.
 
-# From autobiography
+## From autobiography
 
 I became a journalist, it being happened, I worked for several years as a Fashion Editor in the GQ editorial in Moscow, as well as I have got a chance to experiment at the Department of New Media of MSU. Since then, I became interested in visual design and creating of art objects such as eco-hotel-capsule, interior robots and other multimedia creatures.
 
-# Conspectus
+## Conspectus
 
 |Year|Milestones|
 |----|-----|
@@ -48,11 +51,11 @@ I became a journalist, it being happened, I worked for several years as a Fashio
 |2015|Indexmod Encyclopedia|
 |2017|Entering the Eta fellowship|
 
-# Transhumanist actionism
+## Transhumanist actionism
 
 Andrei has worked with scientists at the “Science for Life Extension”, trained as a cameraman at the website of PostNauka (PostScience). In my creative plan is a series of works in the genre of installation videos to a new audience expand before questions concerning the archaic views of society on the Death and Dying, as well as a new scientific paradigm of life extension and not dying.
 
-# Filmography
+## Filmography
 
 |Year|Film (director, role)|
 |-|-|
