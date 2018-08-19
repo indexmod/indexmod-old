@@ -21,7 +21,7 @@ vkontakte: 0
 soundcloud: 0
 origin: a Soviet
 profession: fashion and theatrical costume designer, graphic artist
-photo: Vyacheslav Zaitsev
+photo: Vyacheslav Zaitsev and models on the stage of fashion show
 photographer: Photographer
 source: Source
 photographerurl: index
