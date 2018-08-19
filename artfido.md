@@ -2,6 +2,7 @@
 title: Artfido
 permalink: artfido
 layout: default
+givenname: Artfido
 shortname: ARTFIDO
 othername: artFido
 originlang: Eng.
@@ -30,4 +31,4 @@ An online sales and auction, independent, owned by art lovers wanting to bring a
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [ (Artfido.com)](https://www.artfido.com/)
+[[1]](#a1) <span id="f1"></span> [About (Artfido.com)](https://www.artfido.com/)
