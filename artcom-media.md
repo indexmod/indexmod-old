@@ -11,6 +11,7 @@ originspell: Артком Медиа Групп
 appearing: Est.
 birth: 2008
 city: Moscow
+venue: Stolyarnyy pereulok, 3, 6
 facebook: '2289'
 instagram: '2027'
 youtube: '0'
