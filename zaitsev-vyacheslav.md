@@ -1,28 +1,34 @@
 ---
 title: Zaitsev, Vyacheslav
 permalink: zaitsev-vyacheslav
+givenname: Given name
+familyname: Family name
 layout: default
-shortname: ZAITSEV
-originlang: Rus.
-originspell: Зайцев Вячеслав
-appearing: Born
-birth: 1938
-city: Ivanovo
-facebook: '0'
-instagram: 2232
-youtube: '0'
-vimeo: '0'
-twitter: 524
-tumblr: '0'
-vkontakte: '0'
-origin: a Soviet and Russian
-profession: fashion and theatrical costume designer, graphic artist
-photo: Российская неделя моды: от хиджаба к киберпротезам
-photographer: Photographer
-source: Source
-photographerurl: index
+shortname: SHORT NAME
+originlang: Rus. / Eng.
+originspell: Original spell
+othername: Other name
+appearing: Updated / Est. / Born
+birth: 2018
+city: Moscow
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+origin: a / an Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
 sourceurl: index
-founder: CEO, creative director of Slava Zaitsev fashion house
+founder: Andrei Dei
+published: true
+exclude: true
 ---
 
 ## See also
