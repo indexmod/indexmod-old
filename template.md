@@ -22,11 +22,11 @@ soundcloud: 0
 origin: a / an Russian
 profession: English language wiki
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: Andrei Dei
+founder: Founder
 published: true
 exclude: true
 ---
