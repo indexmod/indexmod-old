@@ -44,7 +44,7 @@ Magazines about fashion and lifestyle:  Numéro, Port, SNC, Golf Digest. Publica
 |2008|ARTCOM Media publishing house is established
 |
 
-## Uskov's scandal
+## The Uskov's scandal
 
 In 2018, the Editor of the Russian edition of Forbes Nikolai Uskov was dismissed by the decision of the owner; As reasons for dismissal, dissatisfaction with the quality of Uskov's work and his repeated participation in "outside events of other brands" were cited. According to Uskov himself, the real reason for the dismissal was the conflict between him and the owner of the publication, Alexander Fedotov <span id="a2">[\[2\]](#f2)</span>.
 
