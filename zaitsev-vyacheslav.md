@@ -15,7 +15,7 @@ facebook: 0
 instagram: 2232
 youtube: 0
 vimeo: 0
-twitter: 0
+twitter: 524
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
@@ -26,7 +26,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-founder:
+founder: CEO and creative director of Slava Zaitsev fashion house
 published: true
 exclude: true
 ---
