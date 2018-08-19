@@ -26,8 +26,9 @@ photographer: Andrei Dei
 source: Indexmod Blockchainpedia
 photographerurl: dei-andrei
 sourceurl: index
-founder: 'Andrei Dei'
-
+founder: Andrei Dei
+published: true
+exclude: true
 ---
 
 
