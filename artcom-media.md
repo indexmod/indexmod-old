@@ -41,8 +41,7 @@ Magazines about fashion and lifestyle:  Numéro, Port, SNC, Golf Digest. Publica
 |-|-|
 |1990|The Art Service company is established, later reshaped into Art Trading company|
 |1995|ARTCOM Media advertising agency is establised|
-|2008|ARTCOM Media publishing house is established
-|
+|2008|ARTCOM Media publishing house is established|
 
 ## The Uskov's scandal
 
