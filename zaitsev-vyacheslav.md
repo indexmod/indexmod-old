@@ -12,10 +12,10 @@ appearing: Born
 birth: 1938
 city: Ivanovo
 facebook: 0
-instagram: 0
+instagram: 2232
 youtube: 0
 vimeo: 0
-twitter: 0
+twitter: 524
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
