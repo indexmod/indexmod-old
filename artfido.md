@@ -9,7 +9,7 @@ originlang: Eng.
 originspell: Artfido
 appearing: Est.
 birth: 2013
-city: Victoria
+city: Melbourne
 facebook: '2600000'
 instagram: '1100000'
 youtube: '116000'
@@ -18,26 +18,13 @@ twitter: '0'
 tumblr: '0'
 vkontakte: '0'
 origin: an Australian
-<<<<<<< HEAD
-profession: online sales and auction, independent, owned by art lovers wanting to bring art to everyone site dedicated to art based in Carlton North, Victoria
-photo: The forest of parrots ($153)
+profession: online auction and shopping website in which people and businesses buy and sell works of art worldwide
+photo: The forest of parrots ($153) from naive art section on artFido site
 photographer: Perbellini Beatrice  
 source: Artfido
 photographerurl: artfido
 sourceurl: artfido
-founder: ''
-=======
-profession: >-
-  online sales and auction, independent, owned by art lovers wanting to bring
-  art to everyone site dedicated to art based in Carlton North, Victoria
-photo: Fragment of “cute dog” for smart puns “fetching art” symbol
-photographer: Artfido
-source: Artfido
-photographerurl: artfido
-sourceurl: artfido
-founder: Andrei Dei
-published: true
->>>>>>> b9bc51ce87e2d091a3591b487785d241de3a21b6
+founder: 'Juan Garcia'
 ---
 
 An online sales and auction, independent, owned by art lovers wanting to bring art to everyone site dedicated to art based in Carlton North, Victoria, Australia.
