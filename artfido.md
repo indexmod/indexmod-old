@@ -18,6 +18,7 @@ twitter: '0'
 tumblr: '0'
 vkontakte: '0'
 origin: an Australian
+<<<<<<< HEAD
 profession: online sales and auction, independent, owned by art lovers wanting to bring art to everyone site dedicated to art based in Carlton North, Victoria
 photo: The forest of parrots ($153)
 photographer: Perbellini Beatrice  
@@ -25,6 +26,18 @@ source: Artfido
 photographerurl: artfido
 sourceurl: artfido
 founder: ''
+=======
+profession: >-
+  online sales and auction, independent, owned by art lovers wanting to bring
+  art to everyone site dedicated to art based in Carlton North, Victoria
+photo: Fragment of “cute dog” for smart puns “fetching art” symbol
+photographer: Artfido
+source: Artfido
+photographerurl: artfido
+sourceurl: artfido
+founder: Andrei Dei
+published: true
+>>>>>>> b9bc51ce87e2d091a3591b487785d241de3a21b6
 ---
 
 An online sales and auction, independent, owned by art lovers wanting to bring art to everyone site dedicated to art based in Carlton North, Victoria, Australia.
