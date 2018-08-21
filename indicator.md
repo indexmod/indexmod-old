@@ -1,4 +1,5 @@
 ---
+shortname: INDIKATOR
 birth: 1958
 facebook: 600000
 instagram: 400000
