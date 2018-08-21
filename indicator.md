@@ -1,8 +1,8 @@
 ---
 shortname: INDIKATOR
-birth: 2008
-facebook: 600000
-instagram: 400000
+birth: 1984
+facebook: 150000
+instagram: 2000000
 permalink: indicator
 layout: indicator
 ---
