@@ -1,9 +1,9 @@
 ---
-shortname: 1
-birth: 1900
-facebook: 100
-instagram: 100
-permalink: indicator-1
+shortname: 2
+birth: 2000
+facebook: 10000
+instagram: 10000
+permalink: indicator-2
 layout: indicator
 ---
 
@@ -11,7 +11,7 @@ layout: indicator
 
 |Variables|Value|Math|||
 |Facebook|{{page.facebook}}|+|||
-|Instagram|{{page.instagram}}|=|1000000|/|
+|Instagram|{{page.instagram}}|=|{{social}}|/|
 |Population|1000000|=|1|x|
 |Age|{{ site.time | date: "%Y" | minus: page.birth }}|=|10||
 |Words|{{page.content | number_of_words}}|=|300|/|
