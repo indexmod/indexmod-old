@@ -1,8 +1,8 @@
 ---
 shortname: INDIKATOR
-birth: 1900
-facebook: 6000000
-instagram: 4000000
+birth: 1939
+facebook: 230
+instagram: 900
 permalink: indicator-1
 layout: indicator
 ---
@@ -11,7 +11,7 @@ layout: indicator
 
 |Variables|Value|Math|||
 |Facebook|{{page.facebook}}|+|||
-|Instagram|{{page.instagram}}|=|1000000|/|
+|Instagram|{{page.instagram}}|=|{{social}}|/|
 |Population|1000000|=|1|x|
 |Age|{{ site.time | date: "%Y" | minus: page.birth }}|=|10||
 |Words|{{page.content | number_of_words}}|=|300|/|
