@@ -1,9 +1,9 @@
 ---
-shortname: INDIKATOR
-birth: 1950
-facebook: 600
-instagram: 400000001
-permalink: indicator-1
+shortname: 2
+birth: 1930
+facebook: 10000
+instagram: 10000
+permalink: indicator-2
 layout: indicator
 ---
 

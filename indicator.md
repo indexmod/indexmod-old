@@ -1,9 +1,9 @@
 ---
-shortname: INDIKATOR
+shortname: 1
 birth: 1984
-facebook: 1500001
-instagram: 2000000
-permalink: indicator
+facebook: 2000000
+instagram: 20000000
+permalink: indicator-1
 layout: indicator
 ---
 
