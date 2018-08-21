@@ -1,8 +1,8 @@
 ---
 shortname: 2
-birth: 2000
-facebook: 10000
-instagram: 10000
+birth: 1980
+facebook: 500
+instagram: 500
 permalink: indicator-2
 layout: indicator
 ---
