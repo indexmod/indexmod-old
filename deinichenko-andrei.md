@@ -21,14 +21,12 @@ tumblr: '0'
 vkontakte: '0'
 origin: a Russian
 profession: journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta
-  fellowship
 photo: Andrei Deinichenko in 2007 at the Eastern gallery
 photographer: Donor Darom
 source: LiveJournal
 photographerurl: donor-darom
 sourceurl: 'http://donor-darom.livejournal.com/70036.html'
 founder: of Indexmod
-published: true
 ---
 
 Russian journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta fellowship, <span id="a1">[\[1\]](#f1)</span>, layout and prints designer <span id="a2">[\[2\]](#f2)</span>.
