@@ -7,14 +7,12 @@
 {% assign age = site.time | date: "%Y" | minus: page.birth %}
 {% assign index = age | times: social | divided_by: 1000000.0 %}
 {% assign indexmod = index | times: number_of_words | divided_by: 100 %}
-
+{% assign stroke = age | divided_by: 100 %}
 <h1>{{ indexmod | round: 0 }}</h1>
 <p>Age: {{ age }} </p>
 
-{% assign stroke = site.time | date: "%Y" | minus: page.birth | divided_by: 10 %}
-
 <p><svg width="100" height="100">
-   <circle cx="50" cy="50" r="40" stroke="rgb(222,333,111)" stroke-width="{% site.time | date: "%Y" | minus: page.birth | divided_by: 10 %}px" fill="hsl(100,20,129)" />
+   <circle cx="50" cy="50" r="40" stroke="rgb(222,222,222)" stroke-width="{{stroke}}px" fill="hsl(111,111,111)" />
    Sorry, your browser does not support inline SVG.
 </svg><p>
 

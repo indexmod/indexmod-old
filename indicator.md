@@ -1,8 +1,8 @@
 ---
 shortname: 1
-birth: 1984
-facebook: 2000000
-instagram: 20000000
+birth: 1900
+facebook: 100
+instagram: 100
 permalink: indicator-1
 layout: indicator
 ---

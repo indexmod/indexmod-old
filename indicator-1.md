@@ -1,6 +1,6 @@
 ---
 shortname: 2
-birth: 1930
+birth: 2000
 facebook: 10000
 instagram: 10000
 permalink: indicator-2
