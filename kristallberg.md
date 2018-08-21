@@ -2,37 +2,33 @@
 title: Kristallberg
 permalink: kristallberg
 layout: default
-published: true
 shortname: KRISTALLBERG
 founder: Polina Bestuzheva
 birth: 2010
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
+givenname: Kristallberg
+othername: Кристаллберг
+originlang: Rus.
+originspell: Кристаллберг
+appearing: Est.
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+facebook: '0'
+instagram: '0'
+youtube: '0'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
+origin: a Russian
+profession: brand of woman's wear
+photo: Cecilia Eykhbaum in Kristallberg 2010 campaign look book. Sample of Kristallberg box of the F / W 2010—2011
+photographer: Kristallberg archives
 source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+founder: 'Polina Bestuzheva'
 ---
-(Rus. Кристаллберг, est. {{ page.birth }}, {{ page.city }}) is a fashion brand founded by Polina Bestuzheva in 2010. In the period from 2010 to 2015 under the name Kristallberg got one collection F / W 2010-2011.
 
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Cecilia Eykhbaum in Kristallberg 2010 campaign look book. Sample of Kristallberg box of the F / W 2010—2011**
-
-*Photo: [Kristallberg archives](index) / [Indexmod](index)*
+A fashion brand founded by Polina Bestuzheva in 2010. In the period from 2010 to 2015 under the name Kristallberg made one collection F / W 2010-2011.
 
 ## See also
 
