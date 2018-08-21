@@ -13,7 +13,7 @@ layout: indicator
 |Facebook:|{{page.facebook}}|+|||
 |Instagram:|{{page.instagram}}|=|1000000|/|
 |Population|1000000|=|1|x|
-|Age:|{{age}}|=|10||
-|Page:|{{page.content | number_of_words}}|=|160|/|
-||100|=|1.6||
+|Age:|{{ site.time | date: "%Y" | minus: page.birth }}|=|10||
+|Page:|{{page.content | number_of_words}}|=|170|/|
+||100|=|1.7||
 |Total|Value|Math||{{ indexmod | round: 0 }}|
