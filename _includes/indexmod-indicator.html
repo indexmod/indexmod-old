@@ -9,9 +9,10 @@
 {% assign indexmod = index | times: number_of_words | divided_by: 100 %}
 
 <h1>{{ indexmod | round: 0 }}</h1>
+<h2>{{page.age}}</h2>
 
 <p><svg width="100" height="100">
-   <circle cx="50" cy="50" r="40" stroke="green" stroke-width="0px" fill="rgb(100, 149, 237)" />
+   <circle cx="50" cy="50" r="40" stroke="green" stroke-width="0px" fill="rgb({{page.age}}, 149, 237)" />
    Sorry, your browser does not support inline SVG.
 </svg><p>
 
