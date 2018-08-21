@@ -2,7 +2,7 @@
 shortname: INDIKATOR
 birth: 1950
 facebook: 600
-instagram: 40000000
+instagram: 400000001
 permalink: indicator-1
 layout: indicator
 ---
