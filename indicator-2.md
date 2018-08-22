@@ -11,6 +11,6 @@ layout: indicator
 |Facebook|{{page.facebook}}|
 |Instagram|{{page.instagram}}|
 |F+I|{% include social.html %}|
-|Age|{{ site.time | date: "%Y" | minus: page.birth }}|
-|Words|{{page.content | number_of_words}}|
+|Age|{% include age.html %}|
+|Words|{% include words.html %}|
 |Total|{% include indexmod.html %}|

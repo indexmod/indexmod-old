@@ -5,5 +5,5 @@
 {% assign indexmod = index | times: number_of_words | divided_by: 100 %}
 
 <svg width="100" height="100">
-   <circle cx="50" cy="50" r="5" stroke="rgb(255,255,{{ age }})" stroke-width="{{ age }}px" fill="rgb(222,222,{{ indexmod | round 0 }})" />
+   <circle cx="50" cy="50" r="5" stroke="rgb(255,255,{% include age.html %})" stroke-width="{% include age.html %}px" fill="rgb(222,222,{% include indexmod.html %}" />
 </svg>
