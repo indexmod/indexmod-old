@@ -315,6 +315,8 @@ img {
 }
 
 .tooltip .tooltiptext {
+	  visibility: hidden;
+		background-color: black;
 	  font-family: 'Verdana';
 		font-size: 10px;
     width: 130px;
