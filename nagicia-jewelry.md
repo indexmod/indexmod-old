@@ -4,7 +4,7 @@ permalink: nagicia-jewelry
 layout: default
 shortname: NAGICIA
 originlang: Korean
-originspell: 트리샤 김
+originspell: 나기시 아 보석
 othername: Nagicia Inc.
 appearing: Est.
 birth: 2001
