@@ -9,10 +9,10 @@ originlang: Eng.
 originspell: Muka Intuitive Herbology, Muka Concept
 othername: Muka Intuitive Herbology
 appearing: Est.
-birth: 2017
+birth: 2013
 city: Bali
 facebook: 776
-instagram: 0
+instagram: 3500
 youtube: 0
 vimeo: 0
 twitter: 0
