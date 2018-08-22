@@ -12,15 +12,9 @@
 <p>Age: {{ age }} </p>
 
 <p><svg width="100" height="100">
-   <circle cx="50" cy="50" r="40" stroke="rgb(0,204,0)" stroke-width="20px" fill="rgb(255,255,0)" />
-   Sorry, your browser does not support inline SVG.
+   <circle cx="50" cy="50" r="30" stroke="rgb(255,255,{{ age }})" stroke-width="20px" fill="rgb(255,255,{{ social }})" />
 </svg> <svg width="100" height="100">
-   <circle cx="50" cy="50" r="20" stroke="rgb(0,204,0)" stroke-width="{{ age }}px" fill="rgb(255,255,{{ age }})"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-  <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
-    <text x="15" y="15" fill="black">{{ age }}</text>
-  </a>
-   Sorry, your browser does not support inline SVG.
+   <circle cx="50" cy="50" r="20" stroke="rgb(255,255,{{ age }})" stroke-width="{{ age }}px" fill="rgb(255,255,{{ social }})" />
 </svg> <p>
 
 </body>
