@@ -5,6 +5,12 @@ shortname: B
 birth: 1990
 facebook: 300000
 instagram: 300000
+twitter: 100
+vkontakte: 400
+vimeo: 567
+youtube: 1000
+soundcloud: 50
+
 ---
 
 One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
