@@ -1,17 +1,17 @@
 ---
 title: Muka
 permalink: muka
-givenname: Given name
-familyname: Family name
+givenname: Muka
+familyname:
 layout: default
-shortname: SHORT NAME
-originlang: Rus. / Eng.
-originspell: Original spell
-othername: Other name
-appearing: Updated / Est. / Born
-birth: 2018
-city: Moscow
-facebook: 0
+shortname: MUKA
+originlang: Eng.
+originspell: Muka Intuitive Herbology, Muka Concept
+othername: Muka Intuitive Herbology
+appearing: Est.
+birth: 2017
+city: Bali
+facebook: 776
 instagram: 0
 youtube: 0
 vimeo: 0
@@ -19,41 +19,27 @@ twitter: 0
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
-origin: a / an Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+origin: an international
+profession: cosmetics and clothes brand base on Bali
+photo: From 2018 Muka campaign
+photographer: Unknown
+source: Deskgram.org
 photographerurl: index
 sourceurl: index
-founder: Founder
-published: true
-exclude: true
+founder:
+Iris Van de Coevering
+
 ---
 
+## Stores
 
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/template.jpg)
-
-**Image**
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
++ [Leform (Moscow)](leform)
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Nagicia Jewelry](nagicia-jewelry)
+
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](https://www.facebook.com/pg/mukaskincare/ads/?ref=page_internal)
