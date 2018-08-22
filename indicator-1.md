@@ -1,19 +1,15 @@
 ---
-shortname: 1
+shortname: A
 birth: 2007
 facebook: 500000
 instagram: 600000
-permalink: indicator-1
+permalink: indicator-a
 layout: indicator
 ---
 
-# Formula
-
-|Variables|Value|Math|||
-|Facebook|{{page.facebook}}|+|||
-|Instagram|{{page.instagram}}|=|1000000|/|
-|Population|1000000|=|1|x|
-|Age|{{ site.time | date: "%Y" | minus: page.birth }}|=|10||
-|Words|{{page.content | number_of_words}}|=|300|/|
-||100|=|3||
-|Total|Value|Math||{{ indexmod | round: 0 }}|
+|Shortname|{{page.shortname}}|
+|Facebook|{{page.facebook}}|
+|Instagram|{{page.instagram}}|
+|Age|{{ site.time | date: "%Y" | minus: page.birth }}|
+|Words|{{page.content | number_of_words}}|
+|Total|{{ indexmod | round: 0 }}|

@@ -1,19 +1,15 @@
 ---
-shortname: 2
+shortname: B
 birth: 2017
 facebook: 4567888
 instagram: 46583566237
-permalink: indicator-2
+permalink: indicator-b
 layout: indicator
 ---
 
-# Formula
-
-|Variables|Value|Math|||
-|Facebook|{{page.facebook}}|+|||
-|Instagram|{{page.instagram}}|=|{{social}}|/|
-|Population|1000000|=|1|x|
-|Age|{{ site.time | date: "%Y" | minus: page.birth }}|=|10||
-|Words|{{page.content | number_of_words}}|=|300|/|
-||100|=|3||
-|Total|Value|Math||{{ indexmod | round: 0 }}|
+|Shortname|{{page.shortname}}|
+|Facebook|{{page.facebook}}|
+|Instagram|{{page.instagram}}|
+|Age|{{ site.time | date: "%Y" | minus: page.birth }}|
+|Words|{{page.content | number_of_words}}|
+|Total|{{ indexmod | round: 0 }}|
