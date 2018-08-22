@@ -1,19 +1,17 @@
 ---
-title:
+title: The chart
 permalink: index-chart
 layout: cover
 exclude: true
 ---
 
-# The articles
+# The chart
 
 <wrap>
-
 {% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}
 {% unless page.exclude %}
 
-<a href="{{page.url|absolute_url}}"> {{ page.shortname }} {% include indexmod-indicator.html %} {% include indexmod.html %}</a>
+<a href="{{page.url|absolute_url}}">{% include indexmod-indicator.html %}</a>
  {% endunless %}
  {% endfor %}
-
 </wrap>
