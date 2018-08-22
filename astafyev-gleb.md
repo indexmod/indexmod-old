@@ -19,7 +19,7 @@ twitter: 0
 tumblr: 0
 vkontakte: 1194
 soundcloud: 1923
-origin: an Russian
+origin: a Russian
 profession: musician and artist living in Moscow
 photo: Gleb Astafyev in 2017
 photographer: Unknown
