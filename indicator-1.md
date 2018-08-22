@@ -1,8 +1,8 @@
 ---
 shortname: A
 birth: 1950
-facebook: 300
-instagram: 300
+facebook: 300000
+instagram: 300000
 permalink: indicator-a
 layout: indicator
 ---
