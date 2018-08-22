@@ -1,7 +1,7 @@
 ---
 title: The chart
 permalink: index-chart
-layout: cover
+layout: tech
 exclude: true
 ---
 
