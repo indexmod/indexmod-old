@@ -23,7 +23,7 @@ photographer: Andrei Dei
 source: Indexmod Blockchainpedia
 photographerurl: dei-andrei
 sourceurl: index
-founder: 'Andrei Dei'
+founder: 'Tricia Kim'
 ---
 
 # See also
