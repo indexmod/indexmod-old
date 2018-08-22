@@ -1,8 +1,8 @@
 ---
 shortname: 2
-birth: 1990
-facebook: 500
-instagram: 500
+birth: 2017
+facebook: 4567888
+instagram: 46583566237
 permalink: indicator-2
 layout: indicator
 ---
