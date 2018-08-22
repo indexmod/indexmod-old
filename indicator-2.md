@@ -1,6 +1,6 @@
 ---
 shortname: 2
-birth: 1980
+birth: 1990
 facebook: 500
 instagram: 500
 permalink: indicator-2
