@@ -4,6 +4,6 @@
 {% assign index = age | times: social | divided_by: 1000000.0 %}
 {% assign indexmod = index | times: number_of_words | divided_by: 100 %}
 
-<svg width="70" height="70">
+<svg width="100" height="100">
    <circle cx="50" cy="50" r="5" stroke="rgb(255,255,{% include age.html %})" stroke-width="{% include age.html %}px" fill="rgb(222,222,{% include indexmod.html %}" />
 </svg>
