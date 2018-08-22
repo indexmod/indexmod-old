@@ -12,7 +12,7 @@ exclude: true
 {% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}
 {% unless page.exclude %}
 
- <a href="{{page.url|absolute_url}}"> {{ page.shortname }} <span class="rate">{% include indexmod-indicator.html %}{% include indexmod.html %}</a></span> <span class="rex"> | </span>
+<a href="{{page.url|absolute_url}}"> {{ page.shortname }} {% include indexmod-indicator.html %} {% include indexmod.html %}</a>
  {% endunless %}
  {% endfor %}
 

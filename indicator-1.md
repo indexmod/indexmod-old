@@ -10,6 +10,7 @@ layout: indicator
 |Shortname|{{page.shortname}}|
 |Facebook|{{page.facebook}}|
 |Instagram|{{page.instagram}}|
+|F+I|{{ social }}|
 |Age|{{ site.time | date: "%Y" | minus: page.birth }}|
 |Words|{{page.content | number_of_words}}|
 |Total|{{ indexmod | round: 0 }}|
