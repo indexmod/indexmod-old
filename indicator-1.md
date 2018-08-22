@@ -2,7 +2,7 @@
 permalink: indicator-a
 layout: indicator
 shortname: A
-birth: 1950
+birth: 1890
 facebook: 300000
 instagram: 300000
 twitter: 10
