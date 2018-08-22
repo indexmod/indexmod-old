@@ -1,19 +1,19 @@
 ---
 title:
+permalink: index-chart
 layout: cover
 exclude: true
 ---
 
 # The articles
 
-<ul>
+<wrap>
 
-  {% assign mypages = site.pages | sort: "order" %}
-  {% for page in mypages %}
-  {% unless page.exclude %}
-  <li class="intro">
-  <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
-  </li>
-  {% endunless %}
+{% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}
+{% unless page.exclude %}
+
+ <a href="{{page.url|absolute_url}}"> {{ page.shortname }} <span class="rate">{% include indexmod-indicator.html %}{% include indexmod.html %}</a></span> <span class="rex"> | </span>
+ {% endunless %}
  {% endfor %}
-</ul>
+
+</wrap>
