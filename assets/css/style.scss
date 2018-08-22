@@ -52,9 +52,33 @@ body {
 	background: white;
 }
 
-.tooltip:hover .tooltiptext {
-	visibility: visible;
+body.universe {
+	max-width: 600px;
+	margin: auto;
+	padding: 20px;
+	background: black;
 }
+
+h1.universe {
+	font-family: 'Old Standard TT', serif;
+	font-size: 42px;
+	font-weight: 900;
+	line-height: 1.3em;
+	color: white;
+}
+
+p.universe {
+	font-family: 'Old Standard TT', serif;
+	font-size: 20px;
+	line-height: 1.5em;
+	font-weight: 900;
+	color: white;
+}
+
+hr.universe {
+	color: white;
+}
+
 .date {
 	font-family: 'Verdana', serif;
 	font-size: 20px;
@@ -286,16 +310,19 @@ img {
 }
 
 .tooltip {
+	  font-family: 'Verdana';
     position: relative;
     display: inline-block;
     border-bottom: 0px dotted white;
 }
 
 .tooltip .tooltiptext {
+	  font-family: 'Verdana';
+		font-size: 12px;
     visibility: hidden;
     width: 130px;
     background-color: white;
-    color: black;
+    color: white;
     text-align: center;
     border-radius: 6px;
     padding: 5px 0;

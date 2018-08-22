@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+{% include meta-cover.html %}
+{% include favicon.html %}
+</head>
+<body class="universe">
+<h1 class="universe">{{page.title}}</h1>
+<hr class="universe">
+{{ content }}
+<hr class="universe">
+<div class="container">
+<a href="index"><img alt="Indexmod" src="/identity/indexmod-2018.png" style="width:auto;height:auto;border:0;"></a>
+</div>
+<p class="universe">{{ site.time | date: "%Y" }} © Indexmod</p>
+</body>
+</html>
