@@ -7,10 +7,12 @@ permalink: indicator-b
 layout: indicator
 ---
 
-|Shortname |{{page.shortname}}|
-|Facebook |{{page.facebook}}|
-|Instagram |{{page.instagram}}|
-|F+I |{%include social.html%}|
-|Age| {%include age.html%}|
-|Words |{%include words.html%}|
-|Total |{%include indexmod.html%}|
+|||
+|-|-|
+|Shortname |{{page.shortname}}||
+|Facebook |{{page.facebook}}||
+|Instagram |{{page.instagram}}||
+|F+I |{%include social.html%}||
+|Age| {%include age.html%}||
+|Words |{%include words.html%}||
+|Total |{%include indexmod.html%}||
