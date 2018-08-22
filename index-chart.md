@@ -9,7 +9,7 @@ exclude: true
 {% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}
 {% unless page.exclude %}
 
-<a href="{{page.url|absolute_url}}">{% include indexmod-indicator.html %}</a>
+<div class="tooltip"><a href="{{page.url|absolute_url}}">{% include indexmod-indicator.html %}</a><span class="tooltiptext">{{page.shortname}}</span></div>
  {% endunless %}
  {% endfor %}
 </wrap>
