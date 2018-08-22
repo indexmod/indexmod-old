@@ -310,21 +310,16 @@ img {
 }
 
 .tooltip {
-	  font-family: 'Verdana';
     position: relative;
     display: inline-block;
-    border-bottom: 0px dotted white;
 }
 
 .tooltip .tooltiptext {
 	  font-family: 'Verdana';
-		font-size: 12px;
-    visibility: hidden;
+		font-size: 10px;
     width: 130px;
-    background-color: black;
     color: white;
     text-align: center;
-    border-radius: 6px;
     padding: 5px 0;
 
     /* Position the tooltip */
