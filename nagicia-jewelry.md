@@ -17,7 +17,7 @@ twitter: '430'
 tumblr: '0'
 vkontakte: '0'
 origin: a Korean-American
-profession: Korean-American jewelry brand based at Denpasar
+profession: jewelry brand based on Bali
 photo: A founder of Nagicia Tricia Kim and her son  
 photographer: Andrei Dei
 source: Indexmod Blockchainpedia
