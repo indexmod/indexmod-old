@@ -1,7 +1,7 @@
 ---
-title: The chart
-permalink: index-chart
-layout: tech
+title: The Indexmod Universe
+permalink: universe
+layout: tech-universe
 exclude: true
 ---
 
