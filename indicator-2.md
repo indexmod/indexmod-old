@@ -1,8 +1,8 @@
 ---
 shortname: B
-birth: 2017
-facebook: 4567888
-instagram: 46583566237
+birth: 1990
+facebook: 300000
+instagram: 300000
 permalink: indicator-b
 layout: indicator
 ---
