@@ -1,14 +1,14 @@
 ---
-shortname: A
-birth: 1950
-age: {% include age.html %}
-words: {% include words.html %}
-indexmod: {% include indexmod.html %}
-sicial: {% include social.html %}
-facebook: 300000
-instagram: 300000
 permalink: indicator-a
 layout: indicator
+shortname: A
+birth: 1950
+age: {%include age.html%}
+words: {%include words.html%}
+indexmod: {%include indexmod.html%}
+social: {%include social.html%}
+facebook: 300000
+instagram: 300000
 ---
 
 |Shortname {{ page.shortname }}|
