@@ -1,0 +1,4 @@
+{% assign number_of_words = content | strip_html | number_of_words %}
+{% assign social = page.facebook | plus: page.instagram | divided_by: 1000.0 %}
+
+{{ social | round 0 }}
