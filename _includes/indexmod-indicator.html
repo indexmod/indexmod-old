@@ -12,7 +12,13 @@
 <p>Age: {{ age }} </p>
 
 <p><svg width="100" height="100">
-   <circle cx="50" cy="50" r="30" stroke="rgb(255,255,{{ age }})" stroke-width="20px" fill="rgb(255,255,{{ social }})" />
+    <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0" />
+      <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  <circle cx="70" cy="70" rx="55" ry="55" stroke-width="20px" fill="url(#grad1)" />
+  Sorry, your browser does not support inline SVG.
 </svg> <svg width="100" height="100">
    <circle cx="50" cy="50" r="20" stroke="rgb(255,255,{{ age }})" stroke-width="{{ age }}px" fill="rgb(255,255,{{ social }})" />
 </svg> <p>
