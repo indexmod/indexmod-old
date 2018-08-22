@@ -1,6 +1,6 @@
 ---
-title: Template
-permalink: template
+title: Muka
+permalink: muka
 givenname: Given name
 familyname: Family name
 layout: default

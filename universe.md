@@ -1,5 +1,5 @@
 ---
-title: The Indexmod Universe
+title: The Indexmod universe
 permalink: universe
 layout: tech-universe
 exclude: true
