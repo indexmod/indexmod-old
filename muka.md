@@ -20,16 +20,17 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 origin: an international
-profession: cosmetics and clothes brand base on Bali
+profession: cosmetics and clothes brand based on Bali
 photo: From 2018 Muka campaign
 photographer: Unknown
 source: Deskgram.org
 photographerurl: index
 sourceurl: index
-founder:
-Iris Van de Coevering
+founder: Iris Van de Coevering
 
 ---
+
+An international cosmetics and clothes brand based on Bali.
 
 ## Stores
 
