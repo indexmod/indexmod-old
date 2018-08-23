@@ -7,7 +7,7 @@ originlang: Rus.
 originspell: Мария Пудан
 appearing: Born
 birth: 1988
-city:
+city: Saint Petersburg 
 facebook: '1396'
 instagram: '151'
 youtube: '0'
