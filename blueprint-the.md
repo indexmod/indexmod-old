@@ -18,7 +18,7 @@ tumblr:
 vkontakte: '11605'
 origin: a Russian
 profession: online an independent edition about fashion, beauty and modern culture based in Moscow
-photo: The Blueprint's Editorial Director Alexander Perepelkin and Publisher Evgenia Fisheleva on the launch of the first ever collection of steel watches Piaget Polo S
+photo: The Blueprint's Editorial Director Alexander Perepelkin (left) and Publisher Evgenia Fisheleva (center) on the launch of the first ever collection of steel watches Piaget Polo S
 photographer: Marina Krylova, Cyril Popovich, Igor Bogdanov
 source: Gq.ru
 photographerurl: https://www.gq.ru/person/anton-belyaev-vystupil-na-vechere-gq-i-piaget
