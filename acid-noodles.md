@@ -19,8 +19,8 @@ vimeo: '0'
 twitter: '0'
 tumblr: '0'
 vkontakte: '0'
-origin: Russian
-profession: an interactive exhibit curated by Maria Pudan for Tsvetnoy Central Market
+origin: an interactive
+profession: exhibition curated by Maria Pudan for Tsvetnoy Central Market in 2015
 photo: Acid Noodles cover image by Vasya Kolotusha
 photographer: Tsvetnoy Central Market
 source: Vogue
