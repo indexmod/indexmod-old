@@ -3,13 +3,13 @@ title: Acid Noodles
 permalink: acid-noodles
 layout: default
 shortname: ACIDNOODLES
-givenname: Name
-familyname: Family name
-othername: Other name
+givenname: Acid Noodles
+familyname:
+othername: Эйсид-нудлс
 originlang: Rus.
 originspell: Эйсид-нудлс
 appearing: Happened
-birth: 2018
+birth: 2015
 city: Moscow
 venue: Tsvetnoy Central Market
 facebook: '0'
@@ -20,7 +20,7 @@ twitter: '0'
 tumblr: '0'
 vkontakte: '0'
 origin: Russian
-profession: an interactive exhibit curated by Maria Pudan for Tsvetnoy Central Market in 2015 in Moscow
+profession: an interactive exhibit curated by Maria Pudan for Tsvetnoy Central Market
 photo: Acid Noodles cover image by Vasya Kolotusha
 photographer: Tsvetnoy Central Market
 source: Vogue
