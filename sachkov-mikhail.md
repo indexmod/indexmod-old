@@ -1,42 +1,32 @@
 ---
-title: 'Sachkov, Mikhail'
+title: Sachkov, Mikhail
 permalink: sachkov-mikhail
 layout: default
-published: true
-shortname: SAMI
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+shortname: SACHKOV
+originallang: Rus.
+originspell: Михаил Сачков
+othername: Mic, Mish, Миш
+appearing: Born
+birth: 1974
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+facebook: '0'
+instagram: '0'
+youtube: '0'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
 origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
+profession: multimedia artist working and living in Moscow
+photo: Mic Sachkov and Angela Moiseeva
+photographer: ZZ
 source: Indexmod Blockchainpedia
 photographerurl: dei-andrei
 sourceurl: index
-founder: 'Andrei Dei'
+founder: 'of IIIYM, 4S4R and Super duet brands'
 ---
-(Est. 2013, city) is a Miс Sachkov (Rus. Михаил Сачков) born 1974, Moscow-Russian artist, co-founder and art director in 4S4R, one of the first Russian artists began to work in the genre of fashion film, living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/image-name.jpg)
-
-**Mic Sachkov and Angela Moiseeva**
-
-*Photo: [author unknown](index) / [Facebook](index)*
-
-## Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
+Founder of creative association "Super duet", co-founder and art director in 4S4R, one of the first Russian artists began to work in the genre of fashion film, living and working in Moscow.
 
 ## See also
 
@@ -46,11 +36,8 @@ founder: 'Andrei Dei'
 + [Bring Your Own Beamer](index)
 + [Alex Platonov](index)
 + [Alexey Orlov](index)
++ [Super duet](super-duet)
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](index)

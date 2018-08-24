@@ -28,6 +28,7 @@ photographerurl: index
 sourceurl: index
 founder: Founder
 published: true
+exclude: true
 ---
 
 

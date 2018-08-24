@@ -25,7 +25,7 @@ photographerurl: dei-andrei
 sourceurl: index
 founder: 'Andrei Dei'
 ---
-(Ukr. Володимир Бордок, also Vova Bordo, born 1982, Dniepropetrovsk) is a Russian and Ukrainian artist, journalist, founder the brand "13. 15." <span id="a1">[\[1\]](#f1)</span>, former Chief Editor of Vconfession online edition, former art director of Air Store in Moscow, DJ, accessories designer, author of fashionable concepts, shop windows decorator, promoter and collector <span id="a2">[\[2\]](#f2)</span> living in Moscow.
+(Ukr. Володимир Бордок, also Vova Bordo, born 1982, Dniepropetrovsk) is a Russian and Ukrainian artist, journalist, founder the brand "13. 15." <span id="a1">[\[1\]](#f1)</span>, and creative association "Super duet", former Chief Editor of Vconfession online edition, former art director of Air Store in Moscow, DJ, accessories designer, author of fashionable concepts, shop windows decorator, promoter and collector <span id="a2">[\[2\]](#f2)</span> living in Moscow.
 
 ![](http://www.be-in.ru/media/beingallery/uploads/2014/01/_08.jpg)
 
@@ -35,9 +35,10 @@ founder: 'Andrei Dei'
 
 # See also
 
++ [Air Moscow](air-moscow)
 + [13. 15.](13-15)
 + [Cycles and Seasons by MasterCard](cycles-and-seasons-by-master-card)
-+ [Air Moscow](air-moscow)
++ [Super duet](super-duet)
 
 
 # Footnotes

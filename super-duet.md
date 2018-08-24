@@ -6,8 +6,8 @@ familyname:
 layout: default
 shortname: SUPERDUET
 originlang: Rus.
-originspell: Супер дуэт
-othername: Творческое объединение
+originspell: Дуэт «Супер»
+othername: Творческое объединение «Супер дуэт»
 appearing: Est.
 birth: 2018
 city: Moscow
@@ -21,32 +21,31 @@ vkontakte: 0
 soundcloud: 0
 origin: a Russian
 profession: creative association based on British new wave music and esthetics established in Moscow
-photo: Founders of the Super duet Mi
+photo: Founders of the Super duet Mikhail Sachkov and Vladimir Bordoque
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
 founder: Founder
 published: true
-exclude: true
 ---
 
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/template.jpg)
 
-**Image**
-*Photo: [Not specified](index) / [Source](index)*
+**Element of style matrix for Super duet by Michail Sachkov, 2018**
+*Photo: [Michail Sachkov](sachkov-mikhail) / [Super duet](super-duet)*
 
 ## Сonspectus
 
-|Year|City|
+|Year|Event|
 |-|-|
-|2017|Moscow|
+|2018|Simachev Bar Set|
 
 ## See also
 
-+ [Vladimir Bordoque](index)
-+ [Mic Sachkov](index)
++ [Vladimir Bordoque](bordoque-vladimir)
++ [Mic Sachkov](sachkov-mikhail)
 
 ## Footnotes
 
