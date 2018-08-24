@@ -2,18 +2,18 @@
 title: 'Bordoque, Vladimir'
 permalink: bordoque-vladimir
 layout: default
-published: true
 shortname: BORDOQUE
-originspell: Шаблон
+originspell: Владимир Бордок
+othername: Vova Bordo
 appearing: Born
 birth: 1982
 city: Dniepropetrovsk
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+facebook: '0'
+instagram: '0'
+youtube: '0'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
 origin: a Russian and Ukrainian
 profession: artist, journalist, founder the brand "13. 15.", and creative association "Super duet", former Chief Editor of Vconfession online edition, former art director of Air Store in Moscow, DJ, accessories designer, author of fashionable concepts, shop windows decorator, promoter and collector living in Moscow
@@ -22,11 +22,11 @@ photographer: Alena Chandler
 source: Be in
 photographerurl: dei-andrei
 sourceurl: index
-founder: 'Andrei Dei'
+founder: of the brand "13. 15."
 ---
 (Ukr. Володимир Бордок, also Vova Bordo, born 1982, Dniepropetrovsk) is a Russian and Ukrainian artist, journalist, founder the brand "13. 15." <span id="a1">[\[1\]](#f1)</span>, and creative association "Super duet", former Chief Editor of Vconfession online edition, former art director of Air Store in Moscow, DJ, accessories designer, author of fashionable concepts, shop windows decorator, promoter and collector <span id="a2">[\[2\]](#f2)</span> living in Moscow.
 
-# See also
+## See also
 
 + [Air Moscow](air-moscow)
 + [13. 15.](13-15)
@@ -34,7 +34,7 @@ founder: 'Andrei Dei'
 + [Super duet](super-duet)
 
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Open Your Emojis (13 15, Facebook)](https://www.facebook.com/permalink.php?story_fbid=1116315648392344&id=197892613567990)
 
