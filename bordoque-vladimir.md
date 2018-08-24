@@ -24,7 +24,7 @@ photographerurl: dei-andrei
 sourceurl: index
 founder: of the brand "13. 15."
 ---
-(Ukr. Володимир Бордок, also Vova Bordo, born 1982, Dniepropetrovsk) is a Russian and Ukrainian artist, journalist, founder the brand "13. 15." <span id="a1">[\[1\]](#f1)</span>, and creative association "Super duet", former Chief Editor of Vconfession online edition, former art director of Air Store in Moscow, DJ, accessories designer, author of fashionable concepts, shop windows decorator, promoter and collector <span id="a2">[\[2\]](#f2)</span> living in Moscow.
+(Ukr. Володимир Бордок, also Vova Bordo, born 1982, Dniepropetrovsk) is a Russian and Ukrainian artist, journalist, founder the brand "13. 15.", and creative association "Super duet", former Chief Editor of Vconfession online edition, former art director of Air Store in Moscow, DJ, accessories designer, author of fashionable concepts, shop windows decorator, promoter and collector <span id="a2">[\[2\]](#f2)</span> living in Moscow.
 
 ## See also
 
