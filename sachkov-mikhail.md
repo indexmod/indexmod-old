@@ -5,17 +5,18 @@ layout: default
 shortname: SACHKOV
 originlang: Rus.
 originspell: Михаил Сачков
-othername: Mic, Mish, Миш
+othername: Mic, Mish, Миш, flockTV!, NKNZN
 appearing: Born
 birth: 1974
 city: Moscow
 facebook: '107'
 instagram: '0'
 youtube: '0'
-vimeo: '0'
+vimeo: '242'
 twitter: '0'
 tumblr: '0'
-vkontakte: '0'
+vkontakte: '37'
+soundcloud: 127
 origin: Russian
 profession: multimedia artist working and living in Moscow
 photo: Mic Sachkov and Angela Moiseeva
