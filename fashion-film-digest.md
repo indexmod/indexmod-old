@@ -20,7 +20,7 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 origin: a Russian
-profession: blog about fashion video
+profession: blog about fashion video, creative studio (2015) for the production, installations, exhibition projects for commercial brands and cultural institutions
 photo: A founder of Fashion Film Digest Maria Pudan at British Council in Moscow
 photographer: Britishcouncil.ru
 source: Ffdige.st
