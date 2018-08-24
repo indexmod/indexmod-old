@@ -42,7 +42,6 @@ Since 2017, Mikhail Sachkov works as an independent video art artist. Of the lat
 ## See also
 
 + [4S4R](index)
-+ [Mic Sachkov](sachkov-mikhail)
 + [Acid Noodles](index)
 + [IIIYM](index)
 + [Bring Your Own Beamer](index)
