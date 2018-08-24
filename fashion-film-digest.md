@@ -30,6 +30,7 @@ founder: Maria Pudan
 published: true
 ---
 
+Is creative studio in Moscow for the production, installations, exhibition projects for commercial brands and cultural institutions, in the very beginning a blog about fashion video.
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
