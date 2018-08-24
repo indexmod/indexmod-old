@@ -31,6 +31,7 @@ Founder of creative association "Super duet", co-founder and art director in 4S4
 ## See also
 
 + [4S4R](index)
++ [Mic Sachkov](sachkov-mikhail)
 + [Acid Noodles](index)
 + [IIIYM](index)
 + [Bring Your Own Beamer](index)
