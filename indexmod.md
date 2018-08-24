@@ -6,6 +6,7 @@ exclude: true
 ---
 
 `What is in the formula?`
+
 Indexmod formula contains the sum of the official statistics from Facebook, Instagram, YouTube and/or Vimeo, Twitter (2018) multiplied by age (of person, object, phenomenon or brand described in the article) divided by one million and then multiplied by page Indexmod and divided by 100. Page Indexmod — is an automatically counted in words on the page.
 
 ## Visual expression of Indexmod
