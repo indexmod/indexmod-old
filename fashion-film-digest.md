@@ -41,7 +41,7 @@ published: true
 |Year|Milestones|
 |-|-|
 |2012|Blog|
-|2015|Creative studio for the production of fashion and art video, installations and exhibition projects for commercial brands and cultural institutions|
+|2015|Creative studio|
 
 ## See also
 
