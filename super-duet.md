@@ -22,16 +22,15 @@ soundcloud: 0
 origin: a Russian
 profession: creative association based on British new wave music and esthetics established in Moscow
 photo: Founders of the Super duet Mikhail Sachkov and Vladimir Bordoque
-photographer: Photographer
-source: Source
+photographer: Super duet
+source: Facebook
 photographerurl: index
 sourceurl: index
-founder: Founder
-published: true
+founder: Vladimir Bordoque, Mikhail Sachkov
 ---
 
 
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/template.jpg)
+![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Element of style matrix for Super duet by Michail Sachkov, 2018**
 *Photo: [Michail Sachkov](sachkov-mikhail) / [Super duet](super-duet)*
@@ -40,7 +39,7 @@ published: true
 
 |Year|Event|
 |-|-|
-|2018|Simachev Bar Set|
+|2018|Simachёv Bar Set|
 
 ## See also
 
