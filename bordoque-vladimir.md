@@ -3,7 +3,8 @@ title: 'Bordoque, Vladimir'
 permalink: bordoque-vladimir
 layout: default
 shortname: BORDOQUE
-originspell: Владимир Бордок
+originlang: Ukr.
+originspell: Володимир Бордок
 othername: Vova Bordo
 appearing: Born
 birth: 1982
