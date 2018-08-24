@@ -3,7 +3,7 @@ title: Sachkov, Mikhail
 permalink: sachkov-mikhail
 layout: default
 shortname: SACHKOV
-originallang: Rus.
+originlang: Rus.
 originspell: Михаил Сачков
 othername: Mic, Mish, Миш
 appearing: Born
