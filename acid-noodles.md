@@ -35,7 +35,7 @@ Young artists Mic Sachov, Slava Filimonov, Pavel Samokhvalov, Natalia Stuyk and 
 
 ## See also
 
-+ [Andrei Abolenkin](abolenkin-andrei)
++ [Maria Pudan](pudan-maria)
 + [Adelaide Fashion Festival](adelaide-fashion-festival)
 + [City Gif by Slava Filimonov](city-gif-by-slava-filimonov)
 + [Chill out cinema by Mic Sachkov](chill-out-cinema-by-mic-sachkov)

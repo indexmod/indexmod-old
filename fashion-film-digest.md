@@ -45,11 +45,12 @@ published: true
 
 ## See also
 
++ [Maria Pudan](pudan-maria)
 + [V Confession](index)
 + [Departament](index)
++ [The Blueprint](blueprint-the)
 + [Lunar Hare](index)
 + [MMAM](index)
-
 
 ## Footnotes
 

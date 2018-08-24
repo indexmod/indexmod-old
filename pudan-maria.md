@@ -27,6 +27,7 @@ founder: 'of Fashion Film Digest'
 
 # See also
 
++ [Fashion Film Digest](fashion-film-digest)
 + [Acid Noodles](acid-noodles)
 + [The Blueprint](blueprint-the)
 
