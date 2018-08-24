@@ -14,7 +14,6 @@ Indexmod formula contains the sum of the official statistics from Facebook, Inst
 
 This image is generated SVG based on variables from meta data taken from "front row" of every article
 
-@test
 
 ## Formula
 
@@ -31,4 +30,4 @@ This image is generated SVG based on variables from meta data taken from "front 
 ||100|=|
 |Total|0,00528||
 
-* Formula (2018) at any time may be extended with new  extra variables
+`Formula (2018) at any time may be extended with new  extra variables`
