@@ -44,6 +44,7 @@ Since 2017, Mikhail Sachkov works as an independent video art artist. Of the lat
 + [4S4R](index)
 + [Acid Noodles](index)
 + [IIIYM](index)
++ [Vladimir Bordoque](bordoque-vladimir)
 + [Bring Your Own Beamer](index)
 + [Alex Platonov](index)
 + [Alexey Orlov](index)
