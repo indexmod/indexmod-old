@@ -28,11 +28,10 @@ photographerurl: index
 sourceurl: index
 founder: Founder
 published: true
-exclude: true
 ---
 
 
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/template.jpg)
+![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Image**
 *Photo: [Not specified](index) / [Source](index)*
