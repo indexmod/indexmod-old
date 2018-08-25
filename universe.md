@@ -14,4 +14,4 @@ exclude: true
  {% endfor %}
 </wrap>
 
-[Read about visual concept of The Indexmod universe in the article of "SVG индикаторы статистики в «альтернативной вселенной» проекта «Индексмод блокчейнпедия»" (at Medium)](https://medium.com/@andreideinichenko/svg-индикаторы-статистики-в-альтернативной-вселенной-проекта-индексмод-блокчейнпедия-325dc5cf3c1b)
+[(3 min reading time) Read the post about this visual concept at Medium.com: "SVG индикаторы статистики в «альтернативной вселенной» проекта «Индексмод блокчейнпедия»"](https://medium.com/@andreideinichenko/svg-индикаторы-статистики-в-альтернативной-вселенной-проекта-индексмод-блокчейнпедия-325dc5cf3c1b)
