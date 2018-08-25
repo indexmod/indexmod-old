@@ -3,6 +3,8 @@ title: The Indexmod universe
 shortname: This universe
 permalink: universe
 layout: tech-universe
+facebook: 100
+birth: 0001
 exclude: true
 ---
 
