@@ -20,7 +20,7 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 origin: a Russian
-profession: rocket engine specialist. Expert in the field of charity, information technology and strategic marketing, founder of Odinmay and Pops
+profession: rocket engine specialist, expert in the field of charity, information technology and strategic marketing, founder of Odinmay and Pops
 photo: Roman Selivan in 2017
 photographer: Pops
 source: Pops
