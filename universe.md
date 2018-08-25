@@ -4,7 +4,7 @@ shortname: This universe
 permalink: universe
 layout: tech-universe
 facebook: 100
-birth: 0001
+birth: '0001'
 exclude: true
 ---
 
