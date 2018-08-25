@@ -5,8 +5,6 @@ layout: tech-universe
 exclude: true
 ---
 
-Read about visual concept of The Indexmod universe in the article at Medium [SVG индикаторы статистики в «альтернативной вселенной» проекта «Индексмод блокчейнпедия»](https://medium.com/@andreideinichenko/svg-индикаторы-статистики-в-альтернативной-вселенной-проекта-индексмод-блокчейнпедия-325dc5cf3c1b) 
-
 <wrap>
 {% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}
 {% unless page.exclude %}
@@ -15,3 +13,5 @@ Read about visual concept of The Indexmod universe in the article at Medium [SVG
  {% endunless %}
  {% endfor %}
 </wrap>
+
+[Read about visual concept of The Indexmod universe in the article of "SVG индикаторы статистики в «альтернативной вселенной» проекта «Индексмод блокчейнпедия»" (at Medium)](https://medium.com/@andreideinichenko/svg-индикаторы-статистики-в-альтернативной-вселенной-проекта-индексмод-блокчейнпедия-325dc5cf3c1b) 
