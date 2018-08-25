@@ -1,7 +1,12 @@
 ---
 title: How to edit
 permalink: edit
+excluding: true
 layout: info
+published: true
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+founder: Andrei Dei
 exclude: true
 ---
 
@@ -30,9 +35,13 @@ Every page is written with [Markdown](https://daringfireball.net/projects/markdo
 Each page on top have hidden section with meta data. This **Front matter** area is set with triple-dashed lines.
 
 `---`
+
 `title: How to edit`
+
 `permalink: edit`
+
 `layout: default`
+
 `---`
 
 Above code is a **Front matter** of page with title **How to edit**. A typical **Front matter** may contain **Page title**, **Permalink**, **Layout** and other metadata.
@@ -44,7 +53,9 @@ The visible area of the page have **Title**, **Cover** section, an **Image** wit
 ## Title
 
 `# Aberdeen Fashion Week`
+
 `# Tailor, Victoria`
+
 `# Duma, Miroslava (publisher)`
 
 Title includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor, Victoria** and may be added with specification with round brackets **Tailor, Victoria (designer)**.
@@ -52,6 +63,7 @@ Title includes the subject's name **Aberdeen Fashion Week**, surname and name **
 ## Front
 
 `(Born 1968, Paris)`
+
 `(Est. 2012, Moscow)`
 
 Front starts with **(Born, Est. 1999, city)** beginner in round brackets. Following one-two sentences of description every front sentence ends with footnote links styled with **Squared brackets**
@@ -93,9 +105,13 @@ Every image must be described and styled with **bold font**. Credits line starts
 Conspectus is for any structured data in table, the following code
 
 `|Year|City|`
+
 `|---|---|`
+
 `|2014|Tokyo|`
+
 `|2015|Moscow|`
+
 `|2017|Paris|`
 
 Will be rendered as
@@ -132,7 +148,7 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 
 Create the copy of the page which you want to be translated. Use another language translated [sample of the page](internet-yami-ichi) as guide.
 
-Put this
+Put the
 
 `Translation label`
 

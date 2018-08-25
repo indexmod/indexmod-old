@@ -3,14 +3,15 @@ title: Acid Noodles
 permalink: acid-noodles
 layout: default
 shortname: ACIDNOODLES
-givenname: Name
-familyname: Family name
-othername: Other name
+givenname: Acid Noodles
+familyname:
+othername: Эйсид-нудлс
 originlang: Rus.
 originspell: Эйсид-нудлс
-appearing: happened
-birth: 2018
-city: Moscow, Tsvetnoy Central Market
+appearing: Happened
+birth: 2015
+city: Moscow
+venue: Tsvetnoy Central Market
 facebook: '0'
 instagram: '0'
 youtube: '0'
@@ -18,8 +19,8 @@ vimeo: '0'
 twitter: '0'
 tumblr: '0'
 vkontakte: '0'
-origin: Russian
-profession: an interactive exhibit curated by Maria Pudan for Tsvetnoy Central Market in 2015 in Moscow
+origin: an interactive
+profession: exhibition curated by Maria Pudan for Tsvetnoy Central Market in 2015
 photo: Acid Noodles cover image by Vasya Kolotusha
 photographer: Tsvetnoy Central Market
 source: Vogue
@@ -34,10 +35,10 @@ Young artists Mic Sachov, Slava Filimonov, Pavel Samokhvalov, Natalia Stuyk and 
 
 ## See also
 
-+ [Andrei Abolenkin](abolenkin-andrei)
++ [Maria Pudan](pudan-maria)
 + [Adelaide Fashion Festival](adelaide-fashion-festival)
 + [City Gif by Slava Filimonov](city-gif-by-slava-filimonov)
-+ [Chill out cinema by Mic Sachkov (4S4R)](chill-out-cinema-by-mic-sachkov)
++ [Chill out cinema by Mic Sachkov](chill-out-cinema-by-mic-sachkov)
 + [Neon Room Vitaly Burykin](neon-room-vitaly-burykin)
 + [Tsvetnoy Central Market](tsvetnoy-central-market)
 + [Pavel Samokhvalov](samokhvalov-pavel)

@@ -2,35 +2,36 @@
 title: 'Nemchenkova, Valentina'
 permalink: nemchenkova-valentina
 layout: default
-shortname: NENCHENKOVA
+shortname: NEMCHENKOVA
+givenname: Valentina
+familyname: Nemchenkova
+othername: Валентина Немченкова
 indexmod: Indexmod
 birth: '1983'
-updateyear: '2018'
 city: Sverdlovsk
 facebook: '2916'
 instagram: '2680'
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
+originlang: Rus.
+originspell: Валентина Немченкова
+appearing: Born.
+vkontakte: '201'
 soundcloud: '180'
-published: true
+origin: a Russian
+profession: costume designer, model and DJ. Living and working in Moscow
+photo: Valentina Nemchenkova by Rachel Chandler Guinness for Midland Agency at China Town, Manhattan, New York City
+photographer: Rachel Chandler Guinness
+source: Facebook
+photographerurl: https://www.facebook.com/photo.php?fbid=10211530962375381&set=a.1644315753467.84893.1404071175&type=3&theater
+sourceurl: https://www.facebook.com/photo.php?fbid=10211530962375381&set=a.1644315753467.84893.1404071175&type=3&theater
 ---
 
-(Rus. Валентина Немченкова, born {{ page.birth }}, {{ page.city }}) is a Russian costume designer <span id="a1">[\[1\]](#f1)</span>, model <span id="a2">[\[2\]](#f2)</span>, stylist <span id="a3">[\[3\]](#f3)</span> and DJ <span id="a4">[\[4\]](#f4)</span>. Living and working in Moscow.
+Valentina worked as costume designer <span id="a1">[\[1\]](#f1)</span>, model <span id="a2">[\[2\]](#f2)</span>, stylist <span id="a3">[\[3\]](#f3)</span> and DJ <span id="a4">[\[4\]](#f4)</span>. Today she is living and working in Moscow.
 
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
-**Valentina Nemchenkova by Rachel Chandler Guinness for Midland Agency at China Town, Manhattan, New York City**
+**Valentina wears fur coat from flea market in Berlin, Check Ya Head, gift bag, vintage lofers**
 
-*Photo: [Rachel Chandler Guinness](guinness-rachel-chandler) / [Facebook](https://www.facebook.com/photo.php?fbid=10211530962375381&set=a.1644315753467.84893.1404071175&type=3&theater)*
+*Photo: [Katya Starostina](starostina-katya) / [Wonderzine.com](https://www.wonderzine.com/wonderzine/style/garderob_moda/237403-beautiful-valentina)*
 
 ## Conspectus  
 
@@ -44,18 +45,6 @@ published: true
 |Year|Name, relation|
 |-|-|
 |1999-2000|Eugeny Nemchinov (Smyslovye galutsinatsii), husband|
-
-## Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Soundcloud <span id="a6">[\[6\]](#f6)</span>|{{ page.soundcloud }}||
-|Facebook <span id="a7">[\[7\]](#f7)</span>|{{ page.facebook }}||
-|Instagram <span id="a8">[\[8\]](#f8)</span>|{{ page.instagram }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
 
 ## See also
 

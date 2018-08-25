@@ -1,45 +1,46 @@
 ---
-title: 'Zaitsev, Vyacheslav'
+title: Zaitsev, Vyacheslav
 permalink: zaitsev-vyacheslav
+givenname: Vyacheslav
+familyname: Zaitsev
 layout: default
-published: true
 shortname: ZAITSEV
 originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
-founder: 'Andrei Dei'
+originspell: Вячеслав Зайцев
+othername: Слава Зайцев
+appearing: Born
+birth: 1938
+city: Ivanovo
+facebook: 0
+instagram: 2232
+youtube: 0
+vimeo: 0
+twitter: 524
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+origin: a Soviet
+profession: fashion and theatrical costume designer, graphic artist
+photo: Vladimir and Lyudmila Putin were welcomed at Horse Guards Parade by HM Queen Elizabeth II and Prince Phillip, the Duke of Edinburgh
+photographer: Presidential Press and Information Office
+source: Wikipedia
+photographerurl: https://commons.wikimedia.org/wiki/File:Vladimir_Putin_with_Queen_Elizabeth_II-3.jpg
+sourceurl: https://commons.wikimedia.org/wiki/File:Vladimir_Putin_with_Queen_Elizabeth_II-3.jpg
+founder: CEO and creative director of Slava Zaitsev fashion house
+published: true
+exclude: true
 ---
-(Rus. Слава Зайцев, born 1938, Ivanovo) a Soviet in the past and Russian fashion designer, painter, graphic artist and theatrical costume designer, founder, CEO, creative director of Slava Zaitsev fashion house in Moscow  <span id="a1">[\[1\]](#f1)</span>.
-
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Российская неделя моды: от хиджаба к киберпротезам**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
 
-## See also update in Feb. 2018
 
+When President of Russia Vladimir Putin was due to travel on a state visit to the United Kingdom in June 2003, Zaitsev designed attire for First Lady of Russia Lyudmila Putina to wear for the visit, which included an audience with Queen Elizabeth II <span id="a2">[\[2\]](#f2)</span>.
+
+## See also
 
 + [Vetements](vetements)
 
-
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Zaitsev's official website (Zaitsev Dom Mody)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Zaitsev's official website (Zaitsev Dom Mody)](http://www.zaitsev.info/)
+
+[[2]](#a2) <span id="f2"></span> [Slava Zaitsev (Wikipedia)](https://en.wikipedia.org/wiki/Slava_Zaitsev)

@@ -3,38 +3,35 @@ title: 'Амед, Имран (блогер)'
 permalink: amed-imran
 layout: default
 shortname: AMED
-givenname: Name
-familyname: Family name
-othername: Other name
-city: Калгари
-originspell: Шаблон
-appearing: род.
+givenname: Imran
+familyname: Amed
+othername: Имран Амед
+city: Calgary
+originlang: Eng.
+originspell: Imran Amed
+appearing: Born
 birth: 1972
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+facebook: '1644'
+instagram: '461000'
+youtube: '0'
+vimeo: '0'
+twitter: '1081000'
+tumblr: '0'
 vkontakte: '0'
-origin: Canadian
-profession: предприниматель, основатель и генеральный директор “The Business of Fashion”
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+origin:  a British-Canadian
+profession: entrepreneur, founder and CEO of "The Business of Fashion"
+photo: Имран Амед выступает во время презентации "BoF Голоса" в Сиднейском оперном театре
+photographer: Getty
+source: GQ Австралия
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+founder: 'основатель проектов “The Business of Fashion” и "BoF Голоса"'
 ---
 
-(Англ. Imran Amed, род. {{ page.birth }} <span id="a1">[\[1\]](#f1)</span>, {{ page.city }})  британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Голоса" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
+`Bilingual article`
 
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+Британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Голоса" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
 
-**Имран Амед выступает во время презентации "BoF Голоса" в Сиднейском оперном театре**
-
-*Фото: [Getty](getty) / [GQ Австралия](gq)*
 
 ## Наргады и премии
 
@@ -44,18 +41,6 @@ founder: 'Andrei Dei'
 |2012| 100 самых влиятельных персон Британской цифровой экономике (Wired)|
 |2015|Почётный профессор модного бизнеса Каледонский университет Глазго|
 |2016|Совет дизайнеров Америки номинант премии Медиа имени Евгении Шеппард|
-
-## {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
-|Age|{{ page.age }}||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|{{ page.indexmod }}||
 
 ## Cм. также
 

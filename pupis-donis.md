@@ -2,42 +2,38 @@
 title: 'Pupis, Donis'
 permalink: pupis-donis
 layout: default
-published: true
 shortname: PUPIS
-indexmod: Indexmod
+givenname: Donis
+familyname: Pupis
+othername: Донис Пупис
 birth: '1968'
-updateyear: '2018'
 city: Moscow
-originspell: Шаблон
-appearing: Updated
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+originlang: Rus.
+originspell: Донис Пупис
+appearing: Born
+founder: of Nina Donis brand
+facebook: '0'
+instagram: '0'
+youtube: '0'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
+origin: a Russian and Cypriot
+profession: fashion designer, graduate Moscow Textile academy, founder of the brand Nina Donis, living and working in Moscow and Cyprus
+photo: Donis Pupis, the designer behind the Nina Donis brand
+photographer: ITAR-TASS
+source: ITAR-TASS
+photographerurl: ITAR-TASS
+sourceurl: ITAR-TASS
 ---
 
-(Rus. Донис Пупис, born {{ page.birth }}, {{ page.city }}) is Russian-Cypriot fashion designer, graduate Moscow Textile academy, founder of the brand Nina Donis, living and working in Moscow and Cyprus <span id="a1">[\[1\]](#f1)</span>.
-
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Donis Pupis, the designer behind the Nina Donis brand**
-
-*Photo: [Name](index) / [ITAR-TASS](index)*
+Is Russian-Cypriot fashion designer, graduate Moscow Textile academy, founder of the brand Nina Donis, living and working in Moscow and Cyprus.
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Nina Donis](nina-donis)
++ [Nina Neretina](neretina-nina)
 
 ## Footnotes
 
