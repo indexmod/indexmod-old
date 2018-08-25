@@ -10,7 +10,7 @@ vkontakte: 900
 vimeo: 700000
 youtube: 1300000
 soundcloud: 500000
-
+exclude: true
 ---
 
 One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
