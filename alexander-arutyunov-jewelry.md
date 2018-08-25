@@ -14,16 +14,17 @@ youtube: '0'
 vimeo: '0'
 twitter: '0'
 tumblr: '0'
-venue: Alexander Arutyunov Showroom, Mokhovaya, 11
+venue: 'Alexander Arutyunov Showroom, Mokhovaya, 11'
 vkontakte: '0'
 origin: a Russian-Georgian
 profession: jewelry brand based in Moscow
 photo: Earrings by Alexander Arutyunov
 photographer: Dressone.ru
 source: Dressone.ru
-photographerurl: https://www.dressone.ru/catalog/1460/64548/
-sourceurl: hhttps://www.dressone.ru/catalog/1460/64548/
-founder: 'Alexander Arutyunov'
+photographerurl: 'https://www.dressone.ru/catalog/1460/64548/'
+sourceurl: 'hhttps://www.dressone.ru/catalog/1460/64548/'
+founder: Alexander Arutyunov
+published: true
 ---
 
 A jewelry brand founded by Alexander Arutyunov in 2014 in Moscow.
