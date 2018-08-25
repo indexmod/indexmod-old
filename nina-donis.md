@@ -6,6 +6,7 @@ shortname: NINADONIS
 birth: '2000'
 city: Moscow
 givenname: Nina Donis
+othername: Нина Донис
 originlang: Rus.
 originspell: Нина Донис
 appearing: Est.
