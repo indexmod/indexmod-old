@@ -18,7 +18,7 @@ twitter: '0'
 tumblr: '0'
 vkontakte: '0'
 origin: a Russian
-profession: fashion brand based in Moscow founded in Moscow by Nina Neretina and Donis Pupis
+profession: fashion brand based in Moscow founded by Nina Neretina and Donis Pupis
 photo: Nina Donis at Asthik (2017)
 photographer: Asthik
 source: Vogue Ukraine
