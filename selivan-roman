@@ -1,17 +1,17 @@
 ---
-title: Template
-permalink: template
-givenname: Given name
-familyname: Family name
+title: Selivan, Roman
+permalink: selivan-roman
+givenname: Roman
+familyname: Selivan
 layout: default
-shortname: SHORT NAME
-originlang: Rus. / Eng.
-originspell: Original spell
-othername: Other name
-appearing: Updated / Est. / Born
-birth: 2018
-city: Moscow
-facebook: 0
+shortname: SELIVAN
+originlang: Rus.
+originspell: Роман Селиван
+othername: Селиван
+appearing: Born
+birth: 1983
+city: Koroliov
+facebook: 1638
 instagram: 0
 youtube: 0
 vimeo: 0
@@ -19,22 +19,20 @@ twitter: 0
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
-origin: a / an Russian
+origin: a Russian
 profession: English language wiki
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-founder: Founder
-published: true
-exclude: true
+founder: of Odinmay and Pops
 ---
 
-
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+[(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Image**
+
 *Photo: [Not specified](index) / [Source](index)*
 
 ## Сonspectus
