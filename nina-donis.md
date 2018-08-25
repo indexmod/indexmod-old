@@ -8,7 +8,6 @@ city: Moscow
 originlang: Rus.
 originspell: Нина Донис
 appearing: Est.
-birth: 2018
 city: Moscow
 facebook: '407'
 instagram: '14600'
