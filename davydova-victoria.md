@@ -28,7 +28,7 @@ sourceurl: index
 founder: 'Andrei Dei'
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a Russian journalist, former editor-in-chief of the Russian magazine Vogue, former editor-consultant of the Glamor magazine, previously worked as editor-in-chief of the magazine Tatler <span id="a1">[\[1\]](#f1)</span>. In 2018 Victoria left the publishing house where she worked for 20 years.
+A Russian journalist, former editor-in-chief of the Russian magazine Vogue, former editor-consultant of the Glamor magazine, previously worked as editor-in-chief of the magazine Tatler <span id="a1">[\[1\]](#f1)</span>. In 2018 Victoria left the publishing house where she worked for 20 years.
 
 ## Conspectus
 
