@@ -50,8 +50,6 @@ A fashion brand founded in Moscow by Nina Neretina and Donis Pupis in several ye
 
 ## See also
 
-+ [Amelin, Tom](amelin-tom)
-+ [Indexmod Encyclopedia](indexmod-encyclopedia)
 + [K20](k20)
 + [Le Form](le-form)
 + [Neretina, Nina](neretina-nina)
