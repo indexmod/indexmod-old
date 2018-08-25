@@ -11,10 +11,10 @@ birth: 2018
 city: Moscow
 facebook: '407'
 instagram: '14600'
-youtube: '600000'
+youtube: '0'
 vimeo: ''
-twitter: '400'
-tumblr: '900'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
 origin: a Russian
 profession: fashion brand based in Moscow founded in Moscow by Nina Neretina and Donis Pupis
