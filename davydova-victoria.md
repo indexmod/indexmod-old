@@ -9,7 +9,7 @@ shortname: DAVYDOVA
 birth: '1968'
 originlang: Rus.
 originspell: Виктория Давыдова
-appearing: Updated
+appearing: Born
 city: Moscow
 facebook: '0'
 instagram: '0'
