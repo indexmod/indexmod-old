@@ -1,7 +1,6 @@
 ---
-
-title:  Natasha Dea Jewelry
-permalink:  natasha-dea-jewelry
+title: Natasha Dea Jewelry
+permalink: natasha-dea-jewelry
 givenname: Natasha
 familyname: Platanova
 layout: default
