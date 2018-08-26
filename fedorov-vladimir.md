@@ -62,13 +62,13 @@ He was born in the in the family of a mathematician and engineer. In the mid-197
 
 *Photo: [Peter Shirkovskiy ](peter-shirkovskiy) / Colta / [Vimeo](https://vimeo.com/99113402)*
 
-# See also
+## See also
 
 + [Babushkina, Ivana](petra-ivana-babushkina-artist)
 + [Ranayana Obavian](obabian-ramayana)
 + [Pavel Pepperstein](pepperstein-pavel)
 + [Vavilov 65A](vavilov-65-a)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Павел Пепперштейн о Владимире Федорове (Павел Пепперштейн, Telegra.ph)](http://telegra.ph/Pavel-Peppershtejn-o-Vladimire-Fedorove-03-21)
