@@ -21,7 +21,7 @@ vkontakte: '0'
 origin: an Ukrainian and Russian
 profession: artist, co-founder of the art group “Inspection of Medical Hermeneutics”, Precious fetish of "Medical Hermeneutics"
 photo: Vladimir Fedorov in 1984
-photographer: Mr.iammister
+photographer: Mr. Iammister
 source: Wikipedia
 photographerurl: index
 sourceurl: index
@@ -46,7 +46,7 @@ He was born in the in the family of a mathematician and engineer. In the mid-197
 
 *Photo: [Sergei Ugolnikov](sergei-ugolnikov) / [Around Art](http://aroundart.ru/?attachment_id=21196)*
 
-# Conspectus
+## Conspectus
 
 |Year|City|
 |----|-----|
