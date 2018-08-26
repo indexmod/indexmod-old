@@ -2,7 +2,7 @@
 permalink: indicator-b
 layout: indicator
 shortname: B
-birth: 1788
+birth: 1910
 facebook: 300000
 instagram: 990000
 twitter: 234000
