@@ -21,38 +21,16 @@ vkontakte: 0
 soundcloud: 0
 origin: a Russian
 profession: cinema and fashion event established by Be-in.ru
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+photo: A still from Be In Open Film Festival trailer in 2018
+photographer: Be In Open
+source: YouTube
+photographerurl: https://www.youtube.com/watch?v=0VmfD-muoTE
+sourceurl: https://www.youtube.com/watch?v=0VmfD-muoTE
 founder: Alexei Bazhenov
 published: true
 ---
 
-
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image**
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-
-## Footnotes
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
++ [Alexey Bazhenov](bazhenov-alexey)
++ [Be-in.ru](be-in)
