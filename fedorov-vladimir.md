@@ -63,7 +63,7 @@ He was born in the in the family of a mathematician and engineer. In the mid-197
 # See also
 
 + [Babushkina, Ivana](petra-ivana-babushkina-artist)
-+ [Рамаяна Обавян](obabian-ramayana)
++ [Ranayana Obavian](obabian-ramayana)
 + [Pavel Pepperstein](pepperstein-pavel)
 + [Vavilov 65A](vavilov-65-a)
 
