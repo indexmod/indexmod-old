@@ -16,7 +16,7 @@ twitter: '0'
 tumblr: '0'
 vkontakte: '0'
 origin: a Russian
-profession: philologist, journalist, fashion figure, founder and CEO of Be-in.ru,
+profession: philologist, journalist, fashion figure, founder and CEO of Be-in.ru, Be In Open and Be In Open Film Festival
 photo: Alexey Bazhenov in Paris in 2018
 photographer: Turbo Yulia
 source: Facebook
