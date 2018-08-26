@@ -2,7 +2,9 @@
 title: 'Fedorov, Vladimir'
 permalink: fedorov-vladimir
 layout: default
+givenname: Vladimir
 shortname: FEDOT
+familyname: Fedorov
 othername: Федот
 originlang: Rus.
 originspell: Владимир Федоров
