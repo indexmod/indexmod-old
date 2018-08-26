@@ -2,9 +2,9 @@
 permalink: indicator-b
 layout: indicator
 shortname: TEST-B
-birth: 2000
-facebook: 1000
-instagram: 1000
+birth: 2009
+facebook: 5000
+instagram: 10000
 twitter: 0
 vkontakte: 0
 vimeo: 0
