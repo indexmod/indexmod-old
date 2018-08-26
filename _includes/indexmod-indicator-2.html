@@ -2,7 +2,7 @@
    <circle cx="50" cy="50" r="{% include radius.html %}" stroke="rgb({% include indexmod.html %},0,222)" stroke-width="{% include stroke.html %}" fill="rgb(222,222,{% include indexmod.html %})" />
 </svg>
 
-<svg height="150" width="150">
+<svg height="{% include radius.html %}" width="{% include radius.html %}">
   <defs>
     <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
       <stop offset="0%" style="stop-color:rgb({% include indexmod.html %},0,0);stop-opacity:1" />
