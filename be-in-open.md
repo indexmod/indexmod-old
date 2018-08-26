@@ -8,8 +8,8 @@ birth: '2016'
 age: '3'
 updateyear: '2018'
 city: Saint Petersburg
-facebook: '1250'
-instagram: '13500'
+facebook: '1473'
+instagram: '16100'
 youtube: '393'
 originspell: Би-Ин-Опен
 appearing: Est.
@@ -22,21 +22,15 @@ tumblr: '0'
 vkontakte: '0'
 origin: Russian
 profession: fashion event in Moscow
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
+photo: Be In Open 2017
+photographer: Youlia Kalmykova
+source: District-f.org
+photographerurl: https://district-f.org/2017/06/07/be-in-open-2017/
+sourceurl: https://district-f.org/2017/06/07/be-in-open-2017/
 founder: Be-in (site) and Alexey Bazhenov
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a fashion event in Moscow founded {{ page.founder }} <span id="a1">[\[1\]](#f1)</span>.
-
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Be In Open 2017**
-
-*Photo: [Youlia Kalmykova](index) / [District-f.org](https://district-f.org/2017/06/07/be-in-open-2017/)*
 
 ## Сonspectus
 
@@ -45,7 +39,6 @@ founder: Be-in (site) and Alexey Bazhenov
 |2016||
 |2017|Хлебозавод №9|
 |2018 <span id="a2">[\[2\]](#f2)</span>|Хлебозавод №9|
-
 
 ## See also
 
