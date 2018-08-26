@@ -3,13 +3,13 @@ permalink: indicator-b
 layout: indicator
 shortname: TEST-B
 birth: 2000
-facebook: 300000
-instagram: 990000
-twitter: 234000
-vkontakte: 900
-vimeo: 700000
-youtube: 1300000
-soundcloud: 500000
+facebook: 1000
+instagram: 1000
+twitter: 0
+vkontakte: 0
+vimeo: 0
+youtube: 0
+soundcloud: 0
 ---
 
 One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.

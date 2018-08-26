@@ -3,13 +3,13 @@ permalink: indicator-a
 layout: indicator
 shortname: TEST-A
 birth: 1970
-facebook: 300000
-instagram: 300000
-twitter: 10
-vkontakte: 5
-vimeo: 1
-youtube: 20
-soundcloud: 5
+facebook: 1000
+instagram: 1000
+twitter: 0
+vkontakte: 0
+vimeo: 0
+youtube: 0
+soundcloud: 0
 ---
 
 The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation and their most common words.
