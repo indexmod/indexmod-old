@@ -1,7 +1,7 @@
 ---
-permalink: indicator-b
+permalink: 0-b
 layout: indicator
-shortname: TEST-B
+shortname: TEST-0-B
 birth: 2009
 facebook: 5000
 instagram: 10000
