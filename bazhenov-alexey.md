@@ -15,7 +15,7 @@ vimeo: '0'
 twitter: '0'
 tumblr: '0'
 vkontakte: '0'
-origin: Russian
+origin: a Russian
 profession: philologist, journalist, fashion figure, founder and CEO of Be-in.ru,
 photo: Alexey Bazhenov in Paris in 2018
 photographer: Turbo Yulia
