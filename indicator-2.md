@@ -2,7 +2,7 @@
 permalink: indicator-b
 layout: indicator
 shortname: TEST-B
-birth: 1910
+birth: 2000
 facebook: 300000
 instagram: 990000
 twitter: 234000
