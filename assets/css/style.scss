@@ -310,7 +310,7 @@ img {
 }
 
 .tooltip {
-    position: relative;
+    position: absolute;
     display: inline-block;
 }
 
@@ -318,7 +318,7 @@ img {
 	  visibility: hidden;
 		 background-color: grey;
 	  font-family: 'Helvetica Neue';
-			font-size: 15px;
+			font-size: 25px;
 			font-weight: 900;
 			color: black;
 			width: 100px;
@@ -328,7 +328,7 @@ img {
 
     /* Position the tooltip */
     position: absolute;
-    z-index: -1;
+    z-index: 1;
 }
 
 .tooltip:hover .tooltiptext {
