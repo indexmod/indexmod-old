@@ -20,7 +20,7 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 origin: a Russian
-profession: cinema and fashion event established by ...
+profession: cinema and fashion event established by Be-in.ru
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
