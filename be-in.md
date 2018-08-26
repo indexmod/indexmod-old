@@ -3,7 +3,6 @@ title: Be-in
 permalink: be-in
 layout: default
 shortname: BEIN
-indexmod: Indexmod
 birth: '2006'
 updateyear: '2018'
 city: Moscow
@@ -15,7 +14,6 @@ twitter: '2119'
 originlang: Rus.
 originspell: Би-ин
 appearing: Est.
-birth: 2018
 city: Moscow
 facebook: '500000'
 instagram: '500500'
