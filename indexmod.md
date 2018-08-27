@@ -3,6 +3,7 @@ title: Indexmod
 permalink: indexmod
 layout: info
 exclude: true
+published: true
 ---
 
 `What is in the formula?`
@@ -13,7 +14,7 @@ Indexmod formula contains the sum of the official statistics from Facebook, Inst
 
 {% include indexmod-indicator.html%}
 
-This image is generated SVG based on variables from meta data taken from "front row" of every article
+This image is generated SVG based on variables from meta data taken from "front row" of every article. See more at [Indexmod.gq/universe](https://indexmod.gq/universe)
 
 
 ## Formula
