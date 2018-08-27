@@ -18,21 +18,21 @@ Edit any page following under-underlined **Edit** link on top of every page, you
 
 + Follow **Edit**
 + Find the `template.md` and copy content
-+ In encyclopedia tab create new file with .md extention
-+ Paste content of the template
++ In blockchainpedia tab create new file with .md extention
++ Paste content of the template in your file
 + Edit **Page title** and **Permalink** and save new page
 
-## Writing charachter by charachter
+## Writing the content 
 
-The aim of Indexmod blockchainpedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in blockchainpedia.
+The aim of Indexmod blockchainpedia to simplify wiki syntax for a pretty layout. Following checklist explains few steps of creating and editing beautiful articles at Indexmod blockchainpedia.
 
 ## Markdown
 
-Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) lightest and easiest language for static pages generating.
+Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) -- the easiest language for static pages generating.
 
 ## Front matter
 
-Each page on top have hidden section with meta data. This **Front matter** area is set with triple-dashed lines.
+Each page on top have hidden section with meta data. This area called a **Front matter** and set with triple-dashed lines.
 
 `---`
 
