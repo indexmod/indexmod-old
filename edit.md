@@ -12,7 +12,7 @@ exclude: true
 
 ## Link to Editor
 
-Edit any page following **Edit** link on top of every page, you will be redirected to Prose.io editor. Warning: to save  changes you may need authorize as [GitHub](https://github.com/join) user.
+Edit any page following under-underlined **Edit** link on top of every page, you will be redirected to Prose.io editor. Warning: to save  changes you may need authorize as [GitHub](https://github.com/join) user.
 
 ## Create new page
 
