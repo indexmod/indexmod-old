@@ -33,8 +33,8 @@ founder: of International Festival of Antibourgeois Anticulture in Eastern Europ
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Petr Shirkovsky](shirkovsky-petr)
++ [Vladimir Fedorov](fedorov-vladimir)
 
 ## Footnotes
 
