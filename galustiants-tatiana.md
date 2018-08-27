@@ -74,5 +74,3 @@ Tatiana Galustiants  011  SNC (Rus. Татьяна Галустянц) born 1968
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
