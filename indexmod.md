@@ -32,4 +32,4 @@ This image is generated SVG based on variables from meta data taken from "front 
 ||100|=|
 |Total|0,00528||
 
-`Formula (2018) at any time may be extended with new  extra variables`
+`Formula is extending with new variables`
