@@ -9,6 +9,7 @@ originlang: Rus. / Eng.
 originspell: Original spell
 othername: Other name
 appearing: Updated / Est. / Born
+venue: Red Square
 birth: 2018
 city: Moscow
 facebook: 0
