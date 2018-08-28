@@ -11,7 +11,7 @@
 }
 
 .rates-top {
-	font-family: 'Helvetica Neue';
+	font-family: 'Monaco';
 	font-size: 19px;
 	font-weight: 100;
 	-webkit-filter: grayscale(99%);
@@ -19,7 +19,7 @@
 }
 
 .rates-top:hover {
-	font-family: 'Helvetica Neue';
+	font-family: 'Monaco';
 	font-size: 19px;
 	font-weight: 100;
 	-webkit-filter: grayscale(0%);
@@ -34,8 +34,6 @@
 	font-weight: 900;
 	color: black;
 }
-
-
 
 .intro {
 	font-family: 'Verdana';
@@ -53,30 +51,30 @@ body {
 }
 
 body.universe {
-	max-width: 600px;
+	max-width: 100%;
 	margin: auto;
-	padding: 20px;
-	background: black;
+	padding: 30px;
+	background: silver;
 }
 
 h1.universe {
-	font-family: 'Old Standard TT', serif;
-	font-size: 42px;
+	font-family: 'Monaco', serif;
+	font-size: 30px;
 	font-weight: 900;
-	line-height: 1.3em;
-	color: white;
+	line-height: 1em;
+	color: black;
 }
 
 p.universe {
-	font-family: 'Verdana', serif;
+	font-family: 'Monaco', serif;
 	font-size: 15px;
-	line-height: 1.5em;
+	line-height: 1em;
 	font-weight: 500;
-	color: white;
+	color: black;
 }
 
 hr.universe {
-	color: white;
+	color: black;
 }
 
 .date {
@@ -194,9 +192,9 @@ table.top tr:hover {
 }
 .highlighter-rouge {
 	font-family: 'Verdana';
-	font-size: 18px;
+	font-size: 16px;
 	line-height: 3em;
-	font-weight: 100;
+	font-weight: 300;
 	color: black;
 	border: solid 1px silver;
 	background-color: #E8FFF5;
@@ -315,6 +313,7 @@ img {
 }
 
 .tooltip .tooltiptext {
+<<<<<<< HEAD
 	  visibility: hidden;
 		 background-color: white;
 	  font-family: 'Helvetica Neue';
@@ -326,6 +325,12 @@ img {
    padding: 1px 0;
 
     /* Position the tooltip */
+=======
+    width: 120px;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+>>>>>>> 5c7a80b28adc6e9a1015e36fdbac69291d5b3f85
     position: absolute;
     z-index: 1;
 }
