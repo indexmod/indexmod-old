@@ -306,28 +306,3 @@ img {
 	width: 50%;
 	padding: 10px;
 }
-
-.tooltip {
-    position: relative;
-    display: inline-block;
-}
-
-.tooltip .tooltiptext {
-	  visibility: hidden;
-		 background-color: white;
-	  font-family: 'Helvetica Neue';
-			font-size: 12px;
-			font-weight: 100;
-			color: black;
-			width: 300px;
-   text-align: right;
-   padding: 1px 0;
-
-    /* Position the tooltip */
-    position: absolute;
-    z-index: 1;
-}
-
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-}
