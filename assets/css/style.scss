@@ -2,11 +2,6 @@
 ---
 @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
 
-svg {
-  width: 100%;
-  height: 100%;
-}
-
 .rex {
 	font-family: 'Helvetica Neue';
 	font-size: 20px;
@@ -56,7 +51,6 @@ body {
 }
 
 body.universe {
-	height: 100vh;
 	max-width: 100%;
 	margin: auto;
 	padding: 30px;
