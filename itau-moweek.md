@@ -32,10 +32,8 @@ published: true
 
 ---
 
-
 ## See also
 
-+ [BFW](index)
 + [SPFW](index)
 
 ## Footnotes
