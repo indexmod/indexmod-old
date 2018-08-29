@@ -54,35 +54,7 @@ body.universe {
 	max-width: 100%;
 	margin: auto;
 	padding: 30px;
-
-background: linear-gradient(356deg, #585e5d, #f1faf8);
-background-size: 400% 400%;
-
--webkit-animation: AnimationName 6s ease infinite;
--moz-animation: AnimationName 6s ease infinite;
--o-animation: AnimationName 6s ease infinite;
-animation: AnimationName 6s ease infinite;
-}
-
-@-webkit-keyframes AnimationName {
-    0%{background-position:49% 0%}
-    50%{background-position:52% 100%}
-    100%{background-position:49% 0%}
-}
-@-moz-keyframes AnimationName {
-    0%{background-position:49% 0%}
-    50%{background-position:52% 100%}
-    100%{background-position:49% 0%}
-}
-@-o-keyframes AnimationName {
-    0%{background-position:49% 0%}
-    50%{background-position:52% 100%}
-    100%{background-position:49% 0%}
-}
-@keyframes AnimationName {
-    0%{background-position:49% 0%}
-    50%{background-position:52% 100%}
-    100%{background-position:49% 0%}
+	background: #efd7e1;
 }
 
 h1.universe {
