@@ -35,7 +35,7 @@ published: true
 
 ## See also
 
-+ [Brasil](brasil)
++ [Brasil](brasilя)
 + [Peru](peru)
 
 ## Footnotes
