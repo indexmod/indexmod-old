@@ -35,8 +35,8 @@ published: true
 
 ## See also
 
-+ [Brasil](index)
-+ [Peru](index)
++ [Brasil](brasil)
++ [Peru](peru)
 
 ## Footnotes
 
