@@ -6,4 +6,6 @@
     </radialGradient>
   </defs>
   <ellipse stroke="grey" stroke-width="{% include stroke.html %}" cx="60" cy="60" rx="{% include radius.html %}" ry="{% include radius.html %}" fill="url(#grad1)" />
+  <animateTransform attributeName="transform" type="scale" additive="sum" from="1 1" to="2 2" begin="0s" dur="3s" rotate="auto-reverse" repeatCount="indefinite"></animateTransform>
+  <animateTransform attributeName="transform" type="scale" additive="sum" from="2 2" to="1 1" begin="3s" dur="3s" repeatCount="indefinite"></animateTransform>
 </svg>
