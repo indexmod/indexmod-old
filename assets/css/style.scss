@@ -318,11 +318,11 @@ body.universe {
 	@return unquote($value);
 }
 
-$stars: multiple-box-shadow(800);
+$stars: multiple-box-shadow(0);
 
 .stars {
-  width: 10px;
-  height: 10px;
+  width: 1px;
+  height: 1px;
   background: transparent;
   box-shadow: $stars;
 
@@ -332,7 +332,7 @@ $stars: multiple-box-shadow(800);
 		top: 2000px;
 	  	width: 1px;
 	  	height: 1px;
-	  	background: red;
+	  	background: white;
 	  	box-shadow: $stars;
 	}
 }
