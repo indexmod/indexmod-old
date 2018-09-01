@@ -65,3 +65,9 @@ $stars: multiple-box-shadow(800);
 	  	box-shadow: $stars;
 	}
 }
+
+.container img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
