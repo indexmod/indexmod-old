@@ -50,7 +50,7 @@ body.universe {
 	max-width: 100%;
 	margin: auto;
 	padding: 30px;
-	background: tan;
+	background: gray;
 }
 
 h1.universe {
@@ -60,6 +60,7 @@ h1.universe {
 	line-height: 1em;
 	color: black;
 }
+
 p.universe {
 	font-family: 'Monaco', serif;
 	font-size: 15px;
@@ -67,9 +68,11 @@ p.universe {
 	font-weight: 500;
 	color: black;
 }
+
 hr.universe {
 	color: black;
 }
+
 .date {
 	font-family: 'Verdana', serif;
 	font-size: 20px;
