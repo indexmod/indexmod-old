@@ -1,11 +1,11 @@
 <svg height="120" width="120">
   <defs>
     <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
-      <stop offset="0%" style="stop-color:rgb(255,255,{% include indexmod.html %});stop-opacity:1" />
-      <stop offset="100%" style="stop-color:rgb({% include indexmod.html %},0,0);stop-opacity:1" />
+      <stop offset="0%" style="stop-color:rgb({% include indexmod.html %},255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(0,0,{% include indexmod.html %});stop-opacity:1" />
     </radialGradient>
   </defs>
-  <ellipse stroke="white" stroke-width="{% include stroke.html %}" cx="60" cy="60" rx="60" ry="60" fill="url(#grad1)" />
+  <ellipse stroke="white" stroke-width="{% include stroke.html %}" cx="60" cy="60" rx="40" ry="40" fill="url(#grad1)" />
   <animateTransform attributeName="transform" type="scale" additive="sum" from="1 1" to="2 2" begin="0s" dur="3s" rotate="auto-reverse" repeatCount="indefinite"></animateTransform>
   <animateTransform attributeName="transform" type="scale" additive="sum" from="2 2" to="1 1" begin="3s" dur="3s" repeatCount="indefinite"></animateTransform>
 </svg>
