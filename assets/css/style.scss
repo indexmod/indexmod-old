@@ -44,14 +44,6 @@ body {
 	padding: 20px;
 	background: white;
 }
-body.universe {
-  font-family: 'Monaco', serif;
-	font-size: 15px;
-	max-width: 100%;
-	margin: auto;
-	padding: 30px;
-	background: black;
-}
 
 h1.universe {
 	font-family: 'Monaco', serif;
@@ -302,11 +294,7 @@ img {
 	padding: 10px;
 }
 
-html {
-	height: 100%;
-}
-
-body {
+body.universe {
 	background: #193485; /* Old browsers */
 	background: -moz-linear-gradient(top,  #193485 0%, #2051b7 67%, #2051b7 67%, #688bef 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#193485), color-stop(67%,#2051b7), color-stop(67%,#2051b7), color-stop(100%,#688bef)); /* Chrome,Safari4+ */
@@ -348,4 +336,3 @@ $stars: multiple-box-shadow(800);
 	  	box-shadow: $stars;
 	}
 }
-    
