@@ -13,7 +13,7 @@ birth: 1990
 city: Oakland
 facebook: '0'
 instagram: '1890'
-venue: SPRING/BREAK Art Show
+venue: Spring / Break Art Show
 youtube: '0'
 vimeo: '0'
 twitter: '0'
@@ -28,7 +28,7 @@ photographer: The App Store by Evan Desmond Yee
 source: The Sonic Jungle
 photographerurl: index
 sourceurl: index
-founder: of the E V A N Y E E S T U D I O
+founder: of the Evan Yee Studio
 ---
 
 ## Education
