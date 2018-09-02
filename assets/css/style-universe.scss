@@ -39,11 +39,6 @@ body {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#193485', endColorstr='#688bef',GradientType=0 ); /* IE6-9 */
 }
 
-.container {
-	max-width: 800px;
-	height: 500px;
-}
-
 @function multiple-box-shadow ($n) {
 	$value: '#{random(2000)}px #{random(2000)}px #FFF';
 	@for $i from 2 through $n {
@@ -69,6 +64,11 @@ $stars: multiple-box-shadow(800);
 	  	background: white;
 	  	box-shadow: $stars;
 	}
+
+	.container {
+		width: 50px;
+	}
+
 }
 
 .container img {
