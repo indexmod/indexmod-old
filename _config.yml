@@ -31,7 +31,6 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
-    - /assets
     - 404.md
     - README.md
     - feed.xml
