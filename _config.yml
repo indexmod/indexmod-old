@@ -32,6 +32,7 @@ prose:
     - /_layouts
     - /_includes
     - 404.md
+    - universe.md
     - README.md
     - feed.xml
     - sitemap.xml
