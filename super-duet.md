@@ -33,6 +33,7 @@ founder: Vladimir Bordoque, Mikhail Sachkov
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Element of style matrix for Super duet by Michail Sachkov, 2018**
+
 *Photo: [Michail Sachkov](sachkov-mikhail) / [Super duet](super-duet)*
 
 ## Сonspectus
