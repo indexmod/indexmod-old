@@ -1,12 +1,20 @@
 ---
-layout: tech
+title: The Indexmod universe
+shortname: This universe
 permalink: universe
+birth: 2018
+layout: tech-universe
 exclude: true
-title: The Universe
 ---
 
-# Sorry, today is under construction
+<wrap>
 
-![](/images/universe.jpg)
+{% assign mypages = site.html_pages | sort: "order" %} {% for page in mypages %}
+{% unless page.exclude %}
 
-[Jump to cover page](index)
+<a href="{{ page.permalink | absolute_url }}">{% include indexmod-indicator.html %}</a>
+
+{% endunless %}
+{% endfor %}
+
+</wrap>
