@@ -5,12 +5,12 @@
       <stop offset="100%" style="stop-color:rgb(0,0,{% include indexmod.html %});stop-opacity:1" />
     </radialGradient>
   </defs>
-
+  <g>
   <ellipse stroke="rgb(255,{% include indexmod.html %},255)" stroke-opacity="{% include indexmod.html %}" stroke-width="{% include stroke.html %}" cx="50" cy="50" rx="10" ry="10" fill="url(#grad1)" />
+
+  <text x="50%" y="50%" text-anchor="middle" stroke="white" stroke-width="2px" dy=".3em">{% include age.html %}</text>
+  <text x="50%" y="50%" text-anchor="middle" stroke="white" stroke-width="2px" dy=".3em">{{page.shortname}}</text>
+  </g>
   <animateTransform attributeName="transform" type="scale" additive="sum" from="1 1" to="2 2" begin="0s" dur="4s" rotate="auto-reverse" repeatCount="indefinite"></animateTransform>
   <animateTransform attributeName="transform" type="scale" additive="sum" from="2 2" to="1 1" begin="4s" dur="4s" repeatCount="indefinite"></animateTransform>
-</svg>
-<svg height="50" width="50">
-<text x="1" y="20" fill="green">{% include age.html %}</text>
-<text x="1" y="40" fill="tan">{{page.shortname}}</text>
 </svg>
