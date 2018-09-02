@@ -2,9 +2,9 @@
 layout: tech
 permalink: universe
 exclude: true
-title: Under construction
+title: The Universe
 ---
 
-# Under construction
+# Sorry, today is under construction
 
 [Jump to cover page](index)
