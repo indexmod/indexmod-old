@@ -69,6 +69,6 @@ founder: of the Evan Yee Studio
 + [Nocuous Rift](index)
 
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [“Artist Creates A Fake Apple Store Filled With Crazy, Dystopian Tech” Collectively (Swaraj Art Archive)](https://swarajarchive.wordpress.com/2015/08/31/start-up-a-twisted-apple-store-filled-with-crazy-dystopian-tech/)
