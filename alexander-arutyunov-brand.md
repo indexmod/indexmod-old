@@ -2,7 +2,7 @@
 title: Alexander Arutyunov (brand)
 permalink: alexander-arutyunov-brand
 layout: default
-shortname: ALEXANDERARUTYUNOV
+shortname: ARUTYUNOV
 originlang: Rus.
 originspell: Александр Арутюнов
 appearing: Est.
