@@ -1,4 +1,4 @@
-<svg height="100" width="100">
+<svg height="100px" width="100px">
   <defs>
     <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
       <stop offset="0%" style="stop-color:rgb(0,0,0);stop-opacity:1"/>
@@ -7,8 +7,8 @@
   </defs>
   <g>
   <ellipse stroke="rgb(0,{% include indexmod.html %},0)" stroke-opacity="{% include indexmod.html %}" stroke-width="{% include stroke.html %}" cx="50" cy="50" rx="10" ry="10" fill="url(#grad1)"/>
-  <animateTransform attributeName="transform" type="scale" additive="sum" from="1 1" to="2 2" begin="0s" dur="{% include stroke.html %}s" rotate="auto-reverse" repeatCount="indefinite"></animateTransform>
-  <animateTransform attributeName="transform" type="scale" additive="sum" from="2 2" to="1 1" begin="4s" dur="{% include stroke.html %}s" repeatCount="indefinite"></animateTransform>
+  <animateTransform attributeName="transform" type="scale" additive="sum" from="1 1" to="2 2" begin="0s" dur="2s" rotate="auto-reverse" repeatCount="indefinite"></animateTransform>
+  <animateTransform attributeName="transform" type="scale" additive="sum" from="2 2" to="1 1" begin="4s" dur="2s" repeatCount="indefinite"></animateTransform>
   <text x="50%" y="70%" fill="green" text-anchor="middle">{% include age.html %}</text>
   <text x="50%" y="80%" fill="black" text-anchor="middle">{{page.shortname}}</text>
   </g>
