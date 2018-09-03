@@ -57,7 +57,7 @@ body
       border-radius 100%
       transform translateZ(0)
   for n in (0..100)
-    .container:nth-child({n})
+    .container:nth-child{n}
       width random(1, 3px)
       height @width
       left (random(0, 200) / 2vw)
