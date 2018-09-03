@@ -7,10 +7,10 @@ layout: tech-universe
 exclude: true
 ---
 <wrap>
-{% assign my pages = site.html_pages | sort: "order" %}
-{% for page in my pages %}
+{% assign mypages = site.html_pages | sort: "order" %}
+{% forpage in mypages %}
 {% unless page.exclude %}
 <a href="{{ page.permalink | absolute_url }}">{% include indexmod-indicator.html %}</a>
-{% end unless %}
-{% end for %}
+{% endunless %}
+{% endfor %}
 </wrap>
