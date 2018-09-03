@@ -1,7 +1,7 @@
 ---
 title: Rubchinskiy, Gosha
 permalink: rubchinskiy-gosha
-layout: campaign
+layout: default
 shortname: RUBCHINSKIY
 givenname: Georgiy
 familyname: Rubchinskiy
