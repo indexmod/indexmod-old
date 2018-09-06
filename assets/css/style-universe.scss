@@ -26,19 +26,22 @@ p
 	color: black;
 }
 
-li {
-  display: inline;
-  padding-right: 1em;
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding-left: 0;
 }
 
-  ul {
-    -webkit-column-count: 6;
-    -moz-column-count: 6;
-    column-count: 6;
-  }
-  li {
-    display:block;
-  }
+ul li {
+  flex: 0 0 calc(50% - 10px);
+  margin: 5px;
+  padding: 5px 0;
+  text-align: center;
+  box-sizing: border-box;
+  border: 1px dashed red;
+  background-color: yellow;
+}
 
 
 p.age
