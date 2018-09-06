@@ -16,7 +16,7 @@ exclude: true
 <figcaption>
 <p class="age">{% include age.html %}</p>
 <p class="formula">×</p>
-<p class="social">{% include stroke.html %}</p>
+<p class="social">{% include social.html %}</p>
 <p class="formula">×</p>
 <p class="words">{% include words.html %}</p>
 <p class="shortname">{{page.shortname}} | {% include indexmod.html %}</p></figcaption>
