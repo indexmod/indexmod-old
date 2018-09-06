@@ -34,6 +34,7 @@ prose:
     - /assets
     - 404.md
     - universe.md
+    - universe.html
     - README.md
     - feed.xml
     - sitemap.xml

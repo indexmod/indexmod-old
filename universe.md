@@ -1,8 +1,6 @@
 ---
 title: The Indexmod Under-Universe
-shortname: Under-universe
 permalink: universe
-birth: 2018
 layout: tech-universe
 exclude: true
 ---
