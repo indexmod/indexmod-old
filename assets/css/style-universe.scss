@@ -32,12 +32,12 @@ li {
 }
 @media(max-width: 1000px) {
   ul {
-    -webkit-column-count: 2;
-    -moz-column-count: 2;
-    column-count: 2;
+    -webkit-column-count: 10;
+    -moz-column-count: 10;
+    column-count: 10;
   }
   li {
-    display:block;
+    display:wrap;
   }
 }
 
