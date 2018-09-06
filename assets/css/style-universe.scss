@@ -26,13 +26,43 @@ p
 	color: black;
 }
 
+
+
 p.age
 {
 	font-family: 'Old Standard TT', serif;
 	font-size: 20px;
-	line-height: 2em;
+	line-height: 1em;
 	font-weight: 900;
 	color: green;
+}
+
+p.social
+{
+	font-family: 'Old Standard TT', serif;
+	font-size: 20px;
+	line-height: 1em;
+	font-weight: 900;
+	color: blue;
+}
+
+p.formula
+{
+	font-family: 'Monaco', serif;
+	font-size: 10px;
+	line-height: 1em;
+	font-weight: 900;
+	color: black;
+}
+
+
+p.words
+{
+	font-family: 'Monaco', serif;
+	font-size: 15px;
+	line-height: 1em;
+	font-weight: 900;
+	color: grey;
 }
 
 p.shortname

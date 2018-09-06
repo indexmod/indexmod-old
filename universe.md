@@ -13,9 +13,13 @@ exclude: true
 {% unless page.exclude %}
 <figure>
 <a href="{{ page.permalink | absolute_url }}">{% include indexmod-indicator.html %}</a>
-<figcaption><p class="age">{% include age.html %}</p>
-
-<p class="shortname">{{page.shortname}}</p></figcaption>
+<figcaption>
+<p class="age">{% include age.html %}</p>
+<p class="formula">×</p>
+<p class="social">{% include stroke.html %}</p>
+<p class="formula">×</p>
+<p class="words">{% include words.html %}</p>
+<p class="shortname">{{page.shortname}} | {% include indexmod.html %}</p></figcaption>
 </figure>
 {% endunless %}
 {% endfor %}
