@@ -26,16 +26,6 @@ p
 	color: black;
 }
 
-.wrapper {
-  margin-right: auto; /* 1 */
-  margin-left:  auto; /* 1 */
-
-  max-width: 960px; /* 2 */
-
-  padding-right: 10px; /* 3 */
-  padding-left:  10px; /* 3 */
-}
-
 p.age
 {
 	font-family: 'Old Standard TT', serif;
@@ -65,9 +55,6 @@ figure {
   margin: 0.5em;
   padding: 0.5em;
 }
-
-
-
 
 a:link {
 	text-decoration: none;
