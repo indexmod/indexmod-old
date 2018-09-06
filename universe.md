@@ -6,7 +6,7 @@ birth: 2018
 layout: tech-universe
 exclude: true
 ---
-<wrapper>
+<wrapper id="spheres">
 {% assign mypages = site.html_pages | sort: "order" %}
 {% for page in mypages %}
 {% unless page.exclude %}
