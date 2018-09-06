@@ -29,7 +29,7 @@ p
 p.age
 {
 	font-family: 'Old Standard TT', serif;
-	font-size: 12px;
+	font-size: 20px;
 	line-height: 2em;
 	font-weight: 900;
 	color: green;
@@ -38,7 +38,7 @@ p.age
 p.shortname
 {
 	font-family: 'Monaco', serif;
-	font-size: 10px;
+	font-size: 15px;
 	line-height: 1em;
 	font-weight: 100;
 	color: black;
@@ -50,10 +50,9 @@ figure {
   text-align: center;
   font-style: inherit;
   font-size: inherit;
-  text-indent: 1;
   border: thin white solid;
-  margin: 0.5em;
-  padding: 0.5em;
+  margin: 1px;
+  padding: 1px;
 }
 
 a:link {
