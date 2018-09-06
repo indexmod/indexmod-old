@@ -16,7 +16,7 @@ exclude: true
 <p class="formula">×</p>
 <p class="social">{% include social.html %}</p>
 <p class="formula">×</p>
-<p class="words">{{number_of_words}}</p>
+<p class="words">{{page.content | number_of_words}}</p>
 <p class="shortname">{{page.shortname}}</p></figcaption>
 </figure>
 {% endunless %}
