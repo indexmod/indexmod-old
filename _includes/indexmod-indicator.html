@@ -9,6 +9,8 @@
   <g id="breath">
   <ellipse stroke="rgb(0,{% include indexmod.html %},0)" stroke-opacity="{% include indexmod.html %}" stroke-width="{% include stroke.html %}" cx="50" cy="50" rx="10" ry="10" fill="url(#grad)"/>
   </g>
+  <animateTransform xlink:href="#breath" attributeName="transform" type="scale" additive="sum" from="1 1" to="2 2" begin="0s" dur="5s" repeatCount="indefinite"></animateTransform>
+  <animateTransform xlink:href="#breath" attributeName="transform" type="scale" additive="sum" from="2 2" to="1 1" begin="5s" dur="5s" repeatCount="indefinite"></animateTransform>
 </svg>
 <br>
 <p class="age">{% include age.html %}</p>
