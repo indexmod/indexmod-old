@@ -2,6 +2,8 @@
 title: 'Samokatjan, Misak'
 permalink: samokatjan-misak
 layout: default
+givenname: Misak
+familyname: Samokatjan
 published: true
 shortname: SAMOKATJAN
 originlang: Rus.
