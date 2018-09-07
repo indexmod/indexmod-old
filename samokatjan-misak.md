@@ -4,8 +4,9 @@ permalink: samokatjan-misak
 layout: default
 published: true
 shortname: SAMOKATJAN
+originlang: Rus.
 originspell: Мисак Самоктьян
-othername:
+othername: Мисак Минасян (Minasyan)
 appearing: Born
 birth: 1983
 city: Stanitsa Marianskaya
