@@ -4,6 +4,9 @@ permalink: universe
 layout: tech-universe
 exclude: true
 ---
+
+`This page works best in Google Chrome`
+
 <wrap>
 
 {% assign mypages = site.html_pages | sort: "order" %}
