@@ -5,7 +5,7 @@ layout: tech-universe
 exclude: true
 ---
 
-`This page works best in Google Chrome`
+`This page animation performed best in Google Chrome and Firefox`
 
 <wrap>
 
