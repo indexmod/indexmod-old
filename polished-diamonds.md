@@ -7,7 +7,7 @@ layout: default
 shortname: POLISHEDIAMONDS
 originlang: Eng.
 originspell: Polished Diamonds
-othername: Other name
+othername: PD
 appearing: Est.
 venue: Auckland Workshop
 birth: 2000
