@@ -5,7 +5,7 @@ layout: tech-universe
 exclude: true
 ---
 
-<p>This page animation performed best in Google Chrome and Firefox</p>
+<p class="shortname">This page animation performed best in Google Chrome and Firefox</p>
 
 <wrap>
 
