@@ -2,47 +2,36 @@
 title: Rodina (store)
 permalink: rodina-store
 layout: default
-shortname: RODINA
-indexmod: Indexmod
-birth: '2014'
-age: '4'
-updateyear: '2018'
+originlang: Rus.
+originspell: Родина
+appearing: Est.
 city: Nizhny Novgorod
+birth: 2015
+givenname: Rodina
+familyname:
+othername: Rodinastore.ru
+venue: Red Square
+founder: Artiom Malyshev
+origin: a Russian
+profession: store based on Russian and Ukrainian streetwear brands with worldwide shipping
+photo: Limited edition of T-shirts "Forward for the Nizhny" by Sasha Stan
+photographer: Basketball club Nizhny Novgorod
+source: Nn-basket.ru
+photographerurl: http://nn-basket.ru/
+sourceurl: http://nn-basket.ru/
+shortname: RODINA
 facebook: '114'
 instagram: '16000'
-youtube: '0,0'
-vimeo: '0,0'
 vkontakte: '23246'
-published: true
-founder: Artiom Malyshev
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
-founder: 'Andrei Dei'
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+soundcloud: 0
+pinterest: 0
 ---
 
-(Also Rodinastore.ru, est. {{ page.birth }}, {{ page.city }}) is an online store based on Russian and Ukrainian streetwear brands with worldwide shipping <span id="a1">[\[1\]](#f1)</span>, also owned local clothing line, franchizing chain in 6 Russian cities (2018) all founded by {{ page.founder }} <span id="a2">[\[2\]](#f2)</span>.
-
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Limited edition of T-shirts "Forward for the Nizhny" by Sasha Stan**
-
-*Photo: [Basketball club Nizhny Novgorod](index) / [Nn-basket.ru](http://nn-basket.ru/)*
+A store based on Russian and Ukrainian streetwear brands with worldwide shipping <span id="a1">[\[1\]](#f1)</span>, also owned local clothing line, franchizing chain in 6 Russian cities (2018) all founded by {{ page.founder }} <span id="a2">[\[2\]](#f2)</span>.
 
 ## Сonspectus
 
@@ -53,18 +42,6 @@ founder: 'Andrei Dei'
 |2017|Nizhny Novgorod|Dukh Ulits film presenting|
 |2017|Nizhny Novgorod|Dukh Ulits book publishing|
 |2018|Nizhny Novgorod|Rodina - Sport collection launch|
-
-## Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Vkontakte <span id="a6">[\[6\]](#f6)</span>|{{ page.vkontakte }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
 
 ## See also
 
