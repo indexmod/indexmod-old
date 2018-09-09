@@ -1,7 +1,7 @@
 ---
 title: 'Tseytlina, Ulyana'
 permalink: tseytlina-ulyana
-layout: campaign
+layout: default
 givenname: Ulyana
 familyname: Tseytlina
 shortname: TSEYTLINA
