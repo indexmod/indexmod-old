@@ -23,7 +23,7 @@ appearing: Est.
 birth: 2018
 city: Moscow
 origin: a Russian
-profession: line of unisex wear basic casual wear brand ща Cocos Moscow, founded by Zong Vu and Masha Titova
+profession: line of unisex wear basic casual wear brand by Cocos Moscow, founded by Zong Vu and Masha Titova
 photo: Male and female at Uni(D)Sex by Cocos Moscow campaign of the 2018
 photographer: Cocos Moscow
 source: Cocos Moscow
