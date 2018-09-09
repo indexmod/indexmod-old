@@ -5,7 +5,7 @@ layout: default
 shortname: ZALOOPIN
 givenname: Aleksander
 familyname: Zaloopin
-othername:
+othername: Cock Magnet
 originlang: Rus.
 originspell: Александр Залупин
 appearing: Born
@@ -26,16 +26,14 @@ photographer: Sergei Misenko
 source: Sobaka
 photographerurl: misenko-sergei
 sourceurl: http://www.sobaka.ru/city/portrety/13779
-founder: 'Aleksander Zaloopin'
+founder: of Aleksander Zaloopin label
 ---
 
-Alexander born 1969, Rostov-on-Don <span id="a1">[\[1\]](#f1)</span>)  described himself and by media as "the first and so far the only open gay-chansonnier of Russia", creator of "texts of the life stories, written from the first person" <span id="a2">[\[2\]](#f2)</span>, "the father of the gay chanson, bard, voice of the generation, genius of the madmen, a favorite of women, men and not-a-men, singer of the endless snow-covered field, the King of a multi-layered messages, the most modern in art" <span id="a3">[\[3\]](#f3)</span> person by judgments of various journalists.
-
-
+Alexander described himself and by media as "the first and so far the only open gay-chansonnier of Russia", creator of "texts of the life stories, written from the first person" <span id="a2">[\[2\]](#f2)</span>, "the father of the gay chanson, bard, voice of the generation, genius of the madmen, a favorite of women, men and not-a-men, singer of the endless snow-covered field, the King of a multi-layered messages, the most modern in art" <span id="a3">[\[3\]](#f3)</span> person by judgments of various journalists.
 
 ![](https://pp.userapi.com/c845018/v845018416/949af/BXfYUjSOR9w.jpg)
 
-**Модный художник в Лондоне в майке «Cock Magnet»**
+**A "Fashionable artist" in London in a T-shirt "Cock Magnet" by Aleksander Zaloopin**
 
 *Photo: [Александр Залупин](zaloopin-aleksander) / [Vk.com](https://pp.userapi.com/c845018/v845018416/949af/BXfYUjSOR9w.jpg)*
 
