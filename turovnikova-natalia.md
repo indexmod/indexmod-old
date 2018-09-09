@@ -11,8 +11,8 @@ originspell: Наташа Туровникова
 appearing: Born.
 birth: 1975
 city: Moscow
-facebook: '0'
-instagram: '0'
+facebook: '4530'
+instagram: '32400'
 youtube: '0'
 vimeo: '0'
 twitter: '0'
