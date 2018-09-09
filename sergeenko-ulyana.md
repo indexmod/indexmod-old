@@ -37,7 +37,7 @@ A fashion designer, founder and owner of the brand Ulyana Sergeenko, "the oligar
 |2013|Danil Khachaturov|Divorced|
 |2018|Igor Sechin|Boyfriend <span id="a2">[\[2\]](#f2)</span>|
 
-## "Duma-Niggas" scandal
+## "Duma Niggas scandal"
 
 On January 23 of 2018, designer Ulyana Sergeyenko presented her summer collection of clothes in Paris. Media paid more attention not to the collection itself, but to the invitation that Sergeyenko sent to her friend Duma. On the envelope it was written: "To my niggas in Paris". The day before the show, Miroslava Duma posted an invitation. Bloggers and fashion magazines were vigorously discussing the expression that caused a series of accusatory public statements and the release of Miroslova from the board of directors of the store The Tot <span id="a3">[\[3\]](#f3)</span>.
 
