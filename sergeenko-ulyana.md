@@ -3,6 +3,7 @@ title: 'Sergeenko, Ulyana'
 permalink: sergeenko-ulyana
 layout: default
 shortname: SERGEENKO
+originlang: Rus.
 originspell: Ульяна Сергеенко
 givenname: Ulyana
 familyname: Sergeenko
