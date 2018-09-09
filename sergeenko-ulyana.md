@@ -30,9 +30,6 @@ founder: 'Andrei Dei'
 ---
 A fashion designer, founder and owner of the brand Ulyana Sergeenko, "the oligarch’s ex-wife who changed the way Russians dress", living in Moscow.
 
-![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/908b1256271565.59a74e16318d4.jpg)
-
-
 ## Husbands and boyfriends
 
 |Year|Persone|Status
