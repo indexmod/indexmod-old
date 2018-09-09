@@ -35,14 +35,14 @@ pinterest: 0
 
 `Neutral point of view is necessary here`
 
-He often works on the set not only as a photographer, but also as a stylist, creating an image with his famous make-up, he delivers a completely "his" product - finished and perfect.
+He often works on the set not only as a photographer, but also as a stylist, creating an image with his famous make-up, he delivers a completely "his" product -- finished and perfect.
 He goes his own way, not walking over others, but constantly encountering obstacles and misunderstandings, envy and unprofessionalism, and as a result he created his own style, which is easily recognizable at first sight.
 
-If my work helps to see something hidden inside because of the routine and the influence of someone else's opinion, if it helps to change your attitude to yourself and your life, I have the right to believe that I fulfill my mission! - Jan says.
+If my work helps to see something hidden inside because of the routine and the influence of someone else's opinion, if it helps to change your attitude to yourself and your life, I have the right to believe that I fulfill my mission! -- Jan says.
 
 As a man of the Renaissance he constantly seeks venue for his creative energy. Now it's also music! He records successful mixes to convey a sense of joy to everyone around him <span id="a1">[\[1\]](#f1)</span>.
 
-# Selected projects
+## Selected projects
 
 |Year|Magazine|Project|
 |----|-----|
@@ -71,11 +71,11 @@ As a man of the Renaissance he constantly seeks venue for his creative energy. N
 ||La Roche Posay||
 ||MTV Russia||
 
-# See also
+## See also
 
 + [Natalia Valevskaya](valevskaya-natalia)
 + [Point Model Management](point-mdel-management)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Bio (Ya-ff.com)](https://www.ya-ff.com/bio)
