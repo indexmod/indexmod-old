@@ -13,8 +13,7 @@ othername: Puhoff
 venue:
 founder: of Puhoff's School Photography
 origin: a Russian
-profession: photographer, stylist, make-up artist, fashion PR and promotion 	
-expert, founder of the Yan Puhoff's School Photography, working and living in Moscow
+profession: photographer, stylist, make-up artist, fashion PR and promotion expert, founder of the Yan Puhoff's School Photography, working and living in Moscow
 photo: Yan Puhoff's selfportrait
 photographer: Yan Puhoff
 source: Facebook
