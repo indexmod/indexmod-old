@@ -2,37 +2,46 @@
 title: 'Puhoff, Yan'
 permalink: pouhoff-yan
 layout: default
-published: true
-shortname: PUHOFF
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus.
+originspell: Ян Пухов
+appearing: Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+birth: 1979
+givenname: Yan
+familyname: Puhov
+othername: Puhoff
+venue:
+founder: of Puhoff's School Photography
+origin: a Russian
+profession: photographer, stylist, make-up artist, fashion PR and promotion 	
+expert, founder of the Yan Puhoff's School Photography, working and living in Moscow
+photo: Yan Puhoff's selfportrait
+photographer: Yan Puhoff
+source: Facebook
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: PUHOFF
+facebook: 4878
+instagram: 1471
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 13
+soundcloud: 0
+pinterest: 0
 ---
 
-(Rus. Ян Пухов, born 1979, Moscow) Russian photographer, stylist, make-up artist, fashion PR and promotion 	
-expert, founder of the Yan Puhoff's School Photography, working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
+## From Bio
 
-![](/encyclopedia/images/pouhoff-yan.png)
+`Neutral point of view is necessary here`
 
-**Yan Puhoff's selfportrait**
+He often works on the set not only as a photographer, but also as a stylist, creating an image with his famous make-up, he delivers a completely "his" product - finished and perfect.
+He goes his own way, not walking over others, but constantly encountering obstacles and misunderstandings, envy and unprofessionalism, and as a result he created his own style, which is easily recognizable at first sight.
 
-*Photo: [Yan Puhoff](pouhoff-yan) / [Facebook](facebook)*
+If my work helps to see something hidden inside because of the routine and the influence of someone else's opinion, if it helps to change your attitude to yourself and your life, I have the right to believe that I fulfill my mission! - Jan says.
+
+As a man of the Renaissance he constantly seeks venue for his creative energy. Now it's also music! He records successful mixes to convey a sense of joy to everyone around him <span id="a1">[\[1\]](#f1)</span>.
 
 # Selected projects
 
@@ -70,6 +79,4 @@ expert, founder of the Yan Puhoff's School Photography, working and living in Mo
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
-
-`Last edited Feb. 2018 (Andrei Dei)`
+[[1]](#a1) <span id="f1"></span> [Bio (Ya-ff.com)](https://www.ya-ff.com/bio)
