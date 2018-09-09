@@ -33,7 +33,7 @@ layout: info
 
 **Графити с актрисой Элизабет Тейлор в кафе «Дача Бир Гарден» на улице 7th St NW**
 
-*Photo: [travelandleisure](travelandleisure) / [travelandleisure](travelandleisure)*
+*Photo: [Travelandleisure](travelandleisure) / [Travelandleisure](travelandleisure)*
 
 ## См. также
 
