@@ -18,7 +18,7 @@ vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 originlang: Rus.
-originspell: Кокос Москва
+originspell: Уни-ди-секс
 appearing: Est.
 birth: 2018
 city: Moscow
