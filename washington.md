@@ -1,7 +1,8 @@
 ---
 title: Вашингтон
 permalink: washington
-layout: info
+shortname: ВАШИНГТОН
+layout: default
 birth: 2018
 facebook: '0'
 instagram: '0'
