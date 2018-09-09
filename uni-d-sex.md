@@ -11,8 +11,8 @@ indexmod: Indexmod
 birth: '2018'
 age: '0'
 city: Moscow
-facebook: '0,0'
-instagram: '0,0'
+facebook: '4503'
+instagram: '32400'
 youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
