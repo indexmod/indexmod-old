@@ -13,7 +13,7 @@ familyname:
 othername: Ptchk.ru
 venue: Russia, Kazakhstan, Nigeria
 founder: Vladimir Kobzev
-origin: an International
+origin: インターナショナル
 profession: サービスはUberの原則に取り組んでモスクワで宅配便を呼び出します
 photo: とサービスブレイカーのVladimir Kobzev（В. Кобзев）会社のロゴ
 photographer: Andrei Dei
