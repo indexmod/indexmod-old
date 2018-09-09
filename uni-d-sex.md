@@ -3,10 +3,13 @@ title: Uni(D)Sex
 permalink: uni-d-sex
 layout: default
 shortname: UNIDSEX
+givenname: Uni(D)Sex
+familyname:
+othername: Уни-ди-секс
+venue: Cocos Moscow
 indexmod: Indexmod
 birth: '2018'
 age: '0'
-updateyear: '2018'
 city: Moscow
 facebook: '0,0'
 instagram: '0,0'
@@ -14,35 +17,21 @@ youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
-published: true
-founder: Moscow Cocos
 originlang: Rus.
-originspell: Шаблон
-appearing: Updated
+originspell: Кокос Москва
+appearing: Est.
 birth: 2018
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
-founder: 'Andrei Dei'
+origin: a Russian
+profession: line of unisex wear basic casual wear brand ща Cocos Moscow, founded by Zong Vu and Masha Titova
+photo: Male and female at Uni(D)Sex by Cocos Moscow campaign of the 2018
+photographer: Cocos Moscow
+source: Cocos Moscow
+photographerurl: https://cocos-moscow.ru/product-category/unisex/
+sourceurl: https://cocos-moscow.ru/product-category/unisex/
+founder: Zong Vu and Masha Titova
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a line of unisex wear of the Russian basic casual wear brand Cocos Moscow <span id="a1">[\[1\]](#f1)</span>.
-
-![](/images/{{ page.permalink }}.jpg)
-
-**Male and female at Uni(D)Sex by Cocos Moscow campaign of the 2018**
 
 *Photo: [Cocos Moscow](cocos-moscow) / [Cocos Moscow](https://cocos-moscow.ru/product-category/unisex/)*
 

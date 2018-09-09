@@ -31,8 +31,6 @@ published: true
 exclude: true
 ---
 
-
-
 When President of Russia Vladimir Putin was due to travel on a state visit to the United Kingdom in June 2003, Zaitsev designed attire for First Lady of Russia Lyudmila Putina to wear for the visit, which included an audience with Queen Elizabeth II <span id="a2">[\[2\]](#f2)</span>.
 
 ## See also

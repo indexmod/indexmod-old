@@ -1,72 +1,36 @@
 ---
 permalink: van-de-coevering-iris
-published: true
 layout: default
 shortname: VANDECOEVERING
 birth: 1974
 city: Baku
 title: Iris Van de Coevering
 originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+originspell: Ирис Ван Де Коверинг
+othername: Uma Kumari
+appearing: Born
+facebook: '0'
+instagram: '0'
+youtube: '0'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
-founder: 'Andrei Dei'
+origin: a Russian and Armenian
+profession: designer, founder of the brands of Spa 101 and Muka, Living in Denpasar.
+photo: Iris van de Coevering gives a treatment at the Spa 101 in the Hilton Bentley
+photographer: Peter Andrew Bosch
+source: Miami.com
+photographerurl: http://www.miami.com/things-to-do-in-miami/spa-fancy-spa-101-1271
+sourceurl: http://www.miami.com/things-to-do-in-miami/spa-fancy-spa-101-1271
+founder: of Muka
 ---
-(Born {{ page.birth }}, {{ page.city }}), also Uma Kumari is a Russian designer, founder of the brands of Spa 101 and Uma Kumari <span id="a1">[\[1\]](#f1)</span>. Living in Denpasar.
-
-![ Image of the “{{ page.title }}”]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Iris van de Coevering gives a treatment at the Spa 101 in the Hilton Bentley**
-
-*Photo: [Peter Andrew Bosch](index) / [Miami.com](http://www.miami.com/things-to-do-in-miami/spa-fancy-spa-101-1271)*
-
-## {{page.title}} conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-## {{page.title}} Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
 
 ## See also
 
 + [Sergei Pogosian](pogosian-sergei)
 + [Bali](bali)
 
-
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Spa Fancy: Spa 101 (Miami.com)](http://www.miami.com/things-to-do-in-miami/spa-fancy-spa-101-1271/)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)

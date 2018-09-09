@@ -1,30 +1,15 @@
 ---
 title: Вашингтон
 permalink: washington
-position: null
-layout: default
-published: true
-shortname: WASHINGTON
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
+layout: info
 birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+facebook: '0'
+instagram: '0'
+youtube: '0'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
-founder: 'Andrei Dei'
 ---
 (Осн. 1790, США) формально Округ Колумбия, столица и город администрации Соединенных Штатов. Политический и культурный центр страны. В Вашингтоне находится Центр искусств имени Джона Кеннеди, каждый год в центре вручается премия Центра Кеннеди, президент и первая леди обычно присутствуют на церемонии. Супруга президента, так называемая лервая леди является почётным председателем совета попечителей Центра Кеннеди. Вашингтон является центром независимой музыкальной культуры. Лейбл Dischord Records, основанный Яном Маккеем, был одним из значимых независимых в панк-культуре 1980-х годов и инди-рока в 1990-х. Также есть независимые лейблы TeenBeat Records и ESL Music. <span id="a1">[\[1\]](#f1)</span>.
 
