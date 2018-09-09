@@ -2,47 +2,37 @@
 title: Axenoff Jewellery
 permalink: axenoff-jewellery
 layout: default
-published: true
-shortname: AXENOFFJ
+shortname: AXENOFF
+givenname: Axenoff Jewellery
+familyname: Axenoff
+originlang: Rus.
 originspell: Аксёнофф Джуелри
-appearing: Updated
-birth: 2018
+othername: AJ
+appearing: Est.
+birth: 2010
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+facebook: '275'
+instagram: '71100'
+youtube: '35'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
+origin: a Russian
+profession: jewellery brand founded by Petr Axenoff, created decorations for Romanovs for the "Matilda" directed by Alexei Uchitel
+photo: Earrings ‘Eye Guardian’ by jeweler Petr Axenoff. Silver, agate, topazes
+photographer: Petr Axenoff
+source: Nasvete
 photographerurl: dei-andrei
 sourceurl: index
-founder: 'Andrei Dei'
+founder: 'Petr Axenoff'
 ---
 
-(Rus. Аксёнов Джуэлри, est. 2010, Moscow) is a Russian jewellery brand founded by Petr Axenoff, created decorations for Romanovs for the "Matilda" directed by Alexei Uchitel, as well as for the new series based on Tolstoy's "War and Peace" by the English television company BBC <span id="a2">[\[2\]](#f2)</span>.
-
-![](/images/{{page.permalink}}.jpg)
-
-**Earrings ‘Eye Guardian’ by jeweler Petr Axenoff. Silver, agate, topazes.**
-
-*Photo: [Petr Axenoff](index) / [Nasvete](index)*
-
-## {{page.title}} Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|275||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|71100||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|35||
-|Age|8||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|0,4||
+A Russian jewellery brand founded by Petr Axenoff, created decorations for Romanovs for the "Matilda" directed by Alexei Uchitel, as well as for the new series based on Tolstoy's "War and Peace" by the English television company BBC <span id="a2">[\[2, 3, 4, 5\]](#f2)</span>.
 
 ## See also
 

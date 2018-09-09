@@ -4,6 +4,9 @@ permalink: universe
 layout: tech-universe
 exclude: true
 ---
+
+<p class="shortname">This page animation performed best in Google Chrome and Firefox</p>
+
 <wrap>
 
 {% assign mypages = site.html_pages | sort: "order" %}

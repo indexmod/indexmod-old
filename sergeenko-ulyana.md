@@ -2,35 +2,33 @@
 title: 'Sergeenko, Ulyana'
 permalink: sergeenko-ulyana
 layout: default
-published: true
 shortname: SERGEENKO
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
+originlang: Rus.
+originspell: Ульяна Сергеенко
+givenname: Ulyana
+familyname: Sergeenko
+othername: Ulyanka
+venue: Paris Fashion Week
+appearing: Born
+birth: 1979
+city: Ust-Kamennogorsk
+facebook: '4903'
+instagram: '421000'
+youtube: '0'
+vimeo: '0'
+twitter: '0'
+tumblr: '0'
 vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
+origin: a Russian
+profession: fashion designer, founder and owner of the brand Ulyana Sergeenko
+photo: Ulyana Sergeenko at "Recent portraits of Russian couturier Ulyana Sergeenko" by  Nick Sushkevich Studio
+photographer: Nick Sushkevich
+source: Behance
+photographerurl: https://mir-s3-cdn-cf.behance.net/project_modules/fs/908b1256271565.59a74e16318d4.jpg
+sourceurl: https://mir-s3-cdn-cf.behance.net/project_modules/fs/908b1256271565.59a74e16318d4.jpg
 founder: 'Andrei Dei'
 ---
-(Rus. Ульяна Сергеенко, born 1979, Ust-Kamennogorsk) Russian fashion designer, founder and owner of the brand Ulyana Sergeenko, "the oligarch’s ex-wife who changed the way Russians dress" <span id="a1">[\[1\]](#f1)</span>, living in Moscow.
-
-![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/908b1256271565.59a74e16318d4.jpg)
-
-**Ulyana Sergeenko at "Recent portraits of Russian couturier Ulyana Sergeenko" by  Nick Sushkevich Studio**
-
-*Photo: [Nick Sushkevich](sushkevich-nick) / [Behance](https://mir-s3-cdn-cf.behance.net/project_modules/fs/908b1256271565.59a74e16318d4.jpg)*
+A fashion designer, founder and owner of the brand Ulyana Sergeenko, "the oligarch’s ex-wife who changed the way Russians dress", living in Moscow.
 
 ## Husbands and boyfriends
 
@@ -39,7 +37,7 @@ founder: 'Andrei Dei'
 |2013|Danil Khachaturov|Divorced|
 |2018|Igor Sechin|Boyfriend <span id="a2">[\[2\]](#f2)</span>|
 
-## "Duma-Niggas" scandal
+## "Duma Niggas scandal"
 
 On January 23 of 2018, designer Ulyana Sergeyenko presented her summer collection of clothes in Paris. Media paid more attention not to the collection itself, but to the invitation that Sergeyenko sent to her friend Duma. On the envelope it was written: "To my niggas in Paris". The day before the show, Miroslava Duma posted an invitation. Bloggers and fashion magazines were vigorously discussing the expression that caused a series of accusatory public statements and the release of Miroslova from the board of directors of the store The Tot <span id="a3">[\[3\]](#f3)</span>.
 
