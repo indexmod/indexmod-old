@@ -1,32 +1,37 @@
 ---
 title: Australian Fashion Chamber
 permalink: australian-fashion-chamber
-position: null
 layout: default
-published: true
-shortname: AUSTRALIANFASHCHAMBER
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
-founder: 'Andrei Dei'
+originlang: Eng.
+originspell: Australian Fashion Chamber
+appearing: Est.
+city: Sydney
+birth: 2004
+givenname: Australian Fashion Chamber
+familyname: Family name
+othername: Australian Fashion Council (AFC)
+venue: Sydney
+founder: Founder
+origin: a National
+profession: not-for-profit organization established to promote and develop Australian fashion design locally and internationally
+photo: Australian Designers Abroad showroom to debut in New York in 2017
+photographer: Australian Fashion Chamber
+source: Australian Fashion Chamber
+photographerurl: australian-fashion-chamber
+sourceurl: australian-fashion-chamber
+shortname: AUSTRALIA
+facebook: 2317
+instagram: 11300
+youtube: 7
+vimeo: 0
+twitter: 1790
+tumblr: 0
+vkontakte: 0
+soundcloud: 6
+pinterest: 185
 ---
 
-(Est. 2014, Sydney) is a not-for-profit organisation established to promote and develop Australian fashion design locally and internationally <span id="a1">[\[1\]](#f1)</span>.
+A not-for-profit organization established to promote and develop Australian fashion design locally and internationally <span id="a1">[\[1\]](#f1)</span>.
 
 ## Selected milestones
 
@@ -41,11 +46,11 @@ founder: 'Andrei Dei'
 + Foster education & affiliation
 <span id="a3">[\[3\]](#f3)</span>.
 
-![](https://cdn.newsapi.com.au/image/v1/1d60521c6a829d88b5bc72824895ff05)
+The Australian Fashion Council (AFC) exists to promote the growth of the textile & fashion industry in Australia.
 
-**Australian Designers Abroad showroom to debut in New York in 2017**
+The newly formed AFC, is the result of the 2018 merging of the former Council of Textile & Fashion, and Australian Fashion Chamber, who together share a history of over 65 years service to the industry.
 
-*Photo: [Australian Fashion Chamber](afc) / [Australian Fashion Chamber](afc)*
+The AFC is a not-for-profit membership organisation, with members drawn from across the fashion and textile industry value chain. From micro to large companies, as well as education, state and national industry associations and students.
 
 ## Activities
 
