@@ -2,38 +2,44 @@
 title: 'Galinskaia, Olga'
 permalink: galinskaia-olga
 layout: default
-published: true
-shortname: GALINSKAYA
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
-founder: 'Andrei Dei'
+originlang: Rus.
+originspell: Ольга Галинская
+appearing: Born
+city: Temirtau
+birth: 1973
+givenname: Olga
+familyname: Galinskaia
+othername: Gala
+venue: Dead lake (Roman Prygunov)
+founder: Founder
+origin: an Russian
+profession: artist of film costume, stylists, image consultant living and working in Moscow
+photo: Graphics by Olga Galinskaia
+photographer: Olga Galinskaia
+source: Facebook
+photographerurl: galinskaia-olga
+sourceurl: https://www.facebook.com/photo.php?fbid=10214218217223013&set=a.2774084184912&type=3
+shortname: GALINSKAIA
+facebook: 1066
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
 (Rus. Ольга Галинская, born 1973, Temirtau) Russian artist of film costume, stylists, image consultant living and working in Moscow.
 
-![](http://n1s2.hsmedia.ru/57/2e/6e/572e6e8090d11b50b244d80bb2e90130/660x441_1_424da837200d57f9906dee18bf9c3714@785x525_0xc0a839a2_825769041477674984.jpeg)
+![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Olga Galinskaia**
 
 *Photo: [Anatolii Medved](medved-anatolii) / [Woman's Day](http://www.wday.ru/moda-shopping/style/kak-vyiglyadet-stilno-zimoy-sem-sovetov-zvezdnogo-stilista/)*
 
-# Bio
+## Bio
 
 Olga began her career as a stylist in the 2001 Condé Nast stylist for GQ, AD, Vogue, Glamour, Gala, as well as Afisha Mir Magazine. Then in 2005 continued to improve the profession as leading stylist on NTV Channel and projects at ShanDesign, and as Chief Stylist on “Home” Channel in Moscow <span id="a1">[\[1\]](#f1)</span>. In 2005, Olga expended into TV working as the in-house stylist for 20 shows including top-ranked shows and talk shows dedicated to fashion with national channels. Her responsibilities included working with fashion related content, styling shows hosts and characters. The highlights of such work are styling of Russian editions of international formats What Not To Wear and Next Top-Model. At the same period Olga worked at creating costumes concepts for advertising shoots and music videos, look books and fashion performances.
 
@@ -46,14 +52,14 @@ Olga began her career as a stylist in the 2001 Condé Nast stylist for GQ, AD, V
 
 The highlights of such work are assignments for Bacardi, Sberbank and Saks Fifth Avenue opening in Kazakhstan. One of the most noteworthy experiences was the creation of Sochi Olympic Games commercial. Olga is one the leading professionals in personal image making and shopping. She is known for her abilities to create impressive looks with mass-market apparel, exquisite analysis of commercial aims behind the assignment and ability to work within tough deadlines and under pressure.
 
-# Projects
+## Projects
 
 |Year|Project|
 |----|-----|
 |2013|Alma-Ata “Saks Fifth Avenue Mall"|
 |2014|"Take it off immediately"|
 
-# Films
+## Films
 
 |Year|Film (Director)|
 |----|-----|
@@ -63,13 +69,13 @@ The highlights of such work are assignments for Bacardi, Sberbank and Saks Fifth
 |2018|Clubare (Ivan Kursky)|
 |2018|Dead lake (Roman Prygunov)|
 
-# See also
+## See also
 
 + [Andrei Abolenkin](abolenkin-andrei)
 + [Bryan Ferry](ferry-bryan)
 + [Roman Prygunov](prygunov-roman)
 + [Vlad Monroe](vlad-monroe)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Как выглядеть стильно зимой: семь советов звездного стилиста (Woman's Day)](http://www.wday.ru/moda-shopping/style/kak-vyiglyadet-stilno-zimoy-sem-sovetov-zvezdnogo-stilista/)
