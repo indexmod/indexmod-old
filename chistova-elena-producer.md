@@ -3,7 +3,7 @@ title: 'Chistova, Elena'
 permalink: chistova-elena-producer
 layout: default
 published: true
-shortname: CHISTOVAE
+shortname: CHISTOVA
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated

@@ -2,27 +2,34 @@
 title: Belorussian Fashion Week
 permalink: belorussian-fashion-week
 layout: default
-published: true
-shortname: BELORUSSIAN
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+originlang: Bel.
+originspell: Беларускі тыдзень моды
+appearing: Updated / Est. / Born
+city: Minsk
+birth: 2010
+givenname: Belorussian Fashion Week
+familyname:
+othername: Беларускі тыдзень моды
+venue: Red Square
+founder: Republican Public Organization
+"The Belarus Chamber Of Fashion"
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Petr Vinnichek
+source: Source
+photographerurl: vinnichek-petr
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: BFW
+facebook: 2424
+instagram: 12800
+youtube: 0
+vimeo: 0
+twitter: 743
+tumblr: 0
+vkontakte: 11458
+soundcloud: 0
+pinterest: 0
 ---
 
 (Bel. Беларуская тыдзень моды, est. 2010, Minsk) international professional event focused on the clothing prêt-a-porter and de luxe, founded in 2010 by Yanina Goncharova a head of Republican Non-Governmental Organization “The Belarusian Chamber of Fashion” and Crystal Nymph Center.

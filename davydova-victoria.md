@@ -19,7 +19,7 @@ twitter: '0'
 tumblr: '0'
 vkontakte: '0'
 origin: a Russian
-profession: journalist, former editor-in-chief of the Russian magazine Vogue, former editor-consultant of the Glamor magazine, previously worked as editor-in-chief of the magazine Tatler
+profession: journalist, editor-in-chief of the Russian magazine Vogue (2017), consultant of the Glamor magazine, previously worked as editor-in-chief of the magazine Tatler
 photo: Viktoria Davydova in 2017
 photographer: Andrei Dei
 source: Indexmod Blockchainpedia
