@@ -14,11 +14,11 @@ venue: OK16 art laboratory
 founder: Republican Public Organization "The Belarus Chamber Of Fashion"
 origin: an International
 profession: professional event focused on the clothing, founded in 2010 by Yanina Goncharova
-photo: Belarus Fashion Week
-photographer: Petr Vinnichek
-source: Bfw.by
-photographerurl: vinnichek-petr
-sourceurl: http://www.bfw.by/ru/pressroom/about/
+photo: “Black and white rose” a fragment of logo of BFW
+photographer: BFW
+source: BFW
+photographerurl: belorussian-fashion-week
+sourceurl: belorussian-fashion-week
 shortname: BFW
 facebook: 2424
 instagram: 12800
@@ -35,9 +35,9 @@ International professional event focused on the clothing prêt-a-porter and de l
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**“Black and white rose” a fragment of logo of BFW**
+**Belorussian Fashion Week**
 
-*Photo: [BFW](bfw) / [BFW](bfw)*
+*Photo: [Petr Vinnichek](vinnichek-petr) / [BFW](http://www.bfw.by/ru/pressroom/about/)*
 
 ## See also
 
