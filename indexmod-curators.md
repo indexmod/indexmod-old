@@ -3,28 +3,6 @@ title: Indexmod curators
 permalink: indexmod-curators
 layout: info
 excluding: true
-shortname: CURATORS
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
-founder: Andrei Dei
-published: true
-exclude: true
 ---
 
 The mission of Indexmod is to uncover the new cultural centers of the world, as well as artists, designers, galleries, museums, institutions, Biennial, Fashion Weeks, memes, art objects in an open wiki with a view to works of art forms from different parts of the world to lead an independent dialogue.

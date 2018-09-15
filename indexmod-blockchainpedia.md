@@ -19,7 +19,7 @@ vimeo: '221'
 twitter: '20'
 tumblr: '0'
 vkontakte: '0'
-origin: a Russian /
+origin: a Russian
 profession: English language wiki-site based on the conception of hybriding wiki, blockchain, ICO and social networking
 photo: Indexmod Encyclopedia's site layout in 2015 based on Google sites engine
 photographer: Andrei Dei

@@ -2,29 +2,33 @@
 title: Levadnaja Details
 permalink: levadnaja-details
 layout: default
-published: true
-shortname: LEVADNAJA
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: LEVADNAJA
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
-
 
 (Est. 2006, Moscow) is a brand, established by clothes, bags, accessories and ceramics designer Svetlana Levadnaja to combine the rich Russian traditions with the modern context <span id="a1">[\[1\]](#f1)</span>.
 
@@ -34,14 +38,14 @@ founder: 'Andrei Dei'
 
 *Photo: [Levadnaja](index) / [Levadnaja Ceramics](http://en.levadnajadetails.com/magazin/product/vase-steppe)*
 
-# {{page.title}} Conspectus
+## Conspectus
 
 |Year|Month|Place|Event|
 |-|-|-|-|
 |2018|March|Moscow D3|Pablic Talk|
 
 
-# Svetlana Levadnaja about the brand
+## Svetlana Levadnaja about the brand
 
 "All our work, all the work of our masters is dedicated to Russian beauty. We want to show how it is harmonious and necessary in the modern context. Our embroidery is a subject of pride of our masters. It is the only one of its kind, patented, and is a huge intellectual technology of traditions of traditions of embroidery (both folk and royal court) with modern geometry and shapes. Our embroidery is a drawing of frost on the glass, it is a painting in embroidery, it is a recognizable vintessence of Russian drawing." <span id="a2">[\[2\]](#f2)</span> — Svetlana Levadnaja says about Levadnaja Details
 
@@ -51,22 +55,12 @@ founder: 'Andrei Dei'
 
 *Photo: [Levadnaja](index) / [Levadnaja Details](index)*
 
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|17673 <span id="a3">[\[3\]](#f3)</span>|27500 <span id="a4">[\[4\]](#f4)</span>|6800 <span id="a5">[\[5\]](#f5)</span>|11|0,119973|
-
-
-# See also
+## See also
 
 + [Levadnaja Ceramics](Levadnaja Ceramics)
 + [D3](D3)
 
-# Footnotes
-
-http://en.levadnajadetails.com/
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Company (Levadnaja Details site)](http://en.levadnajadetails.com/)
 

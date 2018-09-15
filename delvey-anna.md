@@ -2,31 +2,32 @@
 title: 'Delvey, Anna'
 permalink: delvey-anna
 layout: default
-shortname: DELVEY
-indexmod: Indexmod
-birth: '1991'
-age: '27'
-updateyear: '2018'
-city: Russian Federation
-facebook: '0,0'
-instagram: '44700'
-originspell: Шаблон
-appearing: Updated
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: of Anna Delvey Fundation
+shortname: DELVEY
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
 (Rus. Анна Делви, also Анна Сорокина {{ page.birth }}, {{ page.city }}) is a dauter of Russian immigrants from Colone suburbs, founder of the {{ page.founderof }} in NYC <span id="a1">[\[1\]](#f1)</span>, posing as a thoroughbred German woman, described by New York Magazine online supplement The Cut as "wannabe socialite busted for skipping out on pricey hotel bills", who was arrested in Malibu in the summer of 2017 and charged with six charges as thefts and their attempts. Since October 2017, Anna Delvey (Sorokina) awaits trial in Rikers Prison on the eponymous island near New York <span id="a2">[\[2\]](#f2)</span>.
@@ -36,15 +37,6 @@ founder: of Anna Delvey Fundation
 **Anna Delvey**
 
 *Photo: [Sergio Corvacho](corvacho-sergio) / [The Cut](https://www.thecut.com/2018/05/how-anna-delvey-tricked-new-york.html)*
-
-## Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Instagram <span id="a3">[\[3\]](#f3)</span>|{{ page.instagram }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
 
 ## See also
 

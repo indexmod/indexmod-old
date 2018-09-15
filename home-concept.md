@@ -3,32 +3,31 @@ title: Home Concept
 permalink: home-concept
 layout: default
 shortname: HOMECONCEPT
-indexmod: Indexmod
-birth: '2006'
-age: '12'
-updateyear: '2018'
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '1526'
-originspell: Шаблон
-appearing: Updated
 birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Artplay
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
-published: true
+shortname: SHORT NAME
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 founder: 'Timothy Oulton, Vadim Yasnogorodky'
 ---
 
@@ -51,18 +50,6 @@ founder: 'Timothy Oulton, Vadim Yasnogorodky'
 **Tea strainer by HC**
 
 *Photo: [Not specified](index) / [Homeconcept.ru](http://www.homeconcept.ru/catalog/product/tea-strainer-heart-design/?OFFER_ID=120700&IMAGE=145188)*
-
-## Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
 
 ## See also
 
