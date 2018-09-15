@@ -21,7 +21,7 @@ photographerurl: galinskaia-olga
 sourceurl: https://www.facebook.com/photo.php?fbid=10214218217223013&set=a.2774084184912&type=3
 shortname: GALINSKAIA
 facebook: 1066
-instagram: 0
+instagram: 821
 youtube: 0
 vimeo: 0
 twitter: 0
