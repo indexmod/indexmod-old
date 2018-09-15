@@ -10,8 +10,8 @@ birth: 2018
 givenname: Ole Op
 familyname:
 othername: Other name
-venue: Moscow
-founder: Dmitry Chernyae
+venue: 
+founder: Dmitry Chernyaev
 origin: a Russian
 profession: brand of casual wear, also self-named as a “human softwear” and founded by artist Dmitry Chernyaev (Дмитрий Черняев)
 photo: Ole Op's “loop” ID  for shirts
