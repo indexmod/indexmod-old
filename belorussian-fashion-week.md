@@ -4,22 +4,22 @@ permalink: belorussian-fashion-week
 layout: default
 originlang: Bel.
 originspell: Беларускі тыдзень моды
-appearing: Updated / Est. / Born
+appearing: Est.
 city: Minsk
 birth: 2010
 givenname: Belorussian Fashion Week
 familyname:
 othername: Беларускі тыдзень моды
-venue: Red Square
+venue:  OK16 art laboratory
 founder: Republican Public Organization
 "The Belarus Chamber Of Fashion"
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
+origin: an International
+profession: professional event focused on the clothing prêt-a-porter and de luxe, founded in 2010 by Yanina Goncharova a head of Republican Non-Governmental Organization “The Belarusian Chamber of Fashion” and Crystal Nymph Center
+photo: Belarus Fashion Week -- fashion starts here!
 photographer: Petr Vinnichek
-source: Source
+source: Bfw.by
 photographerurl: vinnichek-petr
-sourceurl: index
+sourceurl: http://www.bfw.by/ru/pressroom/about/
 shortname: BFW
 facebook: 2424
 instagram: 12800
@@ -32,9 +32,9 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Bel. Беларуская тыдзень моды, est. 2010, Minsk) international professional event focused on the clothing prêt-a-porter and de luxe, founded in 2010 by Yanina Goncharova a head of Republican Non-Governmental Organization “The Belarusian Chamber of Fashion” and Crystal Nymph Center.
+International professional event focused on the clothing prêt-a-porter and de luxe, founded in 2010 by Yanina Goncharova a head of Republican Non-Governmental Organization “The Belarusian Chamber of Fashion” and Crystal Nymph Center.
 
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **“Black and white rose” a fragment of logo of BFW**
 
