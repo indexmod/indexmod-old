@@ -13,8 +13,8 @@ othername: Беларускі тыдзень моды
 venue: OK16 art laboratory
 founder: Republican Public Organization "The Belarus Chamber Of Fashion"
 origin: an International
-profession: professional event focused on the clothing prêt-a-porter and de luxe, founded in 2010 by Yanina Goncharova
-photo: Belarus Fashion Week. Fashion starts here.
+profession: professional event focused on the clothing, founded in 2010 by Yanina Goncharova
+photo: Belarus Fashion Week
 photographer: Petr Vinnichek
 source: Bfw.by
 photographerurl: vinnichek-petr
