@@ -3,12 +3,12 @@ title: Ole Op
 permalink: ole-op
 layout: default
 originlang: Rus.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originspell: Аллей-уп
+appearing: Est.
 city: Moscow
 birth: 2018
-givenname: Given name
-familyname: Family name
+givenname: Ole Op
+familyname:
 othername: Other name
 venue: Moscow
 founder: Dmitry Chernyae
@@ -20,8 +20,8 @@ source: Facebook
 photographerurl: chernyaev-dmitry
 sourceurl: https://www.facebook.com/oleoplovesyou/photos/p.185922335378923/185922335378923/?type=3&theater
 shortname: OLEOP
-facebook: 0
-instagram: 0
+facebook: 68
+instagram: 194
 youtube: 0
 vimeo: 0
 twitter: 0
