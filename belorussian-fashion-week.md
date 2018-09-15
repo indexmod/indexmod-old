@@ -14,8 +14,8 @@ venue:  OK16 art laboratory
 founder: Republican Public Organization
 "The Belarus Chamber Of Fashion"
 origin: an International
-profession: professional event focused on the clothing prêt-a-porter and de luxe, founded in 2010 by Yanina Goncharova a head of Republican Non-Governmental Organization “The Belarusian Chamber of Fashion” and Crystal Nymph Center
-photo: Belarus Fashion Week -- fashion starts here!
+profession: professional event focused on the clothing prêt-a-porter and de luxe, founded in 2010 by Yanina Goncharova
+photo: Belarus Fashion Week. Fashion starts here.
 photographer: Petr Vinnichek
 source: Bfw.by
 photographerurl: vinnichek-petr

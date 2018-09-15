@@ -2,27 +2,32 @@
 title: Buro 24/7
 permalink: buro-24-7
 layout: default
-published: true
-shortname: BURO247
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: BURO247
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 (Rus. Бюро 24/7, est. 2010, Moscow) is a web-site founded by Russian media persone Miroslava Duma for fashion, culture, lifestyle, entertainment and beauty news. Site also publishing profiles, expert advicees, reportages. In 2016, the brand has expanded to a number of regions including Croatia, Ukraine, Kazakhstan, Azerbaijan, Middle East, Turkey and Australia. Buro 24/7 belongs to Polina Deripaska, publishing house Forward Media Group publishes Hello magazines and "Interior + Design". Several years ago, Oleg Deripaska bought this ID for his wife. They no longer have a joint business, Polina Deripaska is the sole owner of the ID <span id="a1">[\[1\]](#f1)</span>.
 

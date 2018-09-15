@@ -24,11 +24,9 @@ origin: Russian
 profession: English language wiki
 photo: This is sample for image caption
 photographer: Andrei Dei
-source: Indexmod Blockchainpedia
 photographerurl: dei-andrei
 sourceurl: index
-founder: 'Andrei Dei'
-founderof: Anna Delvey Fundation
+founder: of Anna Delvey Fundation
 ---
 
 (Rus. Анна Делви, also Анна Сорокина {{ page.birth }}, {{ page.city }}) is a dauter of Russian immigrants from Colone suburbs, founder of the {{ page.founderof }} in NYC <span id="a1">[\[1\]](#f1)</span>, posing as a thoroughbred German woman, described by New York Magazine online supplement The Cut as "wannabe socialite busted for skipping out on pricey hotel bills", who was arrested in Malibu in the summer of 2017 and charged with six charges as thefts and their attempts. Since October 2017, Anna Delvey (Sorokina) awaits trial in Rikers Prison on the eponymous island near New York <span id="a2">[\[2\]](#f2)</span>.
