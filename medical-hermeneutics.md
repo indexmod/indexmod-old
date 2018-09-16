@@ -6,7 +6,7 @@ originlang: Rus.
 originspell: Медицинская герменевтика
 appearing: Est.
 city: Moscow
-birth: 2018
+birth: 1987
 givenname: Medical Hermeneutics
 familyname:
 othername: Inspection Medical Hermeneutics
