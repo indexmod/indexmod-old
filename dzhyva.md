@@ -36,6 +36,7 @@ pinterest: 0
 |-|-|
 |2017|設立|
 |2018|ショールームのオープニング|
+|2018|Festival "Misto shaslivyh ludei" in the city of Brovary|
 
 
 ## See also

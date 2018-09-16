@@ -2,40 +2,34 @@
 title: 'Michaelson, Victor'
 permalink: michaelson-victor
 layout: default
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Виктор Майклсон
+appearing: Born
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+birth: 1955
+givenname: Victor
+familyname: Michaelson
+othername: Виктор Майклсон
+venue: RSUH
+founder: of “Communicator” and “Slow Food Ulitka”
+origin: a Russian
+profession: professor, teacher at RSUH, founder of “Communicator” and “Slow Food Ulitka”, Doctor of Political Sciences living and working in Moscow
+photo: Victor Michaelson in 2017
+photographer: Luba Kozorezova
+source: HSE Art And Design School
+photographerurl: kozorezova-luba
+sourceurl: http://design.hse.ru/team/4352
 shortname: MICHAELSON
-facebook: 0
-instagram: 0
+facebook: 2328
+instagram: 1786
 youtube: 0
 vimeo: 0
 twitter: 0
 tumblr: 0
 vkontakte: 0
-soundcloud: 0
+soundcloud: 47
 pinterest: 0
 ---
-(Born 1955, Moscow) is a Russian professor, teacher at RSUH, founder of “Communicator” and “Slow Food Ulitka”, Doctor of Political Sciences living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
-
-![](http://design.hse.ru/system/tt_people/photos/000/000/076/large/%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB%D1%81%D0%BE%D0%BD.png)
-
-**Victor Michaelson in 2017**
-
-*Photo: [Luba Kozorezova](kozorezova-luba) / [HSE Art And Design School](http://design.hse.ru/team/4352)*
 
 ## Family
 
