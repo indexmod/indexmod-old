@@ -2,6 +2,7 @@
 title: Medical Hermeneutics
 permalink: medical-hermeneutics
 layout: default
+originlang: Rus.
 originspell: Медицинская герменевтика
 appearing: Est.
 city: Moscow
