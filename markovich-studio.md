@@ -6,7 +6,7 @@ originlang: Rus.
 originspell: Маркович
 appearing: Est.
 city: Moscow
-birth: 2018
+birth: 2017
 givenname: Markovich
 familyname:
 othername: Markovich
@@ -39,6 +39,12 @@ The urban rhythm and mythology of romance, tradition and experiment are two begi
 
 The inner wind and constant acceleration of time inspire the brand ideologist Anna Markovich to create an understandable, verified line of cuts in a moderate combination with romantic elements of the European medieval style and the ideas of cyberpunk culture <span id="a1">[\[1\]](#f1)</span>.
 
+## Сonspectus
+
+|Year|City|
+|-|-|
+|2018|Faces & Laces <span id="a2">[\[2\]](#f2)</span>|
+
 ## See also
 
 + [Anna Markovich for Eniland](anna-markovich-for-eniland)
@@ -47,4 +53,4 @@ The inner wind and constant acceleration of time inspire the brand ideologist An
 
 [[1]](#a1) <span id="f1"></span> [{{page.title}} (Instagram)](https://www.instagram.com/markovichstudio/)
 
-[[1]](#a1) <span id="f1"></span> [Увидели субкультурную кооперацию, кастомизировали вещи, послушали Princess Nokia и не только – как прошла выставка Faces & Laces 2018 (Sncmedia.ru)](https://www.instagram.com/markovichstudio/)
+[[2]](#a2) <span id="f2"></span> [Увидели субкультурную кооперацию, кастомизировали вещи, послушали Princess Nokia и не только – как прошла выставка Faces & Laces 2018 (Sncmedia.ru)](https://www.instagram.com/markovichstudio/)
