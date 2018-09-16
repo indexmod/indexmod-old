@@ -2,24 +2,25 @@
 title: Markovich studio
 permalink: markovich-studio
 layout: default
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Маркович
+appearing: Est.
 city: Moscow
 birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+givenname: Markovich
+familyname:
+othername: Markovich
+venue: BP "Kozhevniki", "Аuditoriya" show room
+founder: Anna Markovich
+origin: a Russian
+profession: brand of women's clothing with urban rhythm and mythology of romance, the Grand Prix of the contest "Fashionable Start Up" 2015
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
 shortname: MARKOVICH
-facebook: 0
+facebook: 187
 instagram: 0
 youtube: 0
 vimeo: 0
@@ -30,8 +31,13 @@ soundcloud: 0
 pinterest: 0
 ---
 
-Footnote <span id="a1">[\[1\]](#f1)</span>.
+## Philosophy
 
+The philosophy is based on the idea of ​​finding a dynamic equilibrium point between the primordial spirituality of human nature and the person of tomorrow.
+
+The urban rhythm and mythology of romance, tradition and experiment are two beginnings on the scales of a systematic but sincere search for one's own line.
+
+The inner wind and constant acceleration of time inspire the brand ideologist Anna Markovich to create an understandable, verified line of cuts in a moderate combination with romantic elements of the European medieval style and the ideas of cyberpunk culture <span id="a1">[\[1\]](#f1)</span>.
 
 ## See also
 
