@@ -10,10 +10,10 @@ birth: 2017
 givenname: Markovich
 familyname:
 othername: Markovich
-venue: BP "Kozhevniki", "Аuditoriya" show room
+venue: BP “Kozhevniki”, “Аuditoriya” show room
 founder: Anna Markovich
 origin: a Russian
-profession: brand of women's clothing with urban rhythm and mythology of romance, the Grand Prix of the contest "Fashionable Start Up" 2015
+profession: brand of women's clothing with urban rhythm and mythology of romance, the Grand Prix of the contest “ “Fashionable Start Up” 2015
 photo: This is sample for image caption
 photographer: Markovich studio
 source: Instagram
