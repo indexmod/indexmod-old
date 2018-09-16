@@ -5,7 +5,7 @@ layout: default
 originlang: Rus.
 originspell: Маркович
 appearing: Est.
-city: Moscow
+city: Saint-Petersbourg
 birth: 2017
 givenname: Markovich
 familyname:
@@ -13,8 +13,8 @@ othername: Markovich
 venue: BP “Kozhevniki”, “Аuditoriya” show room
 founder: Anna Markovich
 origin: a Russian
-profession: brand of women's clothing with urban rhythm and mythology of romance, the Grand Prix of the contest “ “Fashionable Start Up” 2015
-photo: This is sample for image caption
+profession: brand of women's clothing with urban rhythm and mythology of romance, the Grand Prix of the contest “Fashionable Start Up” 2015
+photo: Item from Lookbook Markovich Studio. Spring / Summer 2018
 photographer: Markovich studio
 source: Instagram
 photographerurl: index
