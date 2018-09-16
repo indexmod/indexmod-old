@@ -9,7 +9,7 @@ city: Saint-Petersbourg
 birth: 2015
 givenname: Markovich
 familyname:
-othername: Markovich
+othername: Студия Маркович
 venue: BP “Kozhevniki”, “Аuditoriya” show room
 founder: Anna Markovich
 origin: a Russian
