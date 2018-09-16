@@ -2,23 +2,23 @@
 title: Medical Hermeneutics
 permalink: medical-hermeneutics
 layout: default
-originspell: Original spell
-appearing: Updated / Est. / Born
+originspell: Медицинская герменевтика
+appearing: Est.
 city: Moscow
 birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+givenname: Medical Hermeneutics
+familyname:
+othername: Inspection Medical Hermeneutics
+venue: Furmanovsky Pereulok
+founder:  Pavel Pepperstein, Sergei Anufriev, and Yuri Leiderman
+origin: a Russian
+profession: pioneering collective of artists formed in 1987 in a squat in Furmanovsky Pereulok in Moscow
+photo: The Pipe or the Alley of Longevity (1995)
+photographer: Pavel Pepperstein
+source: Regina Gallery
 photographerurl: index
 sourceurl: index
-shortname: MHERMENEUTICS
+shortname: HERMENEUTICS
 facebook: 0
 instagram: 0
 youtube: 0
@@ -30,46 +30,14 @@ soundcloud: 0
 pinterest: 0
 ---
 
-# {{page.title}}
+Pioneering collective of artists formed in 1987 in a squat in Furmanovsky Pereulok in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2013, city) is a Medical Hermeneutics, MH (Rus. Медицинская герменевтика)—a pioneering collective of artists formed in 1987 in a squat in Furman Lane in Moscow.1 <span id="a1">[\[1\]](#f1)</span>.
+## See also
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
-
-**Image title**
-“The Pipe or the Alley of Longevity”, 1995
-Photo: Pavel Pepperstein / Regina Gallery
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
-
-
-# See also
-
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-+ Pavel Pepperstein
-+ Regina Gallery
++ [Pavel Pepperstein](index)
++ [Regina Gallery](index)
 + [Vladimir Fyodorov](fyodorov-vladimir)
 
-# Footnotes
+## Footnotes
 
-1 Inspection Medical Hermeneutics (Wikipedia)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
+[[1]](#a1) <span id="f1"></span> [Inspection Medical Hermeneutics (Wikipedia)](https://en.wikipedia.org/wiki/Inspection_Medical_Hermeneutics)
