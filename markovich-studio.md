@@ -43,6 +43,7 @@ The inner wind and constant acceleration of time inspire the brand ideologist An
 
 |Year|City|
 |-|-|
+|2015|Grand Prix of the contest “Fashionable Start Up”, Saint-Petersbourg|
 |2017|Show room, Saint-Petersbourg <span id="a2">[\[2\]](#f2)</span>|
 |2018|Faces & Laces <span id="a3">[\[3\]](#f3)</span>|
 
