@@ -43,7 +43,8 @@ The inner wind and constant acceleration of time inspire the brand ideologist An
 
 |Year|City|
 |-|-|
-|2018|Faces & Laces <span id="a2">[\[2\]](#f2)</span>|
+|2017|Show room, Saint-Petersbourg <span id="a2">[\[2\]](#f2)</span>|
+|2018|Faces & Laces <span id="a3">[\[3\]](#f3)</span>|
 
 ## See also
 
@@ -53,4 +54,6 @@ The inner wind and constant acceleration of time inspire the brand ideologist An
 
 [[1]](#a1) <span id="f1"></span> [{{page.title}} (Instagram)](https://www.instagram.com/markovichstudio/)
 
-[[2]](#a2) <span id="f2"></span> [Увидели субкультурную кооперацию, кастомизировали вещи, послушали Princess Nokia и не только – как прошла выставка Faces & Laces 2018 (Sncmedia.ru)](https://www.instagram.com/markovichstudio/)
+[[2]](#a2) <span id="f2"></span> [{{page.title}} (Lmbd.ru)](https://lmbd.ru/markovichstudio/)
+
+[[3]](#a3) <span id="f3"></span> [Увидели субкультурную кооперацию, кастомизировали вещи, послушали Princess Nokia и не только – как прошла выставка Faces & Laces 2018 (Sncmedia.ru)](https://www.instagram.com/markovichstudio/)
