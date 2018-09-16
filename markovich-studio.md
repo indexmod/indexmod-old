@@ -15,18 +15,18 @@ founder: Anna Markovich
 origin: a Russian
 profession: brand of women's clothing with urban rhythm and mythology of romance, the Grand Prix of the contest "Fashionable Start Up" 2015
 photo: This is sample for image caption
-photographer: Photographer
-source: Source
+photographer: Markovich studio
+source: Instagram
 photographerurl: index
 sourceurl: index
 shortname: MARKOVICH
 facebook: 187
-instagram: 0
+instagram: 9664
 youtube: 0
 vimeo: 0
 twitter: 0
 tumblr: 0
-vkontakte: 0
+vkontakte: 152
 soundcloud: 0
 pinterest: 0
 ---
@@ -41,9 +41,8 @@ The inner wind and constant acceleration of time inspire the brand ideologist An
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Anna Markovich for Eniland](anna-markovich-for-eniland)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](index)
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (Instagram)](https://www.instagram.com/markovichstudio/)
