@@ -46,3 +46,5 @@ The inner wind and constant acceleration of time inspire the brand ideologist An
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [{{page.title}} (Instagram)](https://www.instagram.com/markovichstudio/)
+
+[[1]](#a1) <span id="f1"></span> [Увидели субкультурную кооперацию, кастомизировали вещи, послушали Princess Nokia и не только – как прошла выставка Faces & Laces 2018 (Sncmedia.ru)](https://www.instagram.com/markovichstudio/)
