@@ -10,9 +10,9 @@ birth: 1973
 givenname: Olga
 familyname: Galinskaia
 othername: Gala
-venue: Dead lake (Roman Prygunov)
-founder: Founder
-origin: an Russian
+venue: Dead lake (film by Roman Prygunov)
+founder:
+origin: n Russian
 profession: artist of film costume, stylists, image consultant living and working in Moscow
 photo: Graphics by Olga Galinskaia
 photographer: Olga Galinskaia
