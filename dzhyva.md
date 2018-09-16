@@ -2,29 +2,32 @@
 title: Dzhyva (リネン)
 permalink: dzhyva
 layout: default
-shortname: DZHIVA
-birth: '2017'
-city: Kiev
-facebook: '285'
-instagram: '262'
-youtube: null
-vimeo: null
-twitter: null
-tumblr: null
-givenname: Dzhyva
 originlang: Ukr.
 originspell: Джи́ва
-appearing: est.
-vkontakte: null
+appearing: Est.
+birth: '2017'
+city: Kiev
+othername: Джива
+venue: Festival "Misto shaslivyh ludei" in the city of Brovary
+givenname: Dzhyva
 origin: an Ukrainian
-profession: brand of natural linen from flax and hemp with selection of old signs and patterns as a charm or amulet.
+profession: brand of natural linen from flax and hemp with selection of old signs and patterns as a charm or amulet
 photo: Olga Govorova Ukrayinske Village 近くの下着のサンプルを紹介しています
 photographer: Andrei Dei
 source: Indexmod Blockchainpedia
 photographerurl: dei-andrei
 sourceurl: index
 founder: Olga Govorova
-published: true
+shortname: DZHIVA
+facebook: '324'
+instagram: '275'
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
 ## Conspectus
