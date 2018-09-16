@@ -37,7 +37,7 @@ Pioneering collective of artists formed in 1987 in a squat in Furmanovsky Pereul
 
 + [Pavel Pepperstein](index)
 + [Regina Gallery](index)
-+ [Vladimir Fyodorov](fyodorov-vladimir)
++ [Vladimir Fyodorov](fedorov-vladimir)
 
 ## Footnotes
 
