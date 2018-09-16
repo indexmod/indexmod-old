@@ -19,7 +19,7 @@ twitter: '0'
 tumblr: '0'
 vkontakte: '0'
 origin: an Ukrainian and Russian
-profession: artist, co-founder of the art group “Inspection of Medical Hermeneutics”, Precious fetish of "Medical Hermeneutics"
+profession: artist, co-founder of the art group “Inspection of Medical Hermeneutics”, Precious fetish of “Medical Hermeneutics”
 photo: Vladimir Fedorov in 1984
 photographer: Mr. Iammister
 source: Wikipedia
