@@ -49,7 +49,7 @@ Is a Russian sports journalist, who also runs an youtube channel "Vdud" with fam
 
 |Year|Event|
 |-|-|
-|2018|Ceasing to be the editor-in-chief<span id="a2">[\[2\]](#f2)</span>|
+|2018|Ceasing to be the editor-in-chief <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
