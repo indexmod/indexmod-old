@@ -37,7 +37,7 @@ The philosophy is based on the idea of ​​finding a dynamic equilibrium point
 
 The urban rhythm and mythology of romance, tradition and experiment are two beginnings on the scales of a systematic but sincere search for one's own line.
 
-The inner wind and constant acceleration of time inspire the brand ideologist Anna Markovich to create an understandable, verified line of cuts in a moderate combination with romantic elements of the European medieval style and the ideas of cyberpunk culture <span id="a1">[\[1\]](#f1)</span>.
+The inner wind and constant acceleration of time inspire the brand ideologist Anna Markovich to create an understandable, verified line of cuts in a moderate combination with romantic elements of the European medieval style and the ideas of cyberpunk culture <span id="a2">[\[2\]](#f2)</span>.
 
 ## Сonspectus
 
