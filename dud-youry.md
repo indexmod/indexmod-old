@@ -33,9 +33,10 @@ pinterest: 0
 
 ## Сonspectus
 
-|Year|City|
+|Year|Event|
 |-|-|
-|2018|Dud has ceased to be the editor-in-chief of Sports.ru <span id="a2">[\[2\]](#f2)</span>|
+|2018|Ceasing to be the editor-in-chief <span class="foot" id="a2">[\[2\]](#f2)</span>|
+
 
 Is a Russian sports journalist, who also runs an youtube channel "Vdud" with famous figures interviews <span id="a3">[\[3, 4, 5\]](#f3)</span>.
 
@@ -44,12 +45,6 @@ Is a Russian sports journalist, who also runs an youtube channel "Vdud" with fam
 **Yury Dud the author of the "Vdud"**
 
 *Photo: [Sergei Bobylev](indexmod) / [RBC, TASS](https://www.rbc.ru/rbcfreenews/5a02bdbf9a79479d04ef7a63)*
-
-## Сonspectus
-
-|Year|Event|
-|-|-|
-|2018|Ceasing to be the editor-in-chief <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
