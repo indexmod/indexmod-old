@@ -54,9 +54,7 @@ pinterest: 0
 
 
 + [Brewhouse (Mytishchi)](brewhouse-mytishchi)
-
 + [Cirque du Soleil](cirque-du-soleil)
-
 + [Slow Food](slow-food)
 
 ## Footnotes
