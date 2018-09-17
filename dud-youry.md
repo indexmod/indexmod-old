@@ -15,7 +15,7 @@ founder: Founder
 origin: a Russian
 profession: sports journalist, who also runs an youtube channel "Vdud"
 photo: Screen from Vedomosti.ru at 17 September 12:25
-photographer: Photographer
+photographer: Andrei Dei / Indexmod
 source: Vedomosti.ru
 photographerurl: index
 sourceurl: https://www.vedomosti.ru/technology/news/2018/09/17/781029-dud
