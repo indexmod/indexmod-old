@@ -13,7 +13,7 @@ othername: Журнал «Баку»; LLC "Media Land"
 venue: Moscow, Maly Golovin Lane
 founder: Founder and publisher LLC "Media Land", Leila Aliyeva
 origin: a Russian
-profession: The journal about Azerbaijan published in Moscow since 2009 by Leila Aliyeva
+profession: magazine about Azerbaijan published in Moscow since 2008 by Leila Aliyeva, magazine for all Baku citizens and their friends who live in different parts of the world today
 photo: President of Azerbaijan Ilham Aliyev and First Lady Mehriban Aliyeva in the first issue January 2008
 photographer: Stephan Shakher
 source: Avocado Productions
@@ -31,7 +31,7 @@ soundcloud: 0
 pinterest: 0
 ---
 
-A magazine for all Baku citizens and their friends who live in different parts of the world today <span id="a2">[\[2\]](#f2)</span>.
+A magazine for all Baku citizens and their friends who live in different parts of the world today <span id="a2">[\[2\]](#f2)</span>. Spread mainly through supermarket chains in Moscow.
 
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
