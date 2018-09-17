@@ -36,8 +36,7 @@ A magazine for all Baku citizens and their friends who live in different parts o
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Director of PR-service Rovshan Askerov in London.
-Winter 2012**
+**Director of PR Rovshan Askerov in London in 2012**
 
 *Photo: [Enver Askerov](index) / [Facebook](index)*
 
