@@ -34,8 +34,9 @@ pinterest: 0
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
-*Photo: [Not specified](index) / [Source](index)*
+**PD authors: Katya Dementieva, Philip Mironov, Alisa Poe, Pasha Vardishvili**
+
+*Photo: [Not specified](index) / [PD](index)*
 
 ## PD guides
 
