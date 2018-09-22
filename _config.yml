@@ -14,6 +14,8 @@ theme: jekyll-theme-minimal
 
 include: ['.htaccess']
 
+exclude: ['indexmod-curators.html']
+
 use_github_wiki: false
 use_prose_io: true
 custom_head: false
@@ -35,6 +37,8 @@ prose:
     - 404.md
     - universe.md
     - universe.html
+    - indexmod-curators.md
+    - indexmod-curators.html
     - README.md
     - feed.xml
     - sitemap.xml
