@@ -37,17 +37,18 @@ pinterest: 0
 **Image caption**
 *Photo: [Not specified](index) / [Source](index)*
 
-## Сonspectus
+## PD guides
 
 |Year|City|
 |-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2018|Istambul|
+|2018|SPB for Tinkoff|
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Moskvich Mag](index)
++ [Moskvich](index)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [6 самых модных гостей вечеринки ПсихоDaily (Lofficielrussia.ru)](https://www.lofficielrussia.ru/events/6-samyh-modnyh-gostey-vecherinki-psycho-daily#image-49957)
