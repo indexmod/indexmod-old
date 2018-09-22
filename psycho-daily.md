@@ -13,10 +13,7 @@ othername: Психо Daily
 venue: Jack's Friends'
 founder: Katya Dementieva, Panya Kirillina, Philip Mironov, Alisa Poe, Pasha Vardishvili
 origin: a Russian
-profession: curatorial agency
-of events with own media without a site and prints,
-which tells about the manifestations of urban
-culture
+profession: curatorial agency of events with own media without a site and prints, which tells about the manifestations of urban culture
 photo: Pop-up avatar of September 2018
 photographer: Artem Stefanov
 source: Telegram
@@ -54,15 +51,3 @@ pinterest: 0
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
-
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Source name)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
