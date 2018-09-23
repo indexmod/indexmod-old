@@ -52,5 +52,3 @@ pinterest: 0
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Основатель и главный редактор журнала «Птюч» Игорь Шулинский и журналист Геннадий Устиян запускают новое городское издание «Москвич» (Theblueprint.ru)](https://theblueprint.ru/career/7730)
-
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Source name)](index)
