@@ -47,8 +47,8 @@ pinterest: 0
 
 ## See also
 
-+ [Moskvich Mag](index)
-+ [Moskvich](index)
++ [Moskvich Mag](moskvich-mag)
++ [Afisha](afisha-magazine)
 
 ## Footnotes
 
