@@ -2,6 +2,7 @@
 title: Buro 24/7
 permalink: buro-24-7
 layout: default
+originlang: Rus.
 originspell: Бюро 24/7
 appearing: Est.
 city: Moscow
