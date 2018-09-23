@@ -14,7 +14,7 @@ venue: Metro Manquehue
 founder:
 origin: a National
 profession: fashion event in Chile
-photo: SFW Versace afterparty
+photo: Santiago Fashion Week Versace after party
 photographer: SFW
 source: Instagram
 photographerurl: index
