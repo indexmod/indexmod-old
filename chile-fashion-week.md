@@ -14,9 +14,9 @@ venue: Red Square
 founder: Founder
 origin: a National
 profession: fashion event in Chile
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+photo: Logo of CFW
+photographer: CFW
+source: CFW
 photographerurl: index
 sourceurl: index
 shortname: CFW
