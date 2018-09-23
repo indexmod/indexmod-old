@@ -36,6 +36,7 @@ pinterest: 0
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Image caption**
+
 *Photo: [Not specified](index) / [Source](index)*
 
 ## Сonspectus
