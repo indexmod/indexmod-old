@@ -13,7 +13,7 @@ othername: Buro247.ru
 venue: Trekhgornaya manufactura
 founder: Fira Chilieva
 origin: a Russian
-profession: web-site founded by Russian media persone Miroslava Duma for fashion, culture, lifestyle, entertainment and beauty news
+profession: web-site founded for fashion, culture, lifestyle, entertainment and beauty news
 photo: Fira Chilieva the founder of Buro 24/7
 photographer: Audi Press
 source: GQ
