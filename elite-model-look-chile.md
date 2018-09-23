@@ -6,7 +6,7 @@ exclude: true
 originlang: Esp.
 originspell: Modelo Elite Look Chile
 appearing: Est.
-city: Moscow
+city: Santiago
 birth: 1997
 givenname: Elite Model Look Chile
 familyname:
@@ -17,7 +17,7 @@ origin: an International and Local
 profession: yearly fashion modeling event held by Elite Model Chile Management
 photo: Ian Harting
 photographer: EML Chile
-source: Elitechile.cl 
+source: Elitechile.cl
 photographerurl: http://www.elitechile.cl
 sourceurl: index
 shortname: EMLC
