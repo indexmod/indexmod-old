@@ -7,25 +7,25 @@ originlang: Esp.
 originspell: Modelo Elite Look Chile
 appearing: Est.
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
+birth: 1997
+givenname: Elite Model Look Chile
+familyname:
+othername: EML Chile
+venue: Las Condes
+founder: Elite Model Chile Management
+origin: an International and Local
+profession: yearly fashion modeling event held by Elite Model Chile Management
+photo: Ian Harting
+photographer: EML Chile
+source: Elitechile.cl http://www.elitechile.cl/talent/ian-harting?portfolio=Mainboard%20Men&
+photographerurl: http://www.elitechile.cl/talent/ian-harting?portfolio=Mainboard%20Men&
 sourceurl: index
-shortname: SHORT NAME
+shortname: EMLC
 facebook: 0
-instagram: 0
+instagram: 74300
 youtube: 0
 vimeo: 0
-twitter: 0
+twitter: 4073
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
