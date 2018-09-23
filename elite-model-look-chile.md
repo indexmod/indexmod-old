@@ -17,8 +17,8 @@ origin: an International and Local
 profession: yearly fashion modeling event held by Elite Model Chile Management
 photo: Ian Harting
 photographer: EML Chile
-source: Elitechile.cl http://www.elitechile.cl/talent/ian-harting?portfolio=Mainboard%20Men&
-photographerurl: http://www.elitechile.cl/talent/ian-harting?portfolio=Mainboard%20Men&
+source: Elitechile.cl 
+photographerurl: http://www.elitechile.cl
 sourceurl: index
 shortname: EMLC
 facebook: 0
