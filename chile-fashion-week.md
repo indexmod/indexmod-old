@@ -2,32 +2,38 @@
 title: Chile Fashion Week
 permalink: chile-fashion-week
 layout: default
-published: true
-shortname: CHILE
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+originlang: Esp.
+originspell: Semana de la Moda de Chile
+appearing: Est.
+city: Santiago
+birth: 2009
+givenname: Chile Fashion Week
+familyname:
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a National
+profession: fashion event in Chile
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: CFW
+facebook: 3533
+instagram: 0
+youtube: 2
+vimeo: 0
+twitter: 728
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
-(Est. 2009, Santiago) is a fashion event in Chile <span id="a1">[\[1\]](#f1)</span>.
 
-![](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/1936082_154427166075_7061279_n.jpg?oh=283b82b231690e2bfae48980c25dc677&oe=5B4458D5)
+Chile Fashion Week is the fashion event is part of the international fashion circuit and for 3 days brings together the main players in this industry congregating prestigious brands, renowned designers and outstanding models.
+
+![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **CFW 2009**
 
@@ -35,7 +41,10 @@ founder: 'Andrei Dei'
 
 ## See also
 
-+ [See also title one](page-template)
++ [Elite Model Look Chile](elite-model-look-chile)
++ [Mercedes Fashion Week Chile](mercedes-fashion-week-chile)
++ [Santiago Fashion Week](santiago-fashion-week)
+
 
 
 ## Footnotes
