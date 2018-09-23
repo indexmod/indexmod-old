@@ -6,10 +6,10 @@ originlang: Esp.
 originspell: Semana de la Moda de Chile
 appearing: Est.
 city: Santiago
-birth: 2009
+birth: 2008
 givenname: Chile Fashion Week
 familyname:
-othername: Other name
+othername: Semana de la Moda de Chile
 venue: Red Square
 founder: Founder
 origin: a National
@@ -35,7 +35,7 @@ Chile Fashion Week is the fashion event is part of the international fashion cir
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**CFW 2009**
+**2009, Greenpeace - Levi´s at CFW**
 
 *Photo: [CFW 2009](index) / [CFW 2009](index)*
 
