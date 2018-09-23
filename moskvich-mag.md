@@ -38,7 +38,7 @@ pinterest: 0
 
 *Photo: [Not specified](index) / [Facebook](https://www.facebook.com/moskvichmag/)*
 
-## Сonspectus Editor-in-Shief
+## Editor-in-Shief
 
 |Year|Name|
 |-|-|
