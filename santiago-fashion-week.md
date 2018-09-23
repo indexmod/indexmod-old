@@ -8,15 +8,15 @@ appearing: Est.
 city: Santiago
 birth: 2018
 givenname: Santiago Fashion Week
-familyname: Family name
+familyname:
 othername: Semana de la Moda de Santiago
 venue: Metro Manquehue
 founder:
 origin: a National
 profession: fashion event in Chile
-photo: Avon Junto a Irina Shayk en Santiago Fashion Week
-photographer: Alkance Comunicaciones
-source: Yofui.com
+photo: SFW Versace afterparty
+photographer: SFW
+source: Instagram
 photographerurl: index
 sourceurl: index
 shortname: SFW
@@ -30,13 +30,6 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
-
-
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**SFW Versace afterparty**
-
-*Photo: [SFW](index) / [SFW](index)*
 
 ## See also
 
