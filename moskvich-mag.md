@@ -8,9 +8,9 @@ appearing: Est.
 city: Moscow
 birth: 2018
 givenname: Moskvich
-familyname: Family name
-othername: Other name
-venue: Red Square
+familyname:
+othername: Москвич
+venue: Web
 founder: Igor Shulinski
 origin: a Russian
 profession: online magazine about life in Moscow, founded in 2018
@@ -19,7 +19,7 @@ photographer: Viktor Nehezin
 source: BBC
 photographerurl: https://www.bbc.com/russian/multimedia/2015/04/150429_v_shulinsky_ptuch
 sourceurl: https://www.bbc.com/russian/multimedia/2015/04/150429_v_shulinsky_ptuch
-shortname: SHORT NAME
+shortname: MOSKVICHMAG
 facebook: 3222
 instagram: 786
 youtube: 16
@@ -34,7 +34,7 @@ pinterest: 0
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Social networking cover graphics for Moskvich Mag in 2018**
+**Social cover graphics for Moskvich Mag in 2018**
 
 *Photo: [Not specified](index) / [Facebook](https://www.facebook.com/moskvichmag/)*
 
