@@ -3,6 +3,7 @@ title: Home Concept
 permalink: home-concept
 layout: default
 shortname: HOMECONCEPT
+originlang: Rus.
 originspell: Хоум Концепт
 appearing: Est.
 city: Moscow
