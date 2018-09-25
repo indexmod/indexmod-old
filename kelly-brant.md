@@ -2,39 +2,37 @@
 title: 'Келли-Брант, Мегин Мари'
 permalink: kelly-brunt-megyn-marie
 layout: default
-shortname: KELLYBRUNT
-published: true
-shortname: KBMM
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+originlang: Eng.
+originspell: Megyn Marie Kelly-Brunt
+appearing: Born
+city: Шампейн
+birth: 1970
+givenname: Мегин Мари
+familyname: Келли-Брант
+othername: Megyn Marie Kelly-Brunt
+venue: Red Square
+founder: Founder
+origin: an American
+profession: an American journalist and television presenter became known in Russia after several interviews with Donald Trump and Vladimir Putin, also known in the US for the support of anti-LGBT groups
+photo: Мегин Келли
+photographer: Getty
+source: TooFab
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: KELLYBRUNT
+facebook: 1018263
+instagram: 28200
+youtube: 0
+vimeo: 0
+twitter: 2390000
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+Американская журналистка и телеведущая стала изветстна в России после нескольких интервью с Дональдом Трампом и Владимиром Путиным, также известна в США поддержкой анти-ЛГБТ групп.
 
-(Eng. Megyn Marie Kelly-Brunt; укр. Мегін Келлі, род. 1970, Шампейн) американская журналистка и телеведущая стала изветстна в России после нескольких интервью с Дональдом Трампом и Владимиром Путиным, также известна в США поддержкой анти-ЛГБТ групп <span id="a1">[\[1\]](#f1)</span>.
-
-![](https://media.toofab.com/2017/12/09/megyn-kelly-810x610.jpg)
-
-**Мегин Келли**
-
-*Photo: [Getty](getty) / [TooFab](toobab)*
-
-# Избранные интервью Мегин Келли
+# Избранные интервью
 
 |Год|Герой|Город|
 |-|-|-|
