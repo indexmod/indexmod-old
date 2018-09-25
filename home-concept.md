@@ -18,13 +18,13 @@ photographer: Ilike Loft
 source: Ilikeloft.ru
 photographerurl: http://ilikeloft.ru
 sourceurl: http://ilikeloft.ru
-facebook: 0
-instagram: 0
+facebook: 1535
+instagram: 1462
 youtube: 0
 vimeo: 0
-twitter: 0
+twitter: 48
 tumblr: 0
-vkontakte: 0
+vkontakte: 1234
 soundcloud: 0
 pinterest: 0
 founder: Timothy Oulton, Vadim Yasnogorodky
