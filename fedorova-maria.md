@@ -5,18 +5,19 @@ layout: default
 shortname: FEDOROVA
 givenname: Maria
 familyname: Fedorova
-birth: '1972'
+birth: 1972
+originlang: Rus.
 originspell: Мария Федорова
-appearing: Born
-venue: Vogue Russia
+othername: Машильда
+venue: Vogue
 city: Moscow
-facebook: '0'
-instagram: '0'
-youtube: '0'
-vimeo: '0'
-twitter: '0'
-tumblr: '0'
-vkontakte: '0'
+facebook: 1638
+instagram: 138000
+youtube:
+vimeo:
+twitter:
+tumblr:
+vkontakte:
 origin: a Russian
 profession: stylist, Editor-in-Chief of Vogue, living and working in Moscow
 photo: Maria Fedorova
@@ -24,11 +25,9 @@ photographer: Unknown
 source: Indexmod Blockchainpedia
 photographerurl: index
 sourceurl: index
-founder:
 ---
-Maria is a Russian stylist, Editor-in-Chief of Vogue,  <span id="a2">[\[2\]](#f2)</span>. Living and working in Moscow.
 
-## {{page.title}} conspectus
+## Conspectus
 
 |Year|Edition|
 |-|-|
@@ -40,7 +39,6 @@ Maria is a Russian stylist, Editor-in-Chief of Vogue,  <span id="a2">[\[2\]](#f2
 
 + [Veronika Fedorova](fedorova-veronika)
 + [Victoria Davydova](davydova-victoria)
-
 
 ## Footnotes
 
