@@ -5,13 +5,13 @@ layout: default
 originlang: Eng.
 originspell: Megyn Marie Kelly-Brunt
 appearing: Born
-city: Шампейн
+city: Champaign, Illinois
 birth: 1970
 givenname: Мегин Мари
 familyname: Келли-Брант
 othername: Megyn Marie Kelly-Brunt
-venue: Red Square
-founder: Founder
+venue: NBC News
+founder: 
 origin: an American
 profession: journalist and television presenter became known in Russia after several interviews with Donald Trump and Vladimir Putin, also known in the US for the support of anti-LGBT groups
 photo: Мегин Келли
