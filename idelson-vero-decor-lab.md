@@ -2,41 +2,34 @@
 title: Idelson Vero Decor Lab
 permalink: idelson-vero-decor-lab
 layout: default
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Идельсон Веро Декор Лаб
+appearing: Est.
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: studio founded by offering decor of the interior and events, costumes, window dressing, houses and festive event, costumes for carnivals
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+birth: 2017
+givenname: Idelson Vero Decor Lab
+familyname:
+othername: Идельсон Веро Декор Лаб
+venue: Artplay
+founder: Veronika Idelson
+origin: a Russian
+profession: studio founded by Veronika Idelson offering decor of the interior and events, costumes, window dressing, houses and festive event, costumes for carnivals
+photo: Veronika Idelson a founder of Idelson Vero Decor Lab
+photographer: Not specified
+source: Facebook
 photographerurl: index
 sourceurl: index
 shortname: IDELSON
-facebook: 0
-instagram: 0
+facebook: 88
+instagram: 686
 youtube: 0
 vimeo: 0
 twitter: 0
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
-pinterest: 0
+pinterest: 264
 ---
-
-studio founded by offering decor of the interior and events, costumes, window dressing, houses and festive event, costumes for carnivals.
-
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Veronika Idelson a founder of Idelson Vero Decor Lab**
-
-*Photo: [Not specified](index) / [Facebook](index)*
 
 ## See also
 
