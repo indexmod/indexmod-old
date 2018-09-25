@@ -2,25 +2,26 @@
 title: 'Farmani, Hossein'
 permalink: farmani-hossein
 layout: default
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
+originlang: Pers.
+originspell: حسین فرمان
+appearing: Born
+city: Tehran
+birth: 1969
+givenname: Hossein
 familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+othername: Farmani
+venue: Rooftop Gallery BKK
+founder: of Lucie Awards
+origin: an Iranian
+profession: photographer and collector, founder of the Farmani Group, based in London and Bangkok
+photo: Hossein Farmani
+photographer: Cattleya Jaruthavee
+source: Школа Визуальных Искусств
+photographerurl: jaruthavee-cattleya
+sourceurl: http://schoolva.ru/2015/hossein-farmani/
 shortname: FARMANI
-facebook: 0
-instagram: 0
+facebook: 709
+instagram: 2725
 youtube: 0
 vimeo: 0
 twitter: 0
@@ -30,18 +31,12 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Eng. Hossein Farmani, Pers. حسین فرمانی, род. 1969, Tehran)  иранский фотограф и коллекционер, основатель Группы Фармани [(Farmani Group)](farmani-group), базирующуюся в Лондоне и Бангкоке, основатель премии Lucie Awards, работал с Хельмутом Ньютоном, Ричардом Аведоном, Стивом Маккарри <span id="a1">[\[1\]](#f1)</span>.
+Иранский фотограф и коллекционер, основатель Группы Фармани [(Farmani Group)](farmani-group), базирующуюся в Лондоне и Бангкоке, основатель премии Lucie Awards, работал с Хельмутом Ньютоном, Ричардом Аведоном, Стивом Маккарри.
 
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Хоссейн Фармани**
-
-*Фото: [Cattleya Jaruthavee](jaruthavee-cattleya) / [Школа Визуальных Искусств](http://schoolva.ru/2015/hossein-farmani/)*
-
-## Проекты
+## Projects
 
 |Year|City|
-|----|-----|
+|-|-|
 ||International VUE|
 ||FotoFolio|
 ||The Library of Congress|
@@ -58,13 +53,13 @@ pinterest: 0
 ||Miami Snap|
 |2014|Rooftop Gallery BKK|
 
-## См. также
+## See also
 
 + [Rooftop Gallery](rooftop-gallery)
 + [Винсент Сунг](sung-vinsent)
 + [Urban-a-Liana (2015)](urban-a-liana-2015)
 
 
-## Сноски
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Лекция Хоссейна Фармани — Фотография. Маркетинг и бизнес. (Школа Визуальных Искусств)](http://example.net/article)
