@@ -14,7 +14,7 @@ othername: HC
 venue: Artplay
 origin: an Russian
 profession: furniture concept store inspirited by British vintage style
-photo: Interiors by HC
+photo: British vintage style interiors by Home Concept
 photographer: Ilike Loft
 source: Ilikeloft.ru
 photographerurl: http://ilikeloft.ru
