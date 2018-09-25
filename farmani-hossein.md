@@ -8,8 +8,8 @@ appearing: Born
 city: Tehran
 birth: 1969
 givenname: Hossein
-familyname: Family name
-othername: Farmani
+familyname: Farmani
+othername: 
 venue: Rooftop Gallery BKK
 founder: of Lucie Awards
 origin: an Iranian
