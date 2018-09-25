@@ -11,7 +11,7 @@ othername: Индексмод
 appearing: Est.
 birth: 2006
 city: Moscow
-venue: headquarters at d. Chernaya, Moscow Region
+venue: Moscow Region
 facebook: '10'
 instagram: '141'
 youtube: '181'
@@ -28,7 +28,7 @@ photographerurl: dei-andrei
 sourceurl: index
 founder: 'Andrei Deinichenko'
 ---
-(Est. 2006, Moscow) a wiki-site based on the conception of hybrid wiki, blockchain, ICO and social networking developing by Andrei Deinichenko. In the very beginning Indexmod brand was described as game <span id="a2">[\[2\]](#f2)</span> and TV program <span id="a3">[\[3\]](#f3)</span>.
+A wiki-site based on the conception of hybrid wiki, blockchain, ICO and social networking developing by Andrei Deinichenko. In the very beginning Indexmod brand was described as game <span id="a2">[\[2\]](#f2)</span> and TV program <span id="a3">[\[3\]](#f3)</span>.
 
 ## Manifesto  
 
