@@ -13,7 +13,7 @@ othername: Megyn Marie Kelly-Brunt
 venue: Red Square
 founder: Founder
 origin: an American
-profession: an American journalist and television presenter became known in Russia after several interviews with Donald Trump and Vladimir Putin, also known in the US for the support of anti-LGBT groups
+profession: journalist and television presenter became known in Russia after several interviews with Donald Trump and Vladimir Putin, also known in the US for the support of anti-LGBT groups
 photo: Мегин Келли
 photographer: Getty
 source: TooFab
