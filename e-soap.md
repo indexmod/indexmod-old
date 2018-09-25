@@ -2,24 +2,25 @@
 title: E-Soap
 permalink: e-soap
 layout: default
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: И-соп
+appearing: Est.
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+birth: 2016
+givenname: E-Soap
+familyname:
+othername: Цифровое мыло
+venue: Internet Yami-Ichi
+founder: Veroid
+origin: a Russian
+profession: handmade soap by Veroid created for the Internet Yami-Ichi, with signs of Internet as “#”, “@”, “4G”, “Wi-Fi”, made of natural ingredients, flavored aroma oils
+photo: E-Soap selection
+photographer: Veronica Idelson
+source: Facebook
+photographerurl: https://www.facebook.com/search/top/?q=%D1%8F%D0%BC%D0%B8%20%D0%B8%D1%87%D0%B8%20
+sourceurl: https://www.facebook.com/search/top/?q=%D1%8F%D0%BC%D0%B8%20%D0%B8%D1%87%D0%B8%20
 shortname: ESOAP
-facebook: 0
+facebook: 40
 instagram: 0
 youtube: 0
 vimeo: 0
@@ -30,18 +31,10 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Pres. 2016, Moscow) is a handmade soap by Veroid created for the Internet Yami-Ichi, with signs of Internet (“#”, “@”, “4G”, “Wi-Fi”), made of natural ingredients, flavored aroma oils <span id="a1">[\[1\]](#f1)</span>.
-
-![](/images/e-soap.png)
-
-**E-Soap selection**
-
-*Photo: [Veronica Idelson](Facebook) / [Source name](https://www.facebook.com/search/top/?q=%D1%8F%D0%BC%D0%B8%20%D0%B8%D1%87%D0%B8%20)*
-
 ## Conspectus
 
 |Year|Place|
-|----|-----|
+|-|-|
 |2016|Internet Yami-Ichi|
 
 
