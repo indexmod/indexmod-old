@@ -12,7 +12,7 @@ othername: Other name
 venue: Red Square
 founder: Founder
 origin: a / an Russian
-profession: writer based in Europe
+profession: studio founded by offering decor of the interior and events, costumes, window dressing, houses and festive event, costumes for carnivals
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
@@ -30,7 +30,7 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a  studio founded by {{ page.founder }} offering decor of the interior and events, costumes, window dressing, houses and festive event, costumes for carnivals.
+studio founded by offering decor of the interior and events, costumes, window dressing, houses and festive event, costumes for carnivals.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
