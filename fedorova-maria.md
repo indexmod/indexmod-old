@@ -5,6 +5,7 @@ layout: default
 shortname: FEDOROVA
 givenname: Maria
 familyname: Fedorova
+appearing: Born
 birth: 1972
 originlang: Rus.
 originspell: Мария Федорова
