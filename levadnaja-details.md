@@ -3,41 +3,34 @@ title: Levadnaja Details
 permalink: levadnaja-details
 layout: default
 originlang: Rus.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originspell: Левадная Дитейлс
+appearing: Est.
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+birth: 2006
+givenname: Levadnaja Details
+familyname: 
+othername: LD
+venue: Levadnaja Showroom Stoleshnikov
+founder: Svetlana Levadnaja
+origin: a Russian
+profession: brand, established by clothes, bags, accessories and ceramics to combine the Russian traditions with the modern context
+photo: Fragment of vase "Steppe" from Levadnaja Ceramics collection by Levadnaja Details
+photographer: Levadnaja
+source: Levadnaja Ceramics
 photographerurl: index
-sourceurl: index
+sourceurl: http://en.levadnajadetails.com/magazin/product/vase-steppe
 shortname: LEVADNAJA
-facebook: 0
-instagram: 0
+facebook: 17559
+instagram: 41200
 youtube: 0
 vimeo: 0
 twitter: 0
 tumblr: 0
-vkontakte: 0
+vkontakte: 102
 soundcloud: 0
 pinterest: 0
 ---
 
-(Est. 2006, Moscow) is a brand, established by clothes, bags, accessories and ceramics designer Svetlana Levadnaja to combine the rich Russian traditions with the modern context <span id="a1">[\[1\]](#f1)</span>.
-
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Fragment of vase "Steppe" from Levadnaja Ceramics collection by Levadnaja Details**
-
-*Photo: [Levadnaja](index) / [Levadnaja Ceramics](http://en.levadnajadetails.com/magazin/product/vase-steppe)*
 
 ## Conspectus
 
