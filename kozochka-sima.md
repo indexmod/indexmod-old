@@ -3,22 +3,22 @@ title: 'Kozochka, Sima'
 permalink: kozochka-sima
 layout: default
 originlang: Rus.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originspell: Сима Козочка
+appearing: Born
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+birth: 1996
+givenname: Serafima
+familyname: Solovieva
+othername: Serafima Solovieva
+venue: Simachev Bar
+founder:
+origin: a Russian
+profession: is an alternative model, DJ and art-diva, working and living in Moscow
+photo: Sima Kozochka
+photographer: Alena Chendler
+source: Vogue Russia
+photographerurl: chendler-alena
+sourceurl: https://www.vogue.com/slideshow/moscow-shopping-souvenirs-sima-saymon#4
 shortname: KOZOCHKA
 facebook: 0
 instagram: 0
@@ -30,14 +30,6 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
-
-(Rus. Сима Козочка, Серафима Соловьёва, born 1996, Moscow) Serafima Solovieva is an alternative model <span id="a1">[\[1\]](#f1)</span>, DJ and art-diva <span id="a2">[\[2\]](#f2)</span>, working and living in Moscow.
-
-![](/images/kozochka-vogue.png)
-
-**Sima Kozochka**
-
-*Photo: [Alena Chendler](chendler-alena) / [Vogue Russia](https://www.vogue.com/slideshow/moscow-shopping-souvenirs-sima-saymon#4)*
 
 ## See also
 
