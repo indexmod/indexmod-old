@@ -1,46 +1,39 @@
 ---
 title: Loshadka Prty (party)
 permalink: loshadka-party
-published: true
 layout: default
 originlang: Rus.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+originspell: Лошадка-парти
+appearing: Est.
+city: Saint Petersburg
+birth: 2009
+givenname: Loshadka
+familyname:
+othername: Loshadka Prty
+venue: Squat 3.4
+founder: Dmitri Estrin
+origin: an International
+profession: series of parties in Moscow, St. Petersburg,  Kiev and Odessa
+photo: Dmitri Estrin (left), founder of Loshadka Prty at discussion by Be-in.ru in 2010
+photographer: Alexei Bazhenov
+source: bazhenov-alexei
 photographerurl: index
-sourceurl: index
+sourceurl: https://www.be-in.ru/subject/9732-modniki_vs_designers/
 shortname: LOSHADKA
-facebook: 0
-instagram: 0
+facebook: 2142
+instagram: 9797
 youtube: 0
 vimeo: 0
 twitter: 0
 tumblr: 0
-vkontakte: 0
+vkontakte: 37626
 soundcloud: 0
 pinterest: 0
 ---
 
-(Рус. Лошадка-пати, еst. 2009, Saint Petersburg) is a series of parties in Moscow, St. Petersburg,  Kiev and Odessa founded by Dmitri Estrin (Дима Эстрин). The event is known for its freak shows, contrast music program and "the loud bring-ups" <span id="a1">[\[1\]](#f1)</span>.
+The event is known for its freak shows, contrast music program and "the loud bring-ups".
 
- ![](https://www.be-in.ru/media/beingallery/gallery/userdata/user_8/img3345.jpg)
-
-**Dmitri Estrin (left), founder of Loshadka Prty at discussion by Be-in.ru in 2010**
-
-*Photo: [Alexei Bazhenov](bazhenov-alexei) / [Be-in.ru](https://www.be-in.ru/subject/9732-modniki_vs_designers/)*
-
-# {{page.title}} Conspectus
+## Conspectus
 
 |Year|City|Place|
 |-|-|-|
@@ -48,30 +41,17 @@ pinterest: 0
 |2017|||
 |2018|Moscow|Squat 3/4 <span id="a2">[\[2\]](#f1)</span>|
 
-![](http://www.sobaka.ru/images/image/00/70/40/41/_normal.jpeg)
+![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Bodybuilder Alexander Shpack on a cover of Loshadka Prty 2016 announcement in Central Station Club in Saint Petersburg**
 
 *Photo: [Diana Smoliakova](smoliakova-diana) / [Sobaka](http://www.sobaka.ru/images/image/00/70/40/41/_normal.jpeg)*
-
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|2031||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|7875||
-|YouTube|||
-|Age|9||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|0,1||
 
 # See also
 
 + [Dmitri Estrin](estrin-dmitri)
 + [Victor Michaelson](michaelson-victor)
 + [Danila Poliakov](poliakov-danila)
-
-
 
 # Footnotes
 
