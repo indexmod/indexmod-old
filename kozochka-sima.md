@@ -6,10 +6,10 @@ originlang: Rus.
 originspell: Сима Козочка
 appearing: Born
 city: Moscow
-birth: 1996
+birth: 1998
 givenname: Serafima
 familyname: Solovieva
-othername: Serafima Solovieva
+othername: Saymon Sima
 venue: Simachev Bar
 founder:
 origin: a Russian
@@ -20,8 +20,8 @@ source: Vogue Russia
 photographerurl: chendler-alena
 sourceurl: https://www.vogue.com/slideshow/moscow-shopping-souvenirs-sima-saymon#4
 shortname: KOZOCHKA
-facebook: 0
-instagram: 0
+facebook: 347
+instagram: 15000
 youtube: 0
 vimeo: 0
 twitter: 0
