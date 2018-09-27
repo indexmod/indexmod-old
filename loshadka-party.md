@@ -47,13 +47,13 @@ The event is known for its freak shows, contrast music program and "the loud bri
 
 *Photo: [Diana Smoliakova](smoliakova-diana) / [Sobaka](http://www.sobaka.ru/images/image/00/70/40/41/_normal.jpeg)*
 
-# See also
+## See also
 
 + [Dmitri Estrin](estrin-dmitri)
 + [Victor Michaelson](michaelson-victor)
 + [Danila Poliakov](poliakov-danila)
 
-# Footnotes
+## Footnotes
 
 [[1, 2]](#a1) <span id="f1"></span> [Следующая Loshadka Party пройдет 7 апреля в Squat 3/4 (The Village, Ульяна Бондаренко)](http://www.the-village.ru/village/weekend/wknd-news/306567-loshadka-18)
 
