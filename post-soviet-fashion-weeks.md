@@ -20,7 +20,7 @@ layout: info
 |Vilnius|VSFW|Litexpo|1994|0|VM|
 |Almaty|KZFW|AT|2011|5|MBF|
 
-# See also
+## See also
 
 + [PinchukArtCentre](pinchukartcentre)
 + [Victor Pinchuk Foundation](victor-pinchuk-foundation)
