@@ -3,7 +3,7 @@ title: Loshadka Prty (party)
 permalink: loshadka-party
 layout: default
 originlang: Rus.
-originspell: Лошадка-парти
+originspell: Лошадка-пати
 appearing: Est.
 city: Saint Petersburg
 birth: 2009
