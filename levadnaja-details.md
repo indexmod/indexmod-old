@@ -2,6 +2,7 @@
 title: Levadnaja Details
 permalink: levadnaja-details
 layout: default
+originlang: Rus.
 originspell: Original spell
 appearing: Updated / Est. / Born
 city: Moscow

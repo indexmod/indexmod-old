@@ -6,7 +6,6 @@ shortname: NEMCHENKOVA
 givenname: Valentina
 familyname: Nemchenkova
 othername: Валентина Немченкова
-indexmod: Indexmod
 birth: '1983'
 city: Sverdlovsk
 facebook: '2916'

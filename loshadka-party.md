@@ -3,6 +3,7 @@ title: Loshadka Prty (party)
 permalink: loshadka-party
 published: true
 layout: default
+originlang: Rus.
 originspell: Original spell
 appearing: Updated / Est. / Born
 city: Moscow

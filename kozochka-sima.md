@@ -2,6 +2,7 @@
 title: 'Kozochka, Sima'
 permalink: kozochka-sima
 layout: default
+originlang: Rus.
 originspell: Original spell
 appearing: Updated / Est. / Born
 city: Moscow

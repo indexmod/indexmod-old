@@ -2,6 +2,7 @@
 title: Lomakin, Artur (designer)
 permalink: lomakin-artur-designer
 layout: default
+originlang: Rus.
 originspell: Original spell
 appearing: Updated / Est. / Born
 city: Moscow
