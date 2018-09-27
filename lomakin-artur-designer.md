@@ -12,8 +12,8 @@ familyname: Family name
 othername: Other name
 venue: Red Square
 founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+origin: a Russian
+profession: stylist living and working in Moscow, founder of Forget me not brand
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
@@ -60,12 +60,6 @@ Gosha Rubchinskiy <span id="a1">[\[1\]](#f1)</span>.
 |-|-|
 |2017|Moscow|
 
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
-
 
 # See also
 
@@ -79,5 +73,3 @@ Gosha Rubchinskiy <span id="a1">[\[1\]](#f1)</span>.
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
