@@ -2,6 +2,7 @@
 title: Post Soviet Fashion Weeks
 permalink: post-soviet-fashion-weeks
 layout: info
+exclude: true
 ---
 
 
@@ -17,7 +18,7 @@ layout: info
 |Minsk|BFWBM|BFWBM|2010|48|MRK|
 |Baku|BFW|Unknown|2010|0|PHC|
 |Riga|RGFW||2011|0|BFF|
-|Vilnius|VSFW|Litexpo|1994|0|VM|
+|Vilnius|Mados infekcija|Contemporary Art Centre|1994|48 (2018)|Contemporary Art Centre|
 |Almaty|KZFW|AT|2011|5|MBF|
 
 ## See also
