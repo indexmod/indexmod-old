@@ -3,11 +3,12 @@ title: Indexmod curators
 permalink: indexmod-curators
 layout: info
 excluding: true
+published: true
 ---
 
-The mission of Indexmod is to uncover the new cultural centers of the world, as well as artists, designers, galleries, museums, institutions, Biennial, Fashion Weeks, memes, art objects in an open wiki with a view to works of art forms from different parts of the world to lead an independent dialogue.
+The mission of Indexmod is to uncover the new cultural centers of the world, as well as artists, designers, galleries, museums, institutions, Biennial, Fashion weeks, memes with a view to works of art forms from different parts of the world to lead an independent dialogue.
 
-If you are interested in becoming a local curator and you live in one of the listened cities, contact the encyclopedia just e-mailing to Chief Editor.
+If you are interested in becoming a local curator and you live in one of the listened cities, contact the encyclopedia e-mailing to the Editor.
 
 1. Bangkok / [Vincent Sung](sung-vincent)
 1. Bali / [Uma Kumari](kumari-uma)
@@ -31,7 +32,7 @@ If you are interested in becoming a local curator and you live in one of the lis
 1. Moscow / [Andrei Deinichenko](deinichenko-andrei)
 1. New York / [Lesya Malskaya](malskaya-lesya)
 1. Osaka / [Mico Kazumi](kazumi-mico)
-1. Paris [Sidorov Kirill](kirill-sidorov)
+1. Paris / [Sidorov Kirill](kirill-sidorov)
 1. Rio De Janeiro
 1. Rome
 1. São Paulo
