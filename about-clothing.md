@@ -31,17 +31,13 @@ soundcloud: 0
 pinterest: 0
 ---
 
-Lithuanian innovative underwear and leisurewear brand with the latest technological possibilities with the sense of zeitgeist in design trends, with locally developed fabrics enriched with extra skin-care textile finishing, based on aloe vera, beeswax, silk proteins and antibacterial silver.
-
-![](http://www.ut.lt/images/5a7d607cb31451356572fe94?w=860)
-
 ## Features
 
 |No rough stitching|
 |No itchy fabrics|
 |No uncomfortable seams|
 
-Natural beeswax soothes the skin, aloe vera moisturizes it, silk proteins enhance its softness and silver ions provide long-lasting protection against bacteria. Every inch of clothing is designed to delight your senses <span id="a1">[\[1\]](#f1)</span>.
+Natural beeswax soothes the skin, aloe vera moisturizes it, silk proteins enhance its softness and silver ions provide long-lasting protection against bacteria. Every inch of clothing is designed to delight your senses <span id="a2">[\[2, 3, 4\]](#f1)</span>.
 
 ## See also
 
@@ -49,8 +45,8 @@ Natural beeswax soothes the skin, aloe vera moisturizes it, silk proteins enhanc
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://goo.gl/aYWoqC)
+[[2]](#a2) <span id="f2"></span> [{{page.title}} (Facebook)](https://goo.gl/aYWoqC)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://goo.gl/Qaxa8R)
+[[3]](#a2) <span id="f3"></span> [{{page.title}} (Instagram)](https://goo.gl/Qaxa8R)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://goo.gl/RL6Wdw)
+[[4]](#a2) <span id="f4"></span> [{{page.title}} (YouTube)](https://goo.gl/RL6Wdw)
