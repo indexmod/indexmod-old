@@ -9,7 +9,7 @@ city: Utena
 birth: 2012
 givenname: About
 familyname:
-othername: Utenos trikotažas
+othername: Utenos
 venue: Utenos trikotažas
 founder: Utenos trikotažas
 origin: a Lithuanian
