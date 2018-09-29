@@ -1,8 +1,7 @@
 ---
-title: Template
-permalink: template
+title: Bridal Fashion Week Plovdiv
+permalink: bridal-fashion-week-plovdiv
 layout: default
-exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -20,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORT NAME
+shortname: PLOVDIV
 facebook: 0
 instagram: 0
 youtube: 0
