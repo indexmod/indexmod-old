@@ -6,7 +6,7 @@ originlang: Ge.
 originspell: აჭარის მოდის კვირეული
 appearing: Est.
 city: Batumi
-birth: 2018
+birth: 2016
 givenname: Adjara Fashion Week
 familyname:
 othername: AFW
