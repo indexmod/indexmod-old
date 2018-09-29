@@ -2,7 +2,6 @@
 title: West Fashion Week
 permalink: west-fashion-week
 layout: default
-exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born

@@ -2,7 +2,6 @@
 title: Venezia Fashion Week
 permalink: venezia-fashion-week
 layout: default
-exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born

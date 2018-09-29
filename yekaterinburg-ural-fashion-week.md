@@ -2,7 +2,6 @@
 title: Yekaterinburg Ural Fashion Week
 permalink: yekaterinburg-ural-fashion-week
 layout: default
-exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born

@@ -2,7 +2,6 @@
 title: Voyage of creation
 permalink: voyage-of-creation
 layout: default
-exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born

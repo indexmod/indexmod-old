@@ -2,7 +2,6 @@
 title: Vietnam International Fashion Week
 permalink: vietnam-international-fashion-week
 layout: default
-exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
