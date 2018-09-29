@@ -1,8 +1,7 @@
 ---
-title: Template
-permalink: template
+title: Atlantic City Fashion Week
+permalink: atlantic-city-fashion-week
 layout: default
-exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -20,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORT NAME
+shortname: ATLANTIC CITY
 facebook: 0
 instagram: 0
 youtube: 0

@@ -1,6 +1,6 @@
 ---
-title: Template
-permalink: template
+title: Asia Style Collection
+permalink: asia-style-collection
 layout: default
 exclude: true
 originlang: Rus. / Eng.
@@ -20,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORT NAME
+shortname: ASIA STYLE
 facebook: 0
 instagram: 0
 youtube: 0
