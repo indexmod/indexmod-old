@@ -37,9 +37,9 @@ Lithuanian innovative underwear and leisurewear brand with the latest technologi
 
 ## Features
 
-+ No rough stitching
-+ No itchy fabrics
-+ No uncomfortable seams
+|No rough stitching|
+|No itchy fabrics|
+|No uncomfortable seams|
 
 Natural beeswax soothes the skin, aloe vera moisturizes it, silk proteins enhance its softness and silver ions provide long-lasting protection against bacteria. Every inch of clothing is designed to delight your senses <span id="a1">[\[1\]](#f1)</span>.
 
