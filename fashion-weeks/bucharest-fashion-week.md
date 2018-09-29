@@ -2,7 +2,6 @@
 title: Bucharest Fashion Week
 permalink: bucharest-fashion-week
 layout: default
-exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
