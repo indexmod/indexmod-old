@@ -1,6 +1,6 @@
 ---
-title: Template
-permalink: template
+title: Birmingham Fashion Week
+permalink: birmingham-fashion-week
 layout: default
 exclude: true
 originlang: Rus. / Eng.
@@ -20,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORT NAME
+shortname: BIRMINGHAM
 facebook: 0
 instagram: 0
 youtube: 0
