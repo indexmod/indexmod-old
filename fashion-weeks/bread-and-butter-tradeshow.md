@@ -1,8 +1,7 @@
 ---
-title: Template
-permalink: template
+title: Bread and Butter (tradeshow)
+permalink: bread-and-butter-tradeshow
 layout: default
-exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -20,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORT NAME
+shortname: BREAD&BUTTER
 facebook: 0
 instagram: 0
 youtube: 0
