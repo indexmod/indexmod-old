@@ -2,7 +2,6 @@
 title: Template
 permalink: template
 layout: default
-exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
