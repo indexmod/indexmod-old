@@ -1,6 +1,6 @@
 ---
-title: Template
-permalink: template
+title: Brussels Fashion Week
+permalink: brussels-fashion-week
 layout: default
 originlang: Rus. / Eng.
 originspell: Original spell
@@ -19,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORT NAME
+shortname: BRUSSELS
 facebook: 0
 instagram: 0
 youtube: 0
