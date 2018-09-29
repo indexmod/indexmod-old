@@ -2,7 +2,7 @@
 title: About (clothing)
 permalink: about-clothing
 layout: default
-originlang: Lithuanian
+originlang: Lit.
 originspell: Apie
 appearing: Est.
 city: Utena
