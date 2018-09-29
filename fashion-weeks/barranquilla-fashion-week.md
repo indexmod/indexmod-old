@@ -1,8 +1,7 @@
 ---
-title: Template
-permalink: template
+title: Barranquilla Fashion Week
+permalink: barranquilla-fashion-week
 layout: default
-exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -20,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORT NAME
+shortname: BARRANQUILLA
 facebook: 0
 instagram: 0
 youtube: 0
