@@ -20,13 +20,14 @@ twitter: '0'
 tumblr: '0'
 vkontakte: '0'
 origin: a Russian
-profession: journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta
+profession: 'journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta'
 photo: Andrei Deinichenko in 2007 at the Eastern gallery
 photographer: Donor Darom
 source: LiveJournal
 photographerurl: donor-darom
 sourceurl: 'http://donor-darom.livejournal.com/70036.html'
 founder: of Indexmod
+published: true
 ---
 
 Russian journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta fellowship, <span id="a1">[\[1\]](#f1)</span>, layout and prints designer <span id="a2">[\[2\]](#f2)</span>.
@@ -47,6 +48,7 @@ I became a journalist, it being happened, I worked for several years as a Fashio
 |2014|Science for Life Extension|
 |2015|Indexmod Encyclopedia|
 |2017|Entering the Eta fellowship|
+|2018|Indexmod blockchainpedia|
 
 ## Transhumanist actionism
 
