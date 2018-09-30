@@ -2,7 +2,7 @@
 title: Africa Fashion Week
 permalink: africa-fashion-week
 layout: default
-originlang: Fr.
+originlang: En.
 originspell: Africa Fashion Week
 appearing: Est.
 city: NYC
