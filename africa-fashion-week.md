@@ -37,6 +37,10 @@ pinterest: 0
 
 *Photo: [Okay Africa](index) / [Okayafrica.com](index)*
 
+## Adirée
+
+Adirée (pronounced Aw•DEE•ray) is a multi-media marketing communications and retail firm providing global access to Africa's retail potential <span id="a1">[\[1\]](#f1)</span>.
+
 ## Conspectus
 
 |Year|City|
@@ -51,4 +55,4 @@ pinterest: 0
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[1, 2]](#a1) <span id="f1"></span> [About Adiree (Adiree.company)](https://adiree.company/)
