@@ -3,7 +3,7 @@ title: 'Zavyalova, Tatiana'
 permalink: zavyalova-tatiana
 layout: default
 published: true
-shortname: ZATA
+shortname: ZAVYALOVA
 originlang: Rus.
 originspell: Шаблон
 appearing: Updated
