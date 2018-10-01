@@ -2,64 +2,48 @@
 title: Yoshikazu, Oshiro
 permalink: yoshikazu-oshiro
 layout: default
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Jp.
+originspell: 大城義和
+appearing: Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a Japanese
+profession: designer, musician, poet, photographer, critica and multimedia artist, founder of Violet, living and working in Tokyo
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: Yoshikazu
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
+
+![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Yoshikazu, Oshiro**
+
+*Photo: [Not specified](index) / [Source](index)*
 
 (Jp. 大城義和) Japanese designer, musician, poet, photographer, critica and multimedia artist, founder of Violet, living and working in Tokyo <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
-
-**Image title**
-
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
-|Age|000|000|
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|0,0000|0,0000|
-
-# See also
+## See also
 
 + [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

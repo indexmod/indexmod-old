@@ -2,64 +2,49 @@
 title: Yellow Korner (gallery)
 permalink: yellow-korner-gallery
 layout: default
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
+city: French
+birth: 2006
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: French
+founder: Alexandre de Metz and Paul-Antoine Briat
+origin: a French
+profession: writer based in Europe
+photo: online gallery and publishing house established in 2006 by Alexandre de Metz and Paul-Antoine Briat
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: YellowKorner
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
+
+![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Image caption**
+
+*Photo: [Not specified](index) / [Source](index)*
 
 (Est. 2013, city) French online gallery and publishing house established in 2006 by Alexandre de Metz and Paul-Antoine Briat. Gallery introduces the photographers from all over the world increasing the number of copies to make it accessible to many collectors <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
-
-**Image title**
-
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
-|Age|000|000|
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|0,0000|0,0000|
-
-# See also
+## See also
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
