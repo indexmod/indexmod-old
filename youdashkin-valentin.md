@@ -19,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: Youdashkin
+shortname: YOUDASHKIN
 facebook: 0
 instagram: 0
 youtube: 0

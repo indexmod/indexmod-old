@@ -19,7 +19,7 @@ photographer: Kenji Yoshida, La Vie, 1983 Mixed media on BFK Rives paper. H x W.
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: Yoshida
+shortname: YOSHIDA
 facebook: 0
 instagram: 0
 youtube: 0
