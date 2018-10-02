@@ -1,7 +1,8 @@
 ---
-title: Belgrade Fashion Week
-permalink: belgrade-fashion-week
+title: Template
+permalink: template
 layout: default
+exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -19,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: BELGRADE
+shortname: SHORT NAME
 facebook: 0
 instagram: 0
 youtube: 0
