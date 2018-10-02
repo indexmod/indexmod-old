@@ -5,7 +5,7 @@ layout: default
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
-city: Moscow
+city: Yekaterinburg
 birth: 2018
 givenname: Given name
 familyname: Family name

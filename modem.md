@@ -1,0 +1,50 @@
+---
+title: Modem
+permalink: modem
+layout: default
+published: true
+shortname: MODEM
+originlang: Rus.
+originspell: Шаблон
+appearing: Updated
+birth: 2018
+city: Moscow
+facebook: '500000'
+instagram: '500500'
+youtube: '600000'
+vimeo: '100'
+twitter: '400'
+tumblr: '900'
+vkontakte: '0'
+origin: Russian
+profession: English language wiki
+photo: This is sample for image caption
+photographer: Andrei Dei
+source: Indexmod Blockchainpedia
+photographerurl: dei-andrei
+sourceurl: index
+founder: 'Andrei Dei'
+---
+(Est. 1997, Paris) is an online platform founded by Ezio Barbaro, the Modem editions “are the working tool and source of professional information dedicated to those who operate in the fields of fashion and design” <span id="a1">[\[1\]](#f1)</span>.
+
+![](http://www.modemonline.com/img/_cover/modem-paris-women-spring-summer-2018/interlayer/07.jpg)
+
+**Cover by Modem 20th Anniversary**
+
+*Photo: [Modem](modem) / [Modemonline.com](http://www.modemonline.com/img/_cover/modem-paris-women-spring-summer-2018/interlayer/07.jpg)*
+
+# Conspectus
+
+|Year|City|Company|
+|--|--|--|
+|1997|Paris, France, Europe|13524R SARL|
+|2002|Milano, Italy, Eastern Europe|13524R SARL|
+|2005|New York, USA|Vedra inc.|
+
+# See also
+
++ [Paris Fashion Week](paris-fashion-week)
+
+# Footnotes
+
+[[1]](#a1) <span id="f1"></span> [ModemOnline.com](ModemOnline.com)
