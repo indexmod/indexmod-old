@@ -3,7 +3,7 @@ title: Fashion Week MN
 permalink: fashion-week-mn
 layout: default
 originlang: Eng.
-originspell: Fashion Week MN
+originspell: Fashion Week of Minnesota
 appearing: Est.
 city: Minneapolis
 birth: 2016
