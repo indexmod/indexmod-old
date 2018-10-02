@@ -2,26 +2,33 @@
 title: Sung, Vincent
 permalink: sung-vincent
 layout: default
-shortname: INDEXMOD
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+originlang: Kor.
+originspell: 성 빈센트
+appearing: Born
+city: Busan
+birth: 1969
+givenname: Vincent
+familyname: Sung
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: SUNG
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
 (Belg. Vincent Boris Sung), born 1969, Busan, South Korea—Belgian-Korean photographer, a founder of Le Flux Asia, Brand Manager in “Yellow Korner” in Bangkok <span id="a1">[\[1\]](#f1)</span>. Vincent was adopted in 1971 by a Belgian-French family and grew up in Brussels.
@@ -36,70 +43,25 @@ Photo: Vincent Sung / Facebook
 Vincent Sung in Seoul “Studio 504”
 Photo: Vincent Sung / Groove Magazine
 
-*Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/{{page.permalink}}.jpg)
-
-**Image**
-
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
-
-# See also
+## See also
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
-# Footnotes
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-
-# See also
+## See also
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
-Click 1
-Harpers Bazaar Korea
-Le Flux Lounge Bar & Art Space
-Marilyn 2
-Metropolitan 3
-Vogue Korea
-Yellow Korner Thailand
-Women 4
++ [Click 1](index)
++ [Harpers Bazaar Korea](index)
++ [Le Flux Lounge Bar & Art Space](index)
++ [Marilyn 2](index)
++ [Metropolitan 3](index)
++ [Vogue Korea](index)
++ [Yellow Korner Thailand](index)
++ [Women 4](index)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
