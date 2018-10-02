@@ -14,11 +14,11 @@ venue: Hyatt Regency Sochi
 founder: Papin Aproyan, Nikita Shipulin
 origin: a South Russia
 profession: fashion event in Sochi
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+photo: Russian actor Maxim Averin and designer Yulia Ivanova presenting the collection “Live!” on SFW in 2018
+photographer: Galina Skorik
+source: World Podium
+photographerurl: https://worldpodium.ru/news/maksim-averin-i-dizayner-yuliya-ivanova-predstavyat-kollekciyu-zhit
+sourceurl: https://worldpodium.ru/news/maksim-averin-i-dizayner-yuliya-ivanova-predstavyat-kollekciyu-zhit
 shortname: SFW
 facebook: 322
 instagram: 22700
@@ -31,17 +31,13 @@ soundcloud: 0
 pinterest: 0
 ---
 
-**Image**
-
-*Photo: [Name](index) / [Source](index)*
-
 ## Conspectus
 
 |Year|Season|Location|
 |-|-|-|
-|2017|I|Hyatt Regency Sochi|
-|2018|I|Hyatt Regency Sochi|
-|2017|II|Chaika Rest <span id="a2">[\[2\]](#f2)</span>|
+|2017|I|Chaika|
+|2018|I|Zvezdny Hotel|
+|2017|II|Chaika<span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
