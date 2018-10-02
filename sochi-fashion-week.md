@@ -2,26 +2,26 @@
 title: Sochi Fashion Week
 permalink: sochi-fashion-week
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+originlang: Rus.
+originspell: Неделя моды в Сочи; Сочинская неделя моды
+appearing: Est.
+city: Sochi
+birth: 2017
+givenname: Sochi Fashion Week
+familyname:
+othername: SFW
+venue: Hyatt Regency Sochi
+founder: Papin Aproyan, Nikita Shipulin
+origin: a South Russia
+profession: fashion event in Sochi
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SOCHI
-facebook: 0
-instagram: 0
+shortname: SFW
+facebook: 322
+instagram: 22700
 youtube: 0
 vimeo: 0
 twitter: 0
@@ -31,40 +31,25 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/{{page.permalink}}.jpg)
-
 **Image**
 
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
+## Conspectus
 
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
+|Year|Season|Location|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|2017|I|Hyatt Regency Sochi|
+|2018|I|Hyatt Regency Sochi|
+|2017|II|Chaika Rest <span id="a2">[\[2\]](#f2)</span>|
 
-# See also
+## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Papin Aproyan](aproyan-papin)
++ [Nikita Shipulin](shipulin-nikita)
 
-# Footnotes
+## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[1]](#a1) <span id="f1"></span> [Sochi Fashion Week (Sochifashionweek.ru)](http://sochifashionweek.ru/)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[2]](#a2) <span id="f2"></span> [В Сочи завершилась неделя моды Sochi Fashion Week (Sochi.com)](https://sochi.com/news/2085/436278/)
