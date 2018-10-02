@@ -14,7 +14,7 @@ venue: James Ballentine "Uptown" VFW - Post 246
 founder: Sarah Edwards and Jahna Peloquin
 origin: A semi-annual
 profession: week of events showcasing top Minnesota fashion designers, makers, and retailers
-photo: This is sample for image caption
+photo: Nigerian-Minnesotan designer Aisha Umar of FulbeKloset presented an evening of luxury fashion, accompanied by musical performances by Carolyne Naomi and Redji King as part of Fall FWMN on 9/24
 photographer: Joy Islam
 source: Facebook
 photographerurl: https://www.facebook.com/FashionWeekMN/photos/a.2175633432710718/2175634156043979/?type=3&theater
