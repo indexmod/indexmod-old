@@ -37,7 +37,7 @@ pinterest: 0
 |-|-|-|
 |2017|I|Chaika|
 |2018|I|Zvezdny Hotel|
-|2017|II|Chaika<span id="a2">[\[2\]](#f2)</span>|
+|2017|II|Chaika <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
