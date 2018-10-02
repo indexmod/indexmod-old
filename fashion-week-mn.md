@@ -55,8 +55,8 @@ Jahna Peloquin is a Minneapolis-based style writer and stylist. Over the past de
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Minneapolis](index)
++ [Minnesota](index)
 
 ## Footnotes
 
