@@ -2,26 +2,33 @@
 title: SNC 100 MIPRF
 permalink: snc-100-miprf
 layout: default
-shortname: XXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: SNC100
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
 (Est. 2013, city) is a 100 most influential people in Russian fashion (Rus. 100 самых влиятельных персон русской моды) est. 2014—an annual ranking conducted by Russian edition SNC <span id="a1">[\[1\]](#f1)</span>.
@@ -36,11 +43,8 @@ founder: 'Andrei Dei'
 
 The rating is based on data from Medialogia (Russia first automated real-time media monitoring and analysis systems) and SNC editorial points system. All persons are spread in categories (buyers, jewelers, designers, PR), each category has its own coefficient of influence.
 
-|Year|City|
-|-|-|
-|2017|Moscow|
-
 # The coefficient
+
  Buyers	 1.3
  PR	 1.2
  Jewelers	 0.9
@@ -48,47 +52,6 @@ The rating is based on data from Medialogia (Russia first automated real-time me
  Stylists	 0.6
  Make up artists 	 0.6
  Photographers	 0.6
-
-
- (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
-
- ![](/encyclopedia/images/{{page.permalink}}.jpg)
-
- **Image**
-
- *Photo: [Name](index) / [Source](index)*
-
- # {{page.title}} Conspectus
-
- |Year|City|
- |-|-|
- |2017|Moscow|
-
- # {{page.title}} Indexmod [*](indexmod)
-
- ||2018|2019|
- |-|-|-|
- |Facebook <span id="a3">[\[3\]](#f3)</span>|000||
- |Instagram <span id="a4">[\[4\]](#f4)</span>|000||
- |YouTube <span id="a5">[\[5\]](#f5)</span>|000||
- |Age|000|000|
- |Page Value|{{ page.content | number_of_words }}||
- |Indexmod|0,0000||
-
- # See also
-
- + [About {{page.title}}](index)
- + [{{page.title}} at Wikipedia](index)
-
- # Footnotes
-
- [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
- [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
- [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-
 
 # See also
 
