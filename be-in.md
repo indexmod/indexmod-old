@@ -2,42 +2,34 @@
 title: Be-in
 permalink: be-in
 layout: default
-shortname: BEIN
-birth: '2006'
-updateyear: '2018'
-city: Moscow
-facebook: '82433'
-instagram: '8378'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '2119'
 originlang: Rus.
 originspell: Би-ин
 appearing: Est.
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
+city: Saint Petersburg
+birth: 2018
+givenname: Be-in
+familyname:
+othername: Би-ин
+venue:  
+founder: Alexey Bazhenov
+origin: a Russian
 profession: a web site founded by as a service for finding stores and clothes, as well as an online basket for shopping in the largest online stores in Moscow
 photo: Front page of Be-in.ru in 2018
 photographer: Andrei Dei
 source: Indexmod Blockchainpedia
 photographerurl: dei-andrei
 sourceurl: index
-published: true
-founder: Alexey Bazhenov
+shortname: BEIN
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
-
-(Be-in.ru, est. {{ page.birth }}, {{ page.city }}) is a web site founded by {{ page.founder }}  as a service for finding stores and clothes, as well as an online basket for shopping in the largest online stores in Moscow.
-
-**Front page of Be-in.ru in 2018**
-
-*Photo: [Andrei Dei](index) / [Indexmod](index)*
 
 ## Сonspectus
 

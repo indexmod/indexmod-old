@@ -30,8 +30,6 @@ sourceurl: https://district-f.org/2017/06/07/be-in-open-2017/
 founder: Be-in (site) and Alexey Bazhenov
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a fashion event in Moscow founded {{ page.founder }} <span id="a1">[\[1\]](#f1)</span>.
-
 ## Сonspectus
 
 |Year|Location|
