@@ -35,7 +35,7 @@ pinterest: 0
 
 |Year|Season|Location|
 |-|-|-|
-|2017|I|"Chaika" restaurant|
+|2017|0|"Chaika" restaurant|
 |2018|I|Zvezdny Hotel|
 |2017|II|"Chaika" restaurant <span id="a2">[\[2\]](#f2)</span>|
 
