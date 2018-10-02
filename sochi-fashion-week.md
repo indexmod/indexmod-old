@@ -35,9 +35,15 @@ pinterest: 0
 
 |Year|Season|Location|
 |-|-|-|
-|2017|I|Chaika|
+|2017|I|"Chaika" restaurant|
 |2018|I|Zvezdny Hotel|
-|2017|II|Chaika <span id="a2">[\[2\]](#f2)</span>|
+|2017|II|"Chaika" restaurant <span id="a2">[\[2\]](#f2)</span>|
+
+![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**"Chaika" restaurant in the building of the Maritime Station built by the classic of Stalin's empire Karo Alabyan**
+
+*Photo: [Sobaka.ru](Sobaka.ru) / [Weekend Rambler.ru](https://weekend.rambler.ru/places/39418586-luchshie-restorany-i-bary-sochi/?updated)*
 
 ## See also
 
