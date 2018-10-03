@@ -2,24 +2,24 @@
 title: Curiosity Index
 permalink: curiosity-index-2014
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Индекс любопытства
+appearing: Made
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+birth: 2014
+givenname: Curiosity Index
+familyname:
+othername:
+venue: Electromuseum
+founder: Varenye Organizm
+origin: an interactive
+profession: installation by Varenye Organizm
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORTNAME
+shortname: CURIOSITY
 facebook: 0
 instagram: 0
 youtube: 0
@@ -31,20 +31,18 @@ soundcloud: 0
 pinterest: 0
 ---
 
-Curiosity Index (Rus. Индекс любопытства) created in 2014, Moscow—an interactive installation by Varenye Organizm.
+An interactive installation by Varenye Organizm.
 
-# Description
+## Description
 
 A socket, which is not worth poking your fingers, a transformer booth, which is not necessary to climb, corner fenced red and white ribbon, for which should not cross, and a counter that records each violated the law. This is a simulator, a simple example to teach a person to step over the basic instincts such as the instinct of self-preservation. It is congenital and acquired reflexes hinder us on the path of discovery.
 
-# See also
+## See also
 
-+ [One](index)
-+ [Two](index)
-Antimuseum
-Electromuseum
-Dancing in St. Petersburg (2015)
++ [Antimuseum](index)
++ [Electromuseum](index)
++ [Dancing in St. Petersburg (2015)](index)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)

@@ -20,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORTNAME
+shortname: CORSA
 facebook: 0
 instagram: 0
 youtube: 0

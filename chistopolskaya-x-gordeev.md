@@ -19,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: CHISTOPOLSKAYA X GORDEEV
+shortname: CHISTOPOLSKAYA
 facebook: 0
 instagram: 0
 youtube: 0
