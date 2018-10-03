@@ -33,7 +33,7 @@ pinterest: 0
 
 ## Biography
 
-She was born in a family of filmmakers, her father was a cameraman, and her mother was a sound engineer. In 1977 she graduated from the art history department of the Faculty of History of Moscow State University. In 1981 she graduated from the graduate school of Moscow State University. From 1984–1997 curator of international exhibitions of Russian art in the All-Union Art and Production Association E. V. Vuchetich. In 1993–1994, she completed an internship at the Solomon R. Guggenheim Museum in New York. In 1998-2000, he was head of the department of foreign relations and exhibitions at the Pushkin Museum of Fine Arts. In 2002–2013, he was deputy general director for exhibition work and international relations at the Moscow Kremlin State Historical and Cultural Museum-Reserve. From August 14, 2013 - Director General of the State Museum and Exhibition Center "ROSIZO". From February 10, 2015 - Director General of the All-Russian Museum Association - State Tretyakov Gallery.
+She was born in a family of filmmakers, her father was a cameraman, and her mother was a sound engineer. In 1977 she graduated from the art history department of the Faculty of History of Moscow State University. In 1981 she graduated from the graduate school of Moscow State University. From 1984–1997 curator of international exhibitions of Russian art in the All-Union Art and Production Association E. V. Vuchetich. In 1993–1994, she completed an internship at the Solomon R. Guggenheim Museum in New York. In 1998-2000, he was head of the department of foreign relations and exhibitions at the Pushkin Museum of Fine Arts. In 2002–2013, he was deputy general director for exhibition work and international relations at the Moscow Kremlin State Historical and Cultural Museum-Reserve. From August 14, 2013 - Director General of the State Museum and Exhibition Center "ROSIZO". From February 10, 2015 - Director General of the All-Russian Museum Association - State Tretyakov Gallery <span id="a2">[\[2\]](#f2)</span>.
 
 ## Awards
 
@@ -50,7 +50,7 @@ Commander of the Order of the Star of Italy (Italy, May 2, 2012)
 
 Also Tregulova is known as Vladimir Putin's confidant in the pre-election campaign of 2018.
 
-# Conspectus
+## Conspectus
 
 |Year|Milestone|
 |-|-|
@@ -62,12 +62,14 @@ Also Tregulova is known as Vladimir Putin's confidant in the pre-election campai
 |2013|Rosizo|
 |2015|Tretyakov Gallery|
 
-# See also
+## See also
 
 + [Doletskaya, Alena](doletskaya-alena)
 + [Shirkovskii, Petr](shirkovskii-petr)
 + [Tretyakov Gallery](tretyakov-gallery)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Опубликована третья часть списка доверенных лиц Путина (TVC)](https://www.tvc.ru/news/show/id/131796)
+
+[[2]](#a2) <span id="f2"></span> [{{page.title}} (Wikipedia)](index)
