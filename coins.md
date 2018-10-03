@@ -2,9 +2,10 @@
 Title: Donate
 Permalink: coins
 Layout: info
-published: true
-shortname: ICOI
+exclude: true
+shortname: COINS
 ---
+
 `In 2018 One Indexmod Coin is = ₽10000`
 
 🔵 [Buy](https://money.yandex.ru/to/41001208338566)
