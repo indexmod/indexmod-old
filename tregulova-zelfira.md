@@ -2,23 +2,23 @@
 title: Tregulova, Zelfira
 permalink: tregulova-zelfira
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+originlang: Tat.
+originspell: Зөлфирә Исмәгыйль кызы Трегулова
+appearing: Born
+city: Riga
+birth: 1955
+givenname: Zelfira
+familyname: Zelfira
+othername:
+venue: State Tretyakov Gallery
+founder:
+origin: a Russian
+profession: art critic, curator of international museum exhibition projects, Ph.D. in History of Arts, Director of the State Tretyakov Gallery (2015)
+photo: Zelfira Tregulova
+photographer: Yourii Chichkov
+source: The Art Newspaper
+photographerurl: chichkov-yourii
+sourceurl: http://www.theartnewspaper.ru/public/uploads/posts/post/2015-12/15594293-dda1-476b-8873-e9100b676ca5.jpg
 shortname: TREGULOVA
 facebook: 0
 instagram: 0
@@ -31,18 +31,14 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Tat. Зөлфирә Исмәгыйль кызы Трегулова; born. 1955, Riga) art critic, curator of international museum exhibition projects, Ph.D. in History of Arts, Director of the State Tretyakov Gallery (2015), also nkown as Vladimir Putin's confidant in the pre-election campaign of 2018. <span id="a1">[\[1\]](#f1)</span>.
+## Putin's confidant (2018)
 
-![](http://www.theartnewspaper.ru/public/uploads/posts/post/2015-12/15594293-dda1-476b-8873-e9100b676ca5.jpg)
-
-**Zelfira Tregulova**
-
-*Photo: [Yourii Chichkov](chichkov-yourii) / [The Art Newspaper](http://www.theartnewspaper.ru/public/uploads/posts/post/2015-12/15594293-dda1-476b-8873-e9100b676ca5.jpg)*
+Also Tregulova is known as Vladimir Putin's confidant in the pre-election campaign of 2018.
 
 # Conspectus
 
 |Year|Milestone|
-|----|-----|
+|-|-|
 |1977|MSU Faculty of History|
 |1984-1997|Vuchetich All-Union artistic and production association|
 |1993-1994|Solomon R. Guggenheim Museum|
