@@ -31,6 +31,21 @@ soundcloud: 0
 pinterest: 0
 ---
 
+## Biography
+
+She was born in a family of filmmakers, her father was a cameraman, and her mother was a sound engineer. In 1977 she graduated from the art history department of the Faculty of History of Moscow State University. In 1981 she graduated from the graduate school of Moscow State University. From 1984–1997 curator of international exhibitions of Russian art in the All-Union Art and Production Association E. V. Vuchetich. In 1993–1994, she completed an internship at the Solomon R. Guggenheim Museum in New York. In 1998-2000, he was head of the department of foreign relations and exhibitions at the Pushkin Museum of Fine Arts. In 2002–2013, he was deputy general director for exhibition work and international relations at the Moscow Kremlin State Historical and Cultural Museum-Reserve. From August 14, 2013 - Director General of the State Museum and Exhibition Center "ROSIZO". From February 10, 2015 - Director General of the All-Russian Museum Association - State Tretyakov Gallery.
+
+## Awards
+
++ Diploma of the Ministry of Culture of the Russian Federation
+Commander of the Order of the Star of Italy (Italy, May 2, 2012)
++ Commander of the Order Pro Merito Melitensi (Order of Malta, 2012)
++ Order of Francis Skaryna (Belarus, August 16, 2018) - for outstanding achievements in cultural and educational activities and significant successes in strengthening and developing Belarusian-Russian cultural ties
++ Winner of the award “Honor and Dignity of the Profession” of the VII All-Russian festival Intermusey (2005)
++ Gold Medal named after Lev Nikolayev (November 14, 2016)
++ Winner of the award "RBC-2016" in the nomination "State Person" (December 6, 2016)
+
+
 ## Putin's confidant (2018)
 
 Also Tregulova is known as Vladimir Putin's confidant in the pre-election campaign of 2018.
