@@ -42,7 +42,7 @@ Commander of the Order of the Star of Italy (Italy, May 2, 2012)
 
 Commander of the Order Pro Merito Melitensi (Order of Malta, 2012)
 
-Order of Francis Skaryna (Belarus, August 16, 2018) - for outstanding achievements in cultural and educational activities and significant successes in strengthening and developing Belarusian-Russian cultural ties
+Order of Francis Skaryna (Belarus, August 16, 2018) for outstanding achievements in cultural and educational activities and significant successes in strengthening and developing Belarusian-Russian cultural ties
 
 Winner of the award “Honor and Dignity of the Profession” of the VII All-Russian festival Intermusey (2005)
 
