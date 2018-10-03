@@ -2,9 +2,9 @@
 title: Babushkin, Dmitry
 permalink: babushkin-dmitry
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Дитрий Бабушкин
+appearing: Born
 city: Moscow
 birth: 2018
 givenname: Given name
@@ -12,14 +12,14 @@ familyname: Family name
 othername: Other name
 venue: Red Square
 founder: Founder
-origin: a / an Russian
+origin: a Russian
 profession: writer based in Europe
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORTNAME
+shortname: BABUSHKIN
 facebook: 0
 instagram: 0
 youtube: 0
