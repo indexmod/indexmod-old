@@ -37,14 +37,18 @@ She was born in a family of filmmakers, her father was a cameraman, and her moth
 
 ## Awards
 
-+ Diploma of the Ministry of Culture of the Russian Federation
+Diploma of the Ministry of Culture of the Russian Federation
 Commander of the Order of the Star of Italy (Italy, May 2, 2012)
-+ Commander of the Order Pro Merito Melitensi (Order of Malta, 2012)
-+ Order of Francis Skaryna (Belarus, August 16, 2018) - for outstanding achievements in cultural and educational activities and significant successes in strengthening and developing Belarusian-Russian cultural ties
-+ Winner of the award “Honor and Dignity of the Profession” of the VII All-Russian festival Intermusey (2005)
-+ Gold Medal named after Lev Nikolayev (November 14, 2016)
-+ Winner of the award "RBC-2016" in the nomination "State Person" (December 6, 2016)
 
+Commander of the Order Pro Merito Melitensi (Order of Malta, 2012)
+
+Order of Francis Skaryna (Belarus, August 16, 2018) - for outstanding achievements in cultural and educational activities and significant successes in strengthening and developing Belarusian-Russian cultural ties
+
+Winner of the award “Honor and Dignity of the Profession” of the VII All-Russian festival Intermusey (2005)
+
+Gold Medal named after Lev Nikolayev (November 14, 2016)
+
+Winner of the award "RBC-2016" in the nomination "State Person" (December 6, 2016)
 
 ## Putin's confidant (2018)
 
@@ -55,10 +59,10 @@ Also Tregulova is known as Vladimir Putin's confidant in the pre-election campai
 |Year|Milestone|
 |-|-|
 |1977|MSU Faculty of History|
-|1984-1997|Vuchetich All-Union artistic and production association|
-|1993-1994|Solomon R. Guggenheim Museum|
-|1998-2000|Pushkin Museum|
-|2002-2013|Moscow Kremlin|
+|1984|Vuchetich All-Union artistic and production association|
+|1993|Solomon R. Guggenheim Museum|
+|1998|Pushkin Museum|
+|2002|Moscow Kremlin|
 |2013|Rosizo|
 |2015|Tretyakov Gallery|
 
@@ -72,4 +76,4 @@ Also Tregulova is known as Vladimir Putin's confidant in the pre-election campai
 
 [[1]](#a1) <span id="f1"></span> [Опубликована третья часть списка доверенных лиц Путина (TVC)](https://www.tvc.ru/news/show/id/131796)
 
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Wikipedia)](index)
+[[2]](#a2) <span id="f2"></span> [{{page.title}} (Wikipedia)](https://ru.wikipedia.org/wiki/Трегулова,_Зельфира_Исмаиловна)
