@@ -2,43 +2,34 @@
 title: Cocos Moscow
 permalink: cocos-moscow
 layout: default
-shortname: COCOS
-indexmod: Indexmod
-birth: '2017'
-age: '1'
-updateyear: '2018'
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '2505'
-instagram: '23500'
-youtube: '11'
-vimeo: '0,0'
-twitter: '0,0'
-pinterest: '5'
-founder: Masha Titova
-founder-2: Zong Vu
-published: true
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
 birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: COCOS
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
-
 (Est. {{ page.birth }}, {{ page.city }}) is a Russian brand of basic casual wear founded by {{page.founder}} and {{page.founder-2}} <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/{{ page.permalink }}.jpg)
@@ -63,17 +54,6 @@ founder: 'Andrei Dei'
 |-|-|
 |2018|Natalia Turovnikova|
 
-## {{page.title}} Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Pinterest <span id="a6">[\[6\]](#f6)</span>|{{ page.pinterest }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
 
 ## See also
 

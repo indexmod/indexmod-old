@@ -2,31 +2,35 @@
 title: Coty Russia
 permalink: coty-russia
 layout: default
-published: true
-shortname: COTR
-birth: 1999
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
 birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: SHORTNAME
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
 (Rus. Коти Россия, est {{ page.birth }}, {{ page.city }}) is a dauter of global leader in beauty with 47 brands in 40 countries with the capitalisation of $4.4b in revenue <span id="a1">[\[1\]](#f1)</span>. In Russia Coty have more than 150 employees and representatives in different regions.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
@@ -52,7 +56,3 @@ Coty was founded in Paris in 1904 by François Coty, a “visionary” in the pe
 ## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
