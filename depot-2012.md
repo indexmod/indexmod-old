@@ -2,41 +2,69 @@
 title: Depot (2012)
 permalink: depot-2012
 layout: default
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: DEPOT
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
-# {{page.title}}
 
-(Est. 2013, city)
+![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-Depot (Rus. Депо) created in 2012, Moscow—is a 5-minute video by Marina Fomenko <span id="a1">[\[1\]](#f1)</span>.
+**Image caption**
 
-![](/encyclopedia/images/image-name.jpg)
+*Photo: [Not specified](index) / [Source](index)*
 
-**Image title**
+## Сonspectus
 
-*Photo: [Name](index) / [Source](index)*
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
-# {{page.title}} — The video
+## See also
+
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+
+## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
+
+[[2]](#a2) <span id="f2"></span> [{{page.title}} (Source name)](index)
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+
+[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+
 
 The circular locomotive depot Nikolaev railway, built in Moscow in the middle of the XIX century, has undergone over the years of its existence, a lot of changes. From the depot, it has become a “Crow Colony” with shops, restaurants, warehouses, garage and indispensable dump. We are witnessing the transformation of the old architectural buildings, losing their individuality in interaction with everyday life.
 
