@@ -2,6 +2,7 @@
 title: The Indexmod under-universe
 permalink: universe
 layout: tech-universe
+shortname: UNIVERSE
 exclude: true
 ---
 

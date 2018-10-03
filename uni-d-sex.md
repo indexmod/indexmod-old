@@ -32,7 +32,6 @@ sourceurl: https://cocos-moscow.ru/product-category/unisex/
 founder: Zong Vu and Masha Titova
 ---
 
-
 *Photo: [Cocos Moscow](cocos-moscow) / [Cocos Moscow](https://cocos-moscow.ru/product-category/unisex/)*
 
 ## See also

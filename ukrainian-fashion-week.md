@@ -2,11 +2,10 @@
 title: Ukrainian Fashion Week
 permalink: ukrainian-fashion-week
 layout: default
-exclude: true
-originlang: Rus. / Eng.
+originlang: Ukr.
 originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
+appearing: Est.
+city: Kiev
 birth: 2018
 givenname: Given name
 familyname: Family name
@@ -31,7 +30,6 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
-
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
