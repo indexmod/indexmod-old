@@ -2,16 +2,16 @@
 title: Reserve Vintage, La
 permalink: reserve-vintage-la
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Резерв винтаж
+appearing: Est.
 city: Moscow
-birth: 2018
+birth: 2013
 givenname: Given name
 familyname: Family name
 othername: Other name
-venue: Red Square
-founder: Founder
+venue: TsUM
+founder: Anna Yaroshenko
 origin: a / an Russian
 profession: writer based in Europe
 photo: This is sample for image caption
@@ -31,26 +31,28 @@ soundcloud: 0
 pinterest: 0
 ---
 
-# Reserve Vintage, La
+## Reserve Vintage, La
 
 (Rus. Ла Резерв Винтаж, est. 2013, Moscow) an online store with popups in Moscow and Yekaterinburg. The barand was founded by Anna Yaroshenko in Moscow in 1998 from personal vintage jewelry collection, clothing, and accessories <span id="a1">[\[1\]](#f1)</span>.
 
-|![](/encyclopedia/images/brooch.jpg)|![](/encyclopedia/images/brooch.jpg)|
-|**Brooch by Jean-Louis Scherrer, 80th**|**Layout sketch of the “La Reserve” stickers and packaging**|
+![](/encyclopedia/images/brooch.jpg)
+
+**Brooch by Jean-Louis Scherrer, 80th**
+**Layout sketch of the “La Reserve” stickers and packaging**
 
 *Photo: [La Reserve Vintage](index) / [La Reserve Vintage](index)*
 
-# Selected partners
+## Selected partners
 
 |Year|Store|City|
 |-|-|-|
 |2013|Shop Liberty|Yekaterinburg|
 |2014|Aizel|Moscow|
 
-# See also
+## See also
 
 + [Aizel Trudel](trudel-aizel)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
