@@ -2,7 +2,7 @@
 title: 'Vu, Zong'
 permalink: vu-zong
 layout: default
-shortname: VUZONG
+shortname: VU
 birth: '1986'
 city: Moscow
 givenname: Zong

@@ -2,29 +2,35 @@
 title: V-A-C Foundation
 permalink: v-a-c-foundation
 layout: default
-published: true
-shortname: VACF
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: V-A-C
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
 (Rus. Фонд «Виктория—искусство быть современным», est. 2009, Moscow) founded and headed by Leonid Mikhelson <span id="a1">[\[1\]](#f1)</span>, and dedicated to the international presentation, production and development of Russian contemporary art, focusing on supporting and expanding the platform for home-grown talent, giving artists the opportunity to experience, engage with and interrogate international cultural practices whilst developing an authentic and autonomous artistic language <span id="a2">[\[2\]](#f2)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
