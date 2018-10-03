@@ -2,9 +2,9 @@
 title: Reshetov, Alexander
 permalink: reshetov-alexander
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Александр Решетов
+appearing: Born
 city: Moscow
 birth: 2018
 givenname: Given name
@@ -19,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORTNAME
+shortname: RESHETOV
 facebook: 0
 instagram: 0
 youtube: 0
@@ -31,7 +31,6 @@ soundcloud: 0
 pinterest: 0
 ---
 
-
 # See also
 
 + [About {{page.title}}](index)
@@ -40,9 +39,3 @@ pinterest: 0
 # Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
