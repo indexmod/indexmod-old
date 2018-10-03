@@ -1,6 +1,6 @@
 ---
 title: Doha Fashion Week
-permalink: page-template
+permalink: doha-fashion-week
 layout: default
 originlang: Rus. / Eng.
 originspell: Original spell
