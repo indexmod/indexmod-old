@@ -1,6 +1,6 @@
 ---
-title: Volvo Moscow Fashion Week
-permalink: volvo-moscow-fashion-week
+title: Schlippe, Bettina von
+permalink: schlippe-bettina-von
 layout: default
 originlang: Rus. / Eng.
 originspell: Original spell
@@ -19,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: VMFW
+shortname: SCHLIPPE
 facebook: 0
 instagram: 0
 youtube: 0
@@ -31,11 +31,10 @@ soundcloud: 0
 pinterest: 0
 ---
 
-# See also
+## See also
 
 + [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)

@@ -4,7 +4,7 @@ permalink: wylde-thomas-designer
 layout: default
 originlang: Eng.
 originspell: Original spell
-appearing: Updated / Est. / Born
+appearing: Est.
 city: Moscow
 birth: 2018
 givenname: Given name

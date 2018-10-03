@@ -2,39 +2,33 @@
 title: Wild Orchid
 permalink: wild-orchid-lingerie
 layout: default
-shortname: WIOR
-indexmod: Indexmod
-birth: '2010'
-age: '8'
-updateyear: '2018'
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-published: true
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
 birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: WILD ORCHID
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a Russia's largest operator in the market of lingerie, swimwear, home wear and beachwear <span id="a1">[\[1\]](#f1)</span>.
@@ -60,18 +54,6 @@ The company includes retail chains the premium “Wild Orchid” (Versace, Erman
 ## Bankruptcy
 
 In 2012, due to the bankruptcy of the group of the “Wild Orchid” was sold to the former co-owner of the network “Lenta”and founder of “Yulmart” and now it belongs to LLC “RozTeh” <span id="a3">[\[3\]](#f3)</span> — a manufacturer of women's underwear and operator of retail chains with own production (2004), the first brand of the company with respect to the production of products called Vendetta. Now stores are represented as their own brands and brands from other manufacturers. The company's products can be found in 29 cities of Russia.
-
-## Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
 
 ## See also
 
