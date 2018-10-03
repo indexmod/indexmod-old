@@ -8,8 +8,8 @@ appearing: Born
 city: Riga
 birth: 1955
 givenname: Zelfira
-familyname: Zelfira
-othername:
+familyname: Tregulova
+othername: Зөлфирә Исмәгыйль кызы Трегулова
 venue: State Tretyakov Gallery
 founder:
 origin: a Russian
