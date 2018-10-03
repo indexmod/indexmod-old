@@ -19,7 +19,7 @@ photographer: Stephan Shakher
 source: Avocado Productions
 photographerurl: shakher-stephan
 sourceurl: avocado-productions
-shortname: BAKU
+shortname: BAKU MAG
 facebook: 9884
 instagram: 44200
 youtube: 444
