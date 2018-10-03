@@ -12,7 +12,7 @@ familyname:
 othername: IFW; Pekan Mode Indonesia
 venue: Jakarta Convention Center
 founder: Asosiasi Perancang Pengusaha Mode Indonesia
-origin: an International
+origin: an international
 profession: fashion event in Indonesia
 photo: At the party by Tim Spotlight of IFW'19 upcoming partners at Raffles Hotel Jakarta
 photographer: Yonbeni
