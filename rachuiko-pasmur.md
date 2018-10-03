@@ -2,28 +2,35 @@
 title: 'Rachuiko, Pasmur'
 permalink: rachuiko-pasmur
 layout: default
-shortname: RAPA
-indexmod: '0,1208'
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+originlang: Rus.
+originspell: Пасмур Рачуйко
+appearing: Born
+city: Rostov-on-Don
+birth: 1986
+givenname: Pasmur
+familyname: Rachuiko
+othername: 
+venue:  
+founder:
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: RACHUIKO
+facebook: 325
+instagram: 786
+youtube: 51
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
 
 (Rus. Пасмур Рачуйко, born. 1986, Rostov-on-Don) is a Russian artist working using a subjectivist pantheon of symbolic characters and pop culture memes, among which self-portraits occupy a key position, being placed in the context of issues surrounding gender, social and national identification, educated at the St. Petersburg State University of Culture and Arts, painting since 2012 <span id="a1">[\[1\]](#f1)</span>, as well as, the artist carries out performances using locally foraged foods as media, such as snails and nettles, works are held in private and museum collections in Coldrerio (Switzerland), Milan (Italy), Moscow and St. Petersburg (Russia), among his works there are also ceramic tiles <span id="a2">[\[2\]](#f2)</span>. Living and working in Rostov-on-Don.
 
@@ -33,24 +40,13 @@ founder: 'Andrei Dei'
 
 *Photo: [Anna Zadorenko](zadorenko-anna) / [Knife Media](https://knife.media/artist-eats-wild-food/)*
 
-# {{page.title}} Conspectus
+# Conspectus
 
 |Year|Exhibitions|City|
 |-|-|-|
 |2017|St. Petersburg’s Street Art Museum "Brighter days are coming"|Saint-Petersburg|
 |2016|Contemporary art center Brewhouse “Selfportraits”|Moscow|
 |2015|Gallery LUDA “DAO DAG: Contemporary art from Dagestan”|Saint-Petersburg|
-
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|325||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|786||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|51||
-|Age|32||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,120848||
 
 # See also
 

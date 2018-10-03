@@ -2,38 +2,39 @@
 title: Rozendaal, Rafaël
 permalink: rozendaal-rafaël
 layout: default
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: ROZENDAAL
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
-# {{page.title}}
 
 (Est. 2013, city) is a Rafaël Rozendaal (Lang. Original name) born 1980—a Dutch-Brazilian internet-visual artist practice websites, installations, lenticulars, lectures, and haiku, lives and works in New York. Websites of Rafaël Rozendaal attract a large audience of over 30 million visits per year <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Image title**
-
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Rozendaal's Haiku
+# Rozendaal's Haiku
 
 “I hate New York
 But I have to live here
@@ -51,10 +52,6 @@ TSCA Gallery Tokyo
 Seoul Art Square
 NIMk Amsterdam
 Stedelijk Museum
-
-|Year|City|
-|-|-|
-|2017|Moscow|
 
 # Selected Press
 
@@ -83,13 +80,6 @@ Here (London)
 Vivid (Sydney)
 
 
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
-
-
 # See also
 
 + [About {{page.title}}](index)
@@ -100,11 +90,3 @@ Angelo Plessas
 # Footnotes
 
 [[3]](#a3) <span id="f3"></span> [New Rafael (Facebook)](https://www.newrafael.com/bio/)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
