@@ -2,28 +2,36 @@
 title: 'Chistova, Anna'
 permalink: chistova-anna
 layout: default
-published: true
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: CHISTOVA
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
+
 (Rus. Анна Чистова, born. 1980, Ekaterinburg) Russian designer of evening dresses, artist and actress <span id="a1">[\[1\]](#f1)</span>, co-founder ChistovaEndourova brand, founder and owner of [Chistova](chistova-clothes) brand. Anna also known as costume creator and stylist for «Духless» (2005) and «Духless 2» (2015).
 
 ![](http://www.womanhit.ru/media/CACHE/images/dynasty/dinastii4_6bRa2As/18341685626b30ca1e4f2497cdeabd74.png)
@@ -33,7 +41,7 @@ founder: 'Andrei Dei'
 
 *Photo: [Gennadi Avramenko](avramenko-gennadi) / [Woman Hit](woman-hit)*
 
-# Private life of {{page.title}}
+# Private life
 
 |Relatives|Name|
 |-|-|
@@ -41,13 +49,6 @@ founder: 'Andrei Dei'
 |Ex-Husband|Gleb Samoilov (musisian)<span id="a3">[\[3\]](#f3)</span>|
 |Husband|Oleg Zotkin (promoter)|
 |Son|Egor Zotkin|
-
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|000 <span id="a6">[\[6\]](#f6)</span>|00|0,0000|
 
 
 # See also
@@ -66,9 +67,3 @@ founder: 'Andrei Dei'
 Alevtina Letopisceva)](http://www.womanhit.ru/stars/interview/2017-09-08-kak-valerija-gaj-germanika-porodnila-mir-kinematografa-rok-muzyki-i-balnyh-tantsev/)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Facebook)](https://www.kinopoisk.ru/name/2004249/)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a6) <span id="f6"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
