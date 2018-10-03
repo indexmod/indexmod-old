@@ -2,26 +2,33 @@
 title: Ulyana Sergeenko (clothes)
 permalink: ulyana-sergeenko-clothes
 layout: default
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: ULSER
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
 # Ulyana Sergeenko (clothes)
@@ -37,7 +44,7 @@ founder: 'Andrei Dei'
 # Couture
 
 |Year|Collection|City|
-|----|-----|----|
+|-|-|-|
 |2016|Spring-Summer 2017|Paris|
 |2015|Fall-Winter 2016/2017|Paris|
 |2015|Spring-Summer 2016|Paris|
@@ -53,7 +60,7 @@ founder: 'Andrei Dei'
 # Demi-Couture
 
 |Year|Collection|City|
-|----|-----|----|
+|-|-|-|
 |2016|Spring-Summer 2017|Paris|
 |2015|Fall-Winter 2016/2017|Paris|
 |2015|Spring-Summer 2016|Paris|
@@ -82,7 +89,3 @@ Celebrities such as Natalia Vodianova, Dita von Teese, Rihanna, Lady Gaga, Beyon
 # Footnotes
 
 [[1, 2]](#a1) <span id="f1"></span> [About Ulyana Sergeenko](http://ulyanasergeenko.net/#about)
-
----
-
-`Last update Jan 2018 by Andrei Dei`
