@@ -1,10 +1,10 @@
 ---
 title: Bridal Fashion Week Plovdiv
-permalink: brighton-fashion-week
+permalink: bridal-fashion-week-plovdiv
 layout: default
 originlang: Rus. / Eng.
 originspell: Original spell
-appearing: Updated / Est. / Born
+appearing: Est.
 city: Moscow
 birth: 2018
 givenname: Given name
@@ -19,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: PLOVDIV
+shortname: BRIDAL
 facebook: 0
 instagram: 0
 youtube: 0
