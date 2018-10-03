@@ -33,7 +33,7 @@ pinterest: 3
 
 ## See also
 
-+ [Jakarta Fashion Week {{page.title}}](index)
++ [Jakarta Fashion Week](index)
 + [Bali](index)
 
 ## Footnotes
