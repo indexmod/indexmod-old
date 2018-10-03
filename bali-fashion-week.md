@@ -5,7 +5,7 @@ layout: default
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
-city: Moscow
+city: Denpasar
 birth: 2018
 givenname: Given name
 familyname: Family name
@@ -19,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: BALI
+shortname: BFW
 facebook: 0
 instagram: 0
 youtube: 0
