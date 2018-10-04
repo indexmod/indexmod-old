@@ -1,5 +1,5 @@
 ---
-title: 'Romanyuk, Lisa'
+title: Romanyuk, Lisa
 permalink: romanyuk-lisa
 layout: default
 originlang: Rus. / Eng.
