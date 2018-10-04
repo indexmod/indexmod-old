@@ -31,7 +31,7 @@ soundcloud: 0
 pinterest: 0
 ---
 
-An interactive installation by Varenye Organizm.
+An interactive installation by Varenye Organizm
 
 ## Description
 

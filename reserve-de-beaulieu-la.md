@@ -2,24 +2,24 @@
 title: Réserve De Beaulieu, La
 permalink: reserve-de-beaulieu-la
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
+originlang: Fr.
+originspell: La Réserve De Beaulieu
+appearing: Est.
+city: Beaulieu-Sur-Mer
+birth: 2013
+givenname: La Réserve
+familyname: De Beaulieu
+othername:
+venue:
 founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+origin: a hotel
+profession: in Beaulieu-Sur-Mer
+photo: La Réserve de Beaulieu, end of XIX century
+photographer: Pierre Lottier
+source: Marcdelage.unblog.fr
 photographerurl: index
 sourceurl: index
-shortname: RÉSERVE DE BEAULIEU,
+shortname: RÉSERVE BEAULIEU
 facebook: 0
 instagram: 0
 youtube: 0
@@ -31,44 +31,13 @@ soundcloud: 0
 pinterest: 0
 ---
 
+(Est. 2013, city) is a La Réserve de Beaulieu—a hotel, spa and restaurant at Beaulieu-Sur-Mer at French Riviera well known among contemporary Russian travelers. Sign in to edit La Réserve de Beaulieu.
 
-# {{page.title}}
+## See also
 
-(Est. 2013, city) is a La Réserve de Beaulieu—a hotel, spa and restaurant at Beaulieu-Sur-Mer at French Riviera well known among contemporary Russian travelers. Sign in to edit La Réserve de Beaulieu <span id="a1">[\[1\]](#f1)</span>.
++ [Russia Cola](index)
++ [La Reserve Vintage](index)
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Image title**
-La Réserve de Beaulieu, end of XIX century.
-Photo: Pierre Lottier / Marcdelage.unblog.fr
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
-
-
-# See also
-
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-Russia Cola
-La Reserve Vintage
-
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
