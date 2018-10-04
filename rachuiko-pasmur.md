@@ -9,20 +9,20 @@ city: Rostov-on-Don
 birth: 1986
 givenname: Pasmur
 familyname: Rachuiko
-othername: 
+othername:
 venue:  
 founder:
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+origin: a Russian
+profession: artist working using a subjectivist pantheon of symbolic characters and pop culture memes
+photo: Pasmur in 2017 on the background of his work on ceramic tiles
+photographer: Anna Zadorenko
+source: Knife Media
+photographerurl: https://knife.media/artist-eats-wild-food
+sourceurl: https://knife.media/artist-eats-wild-food
 shortname: RACHUIKO
-facebook: 325
-instagram: 786
-youtube: 51
+facebook: 27
+instagram: 927
+youtube: 67
 vimeo: 0
 twitter: 0
 tumblr: 0
