@@ -2,29 +2,35 @@
 title: 'Oh, My (brand)'
 permalink: oh-my-brand
 layout: default
-published: true
-shortname: OHMY
 originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
-sourceurl: index
-founder: 'Andrei Dei'
+originspell: О-май
+appearing: Est.
+city: Saint Petersburg
+birth: 2010
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Sergei Kovelenov
+origin: a Russian
+profession: brand of basic clothes with moto "Bread, salt and matches"
+photo: Founder of "Oh, my" Sergei Kovelenov
+photographer: Piotr Lukritsa
+source: Russian Fashion Now
+photographerurl: https://rfnow.ru/biografiya-kovelenov-sergey
+sourceurl: https://rfnow.ru/biografiya-kovelenov-sergey
+shortname: OH, MY
+facebook: 35926
+instagram: 45100
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
 
 (Est. 2010, Saint Petersburg) is a Russian brand of basic clothes with moto "Bread, salt and matches" <span id="a1">[\[1\]](#f1)</span> founded by Sergei Kovelenov (Сергей Ковеленов), positioning itself as a competitor of Uniqlo, Gap, Benetton, H&M <span id="a2">[\[2\]](#f2)</span>.
 
@@ -55,16 +61,6 @@ The assortment of "Oh, my" has all the necessary female and male basic models of
 | |Volgograd|
 | |Yaroslavl|
 
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a4">[\[4\]](#f4)</span>|35926||
-|Instagram <span id="a5">[\[5\]](#f5)</span>|45100||
-|YouTube|||
-|Age|8||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,80932104||
 
 # See also
 
@@ -82,5 +78,3 @@ The assortment of "Oh, my" has all the necessary female and male basic models of
 [[3]](#a3) <span id="f3"></span> [Как заработать миллион? Oh, my (YouTube)](https://www.youtube.com/watch?v=hTOJ8fbrbq8)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Facebook)](https://www.facebook.com/ohmyltd/)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (Instagram)](index)
