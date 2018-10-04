@@ -2,15 +2,15 @@
 title: Avetisyan, Tigran
 permalink: avetisyan-tigran
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Тигран Аветсян
+appearing: Born
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
+birth: 1989
+givenname: Tigran 
+familyname: Avetisyan
+othername:
+venue:
 founder: Founder
 origin: a / an Russian
 profession: writer based in Europe
@@ -30,18 +30,6 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
-
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
