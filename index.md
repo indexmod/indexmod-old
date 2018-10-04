@@ -8,7 +8,7 @@ exclude: true
 
 <ul>
 
-  {% assign mypages = site.pages_html | sort: "order" %}
+  {% assign mypages = site.pages | sort: "order" %}
   {% for page in mypages %}
   {% unless page.exclude %}
   <li class="intro">
