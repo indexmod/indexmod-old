@@ -2,7 +2,7 @@
 title: Artcom Media
 permalink: artcom-media
 layout: default
-givenname: Artcom Media
+givenname: Artcom
 familyname:
 othername: Артком Медиа Групп
 shortname: ACMG
