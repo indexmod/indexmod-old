@@ -1,20 +1,20 @@
 ---
-title: 'Youdashkin, Valentin'
+title: Youdashkin, Valentin
 permalink: youdashkin-valentin
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Валентин Юдашкин
+appearing: Born
 city: Bakovka
 birth: 1963
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
+givenname: Valentin
+familyname: Youdashkin
+othername: Юдашкин
+venue: Youdashkin fashion house
+founder: of the Youdashkin fashion house
 origin: a Russian
 profession: fashion designer
-photo: This is sample for image caption
+photo: Valentin Youdashkin
 photographer: Photographer
 source: Source
 photographerurl: index
@@ -33,10 +33,6 @@ pinterest: 0
 
 
 (Rus. Юдашкин, Валентин Абрамович, born. 1963, Bakovka) is a Russian fashion designer <span id="a1">[\[1\]](#f1)</span>.
-
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Valentin Youdashkin**
 
 *Photo: [Teleprogramma](teleprogramma) / [Woman Rambler](https://woman.rambler.ru/fashion/38843880-yudashkin-valentin-abramovich/)*
 
