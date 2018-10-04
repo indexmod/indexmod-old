@@ -1,28 +1,35 @@
 ---
 title: Ким Ё Чен
 permalink: kim-yo-jong
-layout: default-ru
+layout: default
 published: true
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
-city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
-photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+originlang: Kor.
+originspell: 김여정
+appearing: Born
+city: Пхеньян
+birth: 1987
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
+photo: Ким Ё Чен прибывает на станцию Джинбу, чтобы принять участие в церемонии открытия Олимпийских игр Пхенчхане 9 февраля 2018 года
+photographer: AFP
+source: National Post
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: KIM
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
 (По-корейски 김여정, по-английски Kim Yo-jong <span id="a1">[\[1\]](#f1)</span>, род. 1987, Пхеньян) Директор Департамента пропаганды и агитации Рабочей партии Кореи, окончила Военный университет имени Ким Ир Сена, так же предположительно находилась на учебе в Швейцарии со старшим братом Ким Чен Ыном. Ким Ё Чен младшая сестра главы КНДР Ким Чен Ына, и самая младшая в семье Кимов <span id="a2">[\[2\]](#f2).
