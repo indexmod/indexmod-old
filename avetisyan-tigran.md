@@ -1,5 +1,5 @@
 ---
-title: 'Avetisyan, Tigran'
+title: Avetisyan, Tigran
 permalink: avetisyan-tigran
 layout: default
 originlang: Rus. / Eng.
@@ -54,6 +54,6 @@ pinterest: 0
 
 Is a is the 29-year old Russian-Armenian designer who’s making fashion with a critical edge. Having previously worked for Acne and Lanvin, the Saint Martins graduate moved back to Moscow to distance himself from the fashion world and focus on his own label.
 
-**Avetisyan, Tigran**
+**1 Avetisyan, Tigran**
 
 *Photo: [Not specified](index) / [Sleak Mag](index)*
