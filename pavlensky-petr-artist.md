@@ -2,26 +2,33 @@
 title: Pavlensky, Petr (artist)
 permalink: pavlensky-petr-artist
 layout: default
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: PAVLENSKY
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
 (Est. 2013, city) is a Petr Pavlensky, Pjotr Pawlenski (Rus. Пётр Павленский) born 1984, Leningrad—is a Russian performance artist acts in a genre of protest art1. Petr becomes popular after scandal action “Fixation” on Red Square in Moscow in 2013. Login to edit Petr Pavlensky <span id="a1">[\[1\]](#f1)</span>.

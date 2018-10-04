@@ -2,29 +2,33 @@
 title: 'Pogosian, Sergei'
 permalink: pogosian-sergei
 layout: default
-published: true
-shortname: POGA
-born: null
-birth: 1980
-city: Baku
-originspell: Шаблон
-appearing: Updated
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
+city: Moscow
 birth: 2018
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: POGOSIAN
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
 (Rus. Сергей Погосян, Пога, born {{ page.birth }}, {{ page.city }}) also Po Ga is a Russian and Karabakh artist of installations, collector of vintage interior decorations living and working in Moscow and Bali. Sergei have worked as photo editor in OM Magazine, as camera man on the reality show for TNT Channel in Berlin and NY, the artistic director on the film “Духless”, the “Cabinet President” (Kandinsky Prize 2013) project for PG Group, creates light box installations, for many years, works with wood, plaster, metal <span id="a1">[\[1\]](#f1)</span>.
