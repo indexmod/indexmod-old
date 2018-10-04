@@ -39,7 +39,7 @@ pinterest: 0
 
 *Photo: [Andrei Dei](deinichenko-andrei) / [Eta (fellowship)](eta-fellowship)*
 
-## {{page.title}} Conspectus
+## Conspectus
 
 |Year|City|Installation|
 |-|-|-|
