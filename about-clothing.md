@@ -45,8 +45,8 @@ Natural beeswax soothes the skin, aloe vera moisturizes it, silk proteins enhanc
 
 ## Footnotes
 
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Facebook)](https://goo.gl/aYWoqC)
+[[2]](#a2) <span id="f2"></span> [(Facebook)](https://goo.gl/aYWoqC)
 
-[[3]](#a2) <span id="f3"></span> [{{page.title}} (Instagram)](https://goo.gl/Qaxa8R)
+[[3]](#a2) <span id="f3"></span> [(Instagram)](https://goo.gl/Qaxa8R)
 
-[[4]](#a2) <span id="f4"></span> [{{page.title}} (YouTube)](https://goo.gl/RL6Wdw)
+[[4]](#a2) <span id="f4"></span> [(YouTube)](https://goo.gl/RL6Wdw)

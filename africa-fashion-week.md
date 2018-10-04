@@ -50,8 +50,8 @@ Adirée (pronounced Aw•DEE•ray) is a multi-media marketing communications an
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [About](index)
++ [Wikipedia](index)
 
 ## Footnotes
 

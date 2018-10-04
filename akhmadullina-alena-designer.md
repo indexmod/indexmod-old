@@ -2,64 +2,55 @@
 title: 'Akhmadullina, Alena (designer)'
 permalink: akhmadullina-alena-designer
 layout: default
-shortname: AKHMADULLINA
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+exclude: true
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: SHORTNAME
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
-(Rus. Алёна Ахмадуллина, born 1978, Sosnovy Bor) Russian fashion designer, founder of the brand Alena Akhmadullina, participant of various Russian and international competitions in the field of fashion, мember of "Snob" from April 2009 <span id="a1">[\[1\]](#f1)</span>.
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+**Image caption**
 
-**Image title**
+*Photo: [Not specified](index) / [Source](index)*
 
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
+## Сonspectus
 
 |Year|City|
 |-|-|
-|2017|Moscow|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
-# {{page.title}} Indexmod
+## See also
 
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
-|Age|000|000|
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|0,0000|0,0000|
++ [About](index)
++ [More](index)
 
-# See also
+## Footnotes
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
 
-# Footnotes
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
+(Rus. Алёна Ахмадуллина, born 1978, Sosnovy Bor) Russian fashion designer, founder of the brand Alena Akhmadullina, participant of various Russian and international competitions in the field of fashion, мember of "Snob" from April 2009

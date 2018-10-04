@@ -29,8 +29,8 @@ founder: 'Alexander Arutyunov'
 
 ## See also
 
-+ [{{page.title}} jewelry](alexander-arutyunov-jewelry)
++ [AA jewelry](alexander-arutyunov-jewelry)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Web site)](http://alexanderarutyunov.ru/en/history)
+[[1]](#a1) <span id="f1"></span> [(Web site)](http://alexanderarutyunov.ru/en/history)

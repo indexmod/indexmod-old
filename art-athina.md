@@ -1,43 +1,66 @@
 ---
 title: Art-Athina
 permalink: art-athina
-position: null
 layout: default
-shortname: ARTATHINA
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+exclude: true
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: SHORTNAME
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
-(Est. 2013, city) Art-Athina (International Contemporary Art Fair of Athens) est. 1993—is an annual international contemporary art fair that takes place in Athens, Greece launched by the Hellenic Art Galleries Association, Art-Athina stands today as one of the longest lasting contemporary art fairs in Europe and as the largest annual visual arts event in Greece. A meeting point for international artistic creation, Art-Athina brings together significant Greek and foreign art galleries, cultural institutions, curators, collectors, art critics and art lovers <span id="a1">[\[1\]](#f1)</span>.
-
-![](/images/image-name.jpg)
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Image caption**
+
+*Photo: [Not specified](index) / [Source](index)*
+
+## Сonspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+
+## See also
+
++ [About](index)
++ [More](index)
+
+## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+
+
+Art-Athina (International Contemporary Art Fair of Athens) est. 1993—is an annual international contemporary art fair that takes place in Athens, Greece launched by the Hellenic Art Galleries Association, Art-Athina stands today as one of the longest lasting contemporary art fairs in Europe and as the largest annual visual arts event in Greece. A meeting point for international artistic creation, Art-Athina brings together significant Greek and foreign art galleries, cultural institutions, curators, collectors, art critics and art lovers <span id="a1">[\[1\]](#f1)</span>.
 
 Steven C. Harvey, False Flight Madonna, 2014, Pencil on paper, (fragment)
 Photo: Art-Athina 2015 Catalogue / Art-Athina
 
 Roi Alter, An approximate portrait of Baruch Spinoza with contempt, 2014, Painting / Industrial paint on wood, (fragment)
 Photo: Art-Athina 2015 Catalogue / Art-Athina
-
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
 # Selected exhibitors in 2015
 
@@ -63,51 +86,3 @@ Tsatsis Projects / Artforum
 Ufofabrik Contemporary Art Gallery
 Widmertheodoridis
 Zina Athanassiadou Gallery
-
-# Art-Athina Indexmod
-# XXX Indexmod
-
-|Year|Facebook|Instagram|Age|XXX|
-|-|-|-|-|-|
-|2018|ХХ <span id="a3">[\[3\]](#f3)</span>||ХХ <span id="a4">[\[4\]](#f4)</span>|Х,ХХ|
-|2019|||ХХ||
-
-# See also update in Feb. 2018
-
-+ [Ilia Varegin](varegin-ilia)
-+ [Vetements](vetements)
-+ [Vemina](vemina)
-+ [Romanyuk Lisa](romanyuk-lisa)
-+ [Raare Fashion Days](raare-fashion-days)
-+ [Nina Donis](nina-donis)
-+ [Moscow Fashion House Slava Zaitsev](moscow-fashion-house-slava-zaitsev)
-+ [Infundibulum](infundibulum)
-+ [Griby](griby)
-+ [Gosha Gazinskaya](gosha-gazinskaya)
-+ [Gazinskaya Vika](gazinskaya-vika)
-+ [Galetsky Moscow](galetsky-moscow)
-+ [Galetsky Anton](galetsky-anton)
-+ [Deinichenko Andrei](deinichenko-andrei)
-+ [Indexmod Encyclopedia](indexmod-encyclopedia)
-+ [Antimuseum](antimuseum)
-+ [Antimuseum-2](antimuseum-2)
-+ [Antarctic Biennale](antarctic-biennale)
-+ [APXL](apxl)
-+ [Art Athina](art-athina)
-+ [Firm](firm)
-+ [Tamkovich Friske Ian](tamkovich-friske-ian)
-+ [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-+ [Athens]
-+ [Medusa Art Gallery]
-+ [Nitra Gallery]
-+ [Mary Katrantzou]
-+ [Panos Yiapanis]
-+ [Athens Xclusive Designers Week]
-
-# Footnotes
-
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
-
-[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)

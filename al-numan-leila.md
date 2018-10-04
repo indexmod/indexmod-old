@@ -40,4 +40,4 @@ In 1993 graduated from S. G. Stroganov Moscow University of Art and Industry (fa
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](https://www.facebook.com/alexandria.glass.studio/?notif_id=1527024751169651&notif_t=page_invite)
+[[1]](#a1) <span id="f1"></span> [(Facebook)](https://www.facebook.com/alexandria.glass.studio/?notif_id=1527024751169651&notif_t=page_invite)

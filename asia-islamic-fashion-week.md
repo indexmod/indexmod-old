@@ -2,6 +2,7 @@
 title: Asia Islamic Fashion Week
 permalink: asia-islamic-fashion-week
 layout: default
+exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born

@@ -2,27 +2,57 @@
 title: Amsterdam Street Art
 permalink: amsterdam-street-art
 layout: default
-shortname: AMSTERDAMSTRART
-originspell: Amsterdam Street Art
-appearing: Updated
-birth: 2018
+exclude: true
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: SHORTNAME
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Image caption**
+
+*Photo: [Not specified](index) / [Source](index)*
+
+## Сonspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+
+## See also
+
++ [About](index)
++ [More](index)
+
+## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+
 
 (Est. 2010, Amsterdam) Amsterdam Street Art—a non-profit organization, before 2014 Amsterdam Street Art festival has provided an exchange between street artists and the creative sector in the Amsterdam, from 2015 organization is going abroad with international activities. <span id="a1">[\[1\]](#f1)</span>, In collaboration with Lombardi Properties in Miami, USA-ASA presented Amsterdam art during Art Basel Miami in 2014. This project was a collaborative clash of street art, contemporary art, local architecture, top-notch design, American culture and Dutch roots <span id="a2">[\[2\]](#f2)</span>.
 
@@ -48,7 +78,7 @@ Besides the festival, ASA commissioned many artists murals in recent years, has 
 
 # Mission
 
-ASA mission is to give street art a massive boost in Amsterdam. We want to achieve this by creating a community/platform, organize events and exhibitions, paint jams and whatever tickles our fancy—a place where international artists and creative people like to work and live, a city where inhabitants value creative expressions by their peers who work in Amsterdam for an international market <span id="a3">[\[3\]](#f3)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/amsterdam-street-art).
+ASA mission is to give street art a massive boost in Amsterdam. We want to achieve this by creating a community/platform, organize events and exhibitions, paint jams and whatever tickles our fancy—a place where international artists and creative people like to work and live, a city where inhabitants value creative expressions by their peers who work in Amsterdam for an international market <span id="a3">[\[3\]](#f3)</span>.
 
 # See also
 

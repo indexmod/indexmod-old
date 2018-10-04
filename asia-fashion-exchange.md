@@ -2,6 +2,7 @@
 title: Asia Fashion Exchange
 permalink: asia-fashion-exchange
 layout: default
+exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born

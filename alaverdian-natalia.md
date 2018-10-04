@@ -2,54 +2,53 @@
 title: Alaverdian, Natalia
 permalink: alaverdian-natalia
 layout: default
-shortname: ALAVERDIAN
-originspell: Наталья Алавердян
-appearing: Updated
-birth: 2018
+exclude: true
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: SHORTNAME
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
- (Rus. Наталья Алавердян, born 1975, Moscow) is a fashion photographer, founder and creative director of A.W.A.K.E., living and working in NYC, Belgium, London and Moscow. See also: Elena Lubeznova, Gosha Rubchinskiy, SNC 100 MIPRF. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-![](/images/image-name.jpg)
+**Image caption**
 
-*Image caption*
+*Photo: [Not specified](index) / [Source](index)*
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
-
-# Conspectus
+## Сonspectus
 
 |Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
-# See also
+## See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
++ [About](index)
++ [More](index)
 
-# Footnotes
+## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
-
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)

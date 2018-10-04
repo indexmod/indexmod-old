@@ -2,6 +2,7 @@
 title: Asia Fashion Week London
 permalink: asia-fashion-week-london
 layout: default
+exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
