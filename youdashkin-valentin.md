@@ -31,7 +31,6 @@ soundcloud: 0
 pinterest: 0
 ---
 
-
 (Rus. Юдашкин, Валентин Абрамович, born. 1963, Bakovka) is a Russian fashion designer <span id="a1">[\[1\]](#f1)</span>.
 
 *Photo: [Teleprogramma](teleprogramma) / [Woman Rambler](https://woman.rambler.ru/fashion/38843880-yudashkin-valentin-abramovich/)*
