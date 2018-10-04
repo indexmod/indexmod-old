@@ -5,18 +5,15 @@ layout: info
 published: true
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) is a Mozzhinka, luminaries village1, widows village2, golden youth village3 (Rus. Мозжинка) est. 1946, is a cottage village founded after the decree signed by Joseph Stalin4 and donated to the private property to a number of soviet academics <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-**Image title**
+
 The multimedia installation by 4S4R in the basement of the Levin's house in Mozzhinka, 2016
 Photo: Andrei Gurotesuku / Indexmod Encyclopedia
-*Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} The era of new academics
+# The era of new academics
 
 In the 10s, of the 21st century in the village begins to form a new layer of the descendants of new academics engaged in the media and creative industries such as Mongait family and 4S4R Group.
 
@@ -26,12 +23,12 @@ In the 10s, of the 21st century in the village begins to form a new layer of the
 
 ![](/encyclopedia/images/{{page.permalink}}-1.jpg)
 
-**Image title**
+
 The multimedia installation by 4S4R in the basement of the Levin's house in Mozzhinka, 2016
 Photo: Andrei Gurotesuku / Indexmod Encyclopedia
-*Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Indexmod
+
+# Indexmod
 
 |Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
@@ -51,9 +48,3 @@ Photo: Andrei Gurotesuku / Indexmod Encyclopedia
 4 История поселка
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

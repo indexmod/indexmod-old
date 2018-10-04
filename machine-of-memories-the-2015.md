@@ -1,69 +1,61 @@
 ---
-title: Template
-permalink: template
+title: The machine of memories
+permalink: machine-of-memories-the
 layout: default
-published: true
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus.
+originspell: Машина воспоминаний
+appearing: Made
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2014
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a Russian
+profession: art-video by Olga Butenop
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: SHORTNAME
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-(Est. 2013, city) is a The machine of memories (Rus. Машина воспоминаний) created in 2014, Moscow—is a video by Olga Butenop.1 Login to edit The machine of memories <span id="a1">[\[1\]](#f1)</span>.
+**Image caption**
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+*Photo: [Not specified](index) / [Source](index)*
 
-**Image title**
-
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Olga about the video
-
-I asked people on the Internet tell us about their first memories of life. It was interesting to gather stories of people I had never seen and did not know—that they felt, saw, what feelings they are experiencing now remembering these moments? So, I got a clean set of visual images of people's lives. Then, I voiced these memories with the help of computer voices. And with the help of video endlessly spinning turbine created the image of android-memory aggregation of fifty strangers.1
-
+## Сonspectus
 
 |Year|City|
 |-|-|
-|2017|Moscow|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
-# {{page.title}} Indexmod
+## See also
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
++ [About](index)
++ [More](index)
 
+## Footnotes
 
-# See also
+(Rus. Машина воспоминаний) created in 2014, Moscow is a video by Olga Butenop.
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
+# Olga about the video
+
+I asked people on the Internet tell us about their first memories of life. It was interesting to gather stories of people I had never seen and did not know—that they felt, saw, what feelings they are experiencing now remembering these moments? So, I got a clean set of visual images of people's lives. Then, I voiced these memories with the help of computer voices. And with the help of video endlessly spinning turbine created the image of android-memory aggregation of fifty strangers.1
+
 + Antimuseum
 + Electromuseum
 + Malevich Experience (2016)
-
-# Footnotes
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

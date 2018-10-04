@@ -2,30 +2,35 @@
 title: Moscow сhthonist (group)
 permalink: moscow-chthonist-group
 layout: default
-shortname: MCHG
-indexmod: Indexmod
-published: true
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: MOSCOW СHTHONIST
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
 (Est. 2018, Moscow) is an art group, focused on basis Ancient “subterranean” deities or spirits <span id="a1">[\[1\]](#f1)</span> of the underworld, or refers to anything which is under/of the earth.
 
 ![](/encyclopedia/images/moscow-chthonists-1.jpg)
@@ -34,7 +39,7 @@ founder: 'Andrei Dei'
 
 *Photo: [Dmitry Jakovlev](jakovlev-dmitry-visual-artist) / [Facebook](https://www.facebook.com/dmitry.yakovlev/about?lst=100008481991414%3A714859555%3A1525429921)*
 
-# {{page.title}} Conspectus
+# Conspectus
 
 |Year|City|Persone|Event|
 |-|-|-|-|

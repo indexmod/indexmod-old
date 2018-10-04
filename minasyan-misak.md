@@ -2,29 +2,35 @@
 title: 'Minasyan, Misak'
 permalink: minasyan-misak
 layout: default
-published: true
-shortname: MIMI
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: MINASYAN
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
 (Rus. Мисак Минасян, born. in 1983, Stanitsa Marianskaya) is a Russian visual artist student of Rodchenko School <span id="a1">[\[1\]](#f1)</span>, co-founder of [Proun](proun-movement), also known as [Samokatyan (Самоктьян)](samokatjan-misak), curator in Synthposium festival <span id="a2">[\[2\]](#f2)</span>, a transcendental person who does not exist in the consciousness of being-for-itself, phenomenon of the phenomenon, existential emanation of self, ontological accident, escapist-technocrat, minimalist, nothingness structuralist, intelligent dadaist, scholastic saboteur, techno mannerist, catechist of the absurd <span id="a3">[\[3\]](#f3)</span>. Misak living and working in Moscow.
 
 ![](https://d3n32ilufxuvd1.cloudfront.net/58cea0d6ef52950077521e06/891274/upload-e75f6910-b988-11e7-854f-8d7efb5c9763.png)

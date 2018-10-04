@@ -2,39 +2,37 @@
 title: Molodtsov, Evgeny
 permalink: molodtsov-evgeny
 layout: default
-originlang: Rus.
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: MOLODTSOV
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
-# {{page.title}}
 
 (Est. 2013, city) is a Evgeny Molodtsov (Rus. Евгений Молодцов) born 1987, Penza—is a Russian multimedia, artist jury of photo festival «Evolution» 2012, 2013 in Kostroma, Russia, a founder of gallery FineArtRussia <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/{{page.permalink}}.jpg)
-
-**Image title**
-
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Bio
 
 Earned degree in economics at the National Research University – Higher School of Economics (Moscow) while studying the photography at the school for journalists. In 2010 became the member of the Union of Photo Artists of Russia. Spend one year in Italy studying the culture and economics at the Bologna University. From 2012 live in Saint Petersburg and attend the Fotodepartament Institute contemporary photography course. In 2014 I participated in parallel program of Manifesta, the European Biennial of Contemporary Art. I’ve visited the workshops of Rafal Milach, Andrei Liankevich and other contemporary photographers.
 Preferred medium – photography. My methods in photography often include catalogization, deconstruction, appropriation and decontextualization.
@@ -67,31 +65,23 @@ Earth Herbarium. Russian Reporter magazine. 2013.
 House of Photo. Catalogue of the Parallel program of Manifesta. 2014.
 Appropriation in the photography. FMagazine. 2015.
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Image caption**
+
+*Photo: [Not specified](index) / [Source](index)*
+
+## Сonspectus
+
 |Year|City|
 |-|-|
-|2017|Moscow|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
-# {{page.title}} Indexmod
+## See also
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
++ [About](index)
++ [More](index)
 
+## Footnotes
 
-# See also
-
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-+ Antimuseum
-+ Antimuseum II
-+ Electromuseum
-
-# Footnotes
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
