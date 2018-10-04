@@ -34,13 +34,7 @@ pinterest: 0
 
 (Rus. Пасмур Рачуйко, born. 1986, Rostov-on-Don) is a Russian artist working using a subjectivist pantheon of symbolic characters and pop culture memes, among which self-portraits occupy a key position, being placed in the context of issues surrounding gender, social and national identification, educated at the St. Petersburg State University of Culture and Arts, painting since 2012 <span id="a1">[\[1\]](#f1)</span>, as well as, the artist carries out performances using locally foraged foods as media, such as snails and nettles, works are held in private and museum collections in Coldrerio (Switzerland), Milan (Italy), Moscow and St. Petersburg (Russia), among his works there are also ceramic tiles <span id="a2">[\[2\]](#f2)</span>. Living and working in Rostov-on-Don.
 
-![](https://knife.media/wp-content/uploads/2017/08/Pasmur-Rachujko_08.jpg)
-
-**Pasmur in 2017 on the background of his work on ceramic tiles**
-
-*Photo: [Anna Zadorenko](zadorenko-anna) / [Knife Media](https://knife.media/artist-eats-wild-food/)*
-
-# Conspectus
+## Conspectus
 
 |Year|Exhibitions|City|
 |-|-|-|
@@ -48,12 +42,12 @@ pinterest: 0
 |2016|Contemporary art center Brewhouse “Selfportraits”|Moscow|
 |2015|Gallery LUDA “DAO DAG: Contemporary art from Dagestan”|Saint-Petersburg|
 
-# See also
+## See also
 
 + [Andrei Pomulev](pomulev-andrei)
 + [Gosha Gazinskaya](gosha-gazinskaya)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Всегда Современное, Пасмур Рачуйко](https://sovrisk.gallery/artprofile/?aid=149)
 
