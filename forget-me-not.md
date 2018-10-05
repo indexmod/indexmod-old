@@ -2,32 +2,38 @@
 title: Forget Me Not
 permalink: forget-me-not
 layout: default
-published: true
-shortname: FGMN
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: FORGET
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
-(Rus. Незабудка, est. 2010) is a Russian unisex clothes brand based in Moscow founded by Artur Lomakin  <span id="a1">[\[1\]](#f1)</span>, collections known with floor-length coats, heavy-knit sweaters and lambskin collars that goes from the "grey anonymity of Moscow's suburbs" <span id="a2">[\[2\]](#f2)</span>, living and working in "the Southern suburb of Chertanovo" <span id="a3">[\[3\]](#f3)</span> in Moscow.
 
-![](https://static.vogue.ru/iblock/3df/3dfb13364f53e8fed1a38a9c5c772f00.jpg)
+
+(Rus. Незабудка, est. 2010) is a Russian unisex clothes brand based in Moscow founded by Artur Lomakin  <span id="a1">[\[1\]](#f1)</span>, collections known with floor-length coats, heavy-knit sweaters and lambskin collars that goes from the "grey anonymity of Moscow's suburbs" <span id="a2">[\[2\]](#f2)</span>, living and working in "the Southern suburb of Chertanovo" <span id="a3">[\[3\]](#f3)</span> in Moscow.
 
 **Image from 2015  Winter lookbook**
 
@@ -49,17 +55,6 @@ Artur Lomakin is a stylist turned fashion designer. In 2010 he founded Forget Me
 |----|-----|
 |2010|Moscow|
 |2015|MY|
-
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
 
 # See also
 
