@@ -1,6 +1,6 @@
 ---
-title: Tel Aviv Fashion Week
-permalink: tel-aviv-fashion-week
+title: Toronto Women's Fashion Week
+permalink: toronto-women-s-fashion-week
 layout: default
 exclude: true
 originlang: Rus. / Eng.
@@ -20,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: TEL AVIV  
+shortname: TORONTO WOMEN'S
 facebook: 0
 instagram: 0
 youtube: 0
