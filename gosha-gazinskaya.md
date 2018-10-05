@@ -2,56 +2,62 @@
 title: Gosha Gazinskaya
 permalink: gosha-gazinskaya
 layout: default
-published: true
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: GOSHA GAZINSKAYA
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
-(Rus. Гоша Газинская; est. 2016, Moscow/NYC) is a brand-parody <span id="a1">[\[1\]](#f1)</span>, semi-virtual brand <span id="a2">[\[2\]](#f2)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/gosha-gazinskaya.md)
 
-![](/encyclopedia/images/image-name.jpg)
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption title**
+**Image caption**
+
+*Photo: [Not specified](index) / [Source](index)*
+
+## Сonspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+
+## See also
+
++ [About](index)
++ [More](index)
+
+## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+
+(Rus. Гоша Газинская; est. 2016, Moscow/NYC) is a brand-parody <span id="a1">[\[1\]](#f1)</span>, semi-virtual brand <span id="a2">[\[2\]](#f2)</span>.
+
 
 Ivan Shteyngud wearing Gosha Gazinskaya shirt
 Ivan Shteyngud wearing Gosha Gazinskaya shirt
 Photo: Kate Kobzar / Facebook
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-## Conspectus
-
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
-
-## Gosha Gazinskaya Indexmod
-
-|Year|Facebook|Instagram|Age|XXX|
-|-|-|-|-|-|
-|2018|ХХ <span id="a3">[\[3\]](#f3)</span>||ХХ <span id="a4">[\[4\]](#f4)</span>|Х,ХХ|
-|2019|||ХХ||
-
-## See also update in Feb. 2018
 
 + [Ilia Varegin](varegin-ilia)
 + [Vetements](vetements)
@@ -64,7 +70,3 @@ Photo: Kate Kobzar / Facebook
 [[1]](#a1) <span id="f1"></span> [Не те, кем кажутся: В чём секрет успеха марок-пародий (Author name)](http://example.net/article)
 
 [[2]](#a2) <span id="f2"></span> [О моде 2027 года. Какой будет и будет ли? (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
-
-[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)

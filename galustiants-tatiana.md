@@ -2,56 +2,59 @@
 title: Galustiants, Tatiana
 permalink: galustiants-tatiana
 layout: default
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: GALUSTIANTS
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-(Est. 2013, city)
+**Image caption**
 
-Tatiana Galustiants  011  SNC (Rus. Татьяна Галустянц) born 1968, Krasnodar—is a Russian woman-entrepreneur an owner of the Этажи Fashion Group living in Moscow and Sochi <span id="a1">[\[1\]](#f1)</span>.
+*Photo: [Not specified](index) / [Source](index)*
 
-![](/encyclopedia/images/galustiants.jpg)
-
-**Tatiana Galustiants in 2015**
-
-*Photo: [Max Lepihin](index) / [Vklube TV Krasnodar](index)*
-
-# {{page.title}} Conspectus
+## Сonspectus
 
 |Year|City|
 |-|-|
-|2014|Tokyo|
-|2017|Paris|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
-# {{page.title}} Indexmod
+## See also
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
++ [About](index)
++ [More](index)
 
-# See also
+## Footnotes
 
-+ [One](index)
-+ [Two](index)
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+
+
+Tatiana Galustiants  011  SNC (Rus. Татьяна Галустянц) born 1968, Krasnodar—is a Russian woman-entrepreneur an owner of the Этажи Fashion Group living in Moscow and Sochi <span id="a1">[\[1\]](#f1)</span>.
+
 + Ekaterina Moiseeva
 + Elena Perminova
 + Этажи Fashion Group
@@ -66,13 +69,3 @@ Tatiana Galustiants  011  SNC (Rus. Татьяна Галустянц) born 1968
 + Maya
 + Arnoveau
 + Graviteight
-
-# Footnotes
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

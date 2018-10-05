@@ -2,32 +2,55 @@
 title: Griby
 permalink: griby
 layout: default
-published: true
-shortname: GRBY
-indexmod: Indexmod
-birth: '2000'
-age: '18'
-updateyear: '2018'
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: GRIBY
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Image caption**
+
+*Photo: [Not specified](index) / [Source](index)*
+
+## Сonspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+
+## See also
+
++ [About](index)
++ [More](index)
+
+## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
 
 (Ukr. Гриби, est. 2016, Kiev, dis. 2017) Ukrainian, UkrPop emotional phenomenon, styled as ‘gopniks’ [hoodlum] <span id="a1">[\[1\]](#f1)</span>, hiphop-house <span id="a2">[\[2\]](#f2)</span> band founded by musician from Lugansk <span id="a3">[\[3\]](#f3)</span>, Yuri Bardash (Kruzheva), Ilya Kapustin (4atty aka Tilla), Symptom NZHN and Kyivstoner (Correspondent Raduzhny) who “incorporate elements of Russian hip-hop and turns them into well-made house music.”, with 2017 Spring hit Tayet Lyod (“The Ice is Melting”) in one month have reached 50 million number of views <span id="a3">[\[3\]](#f3)</span>.
 
@@ -39,39 +62,9 @@ founder: 'Andrei Dei'
 *Photo: [Unidentified](unidentified) / [The Flow](http://the-flow.ru/news/kyivstoner-dyadya-sho-ty-gonish)*
 
 
-# Griby Indexmod
-
-|Year|Facebook|Instagram|Age|GBI|
-|-|-|-|-|-|
-|2018|1983 <span id="a4">[\[4\]](#f4)</span>|7065 <span id="a5">[\[5\]](#f5)</span>|2|0,018096|
-
 # Disintegration in 2017
 
 In August 2017, producer Yuri Bardash stated that on December 31, 2017 the band would cease its concert activity <span id="a6">[\[6\]](#f6)</span>. In late November, the band canceled all the concerts planned for the end of the year, after which rumors began spreading about the disintegration of the "Griby"<span id="a6">[\[7\]](#f6)</span>.
-
-
-
-
-# See also update in Feb. 2018
-
-+ [Vetements](vetements)
-+ [Vemina](vemina)
-+ [Infundibulum](infundibulum)
-+ [Gosha Gazinskaya](gosha-gazinskaya)
-+ [Gazinskaya Vika](gazinskaya-vika)
-+ [Galetsky Moscow](galetsky-moscow)
-+ [Indexmod Encyclopedia](indexmod-encyclopedia)
-+ [Antimuseum](antimuseum)
-+ [Antimuseum-2](antimuseum-2)
-+ [Antarctic Biennale](antarctic-biennale)
-+ [APXL](apxl)
-+ [Art Athina](art-athina)
-+ [Firm](firm)
-+ [Tamkovich Friske Ian](tamkovich-friske-ian)
-+ [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-+ [Gosha Gazinskaya](gasha-gazinskaya)
-+ [AVEC](avec)
-
 
 # Footnotes
 

@@ -2,76 +2,55 @@
 title: Galetsky Moscow
 permalink: galetsky-moscow
 layout: default
-published: true
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: GALETSKY MOS
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
-(2000, Moscow) is a fashion brand founded by designer Anton Galetsky <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/galetsky-moscow.md)
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-![](/encyclopedia/images/image-name.jpg)
+**Image caption**
 
-**Image caption title**
+*Photo: [Not specified](index) / [Source](index)*
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+## Сonspectus
 
-# XXX Indexmod
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
-|Year|Facebook|Instagram|Age|XXX|
-|-|-|-|-|-|
-|2018|ХХ <span id="a3">[\[3\]](#f3)</span>||ХХ <span id="a4">[\[4\]](#f4)</span>|Х,ХХ|
-|2019|||ХХ||
+## See also
 
-# See also update in Feb. 2018
++ [About](index)
++ [More](index)
 
-+ [Ilia Varegin](varegin-ilia)
-+ [Vetements](vetements)
-+ [Vemina](vemina)
-+ [Romanyuk Lisa](romanyuk-lisa)
-+ [Raare Fashion Days](raare-fashion-days)
-+ [Nina Donis](nina-donis)
-+ [Moscow Fashion House Slava Zaitsev](moscow-fashion-house-slava-zaitsev)
-+ [Infundibulum](infundibulum)
-+ [Griby](griby)
-+ [Gosha Gazinskaya](gosha-gazinskaya)
-+ [Gazinskaya Vika](gazinskaya-vika)
-+ [Galetsky Moscow](galetsky-moscow)
-+ [Galetsky Anton](galetsky-anton)
-+ [Deinichenko Andrei](deinichenko-andrei)
-+ [Indexmod Encyclopedia](indexmod-encyclopedia)
-+ [Antimuseum](antimuseum)
-+ [Antimuseum-2](antimuseum-2)
-+ [Antarctic Biennale](antarctic-biennale)
-+ [APXL](apxl)
-+ [Art Athina](art-athina)
-+ [Firm](firm)
-+ [Tamkovich Friske Ian](tamkovich-friske-ian)
-+ [Zaitsev Vyacheslav](zaitsev-vyacheslav)
+## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
 
-[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
 
-# Footnotes
-
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
-
-`Last update Feb. 2018 (Andrei Dei)`
+(2000, Moscow) is a fashion brand founded by designer Anton Galetsky
