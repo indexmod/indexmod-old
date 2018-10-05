@@ -2,30 +2,56 @@
 title: 'Jakovlev, Dmitry (artist)'
 permalink: jakovlev-dmitry-artist
 layout: default
-shortname: JADM
-indexmod: '0,05'
-published: true
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: JAKOVLEV
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Image caption**
+
+*Photo: [Not specified](index) / [Source](index)*
+
+## Сonspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+
+## See also
+
++ [About](index)
++ [More](index)
+
+## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+
 
 (Rus. Дмитрий Яковлев, birth. 1980, Nizhny Novgorod <span id="a1">[\[1\]](#f1)</span>) is a Russain visual-artist, photographer, art director, member of Association Typographique Internationale and Art Directors Club <span id="a2">[\[2\]](#f2)</span>, founder of KunstGroup and Russian-speaking community about typography Ru_Typography, co-founder of DailyType, participant of type competitions and art exhibitions, founder and Art director (JTF Design) <span id="a3">[\[3\]](#f3)</span>
 
@@ -41,17 +67,6 @@ founder: 'Andrei Dei'
 |-|-|-|
 |2003|Moscow|CD at Leo Burnett Moscow|
 |2011|Cannes|Lions International Festival of Creativity in outdoor|
-
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook|||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|796||
-|Vimeo <span id="a5">[\[5\]](#f5)</span>|79||
-|Age|38||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,05463374||
 
 # See also
 
