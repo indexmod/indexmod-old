@@ -2,62 +2,52 @@
 title: Fide Fashion Weeks
 permalink: fide-fashion-weeks
 layout: default
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: FIDE
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
-(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+**Image caption**
 
-**Image title**
+*Photo: [Not specified](index) / [Source](index)*
 
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
+## Сonspectus
 
 |Year|City|
 |-|-|
-|2017|Moscow|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
-# {{page.title}} Indexmod [*](indexmod)
+## See also
 
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
++ [About](index)
++ [More](index)
 
-# See also
+## Footnotes
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-
-# Footnotes
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)

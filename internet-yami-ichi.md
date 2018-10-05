@@ -2,28 +2,56 @@
 title: Ями-Ичи (рынок)
 permalink: internet-yami-ichi
 layout: default
-published: true
-shortname: YAIC
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: ЯМИ-ИЧИ
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Image caption**
+
+*Photo: [Not specified](index) / [Source](index)*
+
+## Сonspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+
+## See also
+
++ [About](index)
++ [More](index)
+
+## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+
 (англ. Internet Yami-Ichi; яп. インターネットヤミ市; осн. 2012, Токио) «черный рынок зависимых от интернета», «свободный рынок офлайн-браузинга», который дает возможность спроецировать цифровой мир в реальную жизнь в виде материализованных интернет-явлений в исполнении художников, дизайнеров, программистов и энтузиастов интернет-культуры. Впервые рынок Ями-Ичи провели в Токио в 2012 году, в последующие годы рынок проводили в Нью-Йорке, Амстердаме, Брюсселе, Сан-Паулу, Берлине, Москве <span id="a1">[\[1\]](#f1)</span>, так же в Новом Орлеане проходил одноимённый микро-рынок <span id="a2">[\[2\]](#f2)</span>.
 
 ![](https://nyoobserver.files.wordpress.com/2015/09/yami5-e1442267948712.jpg)
@@ -61,20 +89,6 @@ founder: 'Andrei Dei'
 |2017|Лондон|
 |2018|Базель|
 
-## {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a4">[\[4\]](#f4)</span>|0||
-|Instagram <span id="a5">[\[5\]](#f5)</span>|0||
-|YouTube|||
-|Age|6||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0||
-
-
-## См. также
-
 + [Фуджиока, Садам](fujioka-sadam)
 
 
@@ -83,9 +97,3 @@ founder: 'Andrei Dei'
 [[1]](#a1) <span id="f1"></span> [Рынок «Ями-Ичи» на фестивале науки, искусства и технологий «Политех» в Москве](http://example.net/article)
 
 [[2]](#a2) <span id="f2"></span> [Internet Yami-Ichi by Bureau of Change at New Orleans (Bureau of Change)](http://www.bureauofchange.org/internet-yami-ichi)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)

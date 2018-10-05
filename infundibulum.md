@@ -2,29 +2,55 @@
 title: Infundibulum
 permalink: infundibulum
 layout: default
-published: true
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: INFUNDIBULUM
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Image caption**
+
+*Photo: [Not specified](index) / [Source](index)*
+
+## Сonspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+
+## See also
+
++ [About](index)
++ [More](index)
+
+## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
 
 (Est., 2014, Moscow) is a Russian urban ascetic menswear brand created by designer Ilia Varegin with conception of integration spirituality and modern life, philosophy of ascetic hedonism, with collections that are always made as capsule and limited edition, with conception of evolution of tradition of recreating clothing using methods existed before the mass production by own rules as the way the menswear could be if its evolution took a different path <span id="a1">[\[1\]](#f1)</span>.
 
@@ -33,49 +59,3 @@ founder: 'Andrei Dei'
 **From FW 17/18 Lookbook Infundibulum**
 
 *Photo: [Lookbook Infundibulum](Infundibulum) / [Russian Fashion Now](https://rfnow.ru/lookbook-fw-17-18-infundibulum/)*
-
-
-# Infundibulum Indexmod
-
-|Year|Facebook|Instagram|Age|IFI|
-|-|-|-|-|-|
-|2018|3846 <span id="a3">[\[3\]](#f3)</span>|4451 <span id="a4">[\[4\]](#f4)</span>|4|0,033188|
-|2019|||5||
-
-# See also update in Feb. 2018
-
-+ [Ilia Varegin](varegin-ilia)
-+ [Vetements](vetements)
-+ [Vemina](vemina)
-+ [Romanyuk Lisa](romanyuk-lisa)
-+ [Raare Fashion Days](raare-fashion-days)
-+ [Nina Donis](nina-donis)
-+ [Moscow Fashion House Slava Zaitsev](moscow-fashion-house-slava-zaitsev)
-+ [Infundibulum](infundibulum)
-+ [Griby](griby)
-+ [Gosha Gazinskaya](gosha-gazinskaya)
-+ [Gazinskaya Vika](gazinskaya-vika)
-+ [Galetsky Moscow](galetsky-moscow)
-+ [Galetsky Anton](galetsky-anton)
-+ [Deinichenko Andrei](deinichenko-andrei)
-+ [Indexmod Encyclopedia](indexmod-encyclopedia)
-+ [Antimuseum](antimuseum)
-+ [Antimuseum-2](antimuseum-2)
-+ [Antarctic Biennale](antarctic-biennale)
-+ [APXL](apxl)
-+ [Art Athina](art-athina)
-+ [Firm](firm)
-+ [Tamkovich Friske Ian](tamkovich-friske-ian)
-+ [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-
-# Footnotes
-
-[[1]](#a1) <span id="f1"></span> [Infundibulum (Author name)](http://example.net/article)
-
-[[1]](#a2) <span id="f2"></span> [Infundibulum](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Infundibulum (Facebook)](https://www.facebook.com/iinfundibulum/)
-
-[[4]](#a4) <span id="f4"></span> [Infundibulum (Instagram)](https://www.instagram.com/iinfundibulum/)
-
-`Last update Feb. 2018 (Andrei Dei)`

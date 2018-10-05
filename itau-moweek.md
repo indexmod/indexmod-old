@@ -29,9 +29,7 @@ photographerurl: https://www.elobservador.com.uy/moweek-mas-ropa-y-menos-moda-n1
 sourceurl: https://www.elobservador.com.uy
 founder: Buenos Aires fashion group, Milk AD, La Rural, Director Sofía Inciarte
 published: true
-
 ---
-
 
 ## See also
 
