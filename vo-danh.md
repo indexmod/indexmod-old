@@ -10,10 +10,10 @@ birth: 1975
 givenname: Дан
 familyname: Во
 othername: Danh Vo, Danh Vō
-venue: Red Square
-founder: Founder
+venue: Marian Goodman Gallery
+founder:
 origin:  a Danish (датский)
-profession: художник перформанса и инсталляция вьетнамского происхождения живущийи работающий в Берлине и Мехико. Не скрывает свою гомосексуальность
+profession: художник перформанса и инсталляция вьетнамского происхождения живущийи работающий в Берлине и Мехико. Во не скрывает свою гомосексуальность
 photo: Дану Во в 2018 году исполнилось 43 года
 photographer: Xavier Hufkens
 source: Instagram
