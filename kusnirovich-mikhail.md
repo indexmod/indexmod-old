@@ -19,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: Kusnirovich
+shortname: KUSNIROVICH
 facebook: 0
 instagram: 0
 youtube: 0
