@@ -1,6 +1,6 @@
 ---
-title: Tokyo Fashion Week
-permalink: tokyo-fashion-week
+title: Splendid Indian Closet Fashion Tour
+permalink: splendid-indian-closet-fashion-tour
 layout: default
 exclude: true
 originlang: Rus. / Eng.
@@ -20,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: TOKYO
+shortname: SPLENDID TOUR 
 facebook: 0
 instagram: 0
 youtube: 0

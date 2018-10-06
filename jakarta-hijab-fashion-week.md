@@ -1,6 +1,6 @@
 ---
-title: Toronto Women's Fashion Week
-permalink: toronto-women-s-fashion-week
+title: Jakarta Hijab Fashion Week
+permalink: jakarta-hijab-fashion-week
 layout: default
 exclude: true
 originlang: Rus. / Eng.
@@ -20,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: TORONTO WOMEN'S
+shortname: JAKARTA HIJAB
 facebook: 0
 instagram: 0
 youtube: 0

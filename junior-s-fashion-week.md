@@ -1,6 +1,6 @@
 ---
-title: Tokyo Girls Collection
-permalink: tokyo-girls-collection
+title: Junior's Fashion Week
+permalink: junior-s-fashion-week
 layout: default
 exclude: true
 originlang: Rus. / Eng.
@@ -20,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: TOKYO GIRLS
+shortname: JUNIOR'S
 facebook: 0
 instagram: 0
 youtube: 0

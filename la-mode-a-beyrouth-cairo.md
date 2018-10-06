@@ -1,6 +1,6 @@
 ---
-title: Torino Fashion Week
-permalink: torino-fashion-week
+title: Mode A Beyrouth Cairo, La
+permalink: mode-a-beyrouth-cairo-la
 layout: default
 exclude: true
 originlang: Rus. / Eng.
@@ -20,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: TORINO  
+shortname: M BEYROUTH CAIRO
 facebook: 0
 instagram: 0
 youtube: 0

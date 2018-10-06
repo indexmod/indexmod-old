@@ -1,6 +1,6 @@
 ---
-title: The Fashion Awards
-permalink: the-fashion-awards
+title: Centrestage
+permalink: centrestage
 layout: default
 exclude: true
 originlang: Rus. / Eng.
@@ -20,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: THE FASHION AWARDS
+shortname: CENTRESTAGE
 facebook: 0
 instagram: 0
 youtube: 0

@@ -1,6 +1,6 @@
 ---
-title: Tianjin Fashion Week
-permalink: tianjin-fashion-week
+title: Lingerie & Swimwear Fashion Week Varna
+permalink: lingerie-&-swimwear-fashion-week-varna
 layout: default
 exclude: true
 originlang: Rus. / Eng.
@@ -20,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: TIANJIN  
+shortname: LINGERIE VARNA
 facebook: 0
 instagram: 0
 youtube: 0

@@ -1,6 +1,6 @@
 ---
-title: Toronto Fashion Week
-permalink: toronto-fashion-week
+title: Nairobi Fashion Week
+permalink: nairobi-fashion-week
 layout: default
 exclude: true
 originlang: Rus. / Eng.
@@ -20,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: TORONTO FASHION
+shortname: NAIROBI
 facebook: 0
 instagram: 0
 youtube: 0

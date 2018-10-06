@@ -1,6 +1,6 @@
 ---
-title: Telstra Perth Fashion Festival
-permalink: telstra-perth-fashion-festival
+title: Navi Mumbai Fashion Week
+permalink: navi-mumbai-fashion-week
 layout: default
 exclude: true
 originlang: Rus. / Eng.
@@ -20,7 +20,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: TELSTRA PERTH 
+shortname: NAVI MUMBAI 
 facebook: 0
 instagram: 0
 youtube: 0
