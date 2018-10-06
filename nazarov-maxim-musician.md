@@ -2,33 +2,55 @@
 title: 'Nazarov, Maxim (musician)'
 permalink: nazarov-maxim-musician
 layout: default
-published: true
-shortname: NAMA
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: NAZAROV
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
-(Born. 1984 <span id="a1">[\[1\]](#f1)</span>, Moscow) is a Russian musician <span id="a1">[\[2\]](#f1)</span>, founder of Audio Visual Entertainment Company (AVEC) <span id="a3">[\[3\]](#f3)</span> living in Moscow and NYC.
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-![](/images/{{page.permalink}}.jpg)
+**Image caption**
+
+*Photo: [Not specified](index) / [Source](index)*
+
+## Сonspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+
+## See also
+
++ [About](index)
++ [More](index)
+
+## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
 
 **Maxim Nazarov in 2018 at Simachev Bar**
 
@@ -37,7 +59,7 @@ founder: 'Andrei Dei'
 ## Conspectus
 
 |Year|Milestone|
-|----|-----|
+|-|-|
 |2014|Leaving of Cosmotheca|
 |2016|Founding of AVEC|
 
