@@ -2,37 +2,60 @@
 title: Libertine (brand)
 permalink: libertine-brand
 layout: default
-shortname: XXXXXXXXX
-originspell: Шаблон
-appearing: Updated
-birth: 2018
+originlang: Rus. / Eng.
+originspell: Original spell
+appearing: Updated / Est. / Born
 city: Moscow
-facebook: '500000'
-instagram: '500500'
-youtube: '600000'
-vimeo: '100'
-twitter: '400'
-tumblr: '900'
-vkontakte: '0'
-origin: Russian
-profession: English language wiki
+birth: 2018
+givenname: Given name
+familyname: Family name
+othername: Other name
+venue: Red Square
+founder: Founder
+origin: a / an Russian
+profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Andrei Dei
-source: Indexmod Blockchainpedia
-photographerurl: dei-andrei
+photographer: Photographer
+source: Source
+photographerurl: index
 sourceurl: index
-founder: 'Andrei Dei'
+shortname: LIBERTINE B
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
 ---
 
-(Est. 2013, city) is a Libertine, est. 2001, LA—is an American fashion brand founded by Johnson Hartig. <span id="a1">[\[1\]](#f1)</span>.
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-![](/encyclopedia/images/image-name.jpg)
+**Image caption**
 
-**Image title**
+*Photo: [Not specified](index) / [Source](index)*
 
-*Photo: [Name](index) / [Source](index)*
+## Сonspectus
 
-# {{page.title}} About
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+
+## See also
+
++ [About](index)
++ [More](index)
+
+## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+
+
+Libertine, est. 2001, LA—is an American fashion brand founded by Johnson Hartig. <span id="a1">[\[1\]](#f1)</span>.
+
+# About
 
 As the founding force behind Libertine, Johnson Hartig ups the ante in the fashion game by creatively immersing himself and those around him in a whimsical trip where old school classics meet new school know-how.
 
@@ -43,29 +66,3 @@ Equipped with inspirations that ricochet between art, fashion, history, design, 
 Championed by the likes of Anna Wintour and Karl Lagerfeld, today Libertine is internationally recognized as a brand with a surefire cult following extending from East Coast socialites to West Coast creatives and back again to a cross-section of celebrities ranging from Mick Jagger to Taylor Swift. In essence, the longevity of Libertine's appeal spanning fifteen years in the spotlight is a testament to the talent of Johnson Hartig.
 
 Today he lives and works in Los Angeles with his rescue troopers Terence and Diggy Smalls, and regularly travels the globe in search of new experiences and adventures.
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
-
-
-# See also
-
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-
-# Footnotes
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
