@@ -2,24 +2,23 @@
 title: Khayelitsha Fashion Week
 permalink: khayelitsha-fashion-week
 layout: default
-exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Khayelitsha,
+originlang: Eng.
+originspell: Khayelitsha Fashion Week
+appearing: Est.
+city: Khayelitsha, Cape Town
 birth: 2017
-givenname: Given name
-familyname: Family name
-othername: Other name
+givenname: Khayelitsha Fashion Week
+familyname:
+othername: KFW
 venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+founder: Bongani Matenjwa, Zuko Langeni
+origin: a South African
+profession: fashion event founded by Bongani Matenjwa, Zuko Langeni, in Isivivane Center next to Khayelistsha Mall opposite Home affairs and Khayelistsha Hospital at Khayelitsha, Cape Town
+photo: Khayelitsha Fashion Week founder Bongani Matenjwa
+photographer: KFW
+source: Khayelitshafashionweek.co.za
+photographerurl: http://www.khayelitshafashionweek.co.za/about
+sourceurl: http://www.khayelitshafashionweek.co.za/about
 shortname: KHAYELITSHA
 facebook: 5073
 instagram: 508
@@ -34,21 +33,10 @@ pinterest: 0
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Apa-che designer Zughdi Mohammed tries to unite communities through his clothes. Photo: Aphiwe Ngalo, 8 September, 2018.**
 
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
+*Photo: [Aphiwe Ngalo](dailymaverick.co.za/article/2018-09-14-khayelitsha-fashion-week-young-designers-turn-heads-with-afrocentric-flair/) / [Daily Maverick](dailymaverick.co.za/article/2018-09-14-khayelitsha-fashion-week-young-designers-turn-heads-with-afrocentric-flair/)*
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [(Daily Maverick, Dailymaverick.co.za)](dailymaverick.co.za/article/2018-09-14-khayelitsha-fashion-week-young-designers-turn-heads-with-afrocentric-flair/)
