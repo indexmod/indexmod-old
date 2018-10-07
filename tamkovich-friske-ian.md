@@ -52,7 +52,7 @@ He is familiar though in different incarnations. Appeared for the first time in 
 The “real” Tamkovich persistently resisted, even called himself the “original” but nothing helped. As a result he began introducing himself as Yan Ginzbourg at every possible opportunity. The imitator was victorious. The “original” and the “copy” even had an altercation at one of the “Nights of Vernissages” at the Vinzavod Contemporary Art Center, the video of which was a hit in artistic circles for a while. In November 2016 Tamkovich-Friske and Individual Entrepre- neur held a gay-wedding in Center Red (“Bound to Death. Equal Marriage”) <span id="a2">[\[3\]](#f2)</span>.
 
 
-## Merge
+## The Merge
 
 In the early summer of 2016, a case occurred that finally tipped the scales in the direction of Tamkovich-Friske. An employee of the NCCA called him and asked if he could come and sign an agreement for the transportation of Tamkovich’s work from one gallery to another, which he did. Thus, one of the largest Moscow institutions - the NCCA - has officially recognized that there is no difference between Tamkovichi. For the blind bureaucratic machine, they became one person <span id="a4">[\[4\]](#f4)</span>.
 
@@ -63,7 +63,7 @@ In the early summer of 2016, a case occurred that finally tipped the scales in t
 + [Russian Chtonism](russian-chtonism)
 
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Ян Тамкович-Фриске, I'm one of the few people who live what's called a lowlife. (Vk.com)](https://vk.com/my.darkest.light.will.shine)
 
