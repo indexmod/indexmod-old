@@ -14,7 +14,7 @@ venue: Barvikha Luxury Village Hotel & Spa
 founder: “Directorium” Association, “Union of Russian Buyers”, “International Association of Buyers”
 origin: a Russian
 profession: fashion event in Moscow
-photo: This is sample for image caption
+photo: Models of RMFW at Barvikha Luxury Village Hotel & Spa
 photographer: RMFW
 source: Worldpodium.ru
 photographerurl: russia-modest-fashion-week
