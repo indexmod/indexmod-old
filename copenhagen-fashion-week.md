@@ -2,39 +2,63 @@
 title: Copenhagen Fashion Week
 permalink: copenhagen-fashion-week
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
+originlang: Eng.
+originspell: Copenhagen Fashion Week
+appearing: Est.
+city: Copenhagen
+birth: 2006
+givenname: Copenhagen Fashion Week
 familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+othername: CFW
+venue: BLOX
+founder: Danish Ministry of Industry
+origin: a Scandinavia's
+profession: largest fashion event
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
 shortname: COPENHAGEN
-facebook: 0
-instagram: 0
+facebook: 39486
+instagram: 73700
 youtube: 0
 vimeo: 0
-twitter: 0
+twitter: 3394
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
 
+Every February and August, Copenhagen is host to Scandinavia's largest fashion event, Copenhagen Fashion Week. On the catwalks and trade fairs are a growing number of new and known Scandinavian talent with a preview of their upcoming collections.
+
+## The application committee
+
+Frederik Lenzt Andersen, Fashion Director, Euroman
+
+Uffe Buchard, Creative Director, Darling Creative Studio
+
+Rikke Agnete Dam, Fashion Director, Børsen
+
+Elin Frendberg, CEO, Swedish Fashion Council
+
+Kine B. Hartz, Editor-in-chief, Costume Norway
+
+Gisle Mardal, Director, Norwegian Fashion Institute
+
+Yu Masui, Fashion journalist, Freelance
+
+Sarah Skarum, Fashion journalist, Berlingske
+
+Kasper Steenbach, Editor-in-chief, Dossier
+
+Randi Helene Svendsen, Fashion Director, Costume Norway
+
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [About](index)
++ [Wikipedia](index)
 
 ## Footnotes
 
