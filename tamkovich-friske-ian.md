@@ -37,6 +37,7 @@ Also known with his series of provocative photos that includes images of symbols
 
 |Year|Exhibition|Place|
 |-|-|
+|2016|Bound to Death. Equal Marriage|Center Red|
 |2015|Immortality Certificate|Center Red <span id="a2">[\[2\]](#f2)</span>|
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
