@@ -40,6 +40,9 @@ Also known with his series of provocative photos that includes images of symbols
 |2016|Bound to Death. Equal Marriage|Center Red|
 |2015|Immortality Certificate|Center Red <span id="a2">[\[2\]](#f2)</span>|
 
+
+
+
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **A charschter of Ian Tamkovich-Friske in 2017**
