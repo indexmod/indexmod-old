@@ -39,7 +39,7 @@ Also known with his series of provocative photos that includes images of symbols
 |-|-|
 |2015|Immortality Certificate|Center Red <span id="a2">[\[2\]](#f2)</span>|
 
-![](https://afisha.yuga.ru/media/70/75/54104_265863237125920_91199234953418488__qem95at.jpg)
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **A charschter of Ian Tamkovich-Friske in 2017**
 
