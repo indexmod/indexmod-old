@@ -65,6 +65,6 @@ In the early summer of 2016, a case occurred that finally tipped the scales in t
 
 [[1]](#a1) <span id="f1"></span> [Ян Тамкович-Фриске, I'm one of the few people who live what's called a lowlife. (Vk.com)](https://vk.com/my.darkest.light.will.shine)
 
-[[2, 3]](#a2) <span id="f2"></span> [THEME: PSYCHO (DI #6-2017)](http://di.mmoma.ru/news?mid=3096&id=1335)
+[[2, 3]](#a2) <span id="f2"></span> [Theme: Psycho (DI #6-2017)](http://di.mmoma.ru/news?mid=3096&id=1335)
 
 [[4]](#a4) <span id="f4"></span> [Ян Тамкович-Фриске — поучительная история о том, как в 25 стать самым парадоксальным и ненавидимым современным художником Москвы  (Knife)](https://knife.media/tamkovich-friske/)
