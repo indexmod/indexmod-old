@@ -7,9 +7,9 @@ originspell: Ян Тамкович-Фриске
 appearing: Born
 city: Razvilka
 birth: 1992
-givenname: Ian, Yan
+givenname: Ian
 familyname: Tamkovich-Friske
-othername: Yan Ginzbourg, Individual Entrepreneur, Индивидуальный предприниматель, Nikita Tereshenko
+othername: Ian, Jan, Yan Ginzbourg, Individual Entrepreneur, Индивидуальный предприниматель, Nikita Tereshenko
 venue: Red Center
 founder: of the “Pre-Raëlite” Brotherhood
 origin: a Russian
@@ -41,8 +41,6 @@ Also known with his series of provocative photos that includes images of symbols
 |2015|Immortality Certificate|Center Red <span id="a2">[\[2\]](#f2)</span>|
 
 
-
-
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **A charschter of Ian Tamkovich-Friske in 2017**
@@ -63,7 +61,6 @@ In the early summer of 2016, a case occurred that finally tipped the scales in t
 ## See also
 
 + [Russian сhthonism](russian-chthonism)
-
 
 ## Footnotes
 
