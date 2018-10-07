@@ -10,10 +10,10 @@ birth: 1992
 givenname: Ian
 familyname: Tamkovich-Friske
 othername: Ian, Jan, Yan Ginzbourg, Individual Entrepreneur, Индивидуальный предприниматель, Nikita Tereshenko
-venue: Red Center
+venue: Center "Red"
 founder: of the “Pre-Raëlite” Brotherhood
 origin: a Russian
-profession: character created artist Nikita Tereshenko who represent himself as "I'm one of the few people who live what's called a lowlife"
+profession: character created by artist Nikita Tereshenko who represent himself as "one of the few people who live what's called a lowlife"
 photo: Jan Tamkovich-Friske at the grave cross of Zhanna Friske, thrown into the dustbin
 photographer: Michael Klimin
 source: Knife.media
@@ -37,8 +37,8 @@ Also known with his series of provocative photos that includes images of symbols
 
 |Year|Exhibition|Place|
 |-|-|
-|2016|Bound to Death. Equal Marriage|Center Red|
-|2015|Immortality Certificate|Center Red <span id="a2">[\[2\]](#f2)</span>|
+|2016|Bound to Death. Equal Marriage|Center "Red"|
+|2015|Immortality Certificate|Center "Red" <span id="a2">[\[2\]](#f2)</span>|
 
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
@@ -51,7 +51,7 @@ Also known with his series of provocative photos that includes images of symbols
 ## The figure of Yan Tamkovich-Friske
 
 He is familiar though in different incarnations. Appeared for the first time in 2014 as Individual Entrepreneur, in the course of workshops run by artist Anastasia Ryabova and critic Alexandra Novozhenova in the Rodchenko School in 2015 and 2016, a concept emerged that artists are not who they say they are. Through discussions with students it turned out that they considered themselves but rather “small business owners”.
-The “real” Tamkovich persistently resisted, even called himself the “original” but nothing helped. As a result he began introducing himself as Yan Ginzbourg at every possible opportunity. The imitator was victorious. The “original” and the “copy” even had an altercation at one of the “Nights of Vernissages” at the Vinzavod Contemporary Art Center, the video of which was a hit in artistic circles for a while. In November 2016 Tamkovich-Friske and Individual Entrepreneur held a gay-wedding in Center Red “Bound to Death. Equal Marriage” <span id="a2">[\[3\]](#f2)</span>.
+The “real” Tamkovich persistently resisted, even called himself the “original” but nothing helped. As a result he began introducing himself as Yan Ginzbourg at every possible opportunity. The imitator was victorious. The “original” and the “copy” even had an altercation at one of the “Nights of Vernissages” at the Vinzavod Contemporary Art Center, the video of which was a hit in artistic circles for a while. In November 2016 Tamkovich-Friske and Individual Entrepreneur held a gay-wedding in Center "Red" “Bound to Death. Equal Marriage” <span id="a2">[\[3\]](#f2)</span>.
 
 
 ## The Merge
