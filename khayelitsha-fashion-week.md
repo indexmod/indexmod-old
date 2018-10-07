@@ -13,7 +13,7 @@ othername: KFW
 venue: Red Square
 founder: Bongani Matenjwa, Zuko Langeni
 origin: a South African
-profession: fashion event founded by Bongani Matenjwa, Zuko Langeni, in Isivivane Center next to Khayelistsha Mall opposite Home affairs and Khayelistsha Hospital at Khayelitsha, Cape Town
+profession: fashion event founded by Bongani Matenjwa, Zuko Langeni held bi-annually in the house of Isivivane Center next to Khayelistsha Mall opposite Home affairs and Khayelistsha Hospital at Khayelitsha, Cape Town
 photo: Khayelitsha Fashion Week founder Bongani Matenjwa
 photographer: KFW
 source: Khayelitshafashionweek.co.za
