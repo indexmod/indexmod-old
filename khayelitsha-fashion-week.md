@@ -10,7 +10,7 @@ birth: 2017
 givenname: Khayelitsha Fashion Week
 familyname:
 othername: KFW
-venue: Red Square
+venue: Isivivane Center
 founder: Bongani Matenjwa, Zuko Langeni
 origin: a South African
 profession: fashion event founded by Bongani Matenjwa, Zuko Langeni held bi-annually in the house of Isivivane Center next to Khayelistsha Mall opposite Home affairs and Khayelistsha Hospital at Khayelitsha, Cape Town
