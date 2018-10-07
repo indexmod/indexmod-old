@@ -58,9 +58,7 @@ In the early summer of 2016, a case occurred that finally tipped the scales in t
 
 ## See also
 
-+ [Centr Krasny (Red Center)](centr-krasny)
-+ [Gosha Gazinskaya](gosha-gazinskaya)
-+ [Russian Chtonism](russian-chtonism)
++ [Russian сhthonism](russian-chthonism)
 
 
 ## Footnotes
