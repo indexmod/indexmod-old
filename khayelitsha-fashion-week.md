@@ -33,7 +33,7 @@ pinterest: 0
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Apa-che designer Zughdi Mohammed tries to unite communities through his clothes. Photo: Aphiwe Ngalo, 8 September, 2018.**
+**Apa-che designer Zughdi Mohammed tries to unite communities through his clothes**
 
 *Photo: [Aphiwe Ngalo](dailymaverick.co.za/article/2018-09-14-khayelitsha-fashion-week-young-designers-turn-heads-with-afrocentric-flair/) / [Daily Maverick](dailymaverick.co.za/article/2018-09-14-khayelitsha-fashion-week-young-designers-turn-heads-with-afrocentric-flair/)*
 
