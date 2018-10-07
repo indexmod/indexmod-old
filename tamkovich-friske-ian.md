@@ -7,18 +7,18 @@ originspell: Ян Тамкович-Фриске
 appearing: Born
 city: Razvilka
 birth: 1992
-givenname: Ian
+givenname: Ian, Yan
 familyname: Tamkovich-Friske
-othername: Индивидуальный предприниматель, Nikita Tereshenko
+othername: Yan Ginzbourg, Individual Entrepreneur, Индивидуальный предприниматель, Nikita Tereshenko
 venue: Red Center
 founder: of the “Pre-Raëlite” Brotherhood
 origin: a Russian
-profession: character created artist Nikita Tereshenko who known as Goodwill Ambassador in the “Preraelite” Brotherhood
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+profession: character created artist Nikita Tereshenko who represent himself as "I'm one of the few people who live what's called a lowlife"
+photo: Jan Tamkovich-Friske at the grave cross of Zhanna Friske, thrown into the dustbin
+photographer: Michael Klimin
+source: Knife.media
+photographerurl: https://knife.media/tamkovich-friske/
+sourceurl: https://knife.media/tamkovich-friske/
 shortname: TAMKOVICH-FRI
 facebook: 201
 instagram: 430
@@ -31,7 +31,13 @@ soundcloud: 0
 pinterest: 0
 ---
 
-Also known with his series of provocative photos that includes images of symbols of celebrities having died or killed recently, among them a Russian actress, singer and model Zhanna Friske and scientist, statesman and liberal politician Boris Nemtsov. Ian working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
+Also known with his series of provocative photos that includes images of symbols of celebrities having died or killed recently, among them a Russian actress, singer and model Zhanna Friske and scientist, statesman and liberal politician Boris Nemtsov. Ian working and living in Moscow.
+
+## Exhibitions
+
+|Year|Exhibition|Place|
+|-|-|
+|2015|Immortality Certificate|Center Red <span id="a2">[\[2\]](#f2)</span>|
 
 ![](https://afisha.yuga.ru/media/70/75/54104_265863237125920_91199234953418488__qem95at.jpg)
 
@@ -39,17 +45,28 @@ Also known with his series of provocative photos that includes images of symbols
 
 *Photo: [Afisha.yuga.ru](Afisha.yuga.ru)*
 
-# See also update in Feb. 2018
+
+## The figure of Yan Tamkovich-Friske
+
+He is familiar though in different incarnations. Appeared for the first time in 2014 as Individual Entrepreneur, in the course of workshops run by artist Anastasia Ryabova and critic Alexandra Novozhenova in the Rodchenko School in 2015 and 2016, a concept emerged that artists are not who they say they are. Through discussions with students it turned out that they considered themselves but rather “small business owners”.
+The “real” Tamkovich persistently resisted, even called himself the “original” but nothing helped. As a result he began introducing himself as Yan Ginzbourg at every possible opportunity. The imitator was victorious. The “original” and the “copy” even had an altercation at one of the “Nights of Vernissages” at the Vinzavod Contemporary Art Center, the video of which was a hit in artistic circles for a while. In November 2016 Tamkovich-Friske and Individual Entrepre- neur held a gay-wedding in Center Red (“Bound to Death. Equal Marriage”) <span id="a2">[\[3\]](#f2)</span>.
+
+
+## Merge
+
+In the early summer of 2016, a case occurred that finally tipped the scales in the direction of Tamkovich-Friske. An employee of the NCCA called him and asked if he could come and sign an agreement for the transportation of Tamkovich’s work from one gallery to another, which he did. Thus, one of the largest Moscow institutions - the NCCA - has officially recognized that there is no difference between Tamkovichi. For the blind bureaucratic machine, they became one person <span id="a4">[\[4\]](#f4)</span>.
+
+## See also
 
 + [Centr Krasny (Red Center)](centr-krasny)
 + [Gosha Gazinskaya](gosha-gazinskaya)
-+ [Tamkovich Friske Ian](tamkovich-friske-ian)
++ [Russian Chtonism](russian-chtonism)
 
 
 # Footnotes
 
+[[1]](#a1) <span id="f1"></span> [Ян Тамкович-Фриске, I'm one of the few people who live what's called a lowlife. (Vk.com)](https://vk.com/my.darkest.light.will.shine)
+
+[[2, 3]](#a2) <span id="f2"></span> [THEME: PSYCHO (DI #6-2017)](http://di.mmoma.ru/news?mid=3096&id=1335)
+
 [[4]](#a4) <span id="f4"></span> [Ян Тамкович-Фриске — поучительная история о том, как в 25 стать самым парадоксальным и ненавидимым современным художником Москвы  (Knife)](https://knife.media/tamkovich-friske/)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/my.darkest.light.will.shine/about?lst=100008481991414%3A100011067371119%3A1525444985)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/my.darkest.light.will.shine/)
