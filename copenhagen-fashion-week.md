@@ -14,9 +14,9 @@ venue: BLOX
 founder: Danish Ministry of Industry
 origin: a Scandinavia's
 profession: largest fashion event
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+photo: Model on runway during CFW
+photographer: CFW
+source: Facebook
 photographerurl: index
 sourceurl: index
 shortname: COPENHAGEN
@@ -57,7 +57,6 @@ Randi Helene Svendsen, Fashion Director, Costume Norway
 
 ## See also
 
-+ [About](index)
 + [Wikipedia](index)
 
 ## Footnotes
