@@ -33,7 +33,7 @@ pinterest: 0
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Nikita Dayon and Russian freak-model Pani Bronya in video-performance Faust 1998**
+**Nikita Dayon and Russian freak-model Pani Bronya in video-performance "Faust" in 1998**
 
 *Photo: [Andrei Bartenev](bartenev-andrei) / [Facebook](https://www.facebook.com/nikita.deyon)*
 
