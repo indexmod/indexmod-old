@@ -5,8 +5,8 @@ layout: default
 originlang: Rus.
 originspell: Никита Дейон
 appearing: Born
-city: Odessa
-birth: 1972
+city: Kiev
+birth: 1974
 givenname: Nikita Deyon
 familyname: Lushtak
 othername: Никита Луштак
