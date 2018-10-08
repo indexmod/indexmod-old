@@ -47,8 +47,8 @@ The Bionica Show performances have been seen at events across Russia and interna
 
 ## Shows and performances
 
-|Year|Show|
-|-|-|
+|Year|Show||
+|-|-|-|
 |2008|Aqua|
 |2008|Aqua Space|
 |2008|Arctic|
