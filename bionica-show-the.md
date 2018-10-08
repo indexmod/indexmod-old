@@ -41,25 +41,33 @@ The Bionica Show performances have been seen at events across Russia and interna
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Maya Gold ferformance of the Bionica Show**
+**Maya Gold performance of the Bionica Show**
 
 *Photo: [Bionica](index) / [Bionica](index)*
 
-## Сonspectus
+## Shows and performances
 
 |Year|Show|
-||-|
-|2007|Aqua|
+|-|-|
+|2008|Aqua|
+|2008|Aqua Space|
 |2008|Arctic|
+|2009|Kaleidoscope|
 |2009|Butterflies|
+|2010|Masquerade|
 |2010|Forest Witches|
 |2011|Laser Birds|
+|2011|Illusion UK|
 |2012|Lemon Air|
+|2012|Legends|
 |2013|Matrioshka|
+|2013|Reallusion|
+|2014|Dream hackers|
 |2014|Maya Gold|
 |2015|Oriental Shadows|
 |2016|Red Angels|
 |2017|Robo-Bio|
+|2017|Rutopia|
 
 ## See also
 
@@ -69,4 +77,4 @@ The Bionica Show performances have been seen at events across Russia and interna
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [(Bionicashow.ru)](http://bionicashow.ru/)
