@@ -41,9 +41,9 @@ The Bionica Show performances have been seen at events across Russia and interna
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Maya Gold ferformance of the Bionica Show**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Bionica](index) / [Bionica](index)*
 
 ## Сonspectus
 
