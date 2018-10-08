@@ -1,6 +1,6 @@
 ---
 title: Simonyan, Haik
-permalink: haik-simonyan
+permalink: simonyan-haik
 layout: default
 originlang: Rus.
 originspell: Симонян Гайк Мушегович
