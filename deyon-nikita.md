@@ -45,8 +45,9 @@ pinterest: 0
 
 ## See also
 
-+ [Vita Buivid](buivid-vita)
 + [Andrey Bartenev](bartenev-andrey)
++ [Vita Buivid](buivid-vita)
++ [Haik Symonyan ](haik-simonyan)
 
 ## Footnotes
 
