@@ -19,7 +19,7 @@ photographer: Fedya&Haik
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: BIONOKA
+shortname: BIONIKA
 facebook: 1100
 instagram: 0
 youtube: 0
