@@ -15,7 +15,7 @@ founder: of Fedya&Haik Ltd.
 origin: a Russian
 profession: fashion designer and show director of Armenian origin, founder of Fedya&Haik Ltd., working and living in Moscow. Haik actively promoting vegetarianism and yoga
 photo: Haik at Baikal bar & restaurant in Sochi at VTB Formula One party
-photographer: Photographer
+photographer: VTB
 source: Facebook
 photographerurl: index
 sourceurl: index
