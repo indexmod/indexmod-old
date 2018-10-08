@@ -5,15 +5,15 @@ layout: default
 originlang: Rus.
 originspell: Никита Дейон
 appearing: Born
-city: Odessa
-birth: 1972
+city: Kiev
+birth: 1974
 givenname: Nikita Deyon
 familyname: Lushtak
 othername: Никита Луштак
 venue: India, Ukraine
 founder:
-origin: a Russian
-profession: musician, model and muse of the generation of the post-Soviet artistic environment of St. Petersburg, Moscow and Odessa. Nikita lived a lot in India, during the last journey (2015) he became seriously ill and returned to Kiev, and moved to Odessa. He died in Odessa (September 2017).
+origin: a Russian-Ukrainian
+profession: musician, model and muse of the generation of the post-Soviet artistic environment of St. Petersburg, Moscow and Odessa. Nikita lived a lot in India, during the last journey (2015) he became seriously ill and returned to Kiev, then moved to Odessa. He died in Odessa (September 2017).
 photo: Nikita Deyon as model for Vita Buivid in early 80-s
 photographer: Vita Buivid
 source: Facebook
@@ -33,13 +33,13 @@ pinterest: 0
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Nikita Dayon and Russian freak-model Pani Bronya in video-performance Faust 1998**
+**Nikita Dayon and Russian freak-model Pani Bronya in video-performance "Faust" in 1998**
 
 *Photo: [Andrei Bartenev](bartenev-andrei) / [Facebook](https://www.facebook.com/nikita.deyon)*
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
-**Nikita by Vita Buivid, Russia 1981, 28 x 21 cm, self printed by the author dedicated gift, Moscow.**
+**Nikita by Vita Buivid, Russia 1981, 28 x 21 cm, self printed by the author dedicated gift, Moscow**
 
 *Photo: [Vita Buivid](buivid-vita) / [Facebook](https://www.facebook.com/nikita.deyon)*
 
