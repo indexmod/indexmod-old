@@ -13,7 +13,7 @@ othername: Симонян Гайк
 venue: Bionica Show
 founder: of Fedya&Haik Ltd.
 origin: a Russian
-profession: designer show director of Armenian origin working and living in Moscow. Haik actively promoting vegetarianism and yoga
+profession: fashion designer and show director of Armenian origin, founder of Fedya&Haik Ltd., working and living in Moscow. Haik actively promoting vegetarianism and yoga
 photo: Haik at Baikal bar & restaurant in Sochi at VTB Formula One party
 photographer: Photographer
 source: Facebook
