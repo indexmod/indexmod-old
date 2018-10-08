@@ -12,7 +12,7 @@ familyname: Lushtak
 othername: Никита Луштак
 venue: India, Ukraine
 founder:
-origin: a Russian
+origin: a Russian-Ukrainian
 profession: musician, model and muse of the generation of the post-Soviet artistic environment of St. Petersburg, Moscow and Odessa. Nikita lived a lot in India, during the last journey (2015) he became seriously ill and returned to Kiev, then moved to Odessa. He died in Odessa (September 2017).
 photo: Nikita Deyon as model for Vita Buivid in early 80-s
 photographer: Vita Buivid
