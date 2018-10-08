@@ -39,7 +39,7 @@ pinterest: 0
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
-**Nikita by Vita Buivid, Russia 1981, 28 x 21 cm, self printed by the author dedicated gift, Moscow.**
+**Nikita by Vita Buivid, Russia 1981, 28 x 21 cm, self printed by the author dedicated gift, Moscow**
 
 *Photo: [Vita Buivid](buivid-vita) / [Facebook](https://www.facebook.com/nikita.deyon)*
 
