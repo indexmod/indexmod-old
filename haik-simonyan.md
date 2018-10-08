@@ -69,7 +69,7 @@ Staging the show and the development of scenery at the World Economic Forum at t
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Costumes by "Proserpine in the realm of the dead" collection by Fyodor Dodonov and Haik Simonyan on the professional forum of employees of the ritual business "Necropol-Tanexpo 2017"**
+**Costumes from "Proserpine in the realm of the dead" collection by Fyodor Dodonov and Haik Simonyan on the professional forum of employees of the ritual business "Necropol-Tanexpo 2017"**
 
 *Photo: [Evgenii Chesnokov](https://rblogger.ru/2017/10/26/na-vdnh-sobralis-hraniteli-rituala/) / [Russian blogger](https://rblogger.ru/2017/10/26/na-vdnh-sobralis-hraniteli-rituala/)*
 
