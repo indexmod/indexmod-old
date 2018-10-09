@@ -10,8 +10,8 @@ birth: 1965
 givenname: Andrey
 familyname: Bartenev
 othername: Бартенев
-venue: Red Square
-founder: Founder
+venue:
+founder: 
 origin: a Russian
 profession: artist, sculptor, experimentalist, and creator of many provocative, interactive installations and performances
 photo: Andrey Bartenev in 2015
