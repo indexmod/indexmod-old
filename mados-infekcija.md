@@ -16,15 +16,15 @@ origin: a Lithuanian
 profession: biggest annual fashion show
 photo: Новая площадка «Модной инфекции», проект «Инъекция» (Injekcija) в вильнюсском локомотивном депо в 2017 году
 photographer: Tautvydas Stukas
-source: Source
-photographerurl: index
-sourceurl: index
+source: Chilluva.lt
+photographerurl: http://chilluva.lt/2017/11/10/injekcija-veza-mados-lokomotyvas-pajudejo-i-cecha/
+sourceurl: http://chilluva.lt/2017/11/10/injekcija-veza-mados-lokomotyvas-pajudejo-i-cecha/
 shortname: MADOS INFEKCIJA
-facebook: 29040
-instagram: 955
-youtube: 6845
+facebook: 28571
+instagram: 1231
+youtube: 22
 vimeo: 0
-twitter: 0
+twitter: 52
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
@@ -39,7 +39,7 @@ pinterest: 0
 
 *Фото: [Tautvydas Stukas](stukas-tautvydas) / [Chilluva](http://chilluva.lt/2017/11/10/injekcija-veza-mados-lokomotyvas-pajudejo-i-cecha/)*
 
-# Конспект
+## Конспект
 
 |Страна|Дизайнер|
 |-|-|
@@ -83,7 +83,7 @@ pinterest: 0
 ||Boom Studio|
 ||Fiona Uyen|
 
-![](http://luscious-style.com/wp-content/uploads/2016/03/mados_infekcija_pirma_diena_2.bmp)
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Шоу Андрея Бартенева «Москва ла-ла-ла» на площадке «Модной инфекции» в 2016 году**
 
@@ -95,7 +95,7 @@ pinterest: 0
 + [Baltic Shamans](baltic-shamans)
 + [Alexandre Vassiliev](vassiliev-alexandre)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](https://en.wikipedia.org/wiki/Mados_infekcija)
 
