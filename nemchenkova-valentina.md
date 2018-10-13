@@ -5,9 +5,10 @@ layout: default
 shortname: NEMCHENKOVA
 givenname: Valentina
 familyname: Nemchenkova
-othername: Валентина Немченкова
+othername: Валентина Немченкова, Santa Valentina
 birth: '1983'
 city: Sverdlovsk
+venue: Simachev Bar, Ritz Carlton Moscow
 facebook: '2916'
 instagram: '2680'
 originlang: Rus.
@@ -38,6 +39,7 @@ Valentina worked as costume designer <span id="a1">[\[1\]](#f1)</span>, model <s
 |-|-|
 |2003|Chanel catwalks|
 |2017|Ritz Carlton Moscow DJ sets|
+|2018|Simachev Bar|
 
 ## Marriage and family  
 
