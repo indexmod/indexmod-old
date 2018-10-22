@@ -5,7 +5,7 @@ layout: default
 originlang: Eng.
 originspell: Original spell
 appearing: Born
-city: Moscow
+city: Amsterdam
 birth: 1980
 givenname: Rafaël
 familyname: Rozendaal
