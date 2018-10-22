@@ -13,7 +13,7 @@ othername: New Rafael
 venue: NYC
 founder: of the Bring Your Own Beamer format
 origin: a Dutch-Brazilian
-profession: artist based in NYC. internet-visual artist practice websites, installations, lenticulars, lectures, and haiku. Websites of Rafaël Rozendaal attract a large audience of over 30 million visits per year
+profession: artist based in NYC, internet-visual artist practice websites, installations, lenticulars, lectures, and haiku. Websites of Rafaël Rozendaal attract a large audience of over 30 million visits per year
 photo: Rafaël Rozendaal in 2018
 photographer: Austin Leee
 source: Instagram
