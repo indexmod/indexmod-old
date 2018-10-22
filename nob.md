@@ -1,17 +1,17 @@
 ---
-title: Template
-permalink: template
+title: Nob
+permalink: nob
 layout: default
 exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Ноб
+appearing: Est.
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
+birth: 2017
+givenname: Nob
+familyname:
+othername: Nob
+venue: Moscow, Glinishevsky pereulok, 3
 founder: Founder
 origin: a / an Russian
 profession: writer based in Europe

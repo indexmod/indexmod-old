@@ -1,12 +1,12 @@
 ---
-title: Mercedes-Benz Fashion Week Tbilisi
-permalink: mercedes-benz-fashion-week-tbilisi
+title: Mercedes-Benz Fashion Week Russia
+permalink: mercedes-benz-fashion-week-Russian
 layout: default
-originlang: Rus. / Eng.
+originlang: Rus.
 originspell: Original spell
-appearing: Updated / Est. / Born
+appearing: Est.
 city: Moscow
-birth: 2018
+birth: 2011
 givenname: Given name
 familyname: Family name
 othername: Other name
@@ -22,9 +22,9 @@ sourceurl: index
 shortname: MERCEDES TBILISI
 facebook: 0
 instagram: 0
-youtube: 0
+youtube: 7080
 vimeo: 0
-twitter: 0
+twitter: 7201
 tumblr: 0
 vkontakte: 0
 soundcloud: 0

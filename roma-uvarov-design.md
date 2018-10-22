@@ -1,11 +1,11 @@
 ---
-title: Template
-permalink: template
+title: Roma Uvarov Design
+permalink: roma-uvarov-design
 layout: default
 exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Рома Уваров Дизайн
+appearing: Est.
 city: Moscow
 birth: 2018
 givenname: Given name
@@ -21,8 +21,8 @@ source: Source
 photographerurl: index
 sourceurl: index
 shortname: SHORTNAME
-facebook: 0
-instagram: 0
+facebook: 116
+instagram: 9579
 youtube: 0
 vimeo: 0
 twitter: 0

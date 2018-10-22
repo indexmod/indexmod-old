@@ -1,12 +1,12 @@
 ---
-title: Template
-permalink: template
+title: Uvarov, Roman
+permalink: uvarov-roman
 layout: default
 exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
+originlang: Rus.
+originspell: Роман Уваров
+appearing: Born
+city: Krasnodar
 birth: 2018
 givenname: Given name
 familyname: Family name
@@ -21,7 +21,7 @@ source: Source
 photographerurl: index
 sourceurl: index
 shortname: SHORTNAME
-facebook: 0
+facebook: 565
 instagram: 0
 youtube: 0
 vimeo: 0
