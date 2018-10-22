@@ -1,6 +1,6 @@
 ---
 title: Rozendaal, Rafaël
-permalink: rozendaal-rafaël
+permalink: rozendaal-rafael
 layout: default
 originlang: Eng.
 originspell: Rafaël Rozendaal
