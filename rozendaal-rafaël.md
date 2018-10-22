@@ -2,91 +2,45 @@
 title: Rozendaal, Rafaël
 permalink: rozendaal-rafaël
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+originlang: Eng.
+originspell: Rafaël Rozendaal
+appearing: Born
+city: Amsterdam
+birth: 1980
+givenname: Rafaël
+familyname: Rozendaal
+othername: New Rafael
+venue: NYC
+founder: of the Bring Your Own Beamer format
+origin: a Dutch-Brazilian
+profession: artist based in NYC. internet-visual artist practice websites, installations, lenticulars, lectures, and haiku. Websites of Rafaël Rozendaal attract a large audience of over 30 million visits per year
+photo: Rafaël Rozendaal in 2018
+photographer: Austin Leee
+source: Instagram
+photographerurl: leee-austin
+sourceurl: https://www.instagram.com/p/Bo0CIOwFq2R/?taken-by=newrafael
 shortname: ROZENDAAL
-facebook: 0
-instagram: 0
+facebook: 28394
+instagram: 93800
 youtube: 0
 vimeo: 0
-twitter: 0
+twitter: 1465
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
 
+## Selections
 
-(Est. 2013, city) is a Rafaël Rozendaal (Lang. Original name) born 1980—a Dutch-Brazilian internet-visual artist practice websites, installations, lenticulars, lectures, and haiku, lives and works in New York. Websites of Rafaël Rozendaal attract a large audience of over 30 million visits per year <span id="a1">[\[1\]](#f1)</span>.
+|Year|City|
+|-|-|
+|2018|Generosity at Towada Art Center Japan|
 
-# Rozendaal's Haiku
+## See also
 
-“I hate New York
-But I have to live here
-I’m an artist”.
++ [Bring Your Own Beamer](bring-your-own-beamer)
 
+## Footnotes
 
-# Selected Exhibitions
-
-Times square
-Centre Pompidou
-Venice Biennial
-Valencia Biennial
-Casa Franca Brasil Rio
-TSCA Gallery Tokyo
-Seoul Art Square
-NIMk Amsterdam
-Stedelijk Museum
-
-# Selected Press
-
-Time Magazine
-Wall street Journal
-Flash Art
-Dazed & Confused
-Interview
-Wired
-Purple
-McSweeney’s
-O Globo
-Vice
-Creators Project
-Artreview
-Vogue
-
-# Selected Lectures
-
-Yale (New Haven)
-DLD (Munich)
-AIT (Tokyo)
-Ecole des Beaux Arts (Paris)
-NYU (New York)
-Here (London)
-Vivid (Sydney)
-
-
-# See also
-
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-4s4r
-Angelo Plessas
-
-# Footnotes
-
-[[3]](#a3) <span id="f3"></span> [New Rafael (Facebook)](https://www.newrafael.com/bio/)
+[[1]](#a1) <span id="f1"></span> [Rafaël Rozendaal Everything Dies, May 2012 (Kunstverein-arnsberg.de)](http://www.kunstverein-arnsberg.de/rafael-rozendaal-2)
