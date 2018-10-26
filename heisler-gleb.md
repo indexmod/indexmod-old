@@ -29,6 +29,12 @@ sourceurl: index
 founder: of Heisler.gq site
 ---
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Image caption**
+
+*Photo: [Not specified](index) / [Source](index)*
+
 ## See also
 
 + [{{page.title}} at Wikipedia](index)
