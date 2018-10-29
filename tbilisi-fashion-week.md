@@ -34,7 +34,7 @@ pinterest: 0
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Tbilisi fashionista attends Fashion Week events at the eighth month of pregnancy 1**
+**Tbilisi fashionista attends Fashion Week events at the eighth month of pregnancy**
 
 *Photo: [Ghvinis Ubani](ghvinis-ubani) / [Instagram.com](https://www.instagram.com/explore/locations/589037554798900/ghvinis-ubani)*
 
