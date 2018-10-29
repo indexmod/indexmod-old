@@ -13,7 +13,7 @@ othername: TFW
 venue: Ghvinis Ubani
 founder: in collaboration with Georgian National Tourism Administration
 origin: a Georgian
-profession: fashion event held twice a year, Spring and Fall in Tbilisi
+profession: fashion event held twice a year in Tbilisi
 photo: Keti Chkhikvadze
 photographer: TFW
 source: Harper’s Bzaar Kazakhstan
