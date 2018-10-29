@@ -14,7 +14,7 @@ venue: Ghvinis Ubani
 founder: in collaboration with Georgian National Tourism Administration
 origin: a Georgian
 profession: fashion event held twice a year in Tbilisi
-photo: Keti Chkhikvadze
+photo: Keti Chkhikvadze SS'19
 photographer: TFW
 source: Harper’s Bzaar Kazakhstan
 photographerurl: https://harpersbazaar.kz/tbilisi-fashion-week-ss2019/?fbclid=IwAR0fYHTsa8b856Aw3iwlDx0qDjwuzZfBOrva4x2A59LanvVy8DKbKjwLtBA
