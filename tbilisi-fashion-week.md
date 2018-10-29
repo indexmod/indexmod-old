@@ -17,8 +17,8 @@ profession: fashion event held twice a year, Spring and Fall in Tbilisi
 photo: Keti Chkhikvadze
 photographer: TFW
 source: Harper’s Bzaar Kazakhstan
-photographerurl: index
-sourceurl: index
+photographerurl: https://harpersbazaar.kz/tbilisi-fashion-week-ss2019/?fbclid=IwAR0fYHTsa8b856Aw3iwlDx0qDjwuzZfBOrva4x2A59LanvVy8DKbKjwLtBA
+sourceurl: https://harpersbazaar.kz/tbilisi-fashion-week-ss2019/?fbclid=IwAR0fYHTsa8b856Aw3iwlDx0qDjwuzZfBOrva4x2A59LanvVy8DKbKjwLtBA
 shortname: TBILISI
 facebook: 39775
 instagram: 22500
@@ -34,15 +34,9 @@ pinterest: 0
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Tbilisi fashionista attends Fashion Week events at the eighth month of pregnancy**
 
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+*Photo: [Ghvinis Ubani](ghvinis-ubani) / [Instagram.com](https://www.instagram.com/explore/locations/589037554798900/ghvinis-ubani)*
 
 ## About
 
@@ -55,12 +49,14 @@ The main goal of Tbilisi Fashion Week is to promote Tbilisi as cultural and busi
 
 Based on this approach and taking into consideration international experience a concept and format of events was established. This concept unites cultural, educational and communication components.
 
-Since October 2009, Tbilisi Fashion Week held twice a year, Spring and Fall. Mainly Georgian designers, working in Georgia and abroad, are participating in TFW. Although, more foreign designers have an interest in TFW and this is a big pleasure for us.
+Since October 2009, Tbilisi Fashion Week held twice a year, Spring and Fall. Mainly Georgian designers, working in Georgia and abroad, are participating in TFW.
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Adjara Fashion Week](adjara-fashion-week)
++ [Mercedes-Benz Fashion Week Tbilisi](mercedes-benz-fashion-week-tbilisi)
++ [Sych, Natalia](sych, natalia)
+
 
 ## Footnotes
 
