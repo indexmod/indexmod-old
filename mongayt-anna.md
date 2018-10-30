@@ -7,14 +7,14 @@ originspell: Анна Монгайт
 appearing: Born
 city: Odessa
 birth: 1978
-givenname: Given name
-familyname: Family name
-othername: (maiden) Loshak, (Ukr.) Ганна Монґайт
+givenname: Anna
+familyname: Mongayt
+othername: (maiden) Loshak; (Ukr.) Ганна Монґайт
 venue: Channel "Rain"
 founder: of "Women on top" program
 origin: a Russian
 profession: journalist, actress, TV presenter, creative producer of the television channel "Rain"
-photo: This is sample for image caption
+photo: Anna Mongayt
 photographer: Julia Mayorova
 source: Bedush & Marennikova PR-agency
 photographerurl: https://daily.afisha.ru/cities/1290-sindeeva-makeeva-i-mongajt-o-paradoksah-dozhdya/
@@ -68,4 +68,4 @@ In the spring of 2012, Anna Mongite was in the center of the scandal. On the air
 
 [[2, 3]](#a2) <span id="f2"></span> [Анна Монгайт (Кинопоиск)](https://www.kinopoisk.ru/name/2382185/)
 
-[[5]](#a5) <span id="f5"></span> [Анна Монгайт (Кинопоиск)](https://www.kinopoisk.ru/name/2382185/)
+[[5]](#a5) <span id="f5"></span> [Анна Монгайт (Vokrug.tv)](https://www.vokrug.tv/person/show/anna_mongait/)
