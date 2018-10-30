@@ -15,10 +15,10 @@ founder: of "Women on top" program
 origin: a Russian
 profession: journalist, actress, TV presenter, creative producer of the television channel "Rain"
 photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+photographer: Julia Mayorova
+source: Bedush & Marennikova PR-agency
+photographerurl: https://daily.afisha.ru/cities/1290-sindeeva-makeeva-i-mongajt-o-paradoksah-dozhdya/
+sourceurl: https://daily.afisha.ru/cities/1290-sindeeva-makeeva-i-mongajt-o-paradoksah-dozhdya/
 shortname: MONGAYT
 facebook: 36440
 instagram: 8013
@@ -68,4 +68,4 @@ In the spring of 2012, Anna Mongite was in the center of the scandal. On the air
 
 [[2, 3]](#a2) <span id="f2"></span> [Анна Монгайт (Кинопоиск)](https://www.kinopoisk.ru/name/2382185/)
 
-[[2, 3]](#a2) <span id="f2"></span> [Анна Монгайт (Кинопоиск)](https://www.kinopoisk.ru/name/2382185/)
+[[5]](#a5) <span id="f5"></span> [Анна Монгайт (Кинопоиск)](https://www.kinopoisk.ru/name/2382185/)
