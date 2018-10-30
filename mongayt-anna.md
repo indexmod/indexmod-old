@@ -2,26 +2,26 @@
 title: 'Mongayt, Anna'
 permalink: mongayt-anna
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
+originlang: Rus.
+originspell: Анна Монгайт
+appearing: Born
+city: Odessa
+birth: 1978
 givenname: Given name
 familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+othername: (maiden) Loshak, (Ukr.) Ганна Монґайт
+venue: Channel "Rain"
+founder: of "Women on top" program
+origin: a Russian
+profession: journalist, actress, TV presenter, creative producer of the television channel "Rain"
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
 shortname: MONGAYT
-facebook: 0
-instagram: 0
+facebook: 36440
+instagram: 8013
 youtube: 0
 vimeo: 0
 twitter: 0
@@ -31,23 +31,20 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Rus. Анна Монгайт, maiden Loshak <span id="a1">[\[1\]](#f1)</span>, born. 1978, Odessa) Russian journalist, actress, TV presenter, creative producer of the television channel "Rain".
-
-# Filmography
+## Filmography
 
 |Year|Film (Director)|
 |----|-----|
 |2011|One-night stand (Olga Stolpovskaya) <span id="a2"> [\[2\]](#f2)</span>|
 |2017|The ice-hole (Andrei Silverstov) <span id="a2">[\[3\]](#f2)</span>|
 
-
-![](https://merkuroff.files.wordpress.com/2013/10/img_4073.jpg)
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Anna Mongayt catwalks at the Vera Wang and "Rain" television channel charity show**
 
 *Photo: [Anton Merkulov](merkulov-anton) / [Merkuroff, Wordpress](https://merkuroff.wordpress.com/)*
 
-# Private life
+## Private life
 
 |Relative|Name|
 |----|-----|
@@ -56,20 +53,19 @@ pinterest: 0
 |Son|Matvei Mongayt|
 |Son|Demian Mongayt|
 
-# Anna Mongayt Indexmod
+## Scandal of 2012
 
-|Year|Facebook|Instagram|Age|AMI|
-|-|-|-|-|-|
-|2018|35088||40|1.40352|
-|2019|||41||
+In the spring of 2012, Anna Mongite was in the center of the scandal. On the air of the program “Muses. Headwash” in the company of co-lead Olga Shakina and the director openly mocked people with disabilities, including renowned physicist Stephen Hawking. Despite the request of users of the Internet community and the official petition sent to the management of the TV channel Rain, declined to comment on the situation <span id="a5">[\[5\]](#f5).
 
-# See also
+## See also
 
 + [Sergeenko, Ulyana](sergeenko-ulyana)
 + [Spletnik (site)](spletnik-site)
 
-# Footnotes
+## Footnotes
 
 [[1, 4]](#a1) <span id="f1"></span> [Ганна Монґайт (Матеріал з Вікіпедії — вільної енциклопедії)](https://uk.wikipedia.org/wiki/Ганна_Монґайт)
+
+[[2, 3]](#a2) <span id="f2"></span> [Анна Монгайт (Кинопоиск)](https://www.kinopoisk.ru/name/2382185/)
 
 [[2, 3]](#a2) <span id="f2"></span> [Анна Монгайт (Кинопоиск)](https://www.kinopoisk.ru/name/2382185/)
