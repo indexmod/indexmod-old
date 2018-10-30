@@ -14,7 +14,7 @@ venue: Red Square
 founder: Igor Isaev
 origin: a Russian
 profession: hi-end urban fashion brand based in Moscow
-photo: Anna Mongayt And Sergey Mongayt In Grunge John Orchestra. Explosion concept store in 2018
+photo: Grunge John Orchestra. Explosion emblem since 2009
 photographer: Ilia Nafeev
 source: Facebook
 photographerurl:
