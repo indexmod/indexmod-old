@@ -1,23 +1,22 @@
 ---
-title: Template
-permalink: template
+title: Teplitskaya Design
+permalink: teplitskaya-design
 layout: default
-exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
+originlang: Rus.
+originspell: Теплицкая Дизайн
 appearing: Updated / Est. / Born
 city: Moscow
 birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+givenname: Teplitskaya Design
+familyname: teplitskaya_design
+othername: teplitskaya_design
+venue: House of Artists on Vavilov 65
+founder: Elena Teplitskaya
+origin: a Russian
+profession: brand and the same name studio of  interior design, courses in decor, clothing and accessories, and also fashion brand atelier founded by Elena Teplitskaya and based in Moscow
+photo: A Founder of the Teplitskaya Design Elena Teplitskaya
+photographer: Teplitskaya Design
+source: Instagram
 photographerurl: index
 sourceurl: index
 shortname: SHORTNAME
