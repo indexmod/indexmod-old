@@ -4,9 +4,9 @@ permalink: teplitskaya-design
 layout: default
 originlang: Rus.
 originspell: Теплицкая Дизайн
-appearing: Updated / Est. / Born
+appearing: Est.
 city: Moscow
-birth: 2018
+birth: 1999
 givenname: Teplitskaya Design
 familyname: teplitskaya_design
 othername: teplitskaya_design
@@ -20,34 +20,32 @@ source: Instagram
 photographerurl: index
 sourceurl: index
 shortname: SHORTNAME
-facebook: 0
-instagram: 0
+facebook: 2076
+instagram: 2807
 youtube: 0
 vimeo: 0
 twitter: 0
 tumblr: 0
-vkontakte: 0
+vkontakte: 303
 soundcloud: 0
 pinterest: 0
 ---
 
+## About designer
+
+Elena Teplitskaya is the head and founder of the Teplitskaya Design studio. A prominent Russian designer, master of color and style, creator of interiors and designer clothes. Member of the Creative Union of Artists of Russia, corresponding member of the Russian Academy of Natural Sciences. Permanent participant of the Fashion Week in Moscow.
+
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Nicoletta Lunardi**
 
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+*Photo: [Teplitskaya Design](https://www.instagram.com/p/Bl2GB1nn6Xl/?taken-by=teplitskaya_design) / [Instagram.com](https://www.instagram.com/p/Bl2GB1nn6Xl/?taken-by=teplitskaya_design)*
 
 ## See also
 
-+ [About](index)
-+ [More](index)
++ [House of Artists on Vavilov 65а](house-of-artists-on-vavilov-65)
++ [Al-Numan, Leila](al-numan-leila)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Кижская Ночь искусств с Еленой Теплицкой (Stolicaonego.ru)](https://stolicaonego.ru/news/kizhskaja-noch-iskusstv-s-elenoj-teplitskoj/)
