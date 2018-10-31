@@ -19,7 +19,7 @@ photographer: Teplitskaya Design
 source: Instagram
 photographerurl: index
 sourceurl: index
-shortname: SHORTNAME
+shortname: TEPLITSKAYA
 facebook: 2076
 instagram: 2807
 youtube: 0
