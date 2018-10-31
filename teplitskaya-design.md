@@ -8,7 +8,7 @@ appearing: Est.
 city: Moscow
 birth: 1999
 givenname: Teplitskaya Design
-familyname: teplitskaya_design
+familyname:
 othername: teplitskaya_design
 venue: House of Artists on Vavilov 65
 founder: Elena Teplitskaya
