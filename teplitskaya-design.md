@@ -37,7 +37,7 @@ Elena Teplitskaya is the head and founder of the Teplitskaya Design studio. A pr
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Friend studio Nicoletta Lunardi on Teplitskaya defile**
+**Friend of the Teplitskaya Design studio Nicoletta Lunardi on Teplitskaya defile at MFW**
 
 *Photo: [Teplitskaya Design](https://www.instagram.com/p/Bl2GB1nn6Xl/?taken-by=teplitskaya_design) / [Instagram.com](https://www.instagram.com/p/Bl2GB1nn6Xl/?taken-by=teplitskaya_design)*
 
