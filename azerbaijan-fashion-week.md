@@ -46,9 +46,9 @@ pinterest: 0
 
 The international fashion project, featuring young local and international talents in a show focused on creating the opportunities for the talented designers. Organizer Fashion Consulting Group, the Fashion Week will be held twice in a year -- May and November. The event will take place in the famous symbol of Azerbaijan -- Fairmont Baku Flame Towers. Every season, Azerbaijan Fashion Week will be attended by foreign experts of fashion-industry, including buyers of the biggest fashion-retail networks and fashion boutiques, representatives of glossy local as well as international publications and PR agencies.
 
-## Lana Tigrana
+## Official representative in Ukraine
 
-Official representative Azerbaijan Fashion Week in Ukraine located in Kiev at Vul. Volodimirska 47.
+Lana Tigrana is an official representative Azerbaijan Fashion Week in Ukraine. Lana Tigrana is located in Kiev at Vul. Volodimirska 47.
 
 ## See also
 
