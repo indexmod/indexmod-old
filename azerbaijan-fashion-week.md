@@ -4,17 +4,17 @@ permalink: azerbaijan-fashion-week
 position:
 layout: default
 originlang: Az.
-originspell: Original spell
+originspell: Azərbaycan Moda Həftəsi
 appearing: Est.
 city: Moscow
 birth: 2015
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+givenname: Azerbaijan Fashion Week
+familyname:
+othername: AFW
+venue: Flame Towers
+founder: Jalal Askerov
+origin: an Azerbaijan
+profession: fashion event in Europe
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
@@ -38,11 +38,20 @@ pinterest: 0
 
 *Photo: [Not specified](index) / [Source](index)*
 
-## Сonspectus
+## Staff
 
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|Sayat Dossybayev|Art Director|
+|Nijat Bakhshaliev|The Leader of the project|
+|Maria Orudzheva|Producer|
+|Arzu Babayeva|Head of Office Marketing & PR|
+|Emil Ahundov|Press agent Nedali|
+|Abdul Mammadzade|Projects Coordinator|
+|Nailya Hasanbekova|Coordinator of Designers|
+|Alexander Goreev|Coordinator of Logistics|
+
+## Lana Tigrana
+
+Official representative Azerbaijan Fashion Week in Ukraine located in Kiev at Vul. Volodimirska 47.
 
 ## See also
 
