@@ -10,10 +10,10 @@ birth: 2015
 givenname: Azerbaijan Fashion Week
 familyname:
 othername: AFW
-venue: Flame Towers
+venue: Fairmont Baku Flame Towers
 founder: Jalal Askerov
 origin: an Azerbaijanian
-profession: fashion event
+profession: fashion event founded by Jalal Askerov in 2015 and held twice in a year in Fairmont Baku Flame Towers
 photo: AFW SS 2018
 photographer: AFW
 source: Instagram
@@ -44,7 +44,7 @@ pinterest: 0
 
 ## AFW on Facebook
 
-The big international fashion project, featuring young local and international talents in an exclusive show focused on creating the opportunities for the talented designers. Organizer Fashion Consulting Group, the Fashion Week will be held twice in a year - May and November. The event will take place in the famous symbol of Azerbaijan - Fairmont Baku Flame Towers.
+The big international fashion project, featuring young local and international talents in an exclusive show focused on creating the opportunities for the talented designers. Organizer Fashion Consulting Group, the Fashion Week will be held twice in a year -- May and November. The event will take place in the famous symbol of Azerbaijan - Fairmont Baku Flame Towers.
 Every season, Azerbaijan Fashion Week will be attended by foreign experts of fashion-industry, including buyers of the biggest fashion-retail networks and fashion boutiques, representatives of glossy local as well as international publications and PR agencies.
 
 ## Lana Tigrana
