@@ -58,4 +58,4 @@ Official representative Azerbaijan Fashion Week in Ukraine located in Kiev at Vu
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Instagram.com)](https://www.instagram.com/azerbaijanfashionweek/)
+[[1]](#a1) <span id="f1"></span> [Неделя высокой моды Azerbaijan Fashion Week стартовала в Баку (Sputnik.az)](https://ru.sputnik.az/photo/20180518/415389130/azerbaijan-fashion-week-nedelja-mody-foto.html)
