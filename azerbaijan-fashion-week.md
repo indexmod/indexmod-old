@@ -12,13 +12,13 @@ familyname:
 othername: AFW
 venue: Flame Towers
 founder: Jalal Askerov
-origin: an Azerbaijan
-profession: fashion event in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+origin: an Azerbaijanian
+profession: fashion event
+photo: AFW SS 2018
+photographer: AFW
+source: Instagram
+photographerurl: https://www.instagram.com/p/BbeO_JIhYC5/?taken-by=azerbaijanfashionweek
+sourceurl: https://www.instagram.com/p/BbeO_JIhYC5/?taken-by=azerbaijanfashionweek
 shortname: AZERBAIJAN
 facebook: 4835
 instagram: 7996
@@ -30,12 +30,6 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
-
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
 
 ## Staff
 
