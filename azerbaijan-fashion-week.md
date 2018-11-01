@@ -3,12 +3,11 @@ title: Azerbaijan Fashion Week
 permalink: azerbaijan-fashion-week
 position:
 layout: default
-exclude: true
-originlang: Rus. / Eng.
+originlang: Az.
 originspell: Original spell
-appearing: Updated / Est. / Born
+appearing: Est.
 city: Moscow
-birth: 2018
+birth: 2015
 givenname: Given name
 familyname: Family name
 othername: Other name
