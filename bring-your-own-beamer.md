@@ -43,7 +43,7 @@ BYOB is a way of making a big exhibition with zero budget. It is an exploration 
 
 The idea of BYOB is free to use as long as it’s non-commercial.
 
-## Founders of BYOB?
+## Founders of BYOB
 
 BYOB is an idea by Rafaël Rozendaal.
 The first BYOB was organized by Anne de Vries & Rafaël Rozendaal in Berlin in 2010.
