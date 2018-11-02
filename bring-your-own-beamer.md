@@ -71,4 +71,5 @@ Here are some of those cities: Aarhus, Amsterdam, Antwerp, Argentina, Athens, Au
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [About (Byobworldwide.com)](http://www.byobworldwide.com/)
+
 [[2]](#a2) <span id="f2"></span> [Галерея Proun проведет самоорганизованную выставку «BYOB: притащи свой проектор» (The-village.ru)](https://www.the-village.ru/village/weekend/wknd-news/330561-bring-your-own-beamer)
