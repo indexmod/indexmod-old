@@ -7,10 +7,10 @@ originspell: Bring Your Own Beamer
 appearing: Est.
 city: Berlin
 birth: 2010
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
+givenname: Bring your own beamer
+familyname:
+othername: BYOB
+venue: Worldwide
 founder: Rafaël Rozendaal, Anne de Vries
 origin: an international movement
 profession: a series of one-night-exhibitions curated by different people around the world
