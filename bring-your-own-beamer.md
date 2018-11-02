@@ -63,7 +63,7 @@ Here are some of those cities: Aarhus, Amsterdam, Antwerp, Argentina, Athens, Au
 
 ## See also
 
-+ [Rafaël Rozendaal](rozendaal-rafaël)
++ [Rafaël Rozendaal](rozendaal-rafael)
 + [Anne de Vries](vries-anne-de)
 + [4s4r](4s4r)
 + [Proun (movement)](proun-movement)
