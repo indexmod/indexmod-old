@@ -3,6 +3,7 @@ title: How to edit
 permalink: edit
 layout: info
 exclude: true
+published: true
 ---
 
 ## Link to Editor
@@ -11,11 +12,11 @@ Edit any page following under-underlined **Edit** link on top of every page, you
 
 ## Create new page
 
-+ Follow **Edit**
-+ Find the `template.md` and copy content
-+ In blockchainpedia tab create new file with .md extention
-+ Paste content of the template in your file
-+ Edit **Page title** and **Permalink** and save new page
+|Follow **Edit**|
+|Find the `template.md` and copy content|
+|In blockchainpedia tab create new file with .md extention|
+|Paste content of the template in your file|
+|Edit **Page title** and **Permalink** and save new page|
 
 ## Writing the content
 
