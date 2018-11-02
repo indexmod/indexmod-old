@@ -33,6 +33,12 @@ pinterest: 0
 
 BYOB is a way of making a big exhibition with zero budget. It is an exploration of the medium of projection.
 
+## Agenda
+
+|Year|Day|City|Place|
+|-|-|
+|2017|Nov 03|Proun Gallery|Moscow <span id="a2">[\[2\]](#f2)</span>|
+
 ## Open source
 
 The idea of BYOB is free to use as long as it’s non-commercial.
