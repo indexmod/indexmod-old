@@ -37,7 +37,7 @@ BYOB is a way of making a big exhibition with zero budget. It is an exploration 
 
 |Year|Day|City|Place|
 |-|-|
-|2017|Nov 03|Proun Gallery|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2018|Nov 03|Proun Gallery|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
 ## Open source
 
