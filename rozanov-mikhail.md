@@ -35,14 +35,14 @@ pinterest: 0
 
 Daughter Varvara (born in 1993) theatrical manager, graduated from the Moscow Art Theatre (Moskovskiy Hudojestvenny Akademicheskiy Teatr, МHАТ), engaged in the production of the film based on the novel by Fyodor Dostoevsky—The Idiot.
 
-# Filmography
+## Filmography
 
 Chyornaya roza—emblema pechali, krasnaya roza—emblema lyubvi (1990) as Mitya, Alexandra's neighbour2
 
 “Business center” Station of Moscow Metro
 Photo: Mikhail Rozanov / Time Out
 
-# Collections
+## Collections
 
 The Pushkin Museum, AS Pushkin, Moscow
 
@@ -86,19 +86,18 @@ USC
 
 Deutsche Bank AEON
 
-# Selected solo exhibitions
+## Selected solo exhibitions
 
  2015, Clarity of purpose, The Museum of Moscow
  2014, Cosmos, Rosphoto, St. Petersburg
 
-# See also
+## See also
 
-+ [About](index)
 + [British Higher School of Art and Design](index)
 + [Tatiana Mamedova](index)
 + [Ognennaya Lady](index)
 + [Vlad Monroe](index)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [О страшных сказках, экспедициях Института океанологии РАН и работе с пустотой (Polit.ru)](http://polit.ru/article/2013/06/21/ps_rozanov/?fbclid=IwAR0YTMoIXIBwyIPeWZ18hxq9-1F0c0U4sCJKIDyaV32U_1pEAoKAuKPgA9M)
