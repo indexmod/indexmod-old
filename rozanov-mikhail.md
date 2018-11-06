@@ -2,15 +2,15 @@
 title: Rozanov, Mikhail
 permalink: rozanov-mikhail
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
+originlang: Rus.
+originspell: Михаил Розанов
 appearing: Born
 city: Moscow
 birth: 1973
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
+givenname: Mikhail
+familyname: Rozanov
+othername: Михаил Розанов
+venue: GTSVZ
 founder: Founder
 origin: a Russian
 profession: photographer, actor, teacher at the British Higher School of Art and Design in Moscow
