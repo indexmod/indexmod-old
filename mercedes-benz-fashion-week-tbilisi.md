@@ -14,7 +14,7 @@ venue: Georgian Museum of Fine Arts, Radisson Blu Iveria Hotel
 founder: Sofia Chikonia
 origin: a Georgia’s
 profession: premier fashion event offering an international platform for designers from the region to seamlessly connect with media and buyers
-photo: Mercedes Benz Fashion Week Tbilisi International Guests
+photo: Mercedes Benz Fashion Week Tbilisi international guests
 photographer: MBFWT
 source: Instagram
 photographerurl: https://www.instagram.com/p/Bp1TjX2HrkB/
