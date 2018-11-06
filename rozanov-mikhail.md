@@ -11,7 +11,7 @@ givenname: Mikhail
 familyname: Rozanov
 othername: Михаил Розанов
 venue: GTSVZ
-founder: Founder
+founder: 
 origin: a Russian
 profession: photographer, actor, teacher at the British Higher School of Art and Design in Moscow
 photo: Mikhail Rozanov
