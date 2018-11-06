@@ -4,24 +4,24 @@ permalink: rozanov-mikhail
 layout: default
 originlang: Rus. / Eng.
 originspell: Original spell
-appearing: Updated / Est. / Born
+appearing: Born
 city: Moscow
-birth: 2018
+birth: 1973
 givenname: Given name
 familyname: Family name
 othername: Other name
 venue: Red Square
 founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+origin: a Russian
+profession: photographer, actor, teacher at the British Higher School of Art and Design in Moscow
+photo: Mikhail Rozanov
+photographer: Petr Antonov
+source: Petrantonov.com
+photographerurl: http://petrflikr.petrantonov.com/comissioned/rozanov/
+sourceurl: http://petrflikr.petrantonov.com/comissioned/rozanov/
 shortname: ROZANOV
-facebook: 0
-instagram: 0
+facebook: 4920
+instagram: 939
 youtube: 0
 vimeo: 0
 twitter: 0
@@ -31,22 +31,13 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Est. 2013, city) is a Mikhail Rozanov (Rus. Михаил Розанов) born 1973, Moscow—Russian photographer, actor, teacher at the British Higher School of Art and Design in Moscow. Sign in to edit Mikhail Rozanov
-
-# A family
+## A family
 
 Daughter Varvara (born in 1993) theatrical manager, graduated from the Moscow Art Theatre (Moskovskiy Hudojestvenny Akademicheskiy Teatr, МHАТ), engaged in the production of the film based on the novel by Fyodor Dostoevsky—The Idiot.
 
-Mikhail Rozanov in 2013
-Photo: Maria Demyanova / Port Magazine
-
-Mikhail Rozanov (right) as Mitya at Sergey Solovev's film of 1990
-Photo: Mosfilm / Afisha
-
-
 # Filmography
-Chyornaya roza—emblema pechali, krasnaya roza—emblema lyubvi (1990) as Mitya, Alexandra's neighbour2
 
+Chyornaya roza—emblema pechali, krasnaya roza—emblema lyubvi (1990) as Mitya, Alexandra's neighbour2
 
 “Business center” Station of Moscow Metro
 Photo: Mikhail Rozanov / Time Out
@@ -54,25 +45,45 @@ Photo: Mikhail Rozanov / Time Out
 # Collections
 
 The Pushkin Museum, AS Pushkin, Moscow
+
 The Russian Museum, St. Petersburg
+
 Moscow House of Photography, Moscow
+
 Museum of New Academy of Fine Arts, St. Petersburg
+
 The State Museum of Architecture Shchusev, Moscow
+
 GTSVZ New Manege
+
 Museum and Exhibition Center Rosphoto
+
 Capital Group
+
 BinBank
+
 Chronolux
+
 Menatep
+
 Villeroy & Boch
+
 Uralmash
+
 Montazhspecbank
+
 Goldman Sachs
+
 Lukoil
+
 The company ODMZ
+
 Gazprom
+
 Antanta Capital
+
 USC
+
 Deutsche Bank AEON
 
 # Selected solo exhibitions
@@ -82,17 +93,12 @@ Deutsche Bank AEON
 
 # See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-British Higher School of Art and Design
-Tatiana Mamedova
-Ognennaya Lady
-Vlad Monroe
++ [About](index)
++ [British Higher School of Art and Design](index)
++ [Tatiana Mamedova](index)
++ [Ognennaya Lady](index)
++ [Vlad Monroe](index)
 
 # Footnotes
 
-1 Mikhail Rozanov—Wikipedia
-2 Mikhail Rozanov—IMDB
-3 Mikhail Rozanov—British Higher School of Art and Design
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[3]](#a3) <span id="f3"></span> [О страшных сказках, экспедициях Института океанологии РАН и работе с пустотой (Polit.ru)](http://polit.ru/article/2013/06/21/ps_rozanov/?fbclid=IwAR0YTMoIXIBwyIPeWZ18hxq9-1F0c0U4sCJKIDyaV32U_1pEAoKAuKPgA9M)
