@@ -4,7 +4,7 @@ permalink: minogarova-maria
 layout: default
 originlang: Rus.
 originspell: Миногарова, Мария Альбертовна
-appearing: Updated / Est. / Born
+appearing: Born
 city: Krasnodar
 birth: 1989
 givenname: Maria
