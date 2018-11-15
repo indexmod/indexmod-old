@@ -22,13 +22,13 @@ sourceurl: https://esquire.ru/women/41382-joke-142/
 shortname: MINOGAROVA
 facebook: 3735
 instagram: 1000000
-youtube: 0
+youtube: 58000
 vimeo: 0
-twitter: 0
+twitter: 32600
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
-pinterest: 0
+pinterest: 3
 ---
 
 ## See also
