@@ -14,9 +14,9 @@ venue: Podium
 founder: of Roma Uvarov Design
 origin: a Russian
 profession: fashion designer
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+photo: Roma Uvarov
+photographer: Denis Yakovlev
+source: Газета «Краснодарские известия»
 photographerurl: index
 sourceurl: index
 shortname: SHORTNAME
