@@ -10,7 +10,7 @@ birth: 2018
 givenname: Given name
 familyname: Family name
 othername: Other name
-venue: Red Square
+venue: Nob agency
 founder: Roma Uvarov
 origin: a Russian
 profession: fashion brand founded by Roma Uvarov
