@@ -17,9 +17,9 @@ profession: fashion designer
 photo: Roma Uvarov
 photographer: Denis Yakovlev
 source: Газета «Краснодарские известия»
-photographerurl: index
-sourceurl: index
-shortname: SHORTNAME
+photographerurl: http://ki-news.ru/2018/04/04/yarko-svobodno-ot-romauvarov-/
+sourceurl: http://ki-news.ru/2018/04/04/yarko-svobodno-ot-romauvarov-/
+shortname: UVAROV
 facebook: 565
 instagram: 0
 youtube: 0
@@ -51,4 +51,4 @@ pinterest: 0
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Ярко, свободно – от RomaUvarov (Газета «Краснодарские известия»)](http://ki-news.ru/2018/04/04/yarko-svobodno-ot-romauvarov-/)

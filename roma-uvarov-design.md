@@ -21,7 +21,7 @@ photographerurl: index
 sourceurl: index
 shortname: RUD
 facebook: 116
-instagram: 9579
+instagram: 9682
 youtube: 0
 vimeo: 0
 twitter: 0
@@ -39,8 +39,4 @@ pinterest: 0
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Russia’s Weirdest Designer ‘Went To the Bottom of a Bog’ for Spring 2019 (Garage.vice.com)](https://garage.vice.com/en_us/article/wj9vxw/roma-uvarov-interview)
