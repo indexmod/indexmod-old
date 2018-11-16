@@ -26,7 +26,7 @@ youtube: 0
 vimeo: 0
 twitter: 0
 tumblr: 0
-vkontakte: 0
+vkontakte: 491
 soundcloud: 0
 pinterest: 0
 ---
