@@ -2,7 +2,6 @@
 title: Roma Uvarov Design
 permalink: roma-uvarov-design
 layout: default
-exclude: true
 originlang: Rus.
 originspell: Рома Уваров Дизайн
 appearing: Est.

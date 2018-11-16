@@ -2,7 +2,6 @@
 title: Uvarov, Roman
 permalink: uvarov-roman
 layout: default
-exclude: true
 originlang: Rus.
 originspell: Роман Уваров
 appearing: Born
