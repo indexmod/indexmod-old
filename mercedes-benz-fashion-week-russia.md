@@ -1,6 +1,6 @@
 ---
 title: Mercedes-Benz Fashion Week Russia
-permalink: mercedes-benz-fashion-week-Russian
+permalink: mercedes-benz-fashion-week-russia
 layout: default
 originlang: Rus.
 originspell: Original spell
