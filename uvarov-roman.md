@@ -5,15 +5,15 @@ layout: default
 originlang: Rus.
 originspell: Роман Уваров
 appearing: Born
-city: Krasnodar
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+city: Maykop
+birth: 1997
+givenname: Roman
+familyname: Uvarov
+othername: Roma Uvarov
+venue: Podium
+founder: of Roma Uvarov Design
+origin: a Russian
+profession: fashion designer
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
@@ -45,8 +45,8 @@ pinterest: 0
 
 ## See also
 
-+ [About](index)
-+ [More](index)
++ [Roma Uvarov Design](roma-uvarov-design)
++ [Maria Minogarova](minogarova-maria)
 
 ## Footnotes
 

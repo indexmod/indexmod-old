@@ -11,9 +11,9 @@ givenname: Given name
 familyname: Family name
 othername: Other name
 venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+founder: Roma Uvarov
+origin: a Russian
+profession: fashion brand founded by Roma Uvarov
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
@@ -45,8 +45,8 @@ pinterest: 0
 
 ## See also
 
-+ [About](index)
-+ [More](index)
++ [Roman Uvarov](uvarov-roman)
++ [Maria Minogarova](minogarova-maria)
 
 ## Footnotes
 
