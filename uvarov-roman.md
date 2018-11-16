@@ -33,15 +33,9 @@ pinterest: 0
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Roma Uvarov**
 
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+*Photo: [Sncmedia.ru](http://www.sncmedia.ru/fashion/obozhayu-merzost-dizayner-roma-uvarov-o-proekte-podium-sustainable-fashion-i-planakh-na-budushchee/) <span id="a2">[\[2\]](#f2)</span> / [Sncmedia.ru](http://www.sncmedia.ru/fashion/obozhayu-merzost-dizayner-roma-uvarov-o-proekte-podium-sustainable-fashion-i-planakh-na-budushchee/)*
 
 ## See also
 
@@ -52,3 +46,5 @@ pinterest: 0
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Ярко, свободно – от RomaUvarov (Газета «Краснодарские известия»)](http://ki-news.ru/2018/04/04/yarko-svobodno-ot-romauvarov-/)
+
+[[2]](#a2) <span id="f2"></span> [«Обожаю мерзость!»: дизайнер Рома Уваров о проекте «Подиум», sustainable fashion и планах на будущее (Sncmedia.ru)](http://www.sncmedia.ru/fashion/obozhayu-merzost-dizayner-roma-uvarov-o-proekte-podium-sustainable-fashion-i-planakh-na-budushchee/)
