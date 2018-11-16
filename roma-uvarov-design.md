@@ -11,12 +11,12 @@ givenname: Roma Uvarov Design
 familyname:
 othername: RUD
 venue: Nob agency
-founder: Roma Uvarov
+founder: Roman Uvarov
 origin: a Russian
-profession: fashion brand founded by Roma Uvarov
-photo: From SS 19 collection by Roma Uvarov Design at MBRFW
+profession: fashion brand founded by Roman Uvarov
+photo: From SS-19 collection by Roma Uvarov Design at MBFWR
 photographer: Mercedes-Benz Fashion Week Russia
-source: MBFR
+source: MBFWR
 photographerurl: index
 sourceurl: index
 shortname: RUD
