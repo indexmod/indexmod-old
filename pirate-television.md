@@ -2,19 +2,18 @@
 title: Pirate television
 permalink: pirate-television
 layout: default
-exclude: true
 originlang: Rus.
 originspell: Пиратское телевидение
 appearing: Est.
 city: Leningrad
 birth: 1989
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
+givenname: Pirate television
+familyname:
+othername: Пиратское ТВ
+venue: Do 16 i starshe
 founder: Timur Novikov, Juris Lesnik, Sergey Shutov, Vlad Monroe
 origin: a Russian
-profession: alternative television, program, collaboration of artists, art movement founded in 1989 in Leningrad by Timur Novikov, Juris Lesnik, Sergey Shutov, Vlad Monroe
+profession: show, alternative television, program, collaboration of artists, art movement founded in 1989 in Leningrad by Timur Novikov, Juris Lesnik, Sergey Shutov, Vlad Monroe
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
@@ -39,4 +38,4 @@ pinterest: 0
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Пиратское ТВ (Mediaartlab.ru)](http://www.mediaartlab.ru/db/work.html?id=124)

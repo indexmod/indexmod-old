@@ -20,13 +20,13 @@ source: Source
 photographerurl: index
 sourceurl: index
 shortname: MIKHAILOVSKAYA
-facebook: 0
-instagram: 0
+facebook: 206
+instagram: 408
 youtube: 0
 vimeo: 0
 twitter: 0
 tumblr: 0
-vkontakte: 0
+vkontakte: 196
 soundcloud: 0
 pinterest: 0
 ---
