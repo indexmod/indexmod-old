@@ -2,19 +2,19 @@
 title: Mikhailovskaya, Olga
 permalink: mikhailovskaya-olga
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
+originlang: Rus.
+originspell: Ольга Михайловская
+appearing: Born
+city: Leningrad
+birth: 1965
+givenname: Olga
+familyname: Mikhailovskaya
+othername: Lesia Mikhailovskaya / Леся Михайловская <span id="a2">[\[2\]](#f2)</span>
+venue: Front Fashion School
+founder: of Front Fashion School
+origin: a Russian
+profession: fashion journalist
+photo: Fashion journalist Olga Mikhailovskaya
 photographer: Photographer
 source: Source
 photographerurl: index
@@ -33,21 +33,17 @@ pinterest: 0
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Fashion journalist Olga Mikhailovskaya**
 
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+*Photo: [Moskvichmag.ru](https://moskvichmag.ru/это-мой-город-фэшн-журналист-ольга-ми) / [Moskvichmag.ru](https://moskvichmag.ru/это-мой-город-фэшн-журналист-ольга-ми)*
 
 ## See also
 
-+ [About](index)
-+ [More](index)
++ [Front Fashion School](index)
++ [Be In](index)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Это мой город: фэшн-журналист Ольга Михайловская (Moskvichmag.ru)](https://moskvichmag.ru/это-мой-город-фэшн-журналист-ольга-ми)
+
+[[2]](#a2) <span id="f2"></span> [Как стать фэшн-журналистом: Front Fashion School (Beauty Insider)](https://www.beautyinsider.ru/2018/03/16/kak-stat-feshn-zhurnalistom-front-fashion-school/)
