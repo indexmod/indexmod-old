@@ -9,7 +9,7 @@ city: Leningrad
 birth: 1965
 givenname: Olga
 familyname: Mikhailovskaya
-othername: Lesia Mikhailovskaya / Леся Михайловская <span id="a2">[\[2\]](#f2)</span>
+othername: Lesia Mikhailovskaya / Леся Михайловская [2]
 venue: Front Fashion School
 founder: of Front Fashion School
 origin: a Russian
