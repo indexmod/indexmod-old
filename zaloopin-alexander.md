@@ -19,8 +19,8 @@ vimeo: '0'
 twitter: '0'
 tumblr: '0'
 vkontakte: '47'
-origin: Russian
-profession: Russian singer, musician, performance artist, "the first and so far the only open gay-chansonnier of Russia"
+origin:  a Russian
+profession: singer, musician, performance artist, "the first and so far the only open gay-chansonnier of Russia"
 photo: Aleksander Zaloopin in 2012
 photographer: Sergei Misenko
 source: Sobaka
