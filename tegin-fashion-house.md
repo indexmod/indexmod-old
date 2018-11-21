@@ -57,6 +57,7 @@ Haute couture and prêt-à-porter wear for woman and kids and fashion house foun
 
 ## See also
 
++ [Tegin Atelier](tegin-atelier)
 + [Svetlana Tegin](tegin-svetlana)
 
 ## Footnotes
