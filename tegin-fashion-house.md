@@ -6,55 +6,59 @@ originlang: Rus.
 originspell: Дом моды Тегин
 appearing: Est.
 city: Moscow
-birth: 2018
+birth: 2001
 givenname: Given name
 familyname: Family name
 othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+venue: Vinzavod, Moscow
+founder: Svetlana Tegin
+origin: a Russian
+profession: fashion house and brand based in Moscow
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
 shortname: TEGIN
-facebook: 0
-instagram: 0
+facebook: 3167
+instagram: 31500
 youtube: 0
 vimeo: 0
 twitter: 0
 tumblr: 0
-vkontakte: 0
+vkontakte: 54
 soundcloud: 0
 pinterest: 0
 ---
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Svetlana Tegin and models after SS19 runway in Moscow**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [TFH](https://www.facebook.com/teginfh/photos/a.2236197356392089/2236199936391831/?type=3&theater) / [Facebook](https://www.facebook.com/teginfh/photos/a.2236197356392089/2236199936391831/?type=3&theater)*
 
-(Est. 2013, city) Tegin, Tegin Fashion House (Rus. Тегин) is a name for haute couture and prêt-à-porter wear for woman and kids and fashion house founded in 2001 by Russian-Ukrainian designer Svetlana Tegin1, “Svetlana is often called “the queen of cashmere” due to an exclusive quality of her products that use Mongolian Cashmere
+Haute couture and prêt-à-porter wear for woman and kids and fashion house founded in 2001 by Russian-Ukrainian designer Svetlana Tegin, “Svetlana is often called “the queen of cashmere” due to an exclusive quality of her products that use Mongolian Cashmere.
 
-Stores in Moscow
-Bosco Detsky GUM DLT TSUM Fashion Code Five Kids Garderob Le Form Le Premiera Litz Collection Mozart Parad TSUM
+## Stores in Moscow
 
-Cover look of the Tegin AW 16-17 collection at Vogue Russia online edition Photos: Tegin / Vogue
+|Bosco Detsky|
+|GUM DLT|
+|TSUM|
+|Fashion Code|
+|Five Kids|
+|Garderob|
+|Leform|
+|Le Premiera|
+|Litz Collection|
+|Mozart|
+|Parad|
 
 ## Сonspectus
 
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
 ## See also
 
-+ [About](index)
-+ [More](index)
++ [Svetlana Tegin](tegin-svetlana)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [About (Tegin Fashion House)](https://tegin.com/about-tegin/)
