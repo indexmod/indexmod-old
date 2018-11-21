@@ -41,4 +41,4 @@ Svetlana is often called as “the queen of cashmere” due to collections that 
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Акиньшина, Тарасова и Вилкова на показе новой коллекции Tegin (7days.ru)](https://7days.ru/stars/chronic/akinshina-tarasova-i-vilkova-na-pokaze-novoy-kollektsii-tegin.htm#ixzz5XWji8QPs)
