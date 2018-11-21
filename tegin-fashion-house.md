@@ -39,11 +39,11 @@ pinterest: 0
 
 Haute couture and prêt-à-porter wear for woman and kids and fashion house founded in 2001 by Russian-Ukrainian designer Svetlana Tegin, “Svetlana is often called “the queen of cashmere” due to an exclusive quality of her products that use Mongolian Cashmere.
 
-## Stores in Moscow
+## Stores's selection
 
 |Bosco Detsky|
-|GUM DLT|
-|TSUM|
+|GUM|
+|DLT TSUM|
 |Fashion Code|
 |Five Kids|
 |Garderob|
