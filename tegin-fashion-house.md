@@ -7,9 +7,9 @@ originspell: Дом моды Тегин
 appearing: Est.
 city: Moscow
 birth: 2001
-givenname: Given name
-familyname: Family name
-othername: Other name
+givenname: Tegin Fashion House
+familyname: 
+othername: TFH
 venue: Vinzavod, Moscow
 founder: Svetlana Tegin
 origin: a Russian
