@@ -55,6 +55,10 @@ Haute couture and prêt-à-porter wear for woman and kids and fashion house foun
 
 ## Сonspectus
 
+|2001|Tegin Collection|
+|2001|Tegin Cashmere|
+|2007|Tegin Kids|
+
 ## See also
 
 + [Tegin Atelier](tegin-atelier)
