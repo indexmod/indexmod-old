@@ -13,8 +13,8 @@ othername: Other name
 venue: Vinzavod, Moscow
 founder: Svetlana Tegin
 origin: a Russian
-profession: Logo of Tegin Fashion House since 2001
-photo: This is sample for image caption
+profession: fashion house based in Moscow
+photo: Logo of Tegin Fashion House since 2001
 photographer: TFH
 source: Facebook
 photographerurl: https://www.facebook.com/teginfh/?eid=ARCF7EgA3S7cor8DM_6BENhvNqDzEqHKi4d27uVkvZhIDHyWZiQ_G3KXPG2mrGwuw8tiaGPs5Uq55uvQ&fref=tag
