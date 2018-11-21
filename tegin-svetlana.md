@@ -31,12 +31,6 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
 ## Queen of Cashmere
 
 Svetlana is often called as “the queen of cashmere” due to collections that made of Mongolian Cashmere and also from sheepskin. The recognized style of Svetlana’s collections is due to intellectual and philosophical content behind it. Tegin uses world’s cultural heritage to develop her concepts.
