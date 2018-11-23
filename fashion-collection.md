@@ -10,8 +10,8 @@ birth: 2003
 givenname: Fashion Collection
 familyname:
 othername: FC
-venue:
-founder: Founder
+venue: Donskoi, Moscow
+founder: Marina Demchenko
 origin: a Russian
 profession: magazine published in Moscow since 2003
 photo: Cover of anniversary issue of FC by Andrei Bartenev
