@@ -13,7 +13,7 @@ othername: MD
 venue: Red Square
 founder: Founder
 origin: a Russian
-profession: journalist, model, founder of Fashion Collection magazine, living and working in Moscow.
+profession: journalist, model, founder of Fashion Collection magazine, living and working in Moscow
 photo: This is sample for image caption
 photographer: Marina Demchenko
 source: Wikimedia
