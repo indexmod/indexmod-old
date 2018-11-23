@@ -5,7 +5,7 @@ layout: default
 originlang: Rus.
 originspell: Марина Дэмченко
 appearing: Born
-city: Alma-Ata
+city: Almaty
 birth: 1979
 givenname: Marina
 familyname: Demchenko
