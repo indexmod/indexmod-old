@@ -17,8 +17,8 @@ profession: fashion house based in Moscow
 photo: Logo of Tegin Fashion House since 2001
 photographer: TFH
 source: Facebook
-photographerurl: https://www.facebook.com/teginfh/?eid=ARCF7EgA3S7cor8DM_6BENhvNqDzEqHKi4d27uVkvZhIDHyWZiQ_G3KXPG2mrGwuw8tiaGPs5Uq55uvQ&fref=tag
-sourceurl: https://www.facebook.com/teginfh/?eid=ARCF7EgA3S7cor8DM_6BENhvNqDzEqHKi4d27uVkvZhIDHyWZiQ_G3KXPG2mrGwuw8tiaGPs5Uq55uvQ&fref=tag
+photographerurl: https://www.facebook.com/teginfh
+sourceurl: https://www.facebook.com/teginfh
 shortname: TEGIN
 facebook: 3167
 instagram: 31500
@@ -39,7 +39,7 @@ pinterest: 0
 
 Haute couture and prêt-à-porter wear for woman and kids and fashion house founded in 2001 by Russian-Ukrainian designer Svetlana Tegin, “Svetlana is often called “the queen of cashmere” due to an exclusive quality of her products that use Mongolian Cashmere.
 
-## Stores's selection
+## Stores' selection
 
 |Bosco Detsky|
 |GUM|
