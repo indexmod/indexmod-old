@@ -10,7 +10,7 @@ birth: 1979
 givenname: Marina
 familyname: Demchenko
 othername: MD
-venue: Red Square
+venue: Fashion Collection Editorial
 founder: Founder
 origin: a Russian
 profession: journalist, model, founder of Fashion Collection magazine, living and working in Moscow
