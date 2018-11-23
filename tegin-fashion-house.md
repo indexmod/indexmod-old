@@ -8,7 +8,7 @@ appearing: Est.
 city: Moscow
 birth: 2001
 givenname: Tegin Fashion House
-familyname: 
+familyname:
 othername: TFH
 venue: Vinzavod, Moscow
 founder: Svetlana Tegin
@@ -55,6 +55,8 @@ Haute couture and prêt-à-porter wear for woman and kids and fashion house foun
 
 ## Сonspectus
 
+
+|Year|Collection|
 |2001|Tegin Collection|
 |2001|Tegin Cashmere|
 |2007|Tegin Kids|
