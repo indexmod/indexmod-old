@@ -2,61 +2,70 @@
 title: Fashion Collection
 permalink: fashion-collection
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Модная коллекция
+appearing: Est.
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
+birth: 2003
+givenname: Fashion Collection
+familyname:
+othername: FC
+venue:
 founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
-shortname: FASHION COLLECTION
-facebook: 0
-instagram: 0
+origin: a Russian
+profession: magazine published in Moscow since 2003
+photo: Cover of anniversary issue of FC by Andrei Bartenev
+photographer: Andrei Bartenev
+source: Issuu.com
+photographerurl: https://issuu.com/smr.sobaka.ru/docs/fc_smr_10_2013
+sourceurl: https://issuu.com/smr.sobaka.ru/docs/fc_smr_10_2013
+shortname: FC
+facebook: 11631
+instagram: 32000
 youtube: 0
 vimeo: 0
 twitter: 0
 tumblr: 0
-vkontakte: 0
+vkontakte: 911
 soundcloud: 0
 pinterest: 0
 ---
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Editor in Chief of the FC Marina Demchenko interviwed by Polina Askeri at Vogue Cafe in Moscow**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Nadezhda Gamova specified](https://www.love2beauty.ru/woman/persons_and_events/articles/polina-askeri-interview-with-marina-demchenko/page-4) / [Love2beauty.ru](https://www.love2beauty.ru/woman/persons_and_events/articles/polina-askeri-interview-with-marina-demchenko/page-4)*
 
-## Сonspectus
+## Regional networks
+
+Magazine published in more than 20 cities of Russia.
+
+|City|Region|
+|Voronezh|Russia|
+|Krasnodar|Russia|
+|Krasnoyarsk|Russia|
+|Novosibirsk|Russia|
+|Penza|Russia|
+|Samara / Tolyatti|Russia|
+|Tyumen|Russia|
+|Ufa|Russia|
+|Khabarovsk|Russia|
+|Belarus|CIS|
+|Kazakhstan|CIS|
+|Monaco|Europe|
+
+## Fashion editors
 
 |Year|City|
 |-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2014|Andrei Dei|
 
 ## See also
 
-+ [About](index)
-+ [More](index)
++ [Marina Demchenko](demchenko-marina)
++ [Natalia Bourdine](bourdine-natalia)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
-
-
-(Rus. Модная коллекция) magazine published in Russia since 2003. The magazine’s editor in chief is Marina Demchenko. Magazine published in more than 20 cities of Russia <span id="a1">[\[1\]](#f1)</span>.
-
-Cover of anniversary issue of FC by Andrei Bartenev
-Photo: FC / Olga Lomaka
-
-M. Demchenko is testing a soup at «Balcon» by Ginza Project during Fashion Pumpkins Tonight
-Photo: LiS.pw / Life-instyle.com
+[[1]](#a1) <span id="f1"></span> [Домрачева снялась для обложки журнала Fashion Collection (Новости Беларуси)](https://www.belta.by/kaleidoscope/view/domracheva-snjalas-dlja-oblozhki-312252-2018/)
