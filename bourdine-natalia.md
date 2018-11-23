@@ -2,13 +2,13 @@
 title: Bourdine, Natalia
 permalink: bourdine-natalia
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
+originlang: Rus.
+originspell: Наталья Бурдина
+appearing: Born
+city: Slonim, Belorussia
+birth: 1970
+givenname: Natalia
+familyname: Bourdine
 othername: Other name
 venue: Red Square
 founder: Founder

@@ -14,7 +14,7 @@ venue: Red Square
 founder: Founder
 origin: a Russian
 profession: journalist, model, founder of Fashion Collection magazine, living and working in Moscow
-photo: This is sample for image caption
+photo: Marina Demchenko's self-portrait
 photographer: Marina Demchenko
 source: Wikimedia
 photographerurl: https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Marina_Demchenko.JPG
