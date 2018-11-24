@@ -13,8 +13,8 @@ othername: Natalia Senko
 venue: Red Square
 founder: of Relooking
 origin: a Russian
-profession: journalist based in Europe
-photo: This is sample for image caption
+profession: journalist, product manager, media manager, founder of the Relooking site
+photo: Natalia Bourdine in 2018
 photographer: Photographer
 source: Source
 photographerurl: index
