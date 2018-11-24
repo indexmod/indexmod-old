@@ -44,4 +44,4 @@ From October 2013 till March 2014  Natalia Bourdine works on position Editor-in-
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [О нас. Психология. Имидж. Стиль. (Relooking.ru)](https://www.relooking.ru/)
