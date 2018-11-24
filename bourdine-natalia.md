@@ -32,9 +32,9 @@ pinterest: 0
 ---
 
 
-## Precedent
+## Fashion Collection precedent
 
-From October 2013 till March 2014 Natalia Bourdine works on position Editor-in-Chief  Fashion Collection in Moscow. After ten months of litigation in 2015 Natalia won a lawsuit against the magazine Fashion Collection.
+From October 2013 to March 2014, Natalya Burdine worked as the chief editor of the Moscow fashion collection. After ten months of litigation in 2015, Natalya won a lawsuit against Fashion Collection magazine.
 
 ## See also
 
