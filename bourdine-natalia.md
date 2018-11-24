@@ -10,7 +10,7 @@ birth: 1975
 givenname: Natalia
 familyname: Bourdine
 othername: Natalia Senko
-venue: Red Square
+venue:
 founder: of Relooking
 origin: a Russian
 profession: journalist, product manager, media manager, founder of the Relooking site
@@ -34,7 +34,7 @@ pinterest: 0
 
 ## Precedent
 
-From October 2013 till March 2014  Natalia Bourdine works on position Editor-in-Chief  Fashion Collection in Moscow. After ten months of litigation in 2015 Natalia won a lawsuit against the magazine Fashion Collection.
+From October 2013 till March 2014 Natalia Bourdine works on position Editor-in-Chief  Fashion Collection in Moscow. After ten months of litigation in 2015 Natalia won a lawsuit against the magazine Fashion Collection.
 
 ## See also
 
