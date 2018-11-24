@@ -5,22 +5,22 @@ layout: default
 originlang: Rus.
 originspell: Наталья Бурдина
 appearing: Born
-city: Slonim, Belorussia
-birth: 1970
+city: Slonim
+birth: 1975
 givenname: Natalia
 familyname: Bourdine
-othername: Other name
+othername: Natalia Senko
 venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+founder: of Relooking
+origin: a Russian
+profession: journalist based in Europe
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
 shortname: BOURDINE
-facebook: 0
+facebook: 3981
 instagram: 0
 youtube: 0
 vimeo: 0
