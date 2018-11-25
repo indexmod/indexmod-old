@@ -11,7 +11,7 @@ givenname: Kazakhstan Fashion Week
 familyname:
 othername: Kazakhstan Fashion Week Astana
 venue: Congress center Astana
-founder:
+founder: Irina Bayzhanova, Olga Kim
 origin: an international
 profession: largest pret-a-porter fashion week in Central Asia held twice in capital Astana
 photo: The jurors of the Fashion for Future kurkur organized by Kazakhstan Fashion Week in cooperation with the European Design Institute IED
