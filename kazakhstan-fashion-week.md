@@ -15,10 +15,10 @@ founder: Sayat Dosybaev, Alexey Zhen
 origin: an international
 profession: largest pret-a-porter fashion week in Central Asia held twice in capital Astana
 photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+photographer: KFWKZ
+source: Dailynews.kz
+photographerurl: http://www.dailynews.kz/culture/v_astane_opredelili_luchshih_molodyh_dizajnerov_mody
+sourceurl: http://www.dailynews.kz/culture/v_astane_opredelili_luchshih_molodyh_dizajnerov_mody
 shortname: KFWKZ
 facebook: 6637
 instagram: 0
@@ -31,17 +31,8 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
 **Image caption**
 
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
