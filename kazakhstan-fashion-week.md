@@ -9,17 +9,17 @@ city: Almaty
 birth: 2004
 givenname: Kazakhstan Fashion Week
 familyname:
-othername: KFWKZ
+othername: KFW
 venue: Forum Almaty
 founder: Sayat Dosybaev, Alexey Zhen
 origin: an international
-profession: largest pret-a-porter fashion week in Central Asia held twice in capital Astana
-photo: This is sample for image caption
-photographer: KFWKZ
-source: Dailynews.kz
-photographerurl: http://www.dailynews.kz/culture/v_astane_opredelili_luchshih_molodyh_dizajnerov_mody
-sourceurl: http://www.dailynews.kz/culture/v_astane_opredelili_luchshih_molodyh_dizajnerov_mody
-shortname: KFWKZ
+profession: fashion week in Kazakhstan held twice in Almaty
+photo: Georgian designer Keti Chkhikvadze has always remained faithful to the new classics during KFW
+photographer: KFW
+source: Forbes.kz
+photographerurl: https://forbes.kz/photostory/v_almatyi_otkryilsya_22-y_sezon_kazakhstan_fashion_week/
+sourceurl: https://forbes.kz/photostory/v_almatyi_otkryilsya_22-y_sezon_kazakhstan_fashion_week/
+shortname: KFW
 facebook: 6637
 instagram: 0
 youtube: 0
@@ -30,9 +30,6 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
-
-**Image caption**
-
 
 ## See also
 
@@ -46,6 +43,4 @@ pinterest: 0
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [В Астане проходят показы Kazakhstan Fashion Week Astana сезона весна-лето 2019 (Xinhuanet.com)](http://russian.people.com.cn/n3/2018/1123/c31519-9521341.html)
-
-[[1]](#a1) <span id="f1"></span> [В Астане проходят показы Kazakhstan Fashion Week Astana сезона весна-лето 2019 (Xinhuanet.com)](http://russian.people.com.cn/n3/2018/1123/c31519-9521341.html)
+[[1]](#a1) <span id="f1"></span> [В Алматы открылся 22-й сезон Kazakhstan Fashion Week (Forbes.kz)](https://forbes.kz/photostory/v_almatyi_otkryilsya_22-y_sezon_kazakhstan_fashion_week/)
