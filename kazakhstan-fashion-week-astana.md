@@ -21,8 +21,8 @@ photographerurl: index
 sourceurl: index
 shortname: KFWA
 facebook: 153
-instagram: 0
-youtube: 0
+instagram: 20700
+youtube: 17
 vimeo: 0
 twitter: 0
 tumblr: 0
@@ -48,6 +48,9 @@ pinterest: 0
 + [Fashion Collection](fashion-collection)
 + [Marina Demchenko](demchenko-marina)
 + [Kazakhstan Fashion Week](kazakhstan-fashion-week)
++ [Fashion Source China](fashion-source-china)
++ [Original Design Fashion Week Shenzhen China](original-design-fashion-week-shenzhen-china)
+
 
 ## Footnotes
 
