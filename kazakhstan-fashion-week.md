@@ -9,7 +9,7 @@ city: Almaty
 birth: 2004
 givenname: Kazakhstan Fashion Week
 familyname:
-othername: Almaty Fashion Week
+othername: KFWKZ
 venue: Palace of the Republic, Almaty
 founder: Sayat Dosybaev, Alexey Zhen
 origin: an international
