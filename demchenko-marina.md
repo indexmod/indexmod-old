@@ -34,6 +34,8 @@ pinterest: 0
 ## See also
 
 + [Fashion Collection](fashion-collection)
++ [Kazakhstan Fashion Week](kazakhstan-fashion-week)
++ [Kazakhstan Fashion Week Astana](kazakhstan-fashion-week-astana)
 
 ## Footnotes
 
