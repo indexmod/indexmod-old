@@ -10,7 +10,7 @@ birth: 2004
 givenname: Kazakhstan Fashion Week
 familyname:
 othername: KFWKZ
-venue: Palace of the Republic, Almaty
+venue: Forum Almaty
 founder: Sayat Dosybaev, Alexey Zhen
 origin: an international
 profession: largest pret-a-porter fashion week in Central Asia held twice in capital Astana
