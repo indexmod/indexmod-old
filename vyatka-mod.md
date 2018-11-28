@@ -12,7 +12,7 @@ familyname: Kazakovtsev
 othername: Vyatka mod
 venue: Let's get married (Russian TV show)
 founder:
-origin: an Russian
+origin: a Russian
 profession: showman, vintage costumes collector, designer, musician based in Kirov
 photo: Viktor Kazakovtsev in Kirov in 2018
 photographer: Zhenya Zhulanova
