@@ -2,26 +2,25 @@
 title: Navi Mumbai Fashion Week
 permalink: navi-mumbai-fashion-week
 layout: default
-exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
-shortname: NAVI MUMBAI 
-facebook: 0
+originlang: H.
+originspell: नवी मुंबई फैशन वीक
+appearing: Est.
+city: Mumbai
+birth: 2017
+givenname: Navi Mumbai Fashion Week
+familyname:
+othername: NMFW
+venue: 	CIDCO Exhibition Centre
+founder: Anees Deen
+origin: an international
+profession: annual fashion week along with awards night conceptualized by the founder and director Anees Deen
+photo: Anees Deen (center) a founder of NMFW
+photographer: Facebook
+source: Facebook
+photographerurl: https://www.facebook.com/anees.deen.9
+sourceurl: https://www.facebook.com/anees.deen.9
+shortname: NAVI MUMBAI
+facebook: 10850
 instagram: 0
 youtube: 0
 vimeo: 0
@@ -33,35 +32,11 @@ pinterest: 0
 ---
 
 
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [MFW](index)
++ [DFW](index)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
-
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Source name)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[1]](#a1) <span id="f1"></span> [Anees Deen (Facebook)](https://www.facebook.com/anees.deen.9)
