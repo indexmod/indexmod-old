@@ -8,7 +8,7 @@ appearing: Est.
 city: Moscow
 birth: 2017
 givenname: Pops
-familyname: pop culture agency
+familyname: Pop culture agency
 othername: Агентство «Попc»
 venue: Povarskaya, Moscow
 founder: Roman Selivan
