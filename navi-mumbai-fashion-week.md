@@ -15,7 +15,7 @@ founder: Anees Deen
 origin: an international
 profession: annual fashion week along with awards night conceptualized by the founder and director Anees Deen
 photo: Anees Deen (center) a founder of NMFW
-photographer: Facebook
+photographer: Vivek Kalarikkal
 source: Facebook
 photographerurl: https://www.facebook.com/anees.deen.9
 sourceurl: https://www.facebook.com/anees.deen.9
