@@ -6,7 +6,7 @@ originlang: H.
 originspell: नवी मुंबई फैशन वीक
 appearing: Est.
 city: Mumbai
-birth: 2017
+birth: 2016
 givenname: Navi Mumbai Fashion Week
 familyname:
 othername: NMFW
