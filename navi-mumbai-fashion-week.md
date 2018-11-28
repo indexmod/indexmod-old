@@ -2,7 +2,7 @@
 title: Navi Mumbai Fashion Week
 permalink: navi-mumbai-fashion-week
 layout: default
-originlang: H.
+originlang: Hindi
 originspell: नवी मुंबई फैशन वीक
 appearing: Est.
 city: Mumbai
