@@ -2,21 +2,21 @@
 title: Ognennaya Lady
 permalink: ognennaya-lady
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Огненная леди
+appearing: Est.
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+birth: 1993
+givenname: Ognennaya Lady
+familyname:
+othername: Ognennaya
+venue: Птюч (magazine)
+founder: Oleg Gusaev
+origin: an Russian
+profession: personage, brand, established by artist Oleg Gusaev in Moscow in middle 90-s
+photo: Ognennaya Lady in 90-s
+photographer: Unknown
+source: Indexmod
 photographerurl: index
 sourceurl: index
 shortname: OGNENNAYA
@@ -31,12 +31,28 @@ soundcloud: 0
 pinterest: 0
 ---
 
+Today brand is transformed by owner to [Oleg Ognenny](ognenny-oleg)
 
-# See also
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-+ [One](index)
+**Ognennaya Lady at Dsquared2 in "Arma" in 2008**
+
+*Photo: [Aleksandr Kotin](http://www.spletnik.ru/gallery/382-20080725_pokaz_Dsquared2_osen_zima_08_09/5972-Ognennaj%D0%B0_Ledi.html) / [Spletnik](http://www.spletnik.ru/gallery/382-20080725_pokaz_Dsquared2_osen_zima_08_09/5972-Ognennaj%D0%B0_Ledi.html)*
+
+## Сonspectus
+
+|Year|Name|
+|-|-|
+|1993|Ognennaya lady|
+|2009|Oleg Ognenniy|
+
+## See also
+
++ [Vyatka mod](vyatka-mod)
++ [Oleg Ognenny](ognenny-oleg)
++ [Polushkiny Brothers](polushkiny-brothers)
 
 
-# Footnotes
+## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[1]](#a1) <span id="f1"></span> [Игорь Шулинский о своей книге, ссоре с «Афишей» и фоне 1990-х (Bg.ru)](http://bg.ru/entertainment/istorija_moskovskih_klubov-15640/?chapter=5)
