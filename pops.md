@@ -14,7 +14,7 @@ venue: Povarskaya, Moscow
 founder: Roman Selivan
 origin: a Russian
 profession: communication agency, described itself as "innovative marketing communications, technologies and new media agency", founded by Roman Selivan in 2017
-photo: Pops logo in 2018
+photo: Pops agency logo since in 2017
 photographer: Pops
 source: Pops
 photographerurl: http://pops.pro/contacts/
