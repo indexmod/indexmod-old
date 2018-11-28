@@ -2,26 +2,26 @@
 title: 'Ognenny, Oleg'
 permalink: ognenny-oleg
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
+originlang: Rus.
+originspell: Олег Огненный
+appearing: Born
+city: Baky
+birth: 1966
+givenname: Oleg
+familyname: Gusaev
+othername: Ognennaya lady
+venue: Moscow
+founder: of Ognennaya lady theater
+origin: a Russian
+profession: artist, costumes collector, creator of Ognennaya lady personage known in alternative night movement in Moscow, living and working in Moscow
+photo: Oleg Onenny
 photographer: Photographer
 source: Source
-photographerurl: index
-sourceurl: index
+photographerurl: TVRAIN
+sourceurl: TVRain
 shortname: OGNENNY
 facebook: 0
-instagram: 0
+instagram: 110
 youtube: 0
 vimeo: 0
 twitter: 0
@@ -31,14 +31,17 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Rus. Олег Огненный, Олег Гусаев, born 1969 <span id="a1">[\[?\]](#f1)</span>, Baku <span id="a1">[\[?\]](#f1)</span>) is a Russian artist of performance, leader of national transvestite movement <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/ognennaya.jpg)
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Artist Oleg Ognenny as “Ognennaya lady”, Moscow, 90-s**
+**Oleg in 90-s**
 
-# See also
+*Photo: [Ekaterina Pavlovskaya](index) / [Facebook](index)*
 
+
+## See also
+
++ [Vyatka mod](vyatka-mod)
 + [Andrei Bartenev](index)
 + [Katya Filippova](index)
 + [Larisa Lazareva](index)
@@ -47,7 +50,7 @@ pinterest: 0
 + [Alexander Osadchi](index)
 + [Polushkiny Brothers](index)
 
-# Footnotes
+## Footnotes
 
 
 [[1]](#a1) <span id="f1"></span> [History of the Moscow clubs (Bolshoi Gorod)](http://bg.ru/entertainment/istorija_moskovskih_klubov-15640/?chapter=5)
