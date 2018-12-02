@@ -6,7 +6,7 @@ originlang:  فارسی
 originspell: مد هفته تهران
 appearing: Est.
 city: Tehran
-birth: 2018
+birth: 2015
 givenname: Tehran Fashion Week
 familyname:
 othername: THRFW
