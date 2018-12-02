@@ -2,7 +2,7 @@
 title: Tehran Fashion Week
 permalink: tehran-fashion-week
 layout: default
-originlang:  فارسی
+originlang: Pers.
 originspell: مد هفته تهران
 appearing: Est.
 city: Tehran
@@ -10,7 +10,7 @@ birth: 2015
 givenname: Tehran Fashion Week
 familyname:
 othername: THRFW
-venue: 
+venue:
 founder:
 origin: an Iranian
 profession: fashion event held in Tehran since 2015
