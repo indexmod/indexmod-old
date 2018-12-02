@@ -5,7 +5,7 @@ layout: default
 originlang: Ro.
 originspell: Saptamana Modei din Bucuresti
 appearing: Est.
-city: Moscow
+city: Bucharest
 birth: 1998
 givenname: Bucharest Fashion Week
 familyname:
