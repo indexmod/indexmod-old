@@ -5,13 +5,13 @@ layout: default
 originlang: Ro.
 originspell: Feeric Saptamana Modei
 appearing: Est.
-city: Bucharest
+city: Sibiu
 birth: 2008
 givenname: FEERIC
 familyname:
 othername: Fashion as Enhancive Experience for Romanian and International Creators
 venue: Redal Expo
-founder:
+founder: Mitichi
 origin: a Romanian
 profession: fashion event, self-named as "the greatest fashion week in the Balkans"
 photo: Some names that took part in the Feeric33 competition
@@ -30,6 +30,17 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
+
+
+## Venue
+
+Feeric Fashion Week closing gala is taking place every year in The Small Square of Sibiu.
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Moment in Feeric Gala**
+
+*Photo: [Orgamea](https://en.wikipedia.org/wiki/Feeric_Fashion_Week#/media/File:Moment_in_Feeric_Gala.jpg) / [Wikipedia.org](https://en.wikipedia.org/wiki/Feeric_Fashion_Week#/media/File:Moment_in_Feeric_Gala.jpg)*
 
 ## See also
 
