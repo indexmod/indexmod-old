@@ -5,7 +5,7 @@ layout: default
 originlang: Ro.
 originspell: Feeric Saptamana Modei
 appearing: Est.
-city: Moscow
+city: Bucharest
 birth: 2008
 givenname: FEERIC
 familyname:
