@@ -10,7 +10,7 @@ birth: 2015
 givenname: Tehran Fashion Week
 familyname:
 othername: THRFW
-venue: Red Square
+venue: 
 founder:
 origin: an Iranian
 profession: fashion event held in Tehran since 2015
