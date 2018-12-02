@@ -2,66 +2,43 @@
 title: Tehran Fashion Week
 permalink: tehran-fashion-week
 layout: default
-exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
+originlang:  فارسی
+originspell: مد هفته تهران
+appearing: Est.
+city: Tehran
 birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
+givenname: Tehran Fashion Week
+familyname:
+othername: THRFW
 venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+founder:
+origin: an Iranian
+profession: fashion event held in Tehran since 2015
+photo: An emblem of the THRFW
+photographer: THRFW
+source: Instagram
 photographerurl: index
 sourceurl: index
-shortname: TEHRAN FASHION WEEK
-facebook: 0
+shortname: TEHRAN
+facebook: 1332
 instagram: 0
 youtube: 0
 vimeo: 0
-twitter: 0
+twitter: 280
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
 
-
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Dushanbe Fashion Week](index)
++ [Dubai Fashion Week](index)
++ [Kabul Fashion Week](index)
++ [Islamabad Fashion Week](index)
+
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
-
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Source name)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[1]](#a1) <span id="f1"></span> [For the First time in Iran after 37 years a Tehran Fashion Week was held in Tehran (Lifestyle-dubai.com)](http://lifestyle-dubai.com/blog/nina/?p=4232)
