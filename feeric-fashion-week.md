@@ -14,11 +14,11 @@ venue: Redal Expo
 founder:
 origin: a Romanian
 profession: fashion event, self-named as "the greatest fashion week in the Balkans"
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+photo: Some names that took part in the Feeric33 competition
+photographer: © Modement by Cornel Petrus / Riccardo Terzo
+source: Vogue.it
+photographerurl: https://www.vogue.it/galleries/gait93183?page=2
+sourceurl: https://www.vogue.it/galleries/gait93183?page=2
 shortname: FEERIC
 facebook: 24961
 instagram: 0

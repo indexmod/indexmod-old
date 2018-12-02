@@ -36,6 +36,10 @@ pinterest: 0
 
 + [Budapest Central European Fashion Week](budapest-central-european-fashion-week)
 + [Budapest Fashion Week](budapest-fashion-week)
++ [Feeric Fashion Week](feeric-fashion-week)
+
+
+
 
 ## Footnotes
 
