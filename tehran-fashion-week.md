@@ -33,7 +33,7 @@ pinterest: 0
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Screen fron THRFW Instagram in 2015**
+**A screen from THRFW Instagram in 2015**
 
 *Photo: [THRFW](index) / [Instagram](index)*
 
