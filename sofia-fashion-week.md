@@ -73,5 +73,5 @@ Showing the elite of the country of Bulgaria <span id="a2">[\[2\]](#f2)</span>.
 [[1]](#a1) <span id="f1"></span>
 [Внушителна церемония за първите награди за мода на Code Fashion Awards в хотел Marinela Sofia (Blitz.bg)](https://www.blitz.bg/layfstayl/svetski/code-fashion-awards-s-vnushitelna-tseremoniya-predstavikha-prvite-si-nagradi-za-moda-v-blgariya_news642958.html)
 
-[[1]](#a1) <span id="f1"></span>
+[[2]](#a2) <span id="f2"></span>
 [We are (Sofiafashionweek.com)](http://www.sofiafashionweek.com/we-are/?lang=en)
