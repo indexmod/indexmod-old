@@ -36,7 +36,7 @@ pinterest: 0
 
 **The Oterra**
 
-*Photo: [justdial.com](justdial.com) / [Justdial.com](justdial.com)*
+*Photo: [Justdial](justdial.com) / [Justdial.com](justdial.com)*
 
 ## Сonspectus
 
