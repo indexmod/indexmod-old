@@ -12,7 +12,7 @@ familyname:
 othername: SFW
 venue: Hotel Marinela Sofia
 founder: EFE Event Management, Code Fashion TV, Vladimir Milchev Ivanov
-origin: a international
+origin: an international
 profession: fashion event in Bulgaria
 photo: Vasil Troyanov Boyanov (Azis) at Sofia Fashion Week AW 2018 defile
 photographer: SFW
