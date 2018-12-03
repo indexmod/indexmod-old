@@ -10,15 +10,15 @@ birth: 2009
 givenname: Bangalore Fashion Week
 familyname:
 othername: BFW
-venue:
+venue: The Oterra
 founder:
 origin: a national
 profession: bi-annual fashion event held in Bangalore
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+photo: Sagar Tenali at BFW
+photographer: Sagar Tenali
+source: Studiosagartenali.com
+photographerurl: http://www.studiosagartenali.com/shows_bangalore_fashion_week.html
+sourceurl: http://www.studiosagartenali.com/shows_bangalore_fashion_week.html
 shortname: BANGALORE
 facebook: 77458
 instagram: 0
@@ -34,9 +34,9 @@ pinterest: 0
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**The Oterra**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [justdial.com](justdial.com) / [Justdial.com](justdial.com)*
 
 ## Сonspectus
 
@@ -60,16 +60,4 @@ Celebrating 10 Glorious Years of Bangalore Fashion Week with 2 Editions Dedicate
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
-
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Source name)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[1]](#a1) <span id="f1"></span> [Bangalore Fashion Week is bigger and better (Dnaindia.com)](https://www.dnaindia.com/lifestyle/report-bangalore-fashion-week-is-bigger-and-better-1502509)
