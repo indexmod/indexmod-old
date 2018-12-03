@@ -2,25 +2,25 @@
 title: Bangalore Fashion Week
 permalink: bangalore-fashion-week
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+originlang: Hindi
+originspell: बैंगलोर फैशन वीक
+appearing: Est.
+city: Bangalore
+birth: 2009
+givenname: Bangalore Fashion Week
+familyname:
+othername: BFW
+venue:
+founder:
+origin: a national
+profession: bi-annual fashion event held in Bangalore
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
 shortname: BANGALORE
-facebook: 0
+facebook: 77458
 instagram: 0
 youtube: 0
 vimeo: 0
@@ -40,14 +40,23 @@ pinterest: 0
 
 ## Сonspectus
 
-|Year|City|
+|Year|Milestone|
 |-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2009|Establishing in Bangalore <span id="a2">[\[2\]](#f2)</span>|
+
+Bangalore Fashion Week is a Global Fashion Event with 18 Editions at Bangalore 1 Edition each at Bangkok & Dubai and Forthcoming Editions in London.
+Bangalore Fashion Week (BFW) has been conceived and created with a vision to Showcase Indian Fashion Industry to The Global Fashion World. Bangalore Fashion Week(BFW) is a premier event in India. The objective of BFW is to create business relationships and to facilitate a dialogue between Fashion Designers and Trade Buyers of the World.
+Celebrating 10 Glorious Years of Bangalore Fashion Week with 2 Editions Dedicated over the next year.
 
 ## See also
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
++ [Bangalore Fashion Week](index)
++ [Bangalore International Fashion Week](index)
++ [India Diamond Week](index)
++ [Miss Bangalore](index)
++ [Fashion Showers](index)
 
 ## Footnotes
 
