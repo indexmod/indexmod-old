@@ -11,8 +11,8 @@ givenname: Sofia Fashion Week
 familyname:
 othername: SFW
 venue: Hotel Marinela Sofia
-founder: EFE Event Management, Code Fashion TV
-origin: a national
+founder: EFE Event Management, Code Fashion TV, Vladimir Milchev Ivanov
+origin: a international
 profession: fashion event in Bulgaria
 photo: Vasil Troyanov Boyanov (Azis) at Sofia Fashion Week AW 2018 defile
 photographer: SFW
@@ -43,9 +43,15 @@ SFW is held in the top fashion venue in Sofia – EFE Hall of Hotel Marinela. Th
 
 ## Сonspectus
 
-|Year|City|
+|Year|Milestone|
 |-|-|
-|2017|Moscow|
+|2015|Patenting of the SFW|
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
+
+**The SFW trade mark patent from Bulgarian patent office in 2015**
+
+*Photo: [SFW](https://www.instagram.com/p/7IjkR5wfnK/) / [Instagram.com](https://www.instagram.com/p/7IjkR5wfnK/)*
 
 ## About SFW
 
