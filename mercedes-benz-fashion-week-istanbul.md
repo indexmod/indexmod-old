@@ -14,9 +14,9 @@ venue: Zorlu Center PSM
 founder:
 origin: an international
 profession: fashion event in Turkey
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+photo: Carwalk on MBFWI in 2018
+photographer: MBFWI
+source: MBFWI
 photographerurl: index
 sourceurl: index
 shortname: ISTANBUL
@@ -31,17 +31,10 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
 ## See also
 
 + [Istanbul Fashion Week](istanbul-fashion-week)
-+ [More](index)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Türk tasarımı satın almayı çok sevdik (Sabah.com.tr)](https://www.sabah.com.tr/cumartesi/2018/12/01/turk-tasarimi-satin-almayi-cok-sevdik)
