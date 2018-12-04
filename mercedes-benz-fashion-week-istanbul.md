@@ -16,7 +16,7 @@ origin: an international
 profession: fashion event in Turkey
 photo: Catwalk on MBFWI in 2018
 photographer: MBFWI
-source: MBFWI
+source: Icon Panorama
 photographerurl: index
 sourceurl: index
 shortname: ISTANBUL
