@@ -14,11 +14,11 @@ venue: Westergasfabriek
 founder: Founder
 origin: an international
 profession: fashion event
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+photo: The catwalk in the Westergasfabriek in 2010
+photographer: Michiel / Flickr
+source: Wikipedia
+photographerurl: https://nl.wikipedia.org/wiki/Amsterdam_Fashion_Week#/media/File:Catwalk_fashion_week_westergas_2010.jpg
+sourceurl: https://nl.wikipedia.org/wiki/Amsterdam_Fashion_Week#/media/File:Catwalk_fashion_week_westergas_2010.jpg
 shortname: AMSTERDAM
 facebook: 0
 instagram: 0
@@ -47,6 +47,10 @@ Amsterdam Fashion Week (AFW) is a semi-annual event that celebrates Dutch fashio
 
 The catwalk in the Westergasfabriek in 2010
 The Amsterdam Fashion Week is a fashion event that takes place twice a year in the city of Amsterdam. Both established and novice designers and fashion brands show their collections. The AIFW is held for professionals on the site of the Westergasfabriek. In addition to the catwalk shows, which are only open to invited guests, the week also has a program that is open to the public, the AIFW Downtown. The Downtown event consists of various exhibitions, parties, store openings and other events in the field of fashion, spread across the city of Amsterdam <span id="a2">[\[2\]](#f2)</span>.
+
+## History
+
+In the Netherlands, from 1947 until the end of the 1950s, a semi-annual fashion week was held under the name Amsterdam Fashion Week, organized by the Dutch Ladies' Confectionery Industry. After the collapse of the Dutch clothing industry, this has been stopped. The first edition in the current form was created in 2004 with three catwalk shows. Since then, the emphasis has not been on ready-made clothing but on the promotion of Dutch fashion designers.
 
 ## See also
 
