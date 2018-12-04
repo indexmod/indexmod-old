@@ -47,9 +47,9 @@ A furniture concept store inspirited by British vintage style and correspondent 
 
 Main rule of HC is strictly follow is to select for the stores only those models that buyers liked theirselves. And these are only those models on which have been lain down, sat down and even jumped. In the armchairs chosen in this way, it is convenient to sit on the beds, sleep well, and the tables are strong and will withstand any, even the most reckless, feast.
 
-HC also adore the vintage style. For HC, this is the period in history when comfort and design were synonymous. This is the style that HC feel, we understand and that is why we manage to collect a wide range of furniture, lamps, decor items, dining utensils, bed linen and just various useful things that can functionally fill your entire house: from the hallway to the bedroom through the dining room, nursery or office.
+HC also adore the vintage style. For HC, this is the period in history when comfort and design were synonymous. This is the style that HC feel, HC understands and that is why HC manage to collect a wide range of furniture, lamps, decor items, dining utensils, bed linen and just various useful things that can functionally fill entire house: from the hallway to the bedroom through the dining room, nursery or office.
 
-Of course, the British accent is present in HC collection strongly enough, HC will not deny, it is Englo-maniac, but in HC stores now you will also find models with French tenderness and Belgian tranquility. All that remains unchanged is a craving for comfort and quality, in which HC probably coincide.
+Of course, the British accent is present in HC collection strongly enough, HC will not deny, it is Anglo-maniac, but in HC stores now also may be find models with French tenderness and Belgian tranquility. All that remains unchanged is a craving for comfort and quality, in which HC probably coincide.
 
 ## See also
 
