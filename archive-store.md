@@ -12,7 +12,7 @@ familyname:
 othername: Archivestore.ru
 venue: Artplay
 founder: Anastasia Palionova, Michelle Kiselev
-origin: a Russian
+origin: a Russian-Scandinavian
 profession: interior studio, show-room, online store, founded by Anastasia Palionova and Michelle Kiselev in Moscow in 2012
 photo: Chair Isola NN 2, & Tradition, Nendo & Luca Nichetto; Metal, polyurethane foam, MDF, fabric, leather
 photographer: Archive
@@ -43,11 +43,11 @@ pinterest: 0
 |-|-|
 |2012|Moscow, founding the Archive by Anastasia Palionova and Michelle Kiselev <span id="a2">[\[2\]](#f2)</span>|
 
-Visiting the Archive Store is even for those who do not perceive vintage furniture and do not tolerate it in the house: yet the basis of the store is modern designer furniture. The collection of antique furniture here is small - mostly lamps and accessories. The prices are rather big, but the things are worth it: there are no design icons in the store, which have become familiar with the interior shots, but there is a chance to find unusual and rare items personally selected by the store owners Anastasia Palionova and Mikhail Kiselev.
+Visiting the Archive Store is even for those who do not perceive vintage furniture and do not tolerate it in the house: yet the basis of the store is modern designer furniture. The collection of antique furniture here is small -- mostly lamps and accessories. The prices are rather big, but the things are worth it: there are no design icons in the store, which have become familiar with the interior shots, but there is a chance to find unusual and rare items personally selected by the store owners Anastasia Palionova and Mikhail Kiselev.
 
 ## Anastasia Palionova
 
-Anastasia Palionova <span id="a2">[\[3\]](#f2)</span>, co-owner of Archive: “In Moscow, you are confronted with the absence of an alternative: on the one hand Ikea, on the other - Grand. Or you need to be able to do something yourself, or to manage to find strange, beautiful things in a furniture mass market. Scandinavian - because the furniture is beautiful and very simple - wood and iron, nothing superfluous."
+Anastasia Palionova <span id="a2">[\[3\]](#f2)</span>, co-owner of Archive: “In Moscow, you are confronted with the absence of an alternative: on the one hand Ikea, on the other -- Grand. Or you need to be able to do something yourself, or to manage to find strange, beautiful things in a furniture mass market. Scandinavian -- because the furniture is beautiful and very simple -- wood and iron, nothing superfluous."
 
 ## See also
 
