@@ -14,7 +14,7 @@ venue: Zorlu Center PSM
 founder: Istanbul Apparel and Apparel Exporters' Association (İHKİB), Fashion Designers Association (MTD), United Brands Association (BMD) and İstanbul Moda, Academy (IMA)
 origin: an international
 profession: fashion event in Turkey
-photo: Carwalk on MBFWI in 2018
+photo: Catwalk on MBFWI in 2018
 photographer: MBFWI
 source: MBFWI
 photographerurl: index
