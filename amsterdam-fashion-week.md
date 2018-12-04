@@ -20,22 +20,16 @@ source: Wikipedia
 photographerurl: https://nl.wikipedia.org/wiki/Amsterdam_Fashion_Week#/media/File:Catwalk_fashion_week_westergas_2010.jpg
 sourceurl: https://nl.wikipedia.org/wiki/Amsterdam_Fashion_Week#/media/File:Catwalk_fashion_week_westergas_2010.jpg
 shortname: AMSTERDAM
-facebook: 0
-instagram: 0
-youtube: 0
+facebook: 43607
+instagram: 19900
+youtube: 844
 vimeo: 0
-twitter: 0
+twitter: 28934
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
-pinterest: 0
+pinterest: 143
 ---
-
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
 
 ## Сonspectus
 
@@ -54,8 +48,7 @@ In the Netherlands, from 1947 until the end of the 1950s, a semi-annual fashion 
 
 ## See also
 
-+ [LFW](index)
-+ [BFW](index)
++ [MBFWA](index)
 
 ## Footnotes
 
