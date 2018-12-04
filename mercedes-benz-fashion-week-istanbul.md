@@ -11,7 +11,7 @@ givenname: Mercedes-Benz Fashion Week Istanbul
 familyname:
 othername: MBFWI
 venue: Zorlu Center PSM
-founder: Istanbul Apparel and Apparel Exporters' Association (İHKİB), Fashion Designers Association (MTD), United Brands Association (BMD) and İstanbul Moda, Academy (IMA)
+founder: Istanbul Apparel and Apparel Exporters Association (İHKİB)
 origin: an international
 profession: fashion event in Turkey
 photo: Catwalk on MBFWI in 2018
