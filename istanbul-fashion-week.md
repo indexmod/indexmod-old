@@ -45,7 +45,7 @@ pinterest: 0
 
 ## See also
 
-+ [About](index)
++ [Mercedes-Benz Fashion Week Istanbul](mercedes-benz-fashion-week-istanbul)
 + [More](index)
 
 ## Footnotes
