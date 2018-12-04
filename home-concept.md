@@ -12,8 +12,8 @@ givenname: Home Concept
 familyname:
 othername: HC
 venue: Artplay
-origin: an Russian
-profession: furniture concept store inspirited by British vintage style
+origin: a Russian-British
+profession: furniture concept store inspirited by British vintage style based in Moscow
 photo: British vintage style interiors by Home Concept
 photographer: Ilike Loft
 source: Ilikeloft.ru
