@@ -28,7 +28,7 @@ tumblr: 0
 vkontakte: 1252
 soundcloud: 0
 pinterest: 0
-founder: Timothy Oulton, Vadim Yasnogorodky
+founder: Timothy Oulton, Vadim Yasnogorodsky
 ---
 
 A furniture concept store inspirited by British vintage style and correspondent to Halo furniture factory.
