@@ -276,7 +276,9 @@ pinterest: 0
 |Tel Aviv Fashion Week||
 
 
-|Japan||
+### Japan
+
+|City|Short|
 |-|-|
 |Girls Award||
 |Hiroshima Fashion Week||
