@@ -396,6 +396,7 @@ pinterest: 0
 
 **Austria**
 
+|[Viena Fashion Week](viena-fashion-week)||
 
 **Azerbaijan**
 |[Azerbaijan Fashion Week](azerbaijan-fashion-week)||
