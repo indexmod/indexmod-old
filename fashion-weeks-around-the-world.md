@@ -333,139 +333,140 @@ pinterest: 0
 
 
 **Qatar**
-|-|-|
+
 |Doha Fashion Week**
 
 
 **Russia**
-|-|-|
-|Nizhny Fashion Week**
-|Novosibirsk Fashion Week**
-|Yekaterinburg Ural Fashion Week**
-|Russia Fashion Week**
-|Mercedes-Benz Fashion Week Russia**
-|St. Petersburg Fashion Week**
-|Volvo Moscow Fashion Week**
+
+|Nizhny Fashion Week||
+|Novosibirsk Fashion Week||
+|Yekaterinburg Ural Fashion Week||
+|Russia Fashion Week||
+|Mercedes-Benz Fashion Week Russia||
+|St. Petersburg Fashion Week||
+|Volvo Moscow Fashion Week||
 
 
 **Singapore**
-|-|-|
-|Asia Fashion Exchange**
-|Asia Style Collection**
-|Fide Fashion Weeks**
-|Men's Fashion Week**
-|Singapore Fashion Festival**
-|Singapore Fashion Week**
+
+|Asia Fashion Exchange||
+|Asia Style Collection||
+|Fide Fashion Weeks||
+|Men's Fashion Week||
+|Singapore Fashion Festival||
+|Singapore Fashion Week||
 
 
 **South Korea**
 
-|Busan Fashion Week**
-|Daegu Fashion Fair (Week)**
-|Preview in Daegu**
-|Seoul Fashion Week**
-|Seoul Girls Collection**
+|Busan Fashion Week||
+|Daegu Fashion Fair (Week)||
+|Preview in Daegu||
+|Seoul Fashion Week||
+|Seoul Girls Collection||
 
 
 **Sri Lanka**
-|-|-|
-|Colombo Fashion Week**
+
+|Colombo Fashion Week||
 
 
 **Thailand**
-|-|-|
-|Bangkok International Fashion Week**
+
+|Bangkok International Fashion Week|BIFW|
 
 
 **Turkey**
-|-|-|
-|Ankara Fashion Week**
-|Istanbul Fashion Week**
+
+|Ankara Fashion Week||
+|Istanbul Fashion Week||
+|Istanbul Fashion Week||
 
 
 **United Arab Emirates**
-|-|-|
-|Arab Fashion Week**
+
+|Arab Fashion Week||
 
 
 **Vietnam**
-|-|-|
-|Vietnam International Fashion Week**
+
+|Vietnam International Fashion Week||
 
 ## Europe
 
 **Austria**
-|-|-|
-|Vienna Fashion Week**
+
+|Vienna Fashion Week||
 
 
 **Belarus**
-|-|-|
-|Belarus Fashion Week**
+
+|Belarus Fashion Week||
 
 
 **Belgium**
-|-|-|
-|Antwerp Fashion Show**
-|Brussels Fashion Week**
+
+|Antwerp Fashion Show||
+|Brussels Fashion Week||
 
 
 **Bulgaria**
-|-|-|
-|Sofia Fashion Week Couture**
-|Kids Fashion Week**
-|Men's Fashion Week Plovdiv**
-|Plovdiv Fashion Week Prêt-à-Porter**
-|Bridal Fashion Week Plovdiv**
-|Dance Fashion Week Burgas**
-|Lingerie & Swimwear Fashion Week Varna**
+
+|Sofia Fashion Week Couture||
+|Kids Fashion Week||
+|Men's Fashion Week Plovdiv||
+|Plovdiv Fashion Week Prêt-à-Porter||
+|Bridal Fashion Week Plovdiv||
+|Dance Fashion Week Burgas||
+|Lingerie & Swimwear Fashion Week Varna||
 
 
 **Czech Republic**
-|-|-|
-|Prague Fashion Week**
+
+|Prague Fashion Week||
 
 
 **Croatia**
-|-|-|
-|Zagreb Fashion Week**
+
+|Zagreb Fashion Week||
 
 
 **Denmark**
-|-|-|
-|Copenhagen Fashion Week**
-|Gallery Int Fashion Fair**
+
+|Copenhagen Fashion Week||
+|Gallery Int Fashion Fair||
 
 
 **Finland**
 
-|Helsinki Fashion Week**
+|Helsinki Fashion Week||
 
 
 **France**
 
-|Africa Fashion Week Paris**
-|Bordeaux Fashion Week**
-|Elite Model Look**
-|Cannes-Nice Fashion Week**
-|Bal des débutantes**
-|Paris Fashion Week (capital)**
-|Men's Fashion Week**
-|Lille Fashion Week**
-|Lyon Fashion Week (FashionCity Show)**
-|Marseille Fashion Week**
-|Nantes Fashion Week**
-|Rennes Fashion Week**
-|Toulouse Fashion Week**
-|Strasbourg Fashion Week (EM Fashion Week)**
-|St. Tropez Fashion Week**
+|Africa Fashion Week Paris||
+|Bordeaux Fashion Week||
+|Elite Model Look||
+|Cannes-Nice Fashion Week||
+|Bal des débutantes||
+|Paris Fashion Week (capital)||
+|Men's Fashion Week||
+|Lille Fashion Week||
+|Lyon Fashion Week (FashionCity Show)||
+|Marseille Fashion Week||
+|Nantes Fashion Week||
+|Rennes Fashion Week||
+|Toulouse Fashion Week||
+|Strasbourg Fashion Week (EM Fashion Week)||
+|St. Tropez Fashion Week||
 
 
 **Georgia**
 
-|Adjara Fashion Week**
-|Mercedes-Benz Fashion Week Tbilisi**
-|Tbilisi Fashion Week**
+|Adjara Fashion Week||
+|Mercedes-Benz Fashion Week Tbilisi||
+|Tbilisi Fashion Week||
 
 
 **Germany**
