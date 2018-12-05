@@ -54,6 +54,7 @@ Lana Tigrana is an official representative Azerbaijan Fashion Week in Ukraine. L
 
 + [Baku Fashion Week](baku-fashion-week)
 + [Belorussian Fashion Week](belorussian-fashion-week)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Kazakhstan Fashion Week](kazakhstan-fashion-week)
 + [Krasnodar Fashion Week](krasnodar-fashion-week)
 + [Sunrise in Baku Fashion Project](/sunrise-in-baku-fashion-project)

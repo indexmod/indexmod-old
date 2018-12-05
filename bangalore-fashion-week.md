@@ -50,9 +50,7 @@ Celebrating 10 Glorious Years of Bangalore Fashion Week with 2 Editions Dedicate
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-+ [Bangalore Fashion Week](index)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Bangalore International Fashion Week](index)
 + [India Diamond Week](index)
 + [Miss Bangalore](index)
