@@ -34,43 +34,43 @@ pinterest: 0
 
 ## Africa
 
-|Botswana||
-|-|-|
+*Botswana*
+
 |Gaborone Fashion Weekend|GFW|
 
 
-|Cote d'Ivoire||
-|-|-|
+*Cote d'Ivoire*
+
 |Cote d'Ivoire Fashion Week|CFW|
 
 
-|Egypt||
-|-|-|
+*Egypt*
+
 |Cairo Fashion Festival|CFF|
 |Cairo Couture Collections|CCC|
 |Cairo Fashion Week|CFW|
 |La Mode A Beyrouth - Cairo|LMDBC|
 
 
-|Kenya||
-|-|-|
+*Kenya*
+
 |Nairobi Fashion Week|NFW|
 
 
-|Malawi||
-|-|-|
+*Malawi*
+
 |Fashion Malawi Edition|FME|
 
 
-|Nigeria||
-|-|-|
+*Nigeria*
+
 |Hayati Fashion Week|HFW|
 |Lagos Fashion Week|LFW|
 |Port Harcourt International Fashion Week|PHIFW|
 
 
-|South Africa||
-|-|-|
+*South Africa*
+
 |SA Johannesburg Fashion Week|SAJFW|
 |Cape Town Fashion Week|CTFW|
 |Durban Fashion Week|DFW|
@@ -80,8 +80,8 @@ pinterest: 0
 
 ## America
 
-|Argentina||
-|-|-|
+*Argentina*
+
 |Buenos Aires Fashion Week|BAFW|
 |Cordoba Fashion Week|CFW|
 |Mendoza Fashion Week|MFW|
