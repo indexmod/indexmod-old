@@ -499,7 +499,7 @@ pinterest: 0
 |Bari Fashion Week|BFW|
 |Benevento Fashion Week|BFW|
 |Benevento In Moda|BIM|
-|Bologne Fashion Week||
+|Bologne Fashion Week|BFW|
 |Catania Fashion Week||
 |Cesena Fashion Week||
 |Cortina Fashion Week||
@@ -558,7 +558,7 @@ pinterest: 0
 **Poland**
 
 |Łódź FashionPhilosophy Fashion Week Poland|LFPFWP|
-|Mercedes Benz Fashion Weekend Warsaw**
+|Mercedes Benz Fashion Weekend Warsaw||
 
 
 **Portugal**
@@ -590,7 +590,7 @@ pinterest: 0
 |Valencia Fashion Week|VFW|
 |Sevilla Fashion Week|SFW|
 |Zaragoza Fashion Week|ZFW|
-|The Brandery**
+|The Brandery||
 
 
 **Sweden**
@@ -619,7 +619,7 @@ pinterest: 0
 |Manchester Fashion Week|MFW|
 |Oxford Fashion Week|OFW|
 |Pure London|PL|
-|Strut**
+|Strut||
 |Sunrise in Baku Fashion Project|SBFP|
 |The Fashion Awards|FA|
 
