@@ -46,7 +46,7 @@ pinterest: 0
 ## See also
 
 + [Mercedes-Benz Fashion Week Istanbul](mercedes-benz-fashion-week-istanbul)
-+ [More](index)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 
 ## Footnotes
 
