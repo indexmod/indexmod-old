@@ -150,24 +150,24 @@ pinterest: 0
 |Puebla Fashion Show|PFS|
 
 
-|Panama**
-|-|-|
+**Panama**
+
 |Panama Fashion Week|PFW|
 
 
-|Paraguay**
-|-|-|
+**Paraguay**
+
 |Asunción Fashion Week|AFW|
 |Ciudad del Este Fashion Week|CDEFW|
 
 
-|Peru**
-|-|-|
+**Peru**
+
 |LIF Fashion Week (Lima)|LIFW|
 
 
-|Puerto Rico**
-|-|-|
+**Puerto Rico**
+
 |Elite Model Look Puerto Rico|EMLPR|
 |Puerto Rico High Fashion Week|PRHFW|
 |San Juan Moda|SJM|
@@ -175,8 +175,8 @@ pinterest: 0
 |South Fashion Week|SFW|
 
 
-|United States**
-|-|-|
+**United States**
+
 |Africa Fashion Week New York|AFWNY|
 |African Fashion Week Houston|AFWH|
 |Atlantic City Fashion Week|ACFW|
@@ -200,32 +200,32 @@ pinterest: 0
 |Victoria's Secret Fashion Show|VSFS|
 
 
-|Uruguay**
-|-|-|
+**Uruguay**
+
 |Montevideo Fashion Week|MFW|
 
 
-|Venezuela**
-|-|-|
+**Venezuela**
+
 |Caracas Fashion Week|CFW|
 
 
 ## Asia
 
-|Bahrain**
-|-|-|
+**Bahrain**
+
 |Bahrain International Design Week|BIDW|
 
 
-|Bangladesh**
-|-|-|
+**Bangladesh**
+
 |Bangladesh Fashion Week|BFW|
 |Dhaka Fashion Week|DFW|
 
 
-|China**
-|-|-|
-|Centrestage**
+**China**
+
+|Centrestage||
 |China Fashion Week|CFW|
 |Guangzhou Fashion Week|GFW|
 |Hong Kong Fashion Week|HHFW|
@@ -234,8 +234,8 @@ pinterest: 0
 |Tianjin Fashion Week|TFW|
 
 
-|India**
-|-|-|
+**India**
+
 |Delhi Times LifeStyle Week|DTLSW|
 |[Bangalore Fashion Week](bangalore-fashion-week)|BFW|
 |India Fashion Week|IFW|
@@ -250,34 +250,33 @@ pinterest: 0
 |[Navi Mumbai Fashion Week](navi-mumbai-fashion-week)|NMFW|
 
 
-|Indonesia**
-|-|-|
-|Indonesia Fashion Week**
-|Jakarta Fashion Week**
-|Plaza Indonesia's Men Fashion Week**
-|Surabaya Fashion Parade**
-|Bandung Fashion Week**
-|Jember Fashion Carnaval**
-|Bali Fashion Trend**
-|Jogja Fashion Week**
-|Jakarta Modest Fashion Week**
-|Jakarta Hijab Fashion Week Femme**
-|Celebes Beauty Fashion Week**
+**Indonesia**
+
+|Indonesia Fashion Week||
+|Jakarta Fashion Week||
+|Plaza Indonesia's Men Fashion Week||
+|Surabaya Fashion Parade||
+|Bandung Fashion Week||
+|Jember Fashion Carnaval||
+|Bali Fashion Trend||
+|Jogja Fashion Week||
+|Jakarta Modest Fashion Week||
+|Jakarta Hijab Fashion Week Femme||
+|Celebes Beauty Fashion Week||
 
 
-|Iran**
-|-|-|
-|Iran Fashion Week**
-|Tehran Fashion Week**
+**Iran**
+
+|Iran Fashion Week||
+|Tehran Fashion Week||
 
 
-|Israel**
-|-|-|
-|Tel Aviv Fashion Week**
+**Israel**
+
+|Tel Aviv Fashion Week||
 
 
 **Japan**
-
 
 |Girls Award|GA|
 |Hiroshima Fashion Week|HFW|
@@ -291,19 +290,19 @@ pinterest: 0
 
 
 **Malaysia**
-|-|-|
+
 |Kuala Lumpur Fashion Week||
 |Malaysian International Fashion Alliance (MIFA)||
 |Asia Islamic Fashion Week 2017 (AIFW 2017)||
 
 
 **Mongolia**
-|-|-|
+
 |Goyol Fashion Festival||
 
 
 **Nepal**
-|-|-|
+
 |Model Hunt Nepal||
 |Voyage of creation||
 |Nepal Fashion Week||
