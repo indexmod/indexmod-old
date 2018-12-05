@@ -36,306 +36,303 @@ pinterest: 0
 
 |Botswana||
 |-|-|
-|Gaborone Fashion Weekend|[GFW](gaborone-fashion-weekend)|
+|Gaborone Fashion Weekend|GFW|
 
 |Cote d'Ivoire||
 |-|-|
-|Cote d'Ivoire Fashion Week|[CFW](cote-d-ivoire-fashion-week)|
+|Cote d'Ivoire Fashion Week|CFW|
 
 
 |Egypt||
 |-|-|
-Cairo Fashion Festival
-Cairo Couture Collections
-Cairo Fashion Week
-La Mode A Beyrouth - Cairo
+|Cairo Fashion Festival||
+|Cairo Couture Collections||
+|Cairo Fashion Week||
+|La Mode A Beyrouth - Cairo||
 
  |Kenya||
  |-|-|
-Nairobi Fashion Week
+Nairobi Fashion Week||
 
  |Malawi||
  |-|-|
-Fashion Malawi Edition
+Fashion Malawi Edition||
 
  |Nigeria||
  |-|-|
-Hayati Fashion Week
-Lagos Fashion Week
-Port Harcourt International Fashion Week
+Hayati Fashion Week||
+Lagos Fashion Week||
+Port Harcourt International Fashion Week||
 
  |South Africa||
  |-|-|
-SA Johannesburg Fashion Week
-Cape Town Fashion Week
-Durban Fashion Week
-Eastern Cape Fashion Week (Port Elizabeth)
-Pretroria Fashion Week
+SA Johannesburg Fashion Week||
+Cape Town Fashion Week||
+Durban Fashion Week||
+Eastern Cape Fashion Week (Port Elizabeth)||
+Pretroria Fashion Week||
 
 ## America
 
 |Argentina||
 |-|-|
-Buenos Aires Fashion Week
-Cordoba Fashion Week
-Mendoza Fashion Week
-Santa Fe Fashion Week
+Buenos Aires Fashion Week||
+Cordoba Fashion Week||
+Mendoza Fashion Week||
+Santa Fe Fashion Week||
 
  |Bolivia||
  |-|-|
-Bolivia Fashion Week
-International Fashion Week Bolivia
+Bolivia Fashion Week||
+International Fashion Week Bolivia||
 
  |Brazil||
  |-|-|
-Minas Gerais Fashion Week
-Brasília Fashion Week
-Fortaleza Fashion Week
-Amazônia Fashion Week
+Minas Gerais Fashion Week||
+Brasília Fashion Week||
+Fortaleza Fashion Week||
+Amazônia Fashion Week||
 Rio Fashion Week
-Salvador de Bahia Black Fashion Week
-São Paulo Fashion Week
+Salvador de Bahia Black Fashion Week||
+São Paulo Fashion Week||
 
  |Canada||
  |-|-|
-Alberta Fashion Week
-Fashion Cares
-Montréal Fashion and Design Festival
-Toronto Fashion Week
-Vancouver Fashion Week
+Alberta Fashion Week||
+Fashion Cares||
+Montréal Fashion and Design Festival||
+Toronto Fashion Week||
+Vancouver Fashion Week||
 
 | Chile||
  |-|-|
-Chile Fashion Week
-Elite Model Look Chile
-Santiago Fashion Week
+Chile Fashion Week||
+Elite Model Look Chile||
+Santiago Fashion Week||
 
 | Colombia||
  |-|-|
-Bogota Fashion Week
-Barranquilla Fashion Week
-Cali Fashion Week
-Cali ExpoShow
-Cartagena Fashion
-ColombiaModa
-ColombiaTex
-Medellin Fashion Week
-Plataforma K
+Bogota Fashion Week||
+Barranquilla Fashion Week||
+Cali Fashion Week||
+Cali ExpoShow||
+Cartagena Fashion||
+ColombiaModa||
+ColombiaTex||
+Medellin Fashion Week||
+Plataforma K||
 
  |Jamaica||
  |-|-|
-Caribbean Fashion Week
-Style Week Jamaica
-Kingston Bridal Week
+Caribbean Fashion Week||
+Style Week Jamaica||
+Kingston Bridal Week||
 
  |Mexico||
  |-|-|
-Guadalajara Design Week
-Cancun Coture Week
-Mexico City Fashion Week
-MT Fashion Week (Monterrey)
-Puebla Fashion Show
+Guadalajara Design Week||
+Cancun Coture Week||
+Mexico City Fashion Week||
+MT Fashion Week (Monterrey)||
+Puebla Fashion Show||
 
  |Panama||
  |-|-|
-Panama Fashion Week
+Panama Fashion Week||
 
  |Paraguay||
  |-|-|
-Asunción Fashion Week
-Ciudad del Este Fashion Week
+Asunción Fashion Week||
+Ciudad del Este Fashion Week||
 
  |Peru||
  |-|-|
-LIF Fashion Week (Lima)
+LIF Fashion Week (Lima)||
 
  |Puerto Rico||
  |-|-|
-Elite Model Look Puerto Rico
-Puerto Rico High Fashion Week
-San Juan Moda
-West Fashion Week
-South Fashion Week
+Elite Model Look Puerto Rico||
+Puerto Rico High Fashion Week||
+San Juan Moda||
+West Fashion Week||
+South Fashion Week||
 
  |United States||
  |-|-|
-Africa Fashion Week New York
-African Fashion Week Houston
-Atlantic City Fashion Week
-Boston Fashion Week
-Christian Fashion Week
-Fashion Week Columbus
-Fashion Week Cleveland
-Houston Fashion Week
-Los Angeles Fashion Film Festival
-Los Angeles Fashion Week
-Men's Fashion Week
-Men's Fashion Week Los Angeles
-Mercedes-Benz Fashion Week Miami
-Met Gala
-Miami Fashion Week
-New York Fashion Week (capital)
-Fall 2008 fashion weeks
-List of Fall 2008 New York Fashion Week fashion shows
-Men's Fashion Week
-Rip the Runway
-Pittsburgh Fashion Week
-Splendid Indian Closet Fashion Tour
-Spring 2008 New York Fashion Week
-Victoria's Secret Fashion Show
+Africa Fashion Week New York||
+African Fashion Week Houston||
+Atlantic City Fashion Week||
+Boston Fashion Week||
+Christian Fashion Week||
+Fashion Week Columbus||
+Fashion Week Cleveland||
+Houston Fashion Week||
+Los Angeles Fashion Film Festival||
+Los Angeles Fashion Week||
+Men's Fashion Week||
+Men's Fashion Week Los Angeles||
+Mercedes-Benz Fashion Week Miami||
+Met Gala||
+Miami Fashion Week||
+New York Fashion Week (capital)||
+Men's Fashion Week||
+Rip the Runway||
+Pittsburgh Fashion Week||
+Splendid Indian Closet Fashion Tour||
+Spring 2008 New York Fashion Week||
+Victoria's Secret Fashion Show||
 
  |Uruguay||
  |-|-|
-Montevideo Fashion Week
+Montevideo Fashion Week||
 
  |Venezuela||
  |-|-|
-Caracas Fashion Week
+Caracas Fashion Week||
 
 ## Asia
 
  |Bahrain||
  |-|-|
-Bahrain International Design Week
+Bahrain International Design Week||
 
  |Bangladesh||
  |-|-|
-Bangladesh Fashion Week
-Dhaka Fashion Week
+Bangladesh Fashion Week||
+Dhaka Fashion Week||
 
  |China||
  |-|-|
-Centrestage
-China Fashion Week
-Elite Model Look International 2009
-Guangzhou Fashion Week
-Hong Kong Fashion Week for Fall/Winter
-Shanghai Fashion Week
-Shenzhen Fashion Week
-Tianjin Fashion Week
+Centrestage||
+China Fashion Week||
+Elite Model Look International 2009||
+Guangzhou Fashion Week||
+Hong Kong Fashion Week||
+Shanghai Fashion Week||
+Shenzhen Fashion Week||
+Tianjin Fashion Week||
 
  |India||
  |-|-|
-Delhi Times LifeStyle Week
-Bangalore Fashion Week
-India Fashion Week
-India Showcase Week
-India kids fashion show
-India Runway Week
-Indore Fashion Week
-Junior's Fashion Week
-Kerala Fashion League
-Lakme Fashion Week
-Mysore Fashion Week
-Navi Mumbai Fashion Week
+Delhi Times LifeStyle Week||
+Bangalore Fashion Week||
+India Fashion Week||
+India Showcase Week||
+India kids fashion show||
+India Runway Week||
+Indore Fashion Week||
+Junior's Fashion Week||
+Kerala Fashion League||
+Lakme Fashion Week||
+Mysore Fashion Week||
+Navi Mumbai Fashion Week||
 
  |Indonesia||
  |-|-|
-Indonesia Fashion Week
-Jakarta Fashion Week
-Plaza Indonesia's Men Fashion Week
-Surabaya Fashion Parade
-Bandung Fashion Week
-Jember Fashion Carnaval
-Bali Fashion Trend
-Jogja Fashion Week
-Jakarta Modest Fashion Week
-Jakarta Hijab Fashion Week
-Femme
-Celebes Beauty Fashion Week
+Indonesia Fashion Week||
+Jakarta Fashion Week||
+Plaza Indonesia's Men Fashion Week||
+Surabaya Fashion Parade||
+Bandung Fashion Week||
+Jember Fashion Carnaval||
+Bali Fashion Trend||
+Jogja Fashion Week||
+Jakarta Modest Fashion Week||
+Jakarta Hijab Fashion Week Femme||
+Celebes Beauty Fashion Week||
 
  |Iran||
  |-|-|
-Iran Fashion Week
-Tehran Fashion Week
+Iran Fashion Week||
+Tehran Fashion Week||
 
  |Israel||
  |-|-|
-Tel Aviv Fashion Week
+Tel Aviv Fashion Week||
 
  |Japan||
  |-|-|
-|Girls Award
-|Hiroshima Fashion Week
-|Kobe Collection
-|Kyoto Fashion Week
-|Nagoya Fashion Week
-|Osaka Fashion Week
-|Sapporo Fashion Week
-|Tokyo Fashion week (ja)
-|Tokyo Girls Collection
+|Girls Award||
+|Hiroshima Fashion Week||
+|Kobe Collection||
+|Kyoto Fashion Week||
+|Nagoya Fashion Week||
+|Osaka Fashion Week||
+|Sapporo Fashion Week||
+|Tokyo Fashion week (ja)||
+|Tokyo Girls Collection||
 
  |Malaysia||
   |-|-|
-|Kuala Lumpur Fashion Week
-|Malaysian International Fashion Alliance (MIFA)
-|Asia Islamic Fashion Week 2017 (AIFW 2017)
+|Kuala Lumpur Fashion Week||
+|Malaysian International Fashion Alliance (MIFA)||
+|Asia Islamic Fashion Week 2017 (AIFW 2017)||
 
  |Mongolia||
  |-|-|
-Goyol Fashion Festival
+Goyol Fashion Festival||
 
    |Nepal||
    |-|-|
-|Model Hunt Nepal
-|Voyage of creation
-|Nepal Fashion Week
-|CHIC Fashion Show
-|The Show
+|Model Hunt Nepal||
+|Voyage of creation||
+|Nepal Fashion Week||
+|CHIC Fashion Show||
+|The Show||
 
  Pakistan||
  |-|-|
-Pakistan Fashion Week
-Islamabad Fashion Week
-Karachi Fashion Week
-Lahore Fashion Week
-Peshawar Fashion Week
-PFDC Sunsilk Fashion Week
-Media Box Fashion Week
+Pakistan Fashion Week||
+Islamabad Fashion Week||
+Karachi Fashion Week||
+Lahore Fashion Week||
+Peshawar Fashion Week||
+PFDC Sunsilk Fashion Week||
+Media Box Fashion Week||
 
  Philippines||
  |-|-|
-Philippine Fashion Week
-Manila Fashion Festival
-Mega Fashion Week
-Stylefest Ph
-Philippine Fashion Gala
-Bench Fashion Week
+Philippine Fashion Week||
+Manila Fashion Festival||
+Mega Fashion Week||
+Stylefest Ph||
+Philippine Fashion Gala||
+Bench Fashion Week||
 
  Qatar||
  |-|-|
-Doha Fashion Week
+Doha Fashion Week||
 
  Russia||
  |-|-|
-Nizhny Fashion Week
-Novosibirsk Fashion Week
-Yekaterinburg Ural Fashion Week
-Russia Fashion Week
-Mercedes-Benz Fashion Week Russia
-St. Petersburg Fashion Week
-Volvo Moscow Fashion Week
+Nizhny Fashion Week||
+Novosibirsk Fashion Week||
+Yekaterinburg Ural Fashion Week||
+Russia Fashion Week||
+Mercedes-Benz Fashion Week Russia||
+St. Petersburg Fashion Week||
+Volvo Moscow Fashion Week||
 
  Singapore||
  |-|-|
-Asia Fashion Exchange
-Asia Style Collection
-Fide Fashion Weeks
-Men's Fashion Week
-Singapore Fashion Festival
-Singapore Fashion Week
+Asia Fashion Exchange||
+Asia Style Collection||
+Fide Fashion Weeks||
+Men's Fashion Week||
+Singapore Fashion Festival||
+Singapore Fashion Week||
 
  South Korea||
  |-|-|
-Busan Fashion Week
-Daegu Fashion Fair (Week)
-Preview in Daegu
-Seoul Fashion Week
-Seoul Girls Collection
+Busan Fashion Week||
+Daegu Fashion Fair (Week)||
+Preview in Daegu||
+Seoul Fashion Week||
+Seoul Girls Collection||
 
  Sri Lanka||
  |-|-|
-Colombo Fashion Week
+Colombo Fashion Week||
 
  Thailand||
  |-|-|
