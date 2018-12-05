@@ -34,17 +34,17 @@ pinterest: 0
 
 ## Africa
 
-*Botswana*
+**Botswana**
 
 |Gaborone Fashion Weekend|GFW|
 
 
-*Cote d'Ivoire*
+**Cote d'Ivoire**
 
 |Cote d'Ivoire Fashion Week|CFW|
 
 
-*Egypt*
+**Egypt**
 
 |Cairo Fashion Festival|CFF|
 |Cairo Couture Collections|CCC|
@@ -52,24 +52,24 @@ pinterest: 0
 |La Mode A Beyrouth - Cairo|LMDBC|
 
 
-*Kenya*
+**Kenya**
 
 |Nairobi Fashion Week|NFW|
 
 
-*Malawi*
+**Malawi**
 
 |Fashion Malawi Edition|FME|
 
 
-*Nigeria*
+**Nigeria**
 
 |Hayati Fashion Week|HFW|
 |Lagos Fashion Week|LFW|
 |Port Harcourt International Fashion Week|PHIFW|
 
 
-*South Africa*
+**South Africa**
 
 |SA Johannesburg Fashion Week|SAJFW|
 |Cape Town Fashion Week|CTFW|
@@ -80,7 +80,7 @@ pinterest: 0
 
 ## America
 
-*Argentina*
+**Argentina**
 
 |Buenos Aires Fashion Week|BAFW|
 |Cordoba Fashion Week|CFW|
@@ -88,13 +88,13 @@ pinterest: 0
 |[Santa Fe Fashion Week](santa-fe-fashion-week)|SFFW|
 
 
-*Bolivia*
+**Bolivia**
 
 |Bolivia Fashion Week|BFW|
 |International Fashion Week Bolivia|IFWB|
 
 
-*Brazil*
+**Brazil**
 
 |Minas Gerais Fashion Week|MGFW|
 |Brasília Fashion Week|BFW|
@@ -105,7 +105,7 @@ pinterest: 0
 |[São Paulo Fashion Week](sao-paulo-fashion-week)|SPFW|
 
 
-*Canada*
+**Canada**
 
 |Alberta Fashion Week|AFW|
 |Fashion Cares|FC|
@@ -114,14 +114,14 @@ pinterest: 0
 |Vancouver Fashion Week|VFW|
 
 
-*Chile*
+**Chile**
 
 |[Chile Fashion Week](chile-fashion-week)|CFW|
 |Elite Model Look Chile|EMLC|
 |Santiago Fashion Week|SFW|
 
 
-*Colombia*
+**Colombia**
 
 |Bogota Fashion Week|BFW|
 |Barranquilla Fashion Week|BFW|
@@ -134,14 +134,14 @@ pinterest: 0
 |Plataforma K|PK|
 
 
-*Jamaica*
+**Jamaica**
 
 |Caribbean Fashion Week|CFW|
 |Style Week Jamaica|SWJ|
 |Kingston Bridal Week|KBW|
 
 
-*Mexico*
+**Mexico**
 
 |Guadalajara Design Week|GDW|
 |Cancun Coture Week|CCW|
@@ -150,23 +150,23 @@ pinterest: 0
 |Puebla Fashion Show|PFS|
 
 
-|Panama||
+|Panama**
 |-|-|
 |Panama Fashion Week|PFW|
 
 
-|Paraguay||
+|Paraguay**
 |-|-|
 |Asunción Fashion Week|AFW|
 |Ciudad del Este Fashion Week|CDEFW|
 
 
-|Peru||
+|Peru**
 |-|-|
 |LIF Fashion Week (Lima)|LIFW|
 
 
-|Puerto Rico||
+|Puerto Rico**
 |-|-|
 |Elite Model Look Puerto Rico|EMLPR|
 |Puerto Rico High Fashion Week|PRHFW|
@@ -175,7 +175,7 @@ pinterest: 0
 |South Fashion Week|SFW|
 
 
-|United States||
+|United States**
 |-|-|
 |Africa Fashion Week New York|AFWNY|
 |African Fashion Week Houston|AFWH|
@@ -200,32 +200,32 @@ pinterest: 0
 |Victoria's Secret Fashion Show|VSFS|
 
 
-|Uruguay||
+|Uruguay**
 |-|-|
 |Montevideo Fashion Week|MFW|
 
 
-|Venezuela||
+|Venezuela**
 |-|-|
 |Caracas Fashion Week|CFW|
 
 
 ## Asia
 
-|Bahrain||
+|Bahrain**
 |-|-|
 |Bahrain International Design Week|BIDW|
 
 
-|Bangladesh||
+|Bangladesh**
 |-|-|
 |Bangladesh Fashion Week|BFW|
 |Dhaka Fashion Week|DFW|
 
 
-|China||
+|China**
 |-|-|
-|Centrestage||
+|Centrestage**
 |China Fashion Week|CFW|
 |Guangzhou Fashion Week|GFW|
 |Hong Kong Fashion Week|HHFW|
@@ -234,7 +234,7 @@ pinterest: 0
 |Tianjin Fashion Week|TFW|
 
 
-|India||
+|India**
 |-|-|
 |Delhi Times LifeStyle Week|DTLSW|
 |[Bangalore Fashion Week](bangalore-fashion-week)|BFW|
@@ -250,332 +250,332 @@ pinterest: 0
 |[Navi Mumbai Fashion Week](navi-mumbai-fashion-week)|NMFW|
 
 
-|Indonesia||
+|Indonesia**
 |-|-|
-|Indonesia Fashion Week||
-|Jakarta Fashion Week||
-|Plaza Indonesia's Men Fashion Week||
-|Surabaya Fashion Parade||
-|Bandung Fashion Week||
-|Jember Fashion Carnaval||
-|Bali Fashion Trend||
-|Jogja Fashion Week||
-|Jakarta Modest Fashion Week||
-|Jakarta Hijab Fashion Week Femme||
-|Celebes Beauty Fashion Week||
+|Indonesia Fashion Week**
+|Jakarta Fashion Week**
+|Plaza Indonesia's Men Fashion Week**
+|Surabaya Fashion Parade**
+|Bandung Fashion Week**
+|Jember Fashion Carnaval**
+|Bali Fashion Trend**
+|Jogja Fashion Week**
+|Jakarta Modest Fashion Week**
+|Jakarta Hijab Fashion Week Femme**
+|Celebes Beauty Fashion Week**
 
 
-|Iran||
+|Iran**
 |-|-|
-|Iran Fashion Week||
-|Tehran Fashion Week||
+|Iran Fashion Week**
+|Tehran Fashion Week**
 
 
-|Israel||
+|Israel**
 |-|-|
-|Tel Aviv Fashion Week||
+|Tel Aviv Fashion Week**
 
 
 ### Japan
 
 |City|Short|
 |-|-|
-|Girls Award||
-|Hiroshima Fashion Week||
-|Kobe Collection||
-|Kyoto Fashion Week||
-|Nagoya Fashion Week||
-|Osaka Fashion Week||
-|Sapporo Fashion Week||
-|Tokyo Fashion week (ja)||
-|Tokyo Girls Collection||
+|Girls Award**
+|Hiroshima Fashion Week**
+|Kobe Collection**
+|Kyoto Fashion Week**
+|Nagoya Fashion Week**
+|Osaka Fashion Week**
+|Sapporo Fashion Week**
+|Tokyo Fashion week (ja)**
+|Tokyo Girls Collection**
 
 
-|Malaysia||
+|Malaysia**
 |-|-|
-|Kuala Lumpur Fashion Week||
-|Malaysian International Fashion Alliance (MIFA)||
-|Asia Islamic Fashion Week 2017 (AIFW 2017)||
+|Kuala Lumpur Fashion Week**
+|Malaysian International Fashion Alliance (MIFA)**
+|Asia Islamic Fashion Week 2017 (AIFW 2017)**
 
 
-|Mongolia||
+|Mongolia**
 |-|-|
-|Goyol Fashion Festival||
+|Goyol Fashion Festival**
 
 
-|Nepal||
+|Nepal**
 |-|-|
-|Model Hunt Nepal||
-|Voyage of creation||
-|Nepal Fashion Week||
-|CHIC Fashion Show||
-|The Show||
+|Model Hunt Nepal**
+|Voyage of creation**
+|Nepal Fashion Week**
+|CHIC Fashion Show**
+|The Show**
 
 
-|Pakistan||
+|Pakistan**
 |-|-|
-|Pakistan Fashion Week||
-|Islamabad Fashion Week||
-|Karachi Fashion Week||
-|Lahore Fashion Week||
-|Peshawar Fashion Week||
-|PFDC Sunsilk Fashion Week||
-|Media Box Fashion Week||
+|Pakistan Fashion Week**
+|Islamabad Fashion Week**
+|Karachi Fashion Week**
+|Lahore Fashion Week**
+|Peshawar Fashion Week**
+|PFDC Sunsilk Fashion Week**
+|Media Box Fashion Week**
 
 
-|Philippines||
+|Philippines**
 |-|-|
-|Philippine Fashion Week||
-|Manila Fashion Festival||
-|Mega Fashion Week||
-|Stylefest Ph||
-|Philippine Fashion Gala||
-|Bench Fashion Week||
+|Philippine Fashion Week**
+|Manila Fashion Festival**
+|Mega Fashion Week**
+|Stylefest Ph**
+|Philippine Fashion Gala**
+|Bench Fashion Week**
 
 
-|Qatar||
+|Qatar**
 |-|-|
-|Doha Fashion Week||
+|Doha Fashion Week**
 
 
-|Russia||
+|Russia**
 |-|-|
-|Nizhny Fashion Week||
-|Novosibirsk Fashion Week||
-|Yekaterinburg Ural Fashion Week||
-|Russia Fashion Week||
-|Mercedes-Benz Fashion Week Russia||
-|St. Petersburg Fashion Week||
-|Volvo Moscow Fashion Week||
+|Nizhny Fashion Week**
+|Novosibirsk Fashion Week**
+|Yekaterinburg Ural Fashion Week**
+|Russia Fashion Week**
+|Mercedes-Benz Fashion Week Russia**
+|St. Petersburg Fashion Week**
+|Volvo Moscow Fashion Week**
 
 
-|Singapore||
+|Singapore**
 |-|-|
-|Asia Fashion Exchange||
-|Asia Style Collection||
-|Fide Fashion Weeks||
-|Men's Fashion Week||
-|Singapore Fashion Festival||
-|Singapore Fashion Week||
+|Asia Fashion Exchange**
+|Asia Style Collection**
+|Fide Fashion Weeks**
+|Men's Fashion Week**
+|Singapore Fashion Festival**
+|Singapore Fashion Week**
 
 
-|South Korea||
+|South Korea**
 |-|-|
-|Busan Fashion Week||
-|Daegu Fashion Fair (Week)||
-|Preview in Daegu||
-|Seoul Fashion Week||
-|Seoul Girls Collection||
+|Busan Fashion Week**
+|Daegu Fashion Fair (Week)**
+|Preview in Daegu**
+|Seoul Fashion Week**
+|Seoul Girls Collection**
 
 
-|Sri Lanka||
+|Sri Lanka**
 |-|-|
-|Colombo Fashion Week||
+|Colombo Fashion Week**
 
 
-|Thailand||
+|Thailand**
 |-|-|
-|Bangkok International Fashion Week||
+|Bangkok International Fashion Week**
 
 
-|Turkey||
+|Turkey**
 |-|-|
-|Ankara Fashion Week||
-|Istanbul Fashion Week||
+|Ankara Fashion Week**
+|Istanbul Fashion Week**
 
 
-|United Arab Emirates||
+|United Arab Emirates**
 |-|-|
-|Arab Fashion Week||
+|Arab Fashion Week**
 
 
-|Vietnam||
+|Vietnam**
 |-|-|
-|Vietnam International Fashion Week||
+|Vietnam International Fashion Week**
 
 ## Europe
 
-|Austria||
+|Austria**
 |-|-|
-|Vienna Fashion Week||
+|Vienna Fashion Week**
 
 
-|Belarus||
+|Belarus**
 |-|-|
-|Belarus Fashion Week||
+|Belarus Fashion Week**
 
 
-|Belgium||
+|Belgium**
 |-|-|
-|Antwerp Fashion Show||
-|Brussels Fashion Week||
+|Antwerp Fashion Show**
+|Brussels Fashion Week**
 
 
-|Bulgaria||
+|Bulgaria**
 |-|-|
-|Sofia Fashion Week Couture||
-|Kids Fashion Week||
-|Men's Fashion Week Plovdiv||
-|Plovdiv Fashion Week Prêt-à-Porter||
-|Bridal Fashion Week Plovdiv||
-|Dance Fashion Week Burgas||
-|Lingerie & Swimwear Fashion Week Varna||
+|Sofia Fashion Week Couture**
+|Kids Fashion Week**
+|Men's Fashion Week Plovdiv**
+|Plovdiv Fashion Week Prêt-à-Porter**
+|Bridal Fashion Week Plovdiv**
+|Dance Fashion Week Burgas**
+|Lingerie & Swimwear Fashion Week Varna**
 
 
-|Czech Republic||
+|Czech Republic**
 |-|-|
-|Prague Fashion Week||
+|Prague Fashion Week**
 
 
-|Croatia||
+|Croatia**
 |-|-|
-|Zagreb Fashion Week||
+|Zagreb Fashion Week**
 
 
-|Denmark||
+|Denmark**
 |-|-|
-|Copenhagen Fashion Week||
-|Gallery Int Fashion Fair||
+|Copenhagen Fashion Week**
+|Gallery Int Fashion Fair**
 
 
-|Finland||
+|Finland**
 |-|-|
-|Helsinki Fashion Week||
+|Helsinki Fashion Week**
 
 
-|France||
+|France**
 |-|-|
-|Africa Fashion Week Paris||
-|Bordeaux Fashion Week||
-|Elite Model Look||
-|Cannes-Nice Fashion Week||
-|Bal des débutantes||
-|Paris Fashion Week (capital)||
-|Men's Fashion Week||
-|Lille Fashion Week||
-|Lyon Fashion Week (FashionCity Show)||
-|Marseille Fashion Week||
-|Nantes Fashion Week||
-|Rennes Fashion Week||
-|Toulouse Fashion Week||
-|Strasbourg Fashion Week (EM Fashion Week)||
-|St. Tropez Fashion Week||
+|Africa Fashion Week Paris**
+|Bordeaux Fashion Week**
+|Elite Model Look**
+|Cannes-Nice Fashion Week**
+|Bal des débutantes**
+|Paris Fashion Week (capital)**
+|Men's Fashion Week**
+|Lille Fashion Week**
+|Lyon Fashion Week (FashionCity Show)**
+|Marseille Fashion Week**
+|Nantes Fashion Week**
+|Rennes Fashion Week**
+|Toulouse Fashion Week**
+|Strasbourg Fashion Week (EM Fashion Week)**
+|St. Tropez Fashion Week**
 
 
-|Georgia||
+|Georgia**
 |-|-|
-|Adjara Fashion Week||
-|Mercedes-Benz Fashion Week Tbilisi||
-|Tbilisi Fashion Week||
+|Adjara Fashion Week**
+|Mercedes-Benz Fashion Week Tbilisi**
+|Tbilisi Fashion Week**
 
 
-|Germany||
+|Germany**
 |-|-|
-|Baltic Fashion Week (Usedom Island)||
-|Berlin Fashion Week||
-|Bread and Butter tradeshow||
-|Stylenite by Michael Michalsky||
-|Düsseldorf Fashion Week||
-|Frankfurt Fashion Week||
-|Hamburg Fashion Week||
-|Cologne Fashion Week||
-|Krefeld Street Fashion Show||
-|Munich Fashion Week||
-|Schwerin LOOK||
-|Stuttgart Fashion Week||
-|Warnemünde Fashion Week (Rostock)||
+|Baltic Fashion Week (Usedom Island)**
+|Berlin Fashion Week**
+|Bread and Butter tradeshow**
+|Stylenite by Michael Michalsky**
+|Düsseldorf Fashion Week**
+|Frankfurt Fashion Week**
+|Hamburg Fashion Week**
+|Cologne Fashion Week**
+|Krefeld Street Fashion Show**
+|Munich Fashion Week**
+|Schwerin LOOK**
+|Stuttgart Fashion Week**
+|Warnemünde Fashion Week (Rostock)**
 
 
-|Greece||
+|Greece**
 |-|-|
-|Athens Xclusive Designers Week||
+|Athens Xclusive Designers Week**
 
 
-|Hungary||
+|Hungary**
 |-|-|
-|Budapest Fashion Week||
+|Budapest Fashion Week**
 
 
-|Italy||
+|Italy**
 |-|-|
-|Bari Fashion Week||
-|Benevento Fashion Week||
-|Benevento In Moda||
-|Bologne Fashion Week||
-|Catania Fashion Week||
-|Cesena Fashion Week||
-|Cortina Fashion Week||
-|Firenze Fashion Week||
-|Genova Fashion Week||
-|Milan Fashion Week (capital)||
-|Napoli Fashion Week||
-|Pitti Immagine||
-|Reggio Calabria Fashion Week||
-|Rimini Fashion Week||
-|Roma Fashion Week||
-|Salerno Fashion Week||
-|Torino Fashion Week||
-|Trieste Fashion Week||
-|Venezia Fashion Week||
-|Verona Fashion Week||
+|Bari Fashion Week**
+|Benevento Fashion Week**
+|Benevento In Moda**
+|Bologne Fashion Week**
+|Catania Fashion Week**
+|Cesena Fashion Week**
+|Cortina Fashion Week**
+|Firenze Fashion Week**
+|Genova Fashion Week**
+|Milan Fashion Week (capital)**
+|Napoli Fashion Week**
+|Pitti Immagine**
+|Reggio Calabria Fashion Week**
+|Rimini Fashion Week**
+|Roma Fashion Week**
+|Salerno Fashion Week**
+|Torino Fashion Week**
+|Trieste Fashion Week**
+|Venezia Fashion Week**
+|Verona Fashion Week**
 
 
-|Latvia||
+|Latvia**
 |-|-|
 |Riga Fashion Week|RFW|
 
 
-|Lithuania||
+|Lithuania**
 |-|-|
-|Mados infekcija||
+|Mados infekcija**
 
 
-|Luxembourg||
+|Luxembourg**
 |-|-|
 |Luxembourg Fashion Week|LXFW|
 
 
-|Malta||
+|Malta**
 |-|-|
 |Mercedes-Benz Malta Fashion Week|MBMFW|
 
 
-|Monaco||
+|Monaco**
 |-|-|
 |Montecarlo Fashion Week (Fashion Fair Week)|MFW|
 
 
-|Netherlands||
+|Netherlands**
 |-|-|
 |Amsterdam Fashion Week|AFW|
 |Rotterdam Fashion Week|RFW|
 |Canal Catwalk|CC|
 |Floating Fashion Week|FFW|
 
-|Norway||
+|Norway**
 |-|-|
 |Oslo Fashion Week|OFW|
 
 
-|Poland||
+|Poland**
 |-|-|
 |Łódź FashionPhilosophy Fashion Week Poland|LFPFWP|
-|Mercedes Benz Fashion Weekend Warsaw||
+|Mercedes Benz Fashion Weekend Warsaw**
 
 
-|Portugal||
+|Portugal**
 |-|-|
 |Lisbon Fashion Week|LFW|
 |Portugal Fashion|PF|
 
 
-|Romania||
+|Romania**
 |-|-|
 |[Feeric Fashion Week](feeric-fashion-week)|FFW|
 |[Bucharest Fashion Week](bucharest-fashion-week)|BFW|
 
 
-|Serbia||
+|Serbia**
 |-|-|
 |Belgrade Fashion Week|BFW|
 |Elite Model Look Serbia|EMLS|
@@ -583,7 +583,7 @@ pinterest: 0
 |Serbia Fashion Week|SFW|
 
 
-|Spain||
+|Spain**
 |-|-|
 |Cibeles Madrid Fashion Week|CMFW|
 |Barcelona Fashion Week (Pasarela Gaudí)|BFW|
@@ -592,16 +592,16 @@ pinterest: 0
 |Valencia Fashion Week|VFW|
 |Sevilla Fashion Week|SFW|
 |Zaragoza Fashion Week|ZFW|
-|The Brandery||
+|The Brandery**
 
 
-|Sweden||
+|Sweden**
 |-|-|
 |Stockolm Fashion Week|SFW|
 |Umeå Fashion Week|UFW|
 
 
-|United Kingdom||
+|United Kingdom**
 |-|-|
 |London Fashion Week at Somerset House|LFWSH|
 |Aberdeen Fashion Week|AFW|
@@ -621,12 +621,12 @@ pinterest: 0
 |Manchester Fashion Week|MFW|
 |Oxford Fashion Week|OFW|
 |Pure London|PL|
-|Strut||
+|Strut**
 |Sunrise in Baku Fashion Project|SBFP|
 |The Fashion Awards|FA|
 
 
-|Ukraine||
+|Ukraine**
 |-|-|
 |Mercedes-Benz Kiev Fashion Days|MBKFD|
 |Ukrainian Fashion Week|UFW|
@@ -634,8 +634,8 @@ pinterest: 0
 ## Oceania
 
 
-|Australia||
-|-|-|
+**Australia**
+
 |Australian Fashion Week|AFW|
 |Melbourne Fashion Festival|MFF|
 |Melbourne Spring Fashion Week|MSFW|
@@ -643,12 +643,12 @@ pinterest: 0
 |Adelaide Fashion Festival|AFF|
 |Telstra Perth Fashion Festival|TPFW|
 
-|Fiji||
-|-|-|
+**Fiji**
+
 |Fiji Fashion Week|FFW|
 
-|New Zealand||
-|-|-|
+**New Zealand**
+
 |NZ Fashion Week|NZFW|
 
 ## See also
