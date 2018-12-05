@@ -43,24 +43,29 @@ pinterest: 0
 |Cote d'Ivoire Fashion Week|[CFW](cote-d-ivoire-fashion-week)|
 
 
-|Country||
+|Egypt||
 |-|-|
-|Country Fashion Week|CFW|
-
-Egypt
 Cairo Fashion Festival
 Cairo Couture Collections
 Cairo Fashion Week
 La Mode A Beyrouth - Cairo
- Kenya
+
+ |Kenya||
+ |-|-|
 Nairobi Fashion Week
- Malawi
+
+ |Malawi||
+ |-|-|
 Fashion Malawi Edition
- Nigeria
+
+ |Nigeria||
+ |-|-|
 Hayati Fashion Week
 Lagos Fashion Week
 Port Harcourt International Fashion Week
- South Africa
+
+ |South Africa||
+ |-|-|
 SA Johannesburg Fashion Week
 Cape Town Fashion Week
 Durban Fashion Week
@@ -76,12 +81,12 @@ Cordoba Fashion Week
 Mendoza Fashion Week
 Santa Fe Fashion Week
 
- Bolivia
+ |Bolivia||
  |-|-|
 Bolivia Fashion Week
 International Fashion Week Bolivia
 
- Brazil
+ |Brazil||
  |-|-|
 Minas Gerais Fashion Week
 Brasília Fashion Week
@@ -91,7 +96,7 @@ Rio Fashion Week
 Salvador de Bahia Black Fashion Week
 São Paulo Fashion Week
 
- Canada
+ |Canada||
  |-|-|
 Alberta Fashion Week
 Fashion Cares
@@ -99,13 +104,13 @@ Montréal Fashion and Design Festival
 Toronto Fashion Week
 Vancouver Fashion Week
 
- Chile
+| Chile||
  |-|-|
 Chile Fashion Week
 Elite Model Look Chile
 Santiago Fashion Week
 
- Colombia
+| Colombia||
  |-|-|
 Bogota Fashion Week
 Barranquilla Fashion Week
@@ -117,13 +122,13 @@ ColombiaTex
 Medellin Fashion Week
 Plataforma K
 
- Jamaica
+ |Jamaica||
  |-|-|
 Caribbean Fashion Week
 Style Week Jamaica
 Kingston Bridal Week
 
- Mexico
+ |Mexico||
  |-|-|
 Guadalajara Design Week
 Cancun Coture Week
@@ -131,20 +136,20 @@ Mexico City Fashion Week
 MT Fashion Week (Monterrey)
 Puebla Fashion Show
 
- Panama
+ |Panama||
  |-|-|
 Panama Fashion Week
 
- Paraguay
+ |Paraguay||
  |-|-|
 Asunción Fashion Week
 Ciudad del Este Fashion Week
 
- Peru
+ |Peru||
  |-|-|
 LIF Fashion Week (Lima)
 
- Puerto Rico
+ |Puerto Rico||
  |-|-|
 Elite Model Look Puerto Rico
 Puerto Rico High Fashion Week
@@ -152,7 +157,7 @@ San Juan Moda
 West Fashion Week
 South Fashion Week
 
- United States
+ |United States||
  |-|-|
 Africa Fashion Week New York
 African Fashion Week Houston
@@ -179,26 +184,26 @@ Splendid Indian Closet Fashion Tour
 Spring 2008 New York Fashion Week
 Victoria's Secret Fashion Show
 
- Uruguay
+ |Uruguay||
  |-|-|
 Montevideo Fashion Week
 
- Venezuela
+ |Venezuela||
  |-|-|
 Caracas Fashion Week
 
 ## Asia
 
- Bahrain
+ |Bahrain||
  |-|-|
 Bahrain International Design Week
 
- Bangladesh
+ |Bangladesh||
  |-|-|
 Bangladesh Fashion Week
 Dhaka Fashion Week
 
- China
+ |China||
  |-|-|
 Centrestage
 China Fashion Week
@@ -209,7 +214,7 @@ Shanghai Fashion Week
 Shenzhen Fashion Week
 Tianjin Fashion Week
 
- India
+ |India||
  |-|-|
 Delhi Times LifeStyle Week
 Bangalore Fashion Week
@@ -224,7 +229,7 @@ Lakme Fashion Week
 Mysore Fashion Week
 Navi Mumbai Fashion Week
 
- Indonesia
+ |Indonesia||
  |-|-|
 Indonesia Fashion Week
 Jakarta Fashion Week
@@ -239,45 +244,46 @@ Jakarta Hijab Fashion Week
 Femme
 Celebes Beauty Fashion Week
 
- Iran
+ |Iran||
  |-|-|
 Iran Fashion Week
 Tehran Fashion Week
 
- Israel
+ |Israel||
  |-|-|
 Tel Aviv Fashion Week
 
- Japan
+ |Japan||
  |-|-|
-See also: Category:Japanese fashion
-Girls Award
-Hiroshima Fashion Week
-Kobe Collection
-Kyoto Fashion Week
-Nagoya Fashion Week
-Osaka Fashion Week
-Sapporo Fashion Week
-Tokyo Fashion week (ja)
-Tokyo Girls Collection
- Malaysia
-Kuala Lumpur Fashion Week
-Malaysian International Fashion Alliance (MIFA)
-Asia Islamic Fashion Week 2017 (AIFW 2017)
+|Girls Award
+|Hiroshima Fashion Week
+|Kobe Collection
+|Kyoto Fashion Week
+|Nagoya Fashion Week
+|Osaka Fashion Week
+|Sapporo Fashion Week
+|Tokyo Fashion week (ja)
+|Tokyo Girls Collection
 
- Mongolia
+ |Malaysia||
+  |-|-|
+|Kuala Lumpur Fashion Week
+|Malaysian International Fashion Alliance (MIFA)
+|Asia Islamic Fashion Week 2017 (AIFW 2017)
+
+ |Mongolia||
  |-|-|
 Goyol Fashion Festival
 
-   Nepal
+   |Nepal||
    |-|-|
-Model Hunt Nepal
-Voyage of creation
-Nepal Fashion Week
-CHIC Fashion Show
-The Show
+|Model Hunt Nepal
+|Voyage of creation
+|Nepal Fashion Week
+|CHIC Fashion Show
+|The Show
 
- Pakistan
+ Pakistan||
  |-|-|
 Pakistan Fashion Week
 Islamabad Fashion Week
@@ -287,7 +293,7 @@ Peshawar Fashion Week
 PFDC Sunsilk Fashion Week
 Media Box Fashion Week
 
- Philippines
+ Philippines||
  |-|-|
 Philippine Fashion Week
 Manila Fashion Festival
@@ -296,11 +302,11 @@ Stylefest Ph
 Philippine Fashion Gala
 Bench Fashion Week
 
- Qatar
+ Qatar||
  |-|-|
 Doha Fashion Week
 
- Russia
+ Russia||
  |-|-|
 Nizhny Fashion Week
 Novosibirsk Fashion Week
@@ -310,7 +316,7 @@ Mercedes-Benz Fashion Week Russia
 St. Petersburg Fashion Week
 Volvo Moscow Fashion Week
 
- Singapore
+ Singapore||
  |-|-|
 Asia Fashion Exchange
 Asia Style Collection
@@ -319,7 +325,7 @@ Men's Fashion Week
 Singapore Fashion Festival
 Singapore Fashion Week
 
- South Korea
+ South Korea||
  |-|-|
 Busan Fashion Week
 Daegu Fashion Fair (Week)
@@ -327,43 +333,43 @@ Preview in Daegu
 Seoul Fashion Week
 Seoul Girls Collection
 
- Sri Lanka
+ Sri Lanka||
  |-|-|
 Colombo Fashion Week
 
- Thailand
+ Thailand||
  |-|-|
 Bangkok International Fashion Week
 
- Turkey
+ Turkey||
  |-|-|
 Ankara Fashion Week
 Istanbul Fashion Week
 
- United Arab Emirates
+ United Arab Emirates||
  |-|-|
 Arab Fashion Week
 
- Vietnam
+ Vietnam||
  |-|-|
 Vietnam International Fashion Week
 
 ## Europe
 
- Austria
+ Austria||
  |-|-|
 Vienna Fashion Week
 
- Belarus
+ Belarus||
  |-|-|
 Belarus Fashion Week
 
- Belgium
+ Belgium||
  |-|-|
 Antwerp Fashion Show
 Brussels Fashion Week
 
- Bulgaria
+ Bulgaria||
  |-|-|
 Sofia Fashion Week Couture
 Kids Fashion Week
@@ -373,24 +379,24 @@ Bridal Fashion Week Plovdiv
 Dance Fashion Week Burgas
 Lingerie & Swimwear Fashion Week Varna
 
- Czech Republic
+ Czech Republic||
  |-|-|
 Prague Fashion Week
 
- Croatia
+ Croatia||
  |-|-|
 Zagreb Fashion Week
 
- Denmark
+ Denmark||
  |-|-|
 Copenhagen Fashion Week
 Gallery Int Fashion Fair
 
- Finland
+ Finland||
  |-|-|
 Helsinki Fashion Week
 
- France
+ France||
  |-|-|
 Africa Fashion Week Paris
 Bordeaux Fashion Week
@@ -408,14 +414,14 @@ Toulouse Fashion Week
 Strasbourg Fashion Week (EM Fashion Week)
 St. Tropez Fashion Week
 
- Georgia
+ Georgia||
  |-|-|
 Adjara Fashion Week
 Mercedes-Benz Fashion Week Tbilisi
 Tbilisi Fashion Week
 
 
- Germany
+ Germany||
  |-|-|
 Baltic Fashion Week (Usedom Island)
 Berlin Fashion Week
@@ -431,16 +437,16 @@ Schwerin LOOK
 Stuttgart Fashion Week
 Warnemünde Fashion Week (Rostock)
 
- Greece
+ Greece||
  |-|-|
 Athens Xclusive Designers Week
 
 
- Hungary
+ Hungary||
  |-|-|
 Budapest Fashion Week
 
- Italy
+ Italy||
  |-|-|
 Bari Fashion Week
 Benevento Fashion Week
@@ -464,55 +470,61 @@ Trieste Fashion Week
 Venezia Fashion Week
 Verona Fashion Week
 
- Latvia
+ Latvia||
  |-|-|
 Riga Fashion Week
 
- Lithuania
+ Lithuania||
  |-|-|
 Mados infekcija
 
- Luxembourg
+ Luxembourg||
  |-|-|
 Luxembourg Fashion Week
 
- Malta
+ Malta||
  |-|-|
 Mercedes Benz Malta Fashion Week
 
- Monaco
+ Monaco||
  |-|-|
 Montecarlo Fashion Week (Fashion Fair Week)
 
- Netherlands
+ Netherlands||
  |-|-|
 Amsterdam Fashion Week
 Rotterdam Fashion Week
 Canal Catwalk
 Floating Fashion Week
 
- Norway
+ Norway||
  |-|-|
 Oslo Fashion Week
 
- Poland
+ Poland||
   |-|-|
 Łódź FashionPhilosophy Fashion Week Poland
 Mercedes Benz Fashion Weekend Warsaw
- Portugal
+
+ Portugal||
+   |-|-|
 Lisbon Fashion Week
 Portugal Fashion
 
-Cat walk at The Brandery
- Romania
+ Romania||
+   |-|-|
 Feeric Fashion Week
 Bucharest Fashion Week
- Serbia
+
+ Serbia||
+   |-|-|
 Belgrade Fashion Week
 Elite Model Look Serbia
 Belgrade Design Week
 Serbia Fashion Week
- Spain
+
+ Spain||
+   |-|-|
 Cibeles Madrid Fashion Week
 Barcelona Fashion Week (Pasarela Gaudí)
 Malagá Fashion Week (Plaza Mayor Week)
@@ -521,11 +533,14 @@ Valencia Fashion Week
 Sevilla Fashion Week
 Zaragoza Fashion Week
 The Brandery
- Sweden
+
+ Sweden||
+   |-|-|
 Stockolm Fashion Week
 Umeå Fashion Week
- United Kingdom
 
+ United Kingdom||
+   |-|-|
 London Fashion Week at Somerset House
 Aberdeen Fashion Week
 Asia Fashion Week London
@@ -548,29 +563,39 @@ Pure London
 Strut
 Sunrise in Baku Fashion Project
 The Fashion Awards
- Ukraine
+
+ Ukraine||
+   |-|-|
 Mercedes-Benz Kiev Fashion Days
 Ukrainian Fashion Week
-Oceania
- Australia
-Australian Fashion Week
-Melbourne Fashion Festival
-Melbourne Spring Fashion Week
-Mercedes-Benz Fashion Festival Brisbane
-Adelaide Fashion Festival
-Telstra Perth Fashion Festival
- Fiji
-Fiji Fashion Week
- New Zealand
-NZ Fashion Week
+
+## Oceania
 
 
+|Australia||
+|-|-|
+|Australian Fashion Week
+|Melbourne Fashion Festival
+|Melbourne Spring Fashion Week
+|Mercedes-Benz Fashion Festival Brisbane
+|Adelaide Fashion Festival
+|Telstra Perth Fashion Festival
+
+
+|Fiji||
+|-|-|
+|Fiji Fashion Week|
+
+
+|New Zealand||
+|-|-|
+|NZ Fashion Week|
 
 ## See also
 
-+ [About](index)
-+ [More](index)
++ [Post soviet fashion weeks](index)
+
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [List of fashion events (Wikipedia.org)](https://en.wikipedia.org/wiki/List_of_fashion_events)
