@@ -7,8 +7,8 @@ originspell: Adelaide Fashion Festival
 appearing: Est.
 city: Adelaide
 birth: 2013
-givenname: Given name
-familyname: Family name
+givenname: Adelaide Fashion Festival
+familyname:
 othername: AFF
 venue: Norwood, Payneham and St Peters
 founder: Government of South Australia
