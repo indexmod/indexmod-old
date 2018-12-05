@@ -37,23 +37,18 @@ pinterest: 0
 |Botswana||
 |-|-|
 |Gaborone Fashion Weekend|GFW|
-
 |Cote d'Ivoire||
 |-|-|
 |Cote d'Ivoire Fashion Week|CFW|
-
-
 |Egypt||
 |-|-|
 |Cairo Fashion Festival|CFF|
 |Cairo Couture Collections|CCC|
 |Cairo Fashion Week|CFW|
 |La Mode A Beyrouth - Cairo|LMDBC|
-
 |Kenya||
 |-|-|
 |Nairobi Fashion Week|NFW|
-
 |Malawi||
 |-|-|
 |Fashion Malawi Edition|FME|
