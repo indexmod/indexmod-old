@@ -12,7 +12,7 @@ familyname: Family name
 othername: AFF
 venue: Norwood, Payneham and St Peters
 founder: Government of South Australia
-origin: a National
+origin: a national
 profession: fashion event in Australia
 photo: Marie Totsikas, Stavroula Mountzouris and Julie White at the AFF opening night at Government House
 photographer: PerthNow
@@ -31,7 +31,7 @@ soundcloud: 0
 pinterest: 0
 ---
 
-Fashion event in Australia, nurtured by the City of Norwood, Payneham and St Peters, the festival was elevated onto the international stage in 2015 under the ownership of the South Australian Government and management of Events South Australia, the state’s major events arm.
+Fashion event in Australia, nurtured by the City of Norwood, Payneham and St Peters, the festival was elevated onto the international stage in 2015 under the ownership of the South Australian Government and management of Events South Australia, the state’s major events arm <span id="a2">[\[3, 4, 5, 6\]](#f2)</span>.
 
 
 # See also
@@ -48,10 +48,10 @@ Fashion event in Australia, nurtured by the City of Norwood, Payneham and St Pet
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/pg/AdlFashionFest/community/?ref=page_internal)
+[[3]](#a2) <span id="f2"></span> [{{page.title}} (Facebook)](https://www.facebook.com/pg/AdlFashionFest/community/?ref=page_internal)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/adlfashionfest/?hl=ru)
+[[4]](#a2) <span id="f2"></span> [{{page.title}} (Instagram)](https://www.instagram.com/adlfashionfest/?hl=ru)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UCsSaeqeoxILhiV4mZ24XBDQ)
+[[5]](#a2) <span id="f2"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UCsSaeqeoxILhiV4mZ24XBDQ)
 
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](https://twitter.com/ADLFashionFest)
+[[6]](#a2) <span id="f2"></span> [{{page.title}} (Twitter)](https://twitter.com/ADLFashionFest)
