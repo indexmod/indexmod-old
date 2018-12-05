@@ -548,88 +548,83 @@ pinterest: 0
 
 |Romania||
 |-|-|
-|Feeric Fashion ||
-|Bucharest Fashion Week||
+|[Feeric Fashion Week](feeric-fashion-week)|FFW|
+|[Bucharest Fashion Week](bucharest-fashion-week)|BFW|
 
 
 |Serbia||
 |-|-|
-|Belgrade Fashion Week||
-|Elite Model Look Serbia||
-|Belgrade Design Week||
-|Serbia Fashion Week||
+|Belgrade Fashion Week|BFW|
+|Elite Model Look Serbia|EMLS|
+|Belgrade Design Week|BDW|
+|Serbia Fashion Week|SFW|
 
 
 |Spain||
 |-|-|
-|Cibeles Madrid Fashion Week||
-|Barcelona Fashion Week (Pasarela Gaudí)||
-|Malagá Fashion Week (Plaza Mayor Week)||
-|Murcia Fashion Week||
-|Valencia Fashion Week||
-|Sevilla Fashion Week||
-|Zaragoza Fashion Week||
+|Cibeles Madrid Fashion Week|CMFW|
+|Barcelona Fashion Week (Pasarela Gaudí)|BFW|
+|Malagá Fashion Week (Plaza Mayor Week)|MFW|
+|Murcia Fashion Week|MFW|
+|Valencia Fashion Week|VFW|
+|Sevilla Fashion Week|SFW|
+|Zaragoza Fashion Week|ZFW|
 |The Brandery||
 
 
 |Sweden||
 |-|-|
-|Stockolm Fashion Week||
-|Umeå Fashion Week||
+|Stockolm Fashion Week|SFW|
+|Umeå Fashion Week|UFW|
 
 
 |United Kingdom||
 |-|-|
-|London Fashion Week at Somerset House||
-|Aberdeen Fashion Week||
-|Asia Fashion Week London||
-|Africa Fashion Week London||
-|Birmingham Fashion Week||
-|Brighton Fashion Week||
-|Bristol Fashion Week||
-|Cheltenham Fashion Week||
-|Clothes Show Live||
-|Essex Fashion Week||
-|Fashion in Film Festival||
-|Leeds Fashion Show||
-|Liverpool Fashion Week||
-|London Fashion Week (capital)||
-|Fall 2008 fashion weeks||
-|Men's Fashion Week||
-|Manchester Fashion Week||
-|Oxford Fashion Week||
-|Pure London||
+|London Fashion Week at Somerset House|LFWSH|
+|Aberdeen Fashion Week|AFW|
+|Asia Fashion Week London|AFWL|
+|Africa Fashion Week London|AFWL|
+|Birmingham Fashion Week|BFW|
+|Brighton Fashion Week|BFW|
+|Bristol Fashion Week|BFW|
+|Cheltenham Fashion Week|CFW|
+|Clothes Show Live|CSL|
+|Essex Fashion Week|EFW|
+|Fashion in Film Festival|FFF|
+|Leeds Fashion Show|LEFW|
+|Liverpool Fashion Week|LIFW|
+|London Fashion Week|LFW|
+|Men's Fashion Week|MFW|
+|Manchester Fashion Week|MFW|
+|Oxford Fashion Week|OFW|
+|Pure London|PL|
 |Strut||
-|Sunrise in Baku Fashion Project||
-|The Fashion Awards||
+|Sunrise in Baku Fashion Project|SBFP|
+|The Fashion Awards|FA|
 
 
 |Ukraine||
 |-|-|
-|Mercedes-Benz Kiev Fashion Days||
-|Ukrainian Fashion Week||
+|Mercedes-Benz Kiev Fashion Days|MBKFD|
+|Ukrainian Fashion Week|UFW|
 
 ## Oceania
 
 
 |Australia||
 |-|-|
-|Australian Fashion Week||
-|Melbourne Fashion Festival||
-|Melbourne Spring Fashion Week||
-|Mercedes-Benz Fashion Festival Brisbane||
-|Adelaide Fashion Festival||
-|Telstra Perth Fashion Festival||
-
-
+|Australian Fashion Week|AFW|
+|Melbourne Fashion Festival|MFF|
+|Melbourne Spring Fashion Week|MSFW|
+|Mercedes-Benz Fashion Festival Brisbane|MBFFB|
+|Adelaide Fashion Festival|AFF|
+|Telstra Perth Fashion Festival|TPFW|
 |Fiji||
 |-|-|
-|Fiji Fashion Week||
-
-
+|Fiji Fashion Week|FFW|
 |New Zealand||
 |-|-|
-|NZ Fashion Week||
+|NZ Fashion Week|NZFW|
 
 ## See also
 
