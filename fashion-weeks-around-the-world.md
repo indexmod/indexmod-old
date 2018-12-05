@@ -276,69 +276,68 @@ pinterest: 0
 |Tel Aviv Fashion Week**
 
 
-### Japan
+**Japan**
 
-|City|Short|
+
+|Girls Award|GA|
+|Hiroshima Fashion Week|HFW|
+|Kobe Collection|KC|
+|Kyoto Fashion Week|KFW|
+|Nagoya Fashion Week|NFW|
+|Osaka Fashion Week|OFW|
+|Sapporo Fashion Week|SFW|
+|Tokyo Fashion week (ja)|TFW|
+|Tokyo Girls Collection|TGC|
+
+
+**Malaysia**
 |-|-|
-|Girls Award**
-|Hiroshima Fashion Week**
-|Kobe Collection**
-|Kyoto Fashion Week**
-|Nagoya Fashion Week**
-|Osaka Fashion Week**
-|Sapporo Fashion Week**
-|Tokyo Fashion week (ja)**
-|Tokyo Girls Collection**
+|Kuala Lumpur Fashion Week||
+|Malaysian International Fashion Alliance (MIFA)||
+|Asia Islamic Fashion Week 2017 (AIFW 2017)||
 
 
-|Malaysia**
+**Mongolia**
 |-|-|
-|Kuala Lumpur Fashion Week**
-|Malaysian International Fashion Alliance (MIFA)**
-|Asia Islamic Fashion Week 2017 (AIFW 2017)**
+|Goyol Fashion Festival||
 
 
-|Mongolia**
+**Nepal**
 |-|-|
-|Goyol Fashion Festival**
+|Model Hunt Nepal||
+|Voyage of creation||
+|Nepal Fashion Week||
+|CHIC Fashion Show||
+|The Show||
 
 
-|Nepal**
-|-|-|
-|Model Hunt Nepal**
-|Voyage of creation**
-|Nepal Fashion Week**
-|CHIC Fashion Show**
-|The Show**
+**Pakistan**
+
+|Pakistan Fashion Week||
+|Islamabad Fashion Week||
+|Karachi Fashion Week||
+|Lahore Fashion Week||
+|Peshawar Fashion Week||
+|PFDC Sunsilk Fashion Week||
+|Media Box Fashion Week||
 
 
-|Pakistan**
-|-|-|
-|Pakistan Fashion Week**
-|Islamabad Fashion Week**
-|Karachi Fashion Week**
-|Lahore Fashion Week**
-|Peshawar Fashion Week**
-|PFDC Sunsilk Fashion Week**
-|Media Box Fashion Week**
+**Philippines**
+
+|Philippine Fashion Week||
+|Manila Fashion Festival||
+|Mega Fashion Week||
+|Stylefest Ph||
+|Philippine Fashion Gala||
+|Bench Fashion Week||
 
 
-|Philippines**
-|-|-|
-|Philippine Fashion Week**
-|Manila Fashion Festival**
-|Mega Fashion Week**
-|Stylefest Ph**
-|Philippine Fashion Gala**
-|Bench Fashion Week**
-
-
-|Qatar**
+**Qatar**
 |-|-|
 |Doha Fashion Week**
 
 
-|Russia**
+**Russia**
 |-|-|
 |Nizhny Fashion Week**
 |Novosibirsk Fashion Week**
@@ -349,7 +348,7 @@ pinterest: 0
 |Volvo Moscow Fashion Week**
 
 
-|Singapore**
+**Singapore**
 |-|-|
 |Asia Fashion Exchange**
 |Asia Style Collection**
@@ -359,8 +358,8 @@ pinterest: 0
 |Singapore Fashion Week**
 
 
-|South Korea**
-|-|-|
+**South Korea**
+
 |Busan Fashion Week**
 |Daegu Fashion Fair (Week)**
 |Preview in Daegu**
@@ -368,50 +367,50 @@ pinterest: 0
 |Seoul Girls Collection**
 
 
-|Sri Lanka**
+**Sri Lanka**
 |-|-|
 |Colombo Fashion Week**
 
 
-|Thailand**
+**Thailand**
 |-|-|
 |Bangkok International Fashion Week**
 
 
-|Turkey**
+**Turkey**
 |-|-|
 |Ankara Fashion Week**
 |Istanbul Fashion Week**
 
 
-|United Arab Emirates**
+**United Arab Emirates**
 |-|-|
 |Arab Fashion Week**
 
 
-|Vietnam**
+**Vietnam**
 |-|-|
 |Vietnam International Fashion Week**
 
 ## Europe
 
-|Austria**
+**Austria**
 |-|-|
 |Vienna Fashion Week**
 
 
-|Belarus**
+**Belarus**
 |-|-|
 |Belarus Fashion Week**
 
 
-|Belgium**
+**Belgium**
 |-|-|
 |Antwerp Fashion Show**
 |Brussels Fashion Week**
 
 
-|Bulgaria**
+**Bulgaria**
 |-|-|
 |Sofia Fashion Week Couture**
 |Kids Fashion Week**
@@ -422,29 +421,29 @@ pinterest: 0
 |Lingerie & Swimwear Fashion Week Varna**
 
 
-|Czech Republic**
+**Czech Republic**
 |-|-|
 |Prague Fashion Week**
 
 
-|Croatia**
+**Croatia**
 |-|-|
 |Zagreb Fashion Week**
 
 
-|Denmark**
+**Denmark**
 |-|-|
 |Copenhagen Fashion Week**
 |Gallery Int Fashion Fair**
 
 
-|Finland**
-|-|-|
+**Finland**
+
 |Helsinki Fashion Week**
 
 
-|France**
-|-|-|
+**France**
+
 |Africa Fashion Week Paris**
 |Bordeaux Fashion Week**
 |Elite Model Look**
@@ -462,15 +461,15 @@ pinterest: 0
 |St. Tropez Fashion Week**
 
 
-|Georgia**
-|-|-|
+**Georgia**
+
 |Adjara Fashion Week**
 |Mercedes-Benz Fashion Week Tbilisi**
 |Tbilisi Fashion Week**
 
 
-|Germany**
-|-|-|
+**Germany**
+
 |Baltic Fashion Week (Usedom Island)**
 |Berlin Fashion Week**
 |Bread and Butter tradeshow**
