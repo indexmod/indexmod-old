@@ -399,6 +399,7 @@ pinterest: 0
 |[Viena Fashion Week](viena-fashion-week)||
 
 **Azerbaijan**
+
 |[Azerbaijan Fashion Week](azerbaijan-fashion-week)||
 |[Baku Fashion Week](baku-fashion-week)||
 
