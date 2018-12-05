@@ -379,7 +379,7 @@ pinterest: 0
 **Turkey**
 
 |Ankara Fashion Week||
-|Istanbul Fashion Week(istanbul-fashion-week)||
+|[Istanbul Fashion Week](istanbul-fashion-week)||
 |[Mercedes-Benz Fashion Week Istanbul](mercedes-benz-fashion-week-istanbul)||
 
 
