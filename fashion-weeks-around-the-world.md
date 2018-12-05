@@ -485,106 +485,105 @@ pinterest: 0
 |Stuttgart Fashion Week**
 |Warnemünde Fashion Week (Rostock)**
 
+**Greece**
 
-|Greece**
-|-|-|
-|Athens Xclusive Designers Week**
-
-
-|Hungary**
-|-|-|
-|Budapest Fashion Week**
+|Athens Xclusive Designers Week|AXDW|
 
 
-|Italy**
-|-|-|
-|Bari Fashion Week**
-|Benevento Fashion Week**
-|Benevento In Moda**
-|Bologne Fashion Week**
-|Catania Fashion Week**
-|Cesena Fashion Week**
-|Cortina Fashion Week**
-|Firenze Fashion Week**
-|Genova Fashion Week**
-|Milan Fashion Week (capital)**
-|Napoli Fashion Week**
-|Pitti Immagine**
-|Reggio Calabria Fashion Week**
-|Rimini Fashion Week**
-|Roma Fashion Week**
-|Salerno Fashion Week**
-|Torino Fashion Week**
-|Trieste Fashion Week**
-|Venezia Fashion Week**
-|Verona Fashion Week**
+**Hungary**
+
+|Budapest Fashion Week|BFW|
 
 
-|Latvia**
+**Italy**
+
+|Bari Fashion Week|BFW|
+|Benevento Fashion Week|BFW|
+|Benevento In Moda|BIM|
+|Bologne Fashion Week||
+|Catania Fashion Week||
+|Cesena Fashion Week||
+|Cortina Fashion Week||
+|Firenze Fashion Week||
+|Genova Fashion Week||
+|Milan Fashion Week||
+|Napoli Fashion Week||
+|Pitti Immagine||
+|Reggio Calabria Fashion Week||
+|Rimini Fashion Week||
+|Roma Fashion Week||
+|Salerno Fashion Week||
+|Torino Fashion Week||
+|Trieste Fashion Week||
+|Venezia Fashion Week||
+|Verona Fashion Week||
+
+
+**Latvia**
 |-|-|
 |Riga Fashion Week|RFW|
 
 
-|Lithuania**
-|-|-|
-|Mados infekcija**
+**Lithuania**
+
+|Mados infekcija||
 
 
-|Luxembourg**
-|-|-|
+**Luxembourg**
+
 |Luxembourg Fashion Week|LXFW|
 
 
-|Malta**
-|-|-|
+**Malta**
+
 |Mercedes-Benz Malta Fashion Week|MBMFW|
 
 
-|Monaco**
-|-|-|
+**Monaco**
+
 |Montecarlo Fashion Week (Fashion Fair Week)|MFW|
 
 
-|Netherlands**
-|-|-|
+**Netherlands**
+
 |Amsterdam Fashion Week|AFW|
 |Rotterdam Fashion Week|RFW|
 |Canal Catwalk|CC|
 |Floating Fashion Week|FFW|
 
-|Norway**
-|-|-|
+**Norway**
+
 |Oslo Fashion Week|OFW|
 
 
-|Poland**
-|-|-|
+**Poland**
+
 |Łódź FashionPhilosophy Fashion Week Poland|LFPFWP|
 |Mercedes Benz Fashion Weekend Warsaw**
 
 
-|Portugal**
-|-|-|
+**Portugal**
+
 |Lisbon Fashion Week|LFW|
 |Portugal Fashion|PF|
 
 
-|Romania**
-|-|-|
+**Romania**
+
 |[Feeric Fashion Week](feeric-fashion-week)|FFW|
 |[Bucharest Fashion Week](bucharest-fashion-week)|BFW|
 
 
-|Serbia**
-|-|-|
+**Serbia**
+
 |Belgrade Fashion Week|BFW|
 |Elite Model Look Serbia|EMLS|
 |Belgrade Design Week|BDW|
 |Serbia Fashion Week|SFW|
 
 
-|Spain**
-|-|-|
+**Spain**
+
 |Cibeles Madrid Fashion Week|CMFW|
 |Barcelona Fashion Week (Pasarela Gaudí)|BFW|
 |Malagá Fashion Week (Plaza Mayor Week)|MFW|
@@ -595,14 +594,14 @@ pinterest: 0
 |The Brandery**
 
 
-|Sweden**
-|-|-|
+**Sweden**
+
 |Stockolm Fashion Week|SFW|
 |Umeå Fashion Week|UFW|
 
 
-|United Kingdom**
-|-|-|
+**United Kingdom**
+
 |London Fashion Week at Somerset House|LFWSH|
 |Aberdeen Fashion Week|AFW|
 |Asia Fashion Week London|AFWL|
@@ -626,8 +625,8 @@ pinterest: 0
 |The Fashion Awards|FA|
 
 
-|Ukraine**
-|-|-|
+**Ukraine**
+
 |Mercedes-Benz Kiev Fashion Days|MBKFD|
 |Ukrainian Fashion Week|UFW|
 
