@@ -85,7 +85,7 @@ pinterest: 0
 |Buenos Aires Fashion Week|BAFW|
 |Cordoba Fashion Week|CFW|
 |Mendoza Fashion Week|MFW|
-|Santa Fe Fashion Week|SFFW|
+|[Santa Fe Fashion Week](santa-fe-fashion-week)|SFFW|
 
 
 |Bolivia||
