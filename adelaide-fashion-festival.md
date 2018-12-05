@@ -38,6 +38,7 @@ Fashion event in Australia, nurtured by the City of Norwood, Payneham and St Pet
 
 + [Adjara Fashion Week](adjara-fashion-week)
 + [Acid Noodles](acid-noodles)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Julie White](julie-white)
 + [Marie Totsikas](marie-totsikas)
 + [Norwood](norwood)

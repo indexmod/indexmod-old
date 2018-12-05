@@ -50,8 +50,8 @@ Adirée (pronounced Aw•DEE•ray) is a multi-media marketing communications an
 
 ## See also
 
-+ [About](index)
-+ [Wikipedia](index)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
+
 
 ## Footnotes
 

@@ -379,8 +379,8 @@ pinterest: 0
 **Turkey**
 
 |Ankara Fashion Week||
-|Istanbul Fashion Week||
-|Istanbul Fashion Week||
+|Istanbul Fashion Week(istanbul-fashion-week)||
+|[Mercedes-Benz Fashion Week Istanbul](mercedes-benz-fashion-week-istanbul)||
 
 
 **United Arab Emirates**
@@ -547,7 +547,7 @@ pinterest: 0
 
 **Netherlands**
 
-|Amsterdam Fashion Week|AFW|
+|[Amsterdam Fashion Week](amsterdam-fashion-week)|AFW|
 |Rotterdam Fashion Week|RFW|
 |Canal Catwalk|CC|
 |Floating Fashion Week|FFW|
@@ -640,7 +640,7 @@ pinterest: 0
 |Melbourne Fashion Festival|MFF|
 |Melbourne Spring Fashion Week|MSFW|
 |Mercedes-Benz Fashion Festival Brisbane|MBFFB|
-|Adelaide Fashion Festival|AFF|
+|[Adelaide Fashion Festival](adelaide-fashion-festival)|AFF|
 |Telstra Perth Fashion Festival|TPFW|
 
 **Fiji**

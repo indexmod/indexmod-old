@@ -79,6 +79,7 @@ The Chamber has a host of activities  from guest lecture series for educational 
 
 ## See also
 
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Council of Textile & Fashion Industries of Australia](ctfi-australia)
 + [Vogue Australia](vogue-australia)
 

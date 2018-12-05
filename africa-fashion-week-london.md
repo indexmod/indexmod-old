@@ -48,6 +48,8 @@ Annual event showcasing and celebrating work from established and emerging Afric
 + [Ademiluyi, Ronke](ademiluyi-ronke)
 + [Africa Fashion Week Dubai](africa-fashion-week-dubai)
 + [Africa Fashion Week Paris](africa-fashion-week-paris)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
+
 
 ## Footnotes
 

@@ -48,7 +48,7 @@ In the Netherlands, from 1947 until the end of the 1950s, a semi-annual fashion 
 
 ## See also
 
-+ [MBFWA](index)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 
 ## Footnotes
 

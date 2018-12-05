@@ -47,7 +47,8 @@ pinterest: 0
 ## See also
 
 + [About](index)
-+ [More](index)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
+
 
 ## Footnotes
 

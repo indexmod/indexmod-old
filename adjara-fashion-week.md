@@ -41,5 +41,5 @@ pinterest: 0
 + [Adelaide Fashion Festival](adelaide-fashion-festival)
 + [AES+F](aes+f)
 + [Batumi Palm Apartment](Batumi Palm Apartment)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Tsikhisdziri](Tsikhisdziri)
-+ [Batumi](Batumi)
