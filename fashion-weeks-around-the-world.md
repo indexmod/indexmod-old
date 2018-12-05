@@ -470,19 +470,19 @@ pinterest: 0
 
 **Germany**
 
-|Baltic Fashion Week (Usedom Island)**
-|Berlin Fashion Week**
-|Bread and Butter tradeshow**
-|Stylenite by Michael Michalsky**
-|Düsseldorf Fashion Week**
-|Frankfurt Fashion Week**
-|Hamburg Fashion Week**
-|Cologne Fashion Week**
-|Krefeld Street Fashion Show**
-|Munich Fashion Week**
-|Schwerin LOOK**
-|Stuttgart Fashion Week**
-|Warnemünde Fashion Week (Rostock)**
+|Baltic Fashion Week (Usedom Island)|BFW|
+|Berlin Fashion Week|BFW|
+|Bread and Butter tradeshow|BBTS|
+|Stylenite by Michael Michalsky||
+|Düsseldorf Fashion Week|DFW|
+|Frankfurt Fashion Week|FFW|
+|Hamburg Fashion Week|HFW|
+|Cologne Fashion Week|CFW|
+|Krefeld Street Fashion Show|KSFS|
+|Munich Fashion Week|MFW|
+|Schwerin LOOK||
+|Stuttgart Fashion Week|SFW|
+|Warnemünde Fashion Week (Rostock)|WFW|
 
 **Greece**
 
@@ -500,8 +500,8 @@ pinterest: 0
 |Benevento Fashion Week|BFW|
 |Benevento In Moda|BIM|
 |Bologne Fashion Week|BFW|
-|Catania Fashion Week||
-|Cesena Fashion Week||
+|Catania Fashion Week|CFW|
+|Cesena Fashion Week|CFW|
 |Cortina Fashion Week||
 |Firenze Fashion Week||
 |Genova Fashion Week||
@@ -519,7 +519,7 @@ pinterest: 0
 
 
 **Latvia**
-|-|-|
+
 |Riga Fashion Week|RFW|
 
 
