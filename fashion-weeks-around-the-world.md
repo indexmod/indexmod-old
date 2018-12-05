@@ -502,20 +502,20 @@ pinterest: 0
 |Bologne Fashion Week|BFW|
 |Catania Fashion Week|CFW|
 |Cesena Fashion Week|CFW|
-|Cortina Fashion Week||
-|Firenze Fashion Week||
-|Genova Fashion Week||
-|Milan Fashion Week||
-|Napoli Fashion Week||
-|Pitti Immagine||
-|Reggio Calabria Fashion Week||
-|Rimini Fashion Week||
-|Roma Fashion Week||
-|Salerno Fashion Week||
-|Torino Fashion Week||
-|Trieste Fashion Week||
-|Venezia Fashion Week||
-|Verona Fashion Week||
+|Cortina Fashion Week|CFW|
+|Firenze Fashion Week|FFW|
+|Genova Fashion Week|GFW|
+|Milan Fashion Week|MFW|
+|Napoli Fashion Week|NFW|
+|Pitti Immagine|PI|
+|Reggio Calabria Fashion Week|RCFW|
+|Rimini Fashion Week|RFW|
+|Roma Fashion Week|RFW|
+|Salerno Fashion Week|SFW|
+|Torino Fashion Week|TFW|
+|Trieste Fashion Week|TFW|
+|Venezia Fashion Week|VFW|
+|Verona Fashion Week|VFW|
 
 
 **Latvia**
