@@ -50,80 +50,80 @@ pinterest: 0
 |Cairo Fashion Week||
 |La Mode A Beyrouth - Cairo||
 
- |Kenya||
- |-|-|
-Nairobi Fashion Week||
+|Kenya||
+|-|-|
+|Nairobi Fashion Week|NFW|
 
- |Malawi||
- |-|-|
-Fashion Malawi Edition||
+|Malawi||
+|-|-|
+|Fashion Malawi Edition||
 
- |Nigeria||
- |-|-|
-Hayati Fashion Week||
-Lagos Fashion Week||
-Port Harcourt International Fashion Week||
+|Nigeria||
+|-|-|
+|Hayati Fashion Week||
+|Lagos Fashion Week||
+|Port Harcourt International Fashion Week||
 
- |South Africa||
- |-|-|
-SA Johannesburg Fashion Week||
-Cape Town Fashion Week||
-Durban Fashion Week||
-Eastern Cape Fashion Week (Port Elizabeth)||
-Pretroria Fashion Week||
+|South Africa||
+|-|-|
+|SA Johannesburg Fashion Week||
+|Cape Town Fashion Week||
+|Durban Fashion Week||
+|Eastern Cape Fashion Week (Port Elizabeth)||
+|Pretroria Fashion Week||
 
 ## America
 
 |Argentina||
 |-|-|
-Buenos Aires Fashion Week||
-Cordoba Fashion Week||
-Mendoza Fashion Week||
-Santa Fe Fashion Week||
+|Buenos Aires Fashion Week||
+|Cordoba Fashion Week||
+|Mendoza Fashion Week||
+|Santa Fe Fashion Week||
 
- |Bolivia||
- |-|-|
-Bolivia Fashion Week||
-International Fashion Week Bolivia||
+|Bolivia||
+|-|-|
+|Bolivia Fashion Week||
+|International Fashion Week Bolivia||
 
- |Brazil||
- |-|-|
-Minas Gerais Fashion Week||
-Brasília Fashion Week||
-Fortaleza Fashion Week||
-Amazônia Fashion Week||
-Rio Fashion Week
-Salvador de Bahia Black Fashion Week||
-São Paulo Fashion Week||
+|Brazil||
+|-|-|
+|Minas Gerais Fashion Week||
+|Brasília Fashion Week||
+|Fortaleza Fashion Week||
+|Amazônia Fashion Week||
+|Rio Fashion Week
+|Salvador de Bahia Black Fashion Week||
+|São Paulo Fashion Week||
 
- |Canada||
- |-|-|
-Alberta Fashion Week||
-Fashion Cares||
-Montréal Fashion and Design Festival||
-Toronto Fashion Week||
-Vancouver Fashion Week||
+|Canada||
+|-|-|
+|Alberta Fashion Week||
+|Fashion Cares||
+|Montréal Fashion and Design Festival||
+|Toronto Fashion Week||
+|Vancouver Fashion Week||
 
-| Chile||
- |-|-|
-Chile Fashion Week||
-Elite Model Look Chile||
-Santiago Fashion Week||
+|Chile||
+|-|-|
+|Chile Fashion Week||
+|Elite Model Look Chile||
+|Santiago Fashion Week||
 
-| Colombia||
- |-|-|
-Bogota Fashion Week||
-Barranquilla Fashion Week||
-Cali Fashion Week||
-Cali ExpoShow||
-Cartagena Fashion||
-ColombiaModa||
-ColombiaTex||
-Medellin Fashion Week||
-Plataforma K||
+|Colombia||
+|-|-|
+|Bogota Fashion Week||
+|Barranquilla Fashion Week||
+|Cali Fashion Week||
+|Cali ExpoShow||
+|Cartagena Fashion||
+|ColombiaModa||
+|ColombiaTex||
+|Medellin Fashion Week||
+|Plataforma K||
 
- |Jamaica||
- |-|-|
+|Jamaica||
+|-|-|
 Caribbean Fashion Week||
 Style Week Jamaica||
 Kingston Bridal Week||
