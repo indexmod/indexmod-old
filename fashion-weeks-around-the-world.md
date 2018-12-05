@@ -381,9 +381,9 @@ pinterest: 0
 |Dance Fashion Week Burgas||
 |Lingerie & Swimwear Fashion Week Varna||
 
- Czech Republic||
- |-|-|
-Prague Fashion Week||
+|Czech Republic||
+|-|-|
+|Prague Fashion Week||
 
  Croatia||
  |-|-|
