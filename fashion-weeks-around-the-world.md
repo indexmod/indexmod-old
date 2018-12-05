@@ -37,27 +37,37 @@ pinterest: 0
 |Botswana||
 |-|-|
 |Gaborone Fashion Weekend|GFW|
+
+
 |Cote d'Ivoire||
 |-|-|
 |Cote d'Ivoire Fashion Week|CFW|
+
+
 |Egypt||
 |-|-|
 |Cairo Fashion Festival|CFF|
 |Cairo Couture Collections|CCC|
 |Cairo Fashion Week|CFW|
 |La Mode A Beyrouth - Cairo|LMDBC|
+
+
 |Kenya||
 |-|-|
 |Nairobi Fashion Week|NFW|
+
+
 |Malawi||
 |-|-|
 |Fashion Malawi Edition|FME|
+
 
 |Nigeria||
 |-|-|
 |Hayati Fashion Week|HFW|
 |Lagos Fashion Week|LFW|
 |Port Harcourt International Fashion Week|PHIFW|
+
 
 |South Africa||
 |-|-|
@@ -77,10 +87,12 @@ pinterest: 0
 |Mendoza Fashion Week|MFW|
 |Santa Fe Fashion Week|SFFW|
 
+
 |Bolivia||
 |-|-|
 |Bolivia Fashion Week|BFW|
 |International Fashion Week Bolivia|IFWB|
+
 
 |Brazil||
 |-|-|
@@ -92,6 +104,7 @@ pinterest: 0
 |Salvador de Bahia Black Fashion Week|SDBBFW|
 |São Paulo Fashion Week|SPFW|
 
+
 |Canada||
 |-|-|
 |Alberta Fashion Week|AFW|
@@ -100,11 +113,13 @@ pinterest: 0
 |Toronto Fashion Week|TFW|
 |Vancouver Fashion Week|VFW|
 
+
 |Chile||
 |-|-|
 |Chile Fashion Week|CFW|
 |Elite Model Look Chile|EMLC|
 |Santiago Fashion Week|SFW|
+
 
 |Colombia||
 |-|-|
@@ -118,11 +133,13 @@ pinterest: 0
 |Medellin Fashion Week|MFW|
 |Plataforma K|PK|
 
+
 |Jamaica||
 |-|-|
 |Caribbean Fashion Week|CFW|
 |Style Week Jamaica|SWJ|
 |Kingston Bridal Week|KBW|
+
 
 |Mexico||
 |-|-|
@@ -132,18 +149,22 @@ pinterest: 0
 |MT Fashion Week (Monterrey)|MTFW|
 |Puebla Fashion Show|PFS|
 
+
 |Panama||
 |-|-|
 |Panama Fashion Week|PFW|
+
 
 |Paraguay||
 |-|-|
 |Asunción Fashion Week|AFW|
 |Ciudad del Este Fashion Week|CDEFW|
 
+
 |Peru||
 |-|-|
 |LIF Fashion Week (Lima)|LIFW|
+
 
 |Puerto Rico||
 |-|-|
@@ -152,6 +173,7 @@ pinterest: 0
 |San Juan Moda|SJM|
 |West Fashion Week|WFW|
 |South Fashion Week|SFW|
+
 
 |United States||
 |-|-|
@@ -185,48 +207,47 @@ pinterest: 0
 
 |Venezuela||
 |-|-|
-|Caracas Fashion Week||
+|Caracas Fashion Week|CFW|
 
 
 ## Asia
 
 |Bahrain||
 |-|-|
-|Bahrain International Design Week||
+|Bahrain International Design Week|BIDW|
 
 
 |Bangladesh||
 |-|-|
-|Bangladesh Fashion Week||
-|Dhaka Fashion Week||
+|Bangladesh Fashion Week|BFW|
+|Dhaka Fashion Week|DFW|
 
 
 |China||
 |-|-|
 |Centrestage||
-|China Fashion Week||
-|Elite Model Look International 2009||
-|Guangzhou Fashion Week||
-|Hong Kong Fashion Week||
-|Shanghai Fashion Week||
-|Shenzhen Fashion Week||
-|Tianjin Fashion Week||
+|China Fashion Week|CFW|
+|Guangzhou Fashion Week|GFW|
+|Hong Kong Fashion Week|HHFW|
+|Shanghai Fashion Week|SFW|
+|Shenzhen Fashion Week|SFW|
+|Tianjin Fashion Week|TFW|
 
 
 |India||
 |-|-|
-|Delhi Times LifeStyle Week||
-|Bangalore Fashion Week||
-|India Fashion Week||
-|India Showcase Week||
-|India kids fashion show||
-|India Runway Week||
-|Indore Fashion Week||
-|Junior's Fashion Week||
-|Kerala Fashion League||
-|Lakme Fashion Week||
-|Mysore Fashion Week||
-|Navi Mumbai Fashion Week||
+|Delhi Times LifeStyle Week|DTLSW|
+|[Bangalore Fashion Week](bangalore-fashion-week)|BFW|
+|India Fashion Week|IFW|
+|India Showcase Week|ISW|
+|India Kids Fashion Show|IKFS|
+|India Runway Week|IRW|
+|Indore Fashion Week|IFW|
+|Junior's Fashion Week|JFW|
+|Kerala Fashion League|KFL|
+|Lakme Fashion Week|LFW|
+|Mysore Fashion Week|MFW|
+|[Navi Mumbai Fashion Week](navi-mumbai-fashion-week)|NMFW|
 
 
 |Indonesia||
@@ -499,7 +520,7 @@ pinterest: 0
 
 |Latvia||
 |-|-|
-|Riga Fashion Week||
+|Riga Fashion Week|RFW|
 
 
 |Lithuania||
@@ -509,41 +530,41 @@ pinterest: 0
 
 |Luxembourg||
 |-|-|
-|Luxembourg Fashion Week||
+|Luxembourg Fashion Week|LXFW|
 
 
 |Malta||
 |-|-|
-|Mercedes Benz Malta Fashion Week||
+|Mercedes-Benz Malta Fashion Week|MBMFW|
 
 
 |Monaco||
 |-|-|
-|Montecarlo Fashion Week (Fashion Fair Week)||
+|Montecarlo Fashion Week (Fashion Fair Week)|MFW|
 
 
 |Netherlands||
 |-|-|
-|Amsterdam Fashion Week||
-|Rotterdam Fashion Week||
-|Canal Catwalk||
-|Floating Fashion Week||
+|Amsterdam Fashion Week|AFW|
+|Rotterdam Fashion Week|RFW|
+|Canal Catwalk|CC|
+|Floating Fashion Week|FFW|
 
 |Norway||
 |-|-|
-|Oslo Fashion Week||
+|Oslo Fashion Week|OFW|
 
 
 |Poland||
 |-|-|
-|Łódź FashionPhilosophy Fashion Week Poland||
+|Łódź FashionPhilosophy Fashion Week Poland|LFPFWP|
 |Mercedes Benz Fashion Weekend Warsaw||
 
 
 |Portugal||
 |-|-|
-|Lisbon Fashion Week||
-|Portugal Fashion||
+|Lisbon Fashion Week|LFW|
+|Portugal Fashion|PF|
 
 
 |Romania||
@@ -619,9 +640,11 @@ pinterest: 0
 |Mercedes-Benz Fashion Festival Brisbane|MBFFB|
 |Adelaide Fashion Festival|AFF|
 |Telstra Perth Fashion Festival|TPFW|
+
 |Fiji||
 |-|-|
 |Fiji Fashion Week|FFW|
+
 |New Zealand||
 |-|-|
 |NZ Fashion Week|NZFW|
