@@ -102,7 +102,7 @@ pinterest: 0
 |Amazônia Fashion Week|AFW|
 |Rio Fashion Week|RFW|
 |Salvador de Bahia Black Fashion Week|SDBBFW|
-|São Paulo Fashion Week|SPFW|
+|[São Paulo Fashion Week](sao-paulo-fashion-week)|SPFW|
 
 
 |Canada||
@@ -116,7 +116,7 @@ pinterest: 0
 
 |Chile||
 |-|-|
-|Chile Fashion Week|CFW|
+|[Chile Fashion Week](chile-fashion-week)|CFW|
 |Elite Model Look Chile|EMLC|
 |Santiago Fashion Week|SFW|
 
