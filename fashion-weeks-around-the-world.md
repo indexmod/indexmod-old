@@ -88,14 +88,14 @@ pinterest: 0
 |[Santa Fe Fashion Week](santa-fe-fashion-week)|SFFW|
 
 
-|Bolivia||
-|-|-|
+*Bolivia*
+
 |Bolivia Fashion Week|BFW|
 |International Fashion Week Bolivia|IFWB|
 
 
-|Brazil||
-|-|-|
+*Brazil*
+
 |Minas Gerais Fashion Week|MGFW|
 |Brasília Fashion Week|BFW|
 |Fortaleza Fashion Week|FFW|
@@ -105,8 +105,8 @@ pinterest: 0
 |[São Paulo Fashion Week](sao-paulo-fashion-week)|SPFW|
 
 
-|Canada||
-|-|-|
+*Canada*
+
 |Alberta Fashion Week|AFW|
 |Fashion Cares|FC|
 |Montréal Fashion and Design Festival|MFDF|
@@ -114,15 +114,15 @@ pinterest: 0
 |Vancouver Fashion Week|VFW|
 
 
-|Chile||
-|-|-|
+*Chile*
+
 |[Chile Fashion Week](chile-fashion-week)|CFW|
 |Elite Model Look Chile|EMLC|
 |Santiago Fashion Week|SFW|
 
 
-|Colombia||
-|-|-|
+*Colombia*
+
 |Bogota Fashion Week|BFW|
 |Barranquilla Fashion Week|BFW|
 |Cali Fashion Week|CFW|
@@ -134,15 +134,15 @@ pinterest: 0
 |Plataforma K|PK|
 
 
-|Jamaica||
-|-|-|
+*Jamaica*
+
 |Caribbean Fashion Week|CFW|
 |Style Week Jamaica|SWJ|
 |Kingston Bridal Week|KBW|
 
 
-|Mexico||
-|-|-|
+*Mexico*
+
 |Guadalajara Design Week|GDW|
 |Cancun Coture Week|CCW|
 |Mexico City Fashion Week|MCFW|
