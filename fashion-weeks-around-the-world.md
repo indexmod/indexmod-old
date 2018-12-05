@@ -507,63 +507,68 @@ Mercedes Benz Fashion Weekend Warsaw||
 Lisbon Fashion Week||
 Portugal Fashion||
 
- Romania||
-   |-|-|
-Feeric Fashion ||
-Bucharest Fashion Week||
+|Romania||
+|-|-|
+|Feeric Fashion ||
+|Bucharest Fashion Week||
 
- Serbia||
-   |-|-|
-Belgrade Fashion Week||
-Elite Model Look Serbia||
-Belgrade Design Week||
-Serbia Fashion Week||
 
- Spain||
-   |-|-|
-Cibeles Madrid Fashion Week||
-Barcelona Fashion Week (Pasarela Gaudí)||
-Malagá Fashion Week (Plaza Mayor Week)||
-Murcia Fashion Week||
-Valencia Fashion Week||
-Sevilla Fashion Week||
-Zaragoza Fashion Week||
-The Brandery||
+|Serbia||
+|-|-|
+|Belgrade Fashion Week||
+|Elite Model Look Serbia||
+|Belgrade Design Week||
+|Serbia Fashion Week||
 
- Sweden||
-   |-|-|
-Stockolm Fashion Week||
-Umeå Fashion Week||
 
- United Kingdom||
-   |-|-|
-London Fashion Week at Somerset House||
-Aberdeen Fashion Week||
-Asia Fashion Week London||
-Africa Fashion Week London||
-Birmingham Fashion Week||
-Brighton Fashion Week||
-Bristol Fashion Week||
-Cheltenham Fashion Week||
-Clothes Show Live||
-Essex Fashion Week||
-Fashion in Film Festival||
-Leeds Fashion Show||
-Liverpool Fashion Week||
-London Fashion Week (capital)||
-Fall 2008 fashion weeks||
-Men's Fashion Week||
-Manchester Fashion Week||
-Oxford Fashion Week||
-Pure London||
-Strut||
-Sunrise in Baku Fashion Project||
-The Fashion Awards||
+|Spain||
+|-|-|
+|Cibeles Madrid Fashion Week||
+|Barcelona Fashion Week (Pasarela Gaudí)||
+|Malagá Fashion Week (Plaza Mayor Week)||
+|Murcia Fashion Week||
+|Valencia Fashion Week||
+|Sevilla Fashion Week||
+|Zaragoza Fashion Week||
+|The Brandery||
 
- Ukraine||
-   |-|-|
-Mercedes-Benz Kiev Fashion Days||
-Ukrainian Fashion Week||
+
+|Sweden||
+|-|-|
+|Stockolm Fashion Week||
+|Umeå Fashion Week||
+
+
+|United Kingdom||
+|-|-|
+|London Fashion Week at Somerset House||
+|Aberdeen Fashion Week||
+|Asia Fashion Week London||
+|Africa Fashion Week London||
+|Birmingham Fashion Week||
+|Brighton Fashion Week||
+|Bristol Fashion Week||
+|Cheltenham Fashion Week||
+|Clothes Show Live||
+|Essex Fashion Week||
+|Fashion in Film Festival||
+|Leeds Fashion Show||
+|Liverpool Fashion Week||
+|London Fashion Week (capital)||
+|Fall 2008 fashion weeks||
+|Men's Fashion Week||
+|Manchester Fashion Week||
+|Oxford Fashion Week||
+|Pure London||
+|Strut||
+|Sunrise in Baku Fashion Project||
+|The Fashion Awards||
+
+
+|Ukraine||
+|-|-|
+|Mercedes-Benz Kiev Fashion Days||
+|Ukrainian Fashion Week||
 
 ## Oceania
 
