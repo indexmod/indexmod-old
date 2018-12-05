@@ -493,19 +493,22 @@ Rotterdam Fashion Week||
 Canal Catwalk||
 Floating Fashion Week||
 
- Norway||
- |-|-|
-Oslo Fashion Week||
+|Norway||
+|-|-|
+|Oslo Fashion Week||
 
- Poland||
-  |-|-|
-Łódź FashionPhilosophy Fashion Week Poland||
-Mercedes Benz Fashion Weekend Warsaw||
 
- Portugal||
-   |-|-|
-Lisbon Fashion Week||
-Portugal Fashion||
+|Poland||
+|-|-|
+|Łódź FashionPhilosophy Fashion Week Poland||
+|Mercedes Benz Fashion Weekend Warsaw||
+
+
+|Portugal||
+|-|-|
+|Lisbon Fashion Week||
+|Portugal Fashion||
+
 
 |Romania||
 |-|-|
