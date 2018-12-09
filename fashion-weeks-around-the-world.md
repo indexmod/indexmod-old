@@ -184,6 +184,7 @@ pinterest: 0
 |Christian Fashion Week|CHFW|
 |Fashion Week Columbus|FWC|
 |Fashion Week Cleveland|FWCL|
+|[Fashion Week MN](fashion-week-mn)|FWMN|
 |Houston Fashion Week|HFW|
 |Los Angeles Fashion Film Festival|LAFFF|
 |Los Angeles Fashion Week|LAFW|
