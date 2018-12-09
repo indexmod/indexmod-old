@@ -254,7 +254,7 @@ pinterest: 0
 
 **Indonesia**
 
-|Indonesia Fashion Week||
+|[Indonesia Fashion Week](indonesia-fashion-week)||
 |Jakarta Fashion Week||
 |Plaza Indonesia's Men Fashion Week||
 |Surabaya Fashion Parade||
@@ -270,7 +270,7 @@ pinterest: 0
 **Iran**
 
 |Iran Fashion Week||
-|Tehran Fashion Week||
+|[Tehran Fashion Week](tehran-fashion-week)||
 
 
 **Israel**
