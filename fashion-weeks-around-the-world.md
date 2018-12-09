@@ -408,7 +408,7 @@ pinterest: 0
 
 **Belarus**
 
-|Belarus Fashion Week||
+|[Belorussian Fashion Week](belorussian-fashion-week)||
 
 
 **Belgium**
@@ -420,6 +420,7 @@ pinterest: 0
 **Bulgaria**
 
 |Sofia Fashion Week Couture||
+|[Sofia Fashion Week](sofia-fashion-week)||
 |Kids Fashion Week||
 |Men's Fashion Week Plovdiv||
 |Plovdiv Fashion Week Prêt-à-Porter||
@@ -440,7 +441,7 @@ pinterest: 0
 
 **Denmark**
 
-|Copenhagen Fashion Week||
+|[Copenhagen Fashion Week](copenhagen-fashion-week)||
 |Gallery Int Fashion Fair||
 
 
@@ -470,8 +471,8 @@ pinterest: 0
 
 **Georgia**
 
-|Adjara Fashion Week||
-|Mercedes-Benz Fashion Week Tbilisi||
+|[Adjara Fashion Week](adjara-fashion-week)||
+|[Mercedes-Benz Fashion Week Tbilisi](mercedes-benz-fashion-week-tbilisi)||
 |Tbilisi Fashion Week||
 
 
@@ -532,7 +533,7 @@ pinterest: 0
 
 **Lithuania**
 
-|Mados infekcija||
+|[Mados infekcija](mados-infekcija)|MI|
 
 
 **Luxembourg**
@@ -609,9 +610,9 @@ pinterest: 0
 **United Kingdom**
 
 |London Fashion Week at Somerset House|LFWSH|
-|Aberdeen Fashion Week|AFW|
-|Asia Fashion Week London|AFWL|
-|Africa Fashion Week London|AFWL|
+|[Aberdeen Fashion Week](aberdeen-fashion-week)|AFW|
+|[Asia Fashion Week London]()|AFWL|
+|Africa Fashion Week London(africa-fashion-week-london)|AFWL|
 |Birmingham Fashion Week|BFW|
 |Brighton Fashion Week|BFW|
 |Bristol Fashion Week|BFW|
