@@ -163,7 +163,7 @@ pinterest: 0
 
 **Peru**
 
-|LIF Fashion Week (Lima)|LIFW|
+|[LIF Fashion Week (Lima)](lif-fashion-week-lima)|LIFW|
 
 
 **Puerto Rico**
