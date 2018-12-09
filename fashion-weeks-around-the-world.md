@@ -118,7 +118,7 @@ pinterest: 0
 
 |[Chile Fashion Week](chile-fashion-week)|CFW|
 |Elite Model Look Chile|EMLC|
-|Santiago Fashion Week|SFW|
+|[Santiago Fashion Week](santiago-fashion-week)|SFW|
 
 
 **Colombia**
