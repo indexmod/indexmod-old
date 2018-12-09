@@ -596,7 +596,7 @@ pinterest: 0
 |Murcia Fashion Week|MFW|
 |Valencia Fashion Week|VFW|
 |Sevilla Fashion Week|SFW|
-|Zaragoza Fashion Week|ZFW|
+|[Zaragoza Fashion Week](zaragoza-fashion-week)|ZFW|
 |The Brandery||
 
 
