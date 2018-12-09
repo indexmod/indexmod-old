@@ -230,6 +230,7 @@ pinterest: 0
 |China Fashion Week|CFW|
 |Guangzhou Fashion Week|GFW|
 |Hong Kong Fashion Week|HHFW|
+|[Original Design Fashion Week Shenzhen China](fashion-weeks-around-the-world)|ODF|
 |Shanghai Fashion Week|SFW|
 |Shenzhen Fashion Week|SFW|
 |Tianjin Fashion Week|TFW|
