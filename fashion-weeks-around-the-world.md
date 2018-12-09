@@ -305,11 +305,12 @@ pinterest: 0
 
 **Nepal**
 
-|Model Hunt Nepal||
-|Voyage of creation||
-|Nepal Fashion Week||
 |CHIC Fashion Show||
+|Model Hunt Nepal||
+|Nepal Fashion Week||
+|[The Himalayan Times TGIF Nepal Fashion Week](himalayan-times-tgif-nepal-fashion-week-the)||
 |The Show||
+|Voyage of creation||
 
 
 **Pakistan**
