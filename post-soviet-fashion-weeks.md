@@ -6,7 +6,7 @@ layout: info
 
 **Armenia**
 
-|||
+|Erevan Fashion Week|EFW|
 
 **Azerbaijan**
 
@@ -25,7 +25,7 @@ layout: info
 
 **Estonia**
 
-|||
+|Tallinn Fashion Week|TFW|
 
 **Kazakhstan**
 
@@ -57,11 +57,11 @@ layout: info
 
 **Tadzhikistan**
 
-|||
+|Beshkek Fashion Week||
 
 **Turkmenistan**
 
-|||
+|Ashgabad Fashion Week||
 
 **Ukraine**
 
@@ -71,7 +71,8 @@ layout: info
 
 **Uzbekistan**
 
-|||
+|Tashkent Fashion Week|TFW|
+|Uzbekistan Fashion Week|TFW|
 
 
 ## Weeks compare
