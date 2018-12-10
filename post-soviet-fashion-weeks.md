@@ -10,18 +10,18 @@ layout: info
 
 **Azerbaijan**
 
-|[Azerbaijan Fashion Week](azerbaijan-fashion-week)||
-|[Baku Fashion Week](baku-fashion-week)||
+|[Azerbaijan Fashion Week](azerbaijan-fashion-week)|AFW|
+|[Baku Fashion Week](baku-fashion-week)|BFW|
 
 **Belarus**
 
-|[Belorussian Fashion Week](belorussian-fashion-week)||
+|[Belorussian Fashion Week](belorussian-fashion-week)|BFW|
 
 **Georgia**
 
-|[Adjara Fashion Week](adjara-fashion-week)||
-|[Mercedes-Benz Fashion Week Tbilisi](mercedes-benz-fashion-week-tbilisi)||
-|Tbilisi Fashion Week||
+|[Adjara Fashion Week](adjara-fashion-week)|AFW|
+|[Mercedes-Benz Fashion Week Tbilisi](mercedes-benz-fashion-week-tbilisi)|MBFWT|
+|Tbilisi Fashion Week|TFW|
 
 **Estonia**
 
@@ -43,31 +43,31 @@ layout: info
 
 **Mongolia**
 
-|Goyol Fashion Festival||
+|Goyol Fashion Festival|GFF|
 
 **Russia**
 
-|Nizhny Fashion Week||
-|Novosibirsk Fashion Week||
-|Yekaterinburg Ural Fashion Week||
-|Russia Fashion Week||
-|Mercedes-Benz Fashion Week Russia||
-|St. Petersburg Fashion Week||
-|Volvo Moscow Fashion Week||
+|Nizhny Fashion Week|NFW|
+|Novosibirsk Fashion Week|NFW|
+|Yekaterinburg Ural Fashion Week|YUFW|
+|Russia Fashion Week|RFW|
+|Mercedes-Benz Fashion Week Russia|MBFWR|
+|St. Petersburg Fashion Week|SPBFW|
+|Volvo Moscow Fashion Week|VMFW|
 
 **Tadzhikistan**
 
-|Beshkek Fashion Week||
+|Beshkek Fashion Week|BFW|
 
 **Turkmenistan**
 
-|Ashgabad Fashion Week||
+|Ashgabad Fashion Week|AFW|
 
 **Ukraine**
 
 |Mercedes-Benz Kiev Fashion Days|MBKFD|
 |Ukrainian Fashion Week|UFW|
-|Odessa Fashion Holiday||
+|Odessa Holiday Fashion Week|OHFW|
 
 **Uzbekistan**
 
