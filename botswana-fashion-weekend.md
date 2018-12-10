@@ -17,8 +17,8 @@ profession: fashion event in Botswana
 photo: Lizzie Tshandu one of official Botswana Fashion Weekend bloggers
 photographer: BFW
 source: Facebook
-photographerurl: https://www.facebook.com/BotswanaFashionWeekend/photos/a.1466733726755512/1482871871808364/?type=3&theater
-sourceurl: https://www.facebook.com/BotswanaFashionWeekend/photos/a.1466733726755512/1482871871808364/?type=3&theater
+photographerurl: https://www.facebook.com/BotswanaFashionWeekend
+sourceurl: https://www.facebook.com/BotswanaFashionWeekend
 shortname: BOTSWANA
 facebook: 612
 instagram: 0

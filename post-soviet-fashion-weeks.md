@@ -2,7 +2,6 @@
 title: Post Soviet Fashion Weeks
 permalink: post-soviet-fashion-weeks
 layout: info
-published: true
 ---
 
 **Armenia**
