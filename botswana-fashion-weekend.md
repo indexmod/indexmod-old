@@ -6,19 +6,19 @@ originlang: Eng.
 originspell: Botswana Fashion Weekend
 appearing: Est.
 city: Gaborone
-birth: 2016
+birth: 2011
 givenname: Botswana Fashion Weekend
 familyname:
 othername: BFW
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+venue: Nelson Mandela Dr
+founder:
+origin: a national
+profession: fashion event in Botswana
+photo: Lizzie Tshandu one of official Botswana Fashion Weekend bloggers
+photographer: BFW
+source: Facebook
+photographerurl: https://www.facebook.com/BotswanaFashionWeekend/photos/a.1466733726755512/1482871871808364/?type=3&theater
+sourceurl: https://www.facebook.com/BotswanaFashionWeekend/photos/a.1466733726755512/1482871871808364/?type=3&theater
 shortname: BOTSWANA
 facebook: 612
 instagram: 0
@@ -31,23 +31,12 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
 ## See also
 
 + [Gaborone Fashion Weekend](gaborone-fashion-weekend)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
++ [Fashion Without Borders](fashion-weeks-around-the-world)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Botswana Fashion Week 2011 (Youtube.com)](https://www.youtube.com/watch?v=YldExsXQeBY)

@@ -11,7 +11,7 @@ givenname: Gaborone Fashion Weekend
 familyname:
 othername: GFW
 venue: Ditsupo Hall
-founder: Founder
+founder: 
 origin: a Botswanian
 profession: fashion event in Gaborone
 photo: Letty R. Masunga, Sharon Mathala and Tebatso Kgakge at Gaborone Fashion Weekend in 2012
