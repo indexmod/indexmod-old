@@ -633,7 +633,7 @@ layout: info
 
 ## See also
 
-+ [Post soviet fashion weeks](index)
++ [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 
 ## Footnotes
