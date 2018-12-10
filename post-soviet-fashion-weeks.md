@@ -7,6 +7,7 @@ layout: info
 **Armenia**
 
 |Erevan Fashion Week|EFW|
+|Armenian Fashion Week|AFW|
 
 **Azerbaijan**
 
@@ -30,7 +31,7 @@ layout: info
 **Kazakhstan**
 
 |Almaty Fashion Week|AFW|
-|Kazakhstan Fashion Week Astana|KFWA|
+|[Kazakhstan Fashion Week Astana](kazakhstan-fashion-week-astana)|KFWA|
 
 **Latvia**
 
