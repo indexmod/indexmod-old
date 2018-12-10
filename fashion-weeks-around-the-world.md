@@ -36,7 +36,8 @@ pinterest: 0
 
 **Botswana**
 
-|Gaborone Fashion Weekend|GFW|
+|[Botswana Fashion Weekend](botswana-fashion-weekend)|BFW|
+|[Gaborone Fashion Weekend](gaborone-fashion-weekend)|GFW|
 
 
 **Cote d'Ivoire**
