@@ -2,9 +2,79 @@
 title: Post Soviet Fashion Weeks
 permalink: post-soviet-fashion-weeks
 layout: info
-exclude: true
 ---
 
+**Armenia**
+
+|||
+
+**Azerbaijan**
+
+|[Azerbaijan Fashion Week](azerbaijan-fashion-week)||
+|[Baku Fashion Week](baku-fashion-week)||
+
+**Belarus**
+
+|[Belorussian Fashion Week](belorussian-fashion-week)||
+
+**Georgia**
+
+|[Adjara Fashion Week](adjara-fashion-week)||
+|[Mercedes-Benz Fashion Week Tbilisi](mercedes-benz-fashion-week-tbilisi)||
+|Tbilisi Fashion Week||
+
+**Estonia**
+
+|||
+
+**Kazakhstan**
+
+|Almaty Fashion Week|AFW|
+|Kazakhstan Fashion Week Astana|KFWA|
+
+**Latvia**
+
+|Riga Fashion Week|RFW|
+
+
+**Lithuania**
+
+|[Mados infekcija](mados-infekcija)|MI|
+
+**Mongolia**
+
+|Goyol Fashion Festival||
+
+**Russia**
+
+|Nizhny Fashion Week||
+|Novosibirsk Fashion Week||
+|Yekaterinburg Ural Fashion Week||
+|Russia Fashion Week||
+|Mercedes-Benz Fashion Week Russia||
+|St. Petersburg Fashion Week||
+|Volvo Moscow Fashion Week||
+
+**Tadzhikistan**
+
+|||
+
+**Turkmenistan**
+
+|||
+
+**Ukraine**
+
+|Mercedes-Benz Kiev Fashion Days|MBKFD|
+|Ukrainian Fashion Week|UFW|
+|Odessa Fashion Holiday||
+
+**Uzbekistan**
+
+|||
+
+
+## Weeks compare
 
 |City|Index|Location|Est.|Brands|Operator|
 |-|-|-|-|-|-|
@@ -23,6 +93,6 @@ exclude: true
 
 ## See also
 
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [PinchukArtCentre](pinchukartcentre)
 + [Victor Pinchuk Foundation](victor-pinchuk-foundation)
-+ [Kiev](kiev)
