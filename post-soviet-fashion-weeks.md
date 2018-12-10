@@ -2,6 +2,7 @@
 title: Post Soviet Fashion Weeks
 permalink: post-soviet-fashion-weeks
 layout: info
+published: true
 ---
 
 **Armenia**
@@ -12,7 +13,8 @@ layout: info
 **Azerbaijan**
 
 |[Azerbaijan Fashion Week](azerbaijan-fashion-week)|AFW|
-|[Baku Fashion Week](baku-fashion-week)|BFW|
+|Baku Fashion Week|BFW|
+|Mercedes-Benz Fashion Week Baku|MBFWB|
 
 **Belarus**
 
