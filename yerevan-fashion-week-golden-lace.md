@@ -33,7 +33,7 @@ pinterest: 0
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Male models at YFWGL in 2018**
+**Male Armenian models at YFWGL in 2018**
 
 *Photo: [YFWGL_Official](https://www.instagram.com/yfwgl/) / [Instagram.com](https://www.instagram.com/yfwgl/)*
 
