@@ -35,6 +35,10 @@ layout: info
 |Almaty Fashion Week|AFW|
 |[Kazakhstan Fashion Week Astana](kazakhstan-fashion-week-astana)|KFWA|
 
+**Kyrgyzstan**
+
+|Kyrgyzstan Fashion Week|KFW|
+
 **Latvia**
 
 |Riga Fashion Week|RFW|
