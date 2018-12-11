@@ -6,7 +6,7 @@ originlang: Arm.
 originspell: Հայկական նորաձեւության շաբաթ
 appearing: Est.
 city: Yerevan
-birth: 2018
+birth: 2000
 givenname: Armenian Fashion Week
 familyname:
 othername: AYFW
