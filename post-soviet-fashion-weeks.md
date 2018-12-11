@@ -6,8 +6,9 @@ layout: info
 
 **Armenia**
 
-|Erevan Fashion Week|EFW|
-|Armenian Fashion Week|AFW|
+|[Armenian Fashion Week](armenian-fashion-week)|AFW|
+|[Erevan Fashion Week](yerevan-fashion-week)|EFW|
+|[Yerevan Fashion Week “Golden Lace”](yerevan-fashion-week-golden-lace)|YFWGL|
 
 **Azerbaijan**
 

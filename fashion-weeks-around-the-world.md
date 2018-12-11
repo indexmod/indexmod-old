@@ -187,6 +187,12 @@ layout: info
 
 ## Asia
 
+**Armenia**
+
+|[Armenian Fashion Week](armenian-fashion-week)|AFW|
+|[Erevan Fashion Week](yerevan-fashion-week)|EFW|
+|[Yerevan Fashion Week “Golden Lace”](yerevan-fashion-week-golden-lace)|YFWGL|
+
 **Bahrain**
 
 |Bahrain International Design Week|BIDW|
@@ -315,14 +321,8 @@ layout: info
 
 **Russia**
 
-|Nizhny Fashion Week||
 |Novosibirsk Fashion Week||
 |Yekaterinburg Ural Fashion Week||
-|Russia Fashion Week||
-|Mercedes-Benz Fashion Week Russia||
-|St. Petersburg Fashion Week||
-|Volvo Moscow Fashion Week||
-
 
 **Singapore**
 
@@ -554,6 +554,12 @@ layout: info
 |[Feeric Fashion Week](feeric-fashion-week)|FFW|
 |[Bucharest Fashion Week](bucharest-fashion-week)|BFW|
 
+**Russia**
+
+|Nizhny Fashion Week||
+|Mercedes-Benz Fashion Week Russia||
+|St. Petersburg Fashion Week||
+|Volvo Moscow Fashion Week||
 
 **Serbia**
 
