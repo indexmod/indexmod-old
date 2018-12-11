@@ -6,12 +6,12 @@ originlang: Arm.
 originspell: Երեւանի նորաձեւության շաբաթը `«Ոսկե շապիկը»
 appearing: Est.
 city: Yerevan
-birth: 2018
+birth: 2014
 givenname: Yerevan Fashion Week “Golden Lace”
 familyname:
 othername: YFWGL
 venue: Meridian Expocenter
-founder: Kristina Belova, Tamara Halafova
+founder: Naira Niazyan
 origin: an Armenian
 profession: fashion event based in Yerevan
 photo: A model at YFWGL in 2018
@@ -39,7 +39,7 @@ pinterest: 0
 
 ## Сonspectus
 
-ՈՒՇԱԴՐՈՒԹՅՈՒՆ 
+ՈՒՇԱԴՐՈՒԹՅՈՒՆ
 1 օրվա այցելություն
 VIP կարգ 1 - 30000 դրամ, Օր 1 - Մայիսի 12,
 VIP կարգ 1 - 15000 դրամ, Օր 2 - Մայիսի 13,
@@ -76,4 +76,4 @@ Varant Lamalin (Լիբանան)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [В центре "Меридиан" прошла неделя моды Yerevan Fashion Week (Armeniasputnik.am)](https://ru.armeniasputnik.am/photo/20181024/15301153/V-tsentre-Meridian-proshla-nedelya-mody-Yerevan-Fashion-Week--nezabyvaemye-foto.html)
+[[1]](#a1) <span id="f1"></span> [«Неделя моды в Ереване»: Дизайнеры из Армении, Белоруссии и России представят свои коллекции (Panarmenian.net)](http://www.panarmenian.net/rus/news/247201/)
