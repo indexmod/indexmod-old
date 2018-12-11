@@ -1,5 +1,5 @@
 ---
-title: Post Soviet Fashion Weeks
+title: Post-soviet fashion weeks
 permalink: post-soviet-fashion-weeks
 layout: info
 ---
