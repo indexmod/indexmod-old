@@ -71,7 +71,7 @@ Varant Lamalin (Լիբանան)
 + [Armenian Fashion Week](armenian-fashion-week)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
-+ [Vardhui Nazarian](Vardoui Nazarian)
++ [Vardoui Nazarian](vardoui-nazarian)
 + [Yerevan Fashion Week](yerevan-fashion-week)
 
 ## Footnotes
