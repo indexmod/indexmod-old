@@ -3,7 +3,7 @@ title: La Moscovite
 permalink: la-moscovite
 layout: default
 originlang: Rus.
-originspell: Ла Московит, Москвичка
+originspell: Ля Московит, Москвичка
 appearing: Est.
 city: Moscow
 birth: 2017
@@ -13,7 +13,7 @@ othername: Ла Московит, Москвичка
 venue: Red Square
 founder: Ariadna Cherkasova
 origin: a Russian silk scarves brand
-profession: unique collectible scarves with folk designs, inspiration in true Russian style, paintings on spinning wheels and chests founded by Ariadna Cherkasova in 
+profession: unique collectible scarves with folk designs, inspiration in true Russian style, paintings on spinning wheels and chests founded by Ariadna Cherkasova in
 photo: Bird of Wonder (black), Severodvinsk painting, 90х90, 100% silk, ₽12000
 photographer: La Moscovite
 source: Carussel.ru
