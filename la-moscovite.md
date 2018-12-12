@@ -10,7 +10,7 @@ birth: 2017
 givenname: La Moscovite
 familyname:
 othername: Ла Московит, Москвичка
-venue: Red Square
+venue: Carussel.ru
 founder: Ariadna Cherkasova
 origin: a Russian silk scarves brand
 profession: unique collectible scarves with folk designs, inspiration in true Russian style, paintings on spinning wheels and chests founded by Ariadna Cherkasova in
@@ -43,8 +43,10 @@ La Moscovite brand, creates designer collections of Russian folk culture-themed 
 
 ## See also
 
-+ [About](index)
-+ [More](index)
++ [Ariadna Cherkasova](cherkasova-ariadna)
++ [Carussel (store)](carussel-store)
++ [Moskvich Mag](moskvich-mag)
+
 
 ## Footnotes
 
