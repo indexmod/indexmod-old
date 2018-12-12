@@ -12,8 +12,8 @@ familyname:
 othername: Ла Московит, Москвичка
 venue: Carussel.ru
 founder: Ariadna Cherkasova
-origin: a Russian silk scarves brand
-profession: unique collectible scarves with folk designs, inspiration in true Russian style, paintings on spinning wheels and chests founded by Ariadna Cherkasova in
+origin: a Russian
+profession: silk scarves brand, unique collectible scarves with folk designs, inspiration in true Russian style, paintings on spinning wheels and chests founded by Ariadna Cherkasova in 2017
 photo: Bird of Wonder (black), Severodvinsk painting, 90х90, 100% silk, ₽12000
 photographer: La Moscovite
 source: Carussel.ru
