@@ -41,8 +41,8 @@ pinterest: 0
 
 |Year|City, milestone|
 |-|-|
-|2007|Founded, Moscow|
-|2009|Shortlist at Cycles & Seasons by Master Card <span id="a2">[\[2\]](#f2)</span>|
+|2007|Moscow, Founding|
+|2009|Moscow, Shortlisting at Cycles & Seasons by Master Card <span id="a2">[\[2\]](#f2)</span>|
 
 Vardoui Nazarian is a fashion brand created in Moscow by Armenian designer Vardoui Nazarian. Nazarian, Vardoui (Gyumri, 1984) <span id="a2">[\[3\]](#f2)</span> works far from Armenia but never forgets about her roots. It is the Armenian history, tradition and culture that inspire her. She presents the heritage of ancient civilization. Culture of Armenia is always traced in Vardouis works, a symbol of her brand has become a fantastic bird from Armenian legends: "In Armenian literature image of a bird is found in every work, it is a kind of leitmotif of the Armenian culture, symbolizing the awakening, rebirth, and, of course, freedom".
 
