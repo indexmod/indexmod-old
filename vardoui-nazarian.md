@@ -12,8 +12,8 @@ familyname: Nazarian
 othername: VN
 venue: R.E.D., Tsvetnoy, Aizel.ru
 founder: Vardoui Nazarian (Gyumri, 1984)
-origin: an Armenian and Russian
-profession: women wear brand based in Moscow founded by Vardoui Nazarian in 2007
+origin: a Russian
+profession: women wear brand Armenian origin based in Moscow founded by Vardoui Nazarian in 2007
 photo: VN bird since 2007
 photographer: VN
 source: Facebook
