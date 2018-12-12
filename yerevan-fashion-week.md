@@ -21,7 +21,7 @@ photographerurl: https://www.facebook.com/ArmenianYerevanFashionWeek
 sourceurl: https://www.facebook.com/ArmenianYerevanFashionWeek
 shortname: YEREVAN
 facebook: 284
-instagram: 0
+instagram: 
 youtube: 0
 vimeo: 0
 twitter: 0

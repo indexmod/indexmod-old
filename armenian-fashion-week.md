@@ -43,7 +43,7 @@ pinterest: 0
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 + [Yerevan Fashion Week](yerevan-fashion-week)
-+ [Vardhui Nazarian](Vardoui Nazarian)
++ [Vardoui Nazarian](vardoui-nazarian)
 + [Yerevan Fashion Week “Golden Lace”](yerevan-fashion-week-golden-lace)
 
 ## Footnotes
