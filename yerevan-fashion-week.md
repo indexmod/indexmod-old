@@ -12,8 +12,8 @@ familyname:
 othername: AYFW
 venue: DoubleTree by Hilton Yerevan City Centre
 founder: Arman Antonyan (President)
-origin: a national fashion event in Armenia, expo and fashion festival, also held a national awards for the contribution of the development of fashion events. Based in Yerevan, founded in 2000 by Arman Antonyan
-profession: writer based in Europe
+origin: a national
+profession: fashion event in Armenia, expo and fashion festival, also held a national awards for the contribution of the development of fashion events. Based in Yerevan, founded in 2000 by Arman Antonyan
 photo: Model Seda Serobyan at the Government of the Republic of Armenia during AYFW catwalks in 2017
 photographer: AYFW
 source: Facebook
@@ -21,7 +21,7 @@ photographerurl: https://www.facebook.com/ArmenianYerevanFashionWeek
 sourceurl: https://www.facebook.com/ArmenianYerevanFashionWeek
 shortname: YEREVAN
 facebook: 284
-instagram: 
+instagram:
 youtube: 0
 vimeo: 0
 twitter: 0
