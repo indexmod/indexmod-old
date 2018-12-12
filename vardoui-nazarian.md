@@ -10,15 +10,15 @@ birth: 2007
 givenname: Vardoui
 familyname: Nazarian
 othername: VN
-venue:
+venue: R.E.D., Tsvetnoy, Aizel.ru
 founder: Vardoui Nazarian (Gyumri, 1984)
 origin: an Armenian and Russian
 profession: women wear brand based in Moscow founded by Vardoui Nazarian in 2007
 photo: VN bird since 2007
 photographer: VN
 source: Facebook
-photographerurl: index
-sourceurl: index
+photographerurl: https://www.facebook.com/Vardoui-Nazarian-147385185279693/
+sourceurl: https://www.facebook.com/Vardoui-Nazarian-147385185279693/
 shortname: NAZARIAN
 facebook: 1869
 instagram: 2042
