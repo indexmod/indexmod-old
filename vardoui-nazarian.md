@@ -19,7 +19,7 @@ photographer: VN
 source: Facebook
 photographerurl: https://www.facebook.com/Vardoui-Nazarian-147385185279693/
 sourceurl: https://www.facebook.com/Vardoui-Nazarian-147385185279693/
-shortname: NAZARIAN
+shortname: VN
 facebook: 1869
 instagram: 2042
 youtube: 0
