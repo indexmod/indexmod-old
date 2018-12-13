@@ -3,7 +3,7 @@ title: Fucking Young!
 permalink: fucking-young
 layout: default
 originlang: Sp.
-originspell: Jodidamente joven
+originspell: Jodidamente joven!
 appearing: Est.
 city: Barcelona
 birth: 2011
@@ -19,7 +19,7 @@ photographer: F.Y!
 source: Fuckingyoung.es
 photographerurl: http://fuckingyoung.es/about/
 sourceurl: http://fuckingyoung.es/about/
-shortname: FY
+shortname: F.Y!
 facebook: 224331
 instagram: 0
 youtube: 1600000
