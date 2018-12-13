@@ -34,6 +34,7 @@ pinterest: 7187
 ## Editorial
 
 |Position|2018|
+|-|-|
 |Editor in chief|Adriano Batista|
 |Senior editor|Luca Imbimbo|
 |Editor-at-large|Philippe Pourhashemi|
