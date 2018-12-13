@@ -2,7 +2,7 @@
 title: Fucking Young!
 permalink: fucking-young
 layout: default
-originlang: Esp.
+originlang: Sp.
 originspell: Jodidamente joven
 appearing: Est.
 city: Barcelona
