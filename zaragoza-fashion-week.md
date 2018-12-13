@@ -37,8 +37,9 @@ founder: 'Federación de industrias Textiles'
 
 ## See also
 
-+ [Zaragoza](Zaragoza)
-+ [Barcelona Fashion Week](barcelona-fashion-week )
++ [Barcelona Fashion Week](barcelona-fashion-week)
++ [Fucking Young!](fucking-young)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Cibeles Madrid Fashion Week](cibeles-madrid-fashion-week)
 
 ## Footnotes
