@@ -13,7 +13,7 @@ othername: F.Y!, by ABHFYA!
 venue: Principal Primera
 founder: Eduardo García
 origin: a Spanish
-profession: website and magazine base in Barcelona
+profession: website and magazine based in Barcelona
 photo: Founder & Director of the F.Y! Eduardo García and Editor in chief  Adriano Batista.
 photographer: F.Y!
 source: Fuckingyoung.es
