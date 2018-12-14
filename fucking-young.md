@@ -50,7 +50,7 @@ pinterest: 7187
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Music Features Editor of the F.Y! Andrei Zozulya-Davidov attend the AOFM Anniversary Party at Libertine on September 20, 2015 in London, England**
+**Andrei Zozulya-Davidov one of editors of the F.Y! in England in 2015**
 
 *Photo: [Stuart C. Wilson](index) / [Zimbio.com / Getty Images Europe](http://www.zimbio.com/photos/Andrei+Zozulya-Davidov/AOFM+10th+Anniversary+Party/jiOPnm-sIhV)*
 
