@@ -29,6 +29,7 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
+published: true
 ---
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
@@ -56,7 +57,7 @@ pinterest: 0
 
 ![](https://nyoobserver.files.wordpress.com/2015/09/yami5-e1442267948712.jpg)
 
-**Сувениры "Звезд Гитхаба" <br>
+**Сувениры «Звезд Гитхаба» <br>
 на рынке Ями-Ичи в Новом Орлеане**
 
 *Фото: [Брэди Дейл (Brady Dale)](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/) / [Observer](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/)*
