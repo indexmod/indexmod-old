@@ -211,7 +211,7 @@ layout: info
 |Guangzhou Fashion Week|GFW|
 |Hong Kong Fashion Week|HHFW|
 |[Original Design Fashion Week Shenzhen China](fashion-weeks-around-the-world)|ODF|
-|Shanghai Fashion Week|SFW|
+|[Shanghai Fashion Week](shanghai-fashion-week)|SFW|
 |Shenzhen Fashion Week|SFW|
 |Tianjin Fashion Week|TFW|
 
