@@ -21,7 +21,7 @@ photographerurl: https://www.facebook.com/ShanghaiFashionWK/photos
 sourceurl: https://www.facebook.com/ShanghaiFashionWK/photos
 shortname: SHANGHAI
 facebook: 4660
-instagram: 15200
+instagram: 1520000
 youtube: 0
 vimeo: 0
 twitter: 466
