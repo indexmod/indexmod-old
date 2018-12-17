@@ -51,9 +51,6 @@ pinterest: 0
 + [Shenzhen Fashion Week](fashion-weeks-around-the-world)
 + [Tianjin Fashion Week](fashion-weeks-around-the-world)
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [The Breakout Front Row Star at Alexander Wang’s Show? A Robot (Vogue.com)](https://www.vogue.com/article/sophia-robot-front-row-alexander-wang-fall-2019-show)
