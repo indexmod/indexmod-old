@@ -14,11 +14,11 @@ venue: Glinischevsky Lane
 founder: Gosha Rostovshchikov
 origin: a Russian
 profession: fashion agency, buyers showroom based in Moscow founded by Gosha Rostovshchikov
-photo: Red September campaign for Nob
-photographer: Yan Yugai
-source: Sobaka.ru
-photographerurl: http://www.sobaka.ru/fashion/heroes/78886
-sourceurl: http://www.sobaka.ru/fashion/heroes/78886
+photo: Contributor of the Nob designer Roman Uvarov with founder of the agency Gosha Rostovshchikov at Nizhny Novgorod 
+photographer: @nn_sobaka_ru
+source: Instagram
+photographerurl: https://www.instagram.com/p/BrQ02i7hxGo/
+sourceurl: https://www.instagram.com/p/BrQ02i7hxGo/
 shortname: NOB
 facebook: 250
 instagram: 8933
