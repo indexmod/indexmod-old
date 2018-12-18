@@ -28,7 +28,7 @@ layout: info
 
 **Estonia**
 
-|Tallinn Fashion Week|TFW|
+|[Tallinn Fashion Week](tallinn-fashion-week)|TFW|
 
 **Kazakhstan**
 

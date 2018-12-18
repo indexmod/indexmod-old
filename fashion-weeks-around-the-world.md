@@ -418,6 +418,9 @@ layout: info
 |[Copenhagen Fashion Week](copenhagen-fashion-week)||
 |Gallery Int Fashion Fair||
 
+**Estonia**
+
+|[Tallinn Fashion Week](tallinn-fashion-week)|TFW|
 
 **Finland**
 
@@ -426,7 +429,7 @@ layout: info
 
 **France**
 
-|Africa Fashion Week Paris||
+|Africa Fashion Week Paris|AFWP|
 |Bordeaux Fashion Week||
 |Elite Model Look||
 |Cannes-Nice Fashion Week||
