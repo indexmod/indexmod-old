@@ -11,7 +11,7 @@ givenname: Tallinn Fashion Week
 familyname:
 othername: TFW
 venue: Kultuurikatel
-founder: Founder
+founder: 
 origin: an Estonian
 profession: fashion event in Tallinn
 photo: Tallinn Fashion Week 2018 at Kultuurikatlas
