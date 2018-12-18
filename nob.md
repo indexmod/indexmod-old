@@ -33,7 +33,7 @@ pinterest: 0
 
 ## About
 
-Nob is providing brand developpement consulting, and communication, , also held Europe International Buyers Hub, Resource Center Fashion Hub, Nob Agency, Nob Talents Contest, Milo Group.
+Nob is providing brand developpement consulting, and communication, also held Europe International Buyers Hub, Resource Center Fashion Hub, Nob Agency, Nob Talents Contest, Milo Group.
 
 ## See also
 
