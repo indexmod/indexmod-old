@@ -3,7 +3,7 @@ title: Nob
 permalink: nob
 layout: default
 originlang: Rus.
-originspell: Агентство Ноб
+originspell: Агентство «Ноб»
 appearing: Est.
 city: Moscow
 birth: 2017
