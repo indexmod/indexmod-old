@@ -9,7 +9,7 @@ city: Shanghai
 birth: 2001
 givenname: Shanghai Fashion Week
 familyname:
-othername: Other name
+othername: SFW
 venue: Shanghai New International Expo Center in Pudong
 founder:  Shanghai Municipal Government, Shanghai Textile Group
 origin: an international
