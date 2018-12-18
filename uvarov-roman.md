@@ -39,9 +39,10 @@ pinterest: 0
 
 ## See also
 
-+ [Roma Uvarov Design](roma-uvarov-design)
 + [Maria Minogarova](minogarova-maria)
 + [Mercedes-Benz Fashion Week Russia](mercedes-benz-fashion-week-russia)
+[Nob](nob)
++ [Roma Uvarov Design](roma-uvarov-design)
 
 ## Footnotes
 

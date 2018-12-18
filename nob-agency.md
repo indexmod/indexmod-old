@@ -13,7 +13,7 @@ othername: Nob Agency
 venue: Glinischevsky Lane
 founder: Gosha Rostovshchikov
 origin: a Russian
-profession: fashion agency, buyers showroom based in Moscow founded by Gosha Rostovshchikov, also held Europe International Buyers Hub, Resource Center Fashion Hub, Nob Agency, Nob Talents Contest, Milo Group
+profession: fashion agency, buyers showroom based in Moscow founded by Gosha Rostovshchikov, also held Europe International Buyers Hub, Resource Center Fashion Hub, Nob Agency, Nob Talents Contest, Milo Group.
 photo: Red September campaign for Nob
 photographer: Yan Yugai
 source: Sobaka.ru
@@ -30,6 +30,9 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
+## About
+
+Nob is providing brand developpement consulting, and communication.
 
 ## See also
 
@@ -37,11 +40,10 @@ pinterest: 0
 + [International Buyers Hub](index)
 + [Kolkhoz](index)
 + [Milo Group](index)
-+ [Nob Agency](index)
-+ [Odor](index)
 + [Nob Talents Contest](index)
++ [Odor](index)
 + [Red September](index)
-+ [Roma Uvarov](index)
++ [Roma Uvarov](uvarov-roman)
 + [Roma Uvarov Design](roma-uvarov-design)
 
 ## Footnotes
