@@ -48,4 +48,4 @@ The pre-New Year auction was the final chord of 2017. During the auction, the gu
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Онлайн-галерея и аукционы Sample: сделать бизнес на продажах картин малоизвестных художников по разумным ценам (Incrussia.ru)](https://incrussia.ru/fly/onlajn-galereya-i-auktsiony-sample-sdelat-biznes-na-prodazhah-kartin-maloizvestnyh-hudozhnikov-po-razumnym-tsenam/)
