@@ -10,15 +10,15 @@ birth: 1997
 givenname: Ukrainian Fashion Week
 familyname:
 othername: UFW
-venue: Red
-founder: Founder
-origin: a / an
-profession: based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+venue: Margaritka, Arsenal
+founder: UFW
+origin: an international
+profession: fashion events in Kiev, and Odessa as Odessa Holiday Fashion Week
+photo: A contributor of the UFW Jardin Exotique from SS 2019
+photographer: UFW
+source: Vogue.ua
+photographerurl: https://vogue.ua/ua/article/fashion/brend/obyavleny-daty-novogo-sezona-ukrainian-fashion-week.html
+sourceurl: https://vogue.ua/ua/article/fashion/brend/obyavleny-daty-novogo-sezona-ukrainian-fashion-week.html
 shortname: UKRAINE
 facebook: 29451
 instagram: 30900
@@ -33,21 +33,19 @@ pinterest: 0
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**From a contributor of the UFW Jardin Exotique campaign of SS 2019**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [UFW](https://vogue.ua/ua/article/fashion/brend/obyavleny-daty-novogo-sezona-ukrainian-fashion-week.html) / [Vogue.ua](https://vogue.ua/ua/article/fashion/brend/obyavleny-daty-novogo-sezona-ukrainian-fashion-week.html)*
 
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
++ [Odessa Holiday Fashion Week](odessa-holiday-fashion-week)
++ [PinchukArtCentre](pinchukartcentre)
++ [Post soviet fashion weeks](post-soviet-fashion-weeks)
++ [Victor Pinchuk Foundation](victor-pinchuk-foundation)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Оголошені дати нового сезону Ukrainian Fashion Week (Vogue.ua)](https://vogue.ua/ua/article/fashion/brend/obyavleny-daty-novogo-sezona-ukrainian-fashion-week.html)
