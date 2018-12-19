@@ -41,4 +41,4 @@ pinterest: 0
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Новый сезон OHFW будет проходить с 17 по 20 июня 2017 года (Odessa-daily.com.ua)](http://odessa-daily.com.ua/news/odessa-holiday-fashion-week-2017-id90432.html)
