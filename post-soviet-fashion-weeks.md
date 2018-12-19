@@ -74,7 +74,7 @@ layout: info
 
 |Mercedes-Benz Kiev Fashion Days|MBKFD|
 |Ukrainian Fashion Week|UFW|
-|Odessa Holiday Fashion Week|OHFW|
+|[Odessa Holiday Fashion Week](odessa-holiday-fashion-week)|OHFW|
 
 **Uzbekistan**
 
