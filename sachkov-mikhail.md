@@ -4,13 +4,16 @@ permalink: sachkov-mikhail
 layout: default
 originlang: Rus.
 originspell: Михаил Сачков
-othername: Mic, Mish, Миш, flockTV!, NKNZN
 appearing: Born
 birth: 1974
 city: Moscow
+givenname: Mikhail
+familyname: Sachkov
+othername: Mic, Mish, Миш, flockTV!, NKNZN
+venue: Patriki
 origin: Russian
 profession: multimedia artist working and living in Moscow
-photo: Mikhail Sachkov wearing Turbo Yulia during in 2017
+photo: Mikhail Sachkov wearing Turbo Yulia during party in Moscow in 2017
 photographer: UnityUnity
 source: Facebook
 photographerurl: https://www.facebook.com/actionunity/photos/a.2005908676123891/2005910156123743/?type=3&theater
@@ -26,6 +29,7 @@ tumblr: 0
 vkontakte: 37
 soundcloud: 127
 ---
+## About
 
 Founder of creative association "Super duet", co-founder and art director in 4S4R, one of the first Russian artists began to work in the genre of fashion film, living and working in Moscow.
 
