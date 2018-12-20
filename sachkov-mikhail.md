@@ -2,29 +2,29 @@
 title: Sachkov, Mikhail
 permalink: sachkov-mikhail
 layout: default
-shortname: SACHKOV
 originlang: Rus.
 originspell: Михаил Сачков
 othername: Mic, Mish, Миш, flockTV!, NKNZN
 appearing: Born
 birth: 1974
 city: Moscow
-facebook: '107'
-instagram: '0'
-youtube: '0'
-vimeo: '242'
-twitter: '0'
-tumblr: '0'
-vkontakte: '37'
-soundcloud: 127
 origin: Russian
 profession: multimedia artist working and living in Moscow
-photo: Mic Sachkov and Angela Moiseeva
-photographer: Orekhovgallery.com
-source: Orekhovgallery.com
-photographerurl: http://orekhovgallery.com/
-sourceurl: http://orekhovgallery.com/
-founder: 'of IIIYM, 4S4R and Super duet brands'
+photo: Mikhail Sachkov wearing Turbo Yulia during in 2017
+photographer: UnityUnity
+source: Facebook
+photographerurl: https://www.facebook.com/actionunity/photos/a.2005908676123891/2005910156123743/?type=3&theater
+sourceurl: https://www.facebook.com/actionunity/photos/a.2005908676123891/2005910156123743/?type=3&theater
+founder: of IIIYM, 4S4R and Super duet brands
+shortname: SACHKOV
+facebook: 107
+instagram: 743
+youtube: 0
+vimeo: 242
+twitter: 0
+tumblr: 0
+vkontakte: 37
+soundcloud: 127
 ---
 
 Founder of creative association "Super duet", co-founder and art director in 4S4R, one of the first Russian artists began to work in the genre of fashion film, living and working in Moscow.
