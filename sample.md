@@ -14,7 +14,7 @@ venue: Red Square
 founder: Anna Naumova, Sofya Simakova and Alexandra Lekomtseva (2018)
 origin: a Russian
 profession: online gallery & auction based in Moscow
-photo: Natasha Uspenskaya (2018) TV screen. Серия Neon nights. Size 35×32; Lithography; Draw Graphics; Russia
+photo: Natasha Uspenskaya, 2018. TV screen. From "Neon nights", 35×32, lithography
 photographer: Sample
 source: Sample-art.com
 photographerurl: https://sample-art.com/works/tv-screen-seriya-neon-nights/
