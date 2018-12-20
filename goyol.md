@@ -14,11 +14,11 @@ venue: Blue Sky Tower
 founder: Founder
 origin: a Mongolian
 profession: fashion event in Ulaanbaatar
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+photo: Mongolian model Irina Pantaeva will take part in the festival "Goyol"
+photographer: Urlag
+source: Urlag.mn
+photographerurl: http://www.urlag.mn/post/16726.htm
+sourceurl: http://www.urlag.mn/post/16726.htm
 shortname: GOYOL
 facebook: 0
 instagram: 0
