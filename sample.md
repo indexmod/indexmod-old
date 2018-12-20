@@ -35,11 +35,13 @@ Since it’s foundation, Sample held 5 auctions, 3 exhibitions, participated in 
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**The pre-New Year auction at Triumph gallery in 2017**
+**The auction at Triumph gallery in 2017**
 
 *Photo: [Sample](https://sample-art.com/works/tv-screen-seriya-neon-nights/) / [Sample-art.com](https://sample-art.com/works/tv-screen-seriya-neon-nights/)*
 
-The pre-New Year auction was the final chord of 2017. During the auction, the guests of the event were offered to purchase more than 60 lots. The first few works were offered for auction by the founder and owner of the Triumph gallery - Dmitry Khankin.
+## Random quotation
+
+"The pre-New Year auction was the final chord of 2017. During the auction, the guests of the event were offered to purchase more than 60 lots. The first few works were offered for auction by the founder and owner of the Triumph gallery — Dmitry Khankin."
 
 ## See also
 
