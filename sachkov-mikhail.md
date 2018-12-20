@@ -13,9 +13,9 @@ othername: Mic, Mish, Миш, flockTV!, NKNZN
 venue: Patriki
 origin: Russian
 profession: multimedia artist working and living in Moscow
-photo: Mikhail Sachkov wearing Turbo Yulia during party in Moscow in 2017
-photographer: UnityUnity
-source: Facebook
+photo: Mikhail Sachkov wearing Turbo Yulia during Bacardi Dancefloor Main Event: Disclosure party in Moscow in 2017
+photographer: Dmitry Shumov
+source: Facebook UnityUnity
 photographerurl: https://www.facebook.com/actionunity/photos/a.2005908676123891/2005910156123743/?type=3&theater
 sourceurl: https://www.facebook.com/actionunity/photos/a.2005908676123891/2005910156123743/?type=3&theater
 founder: of IIIYM, 4S4R and Super duet brands
