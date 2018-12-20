@@ -11,7 +11,7 @@ givenname: Goyol
 familyname:
 othername: Goyol Fashion Festival
 venue: Blue Sky Tower
-founder: Founder
+founder: 
 origin: a Mongolian
 profession: fashion event in Ulaanbaatar
 photo: Mongolian model Irina Pantaeva will take part in the festival "Goyol"
