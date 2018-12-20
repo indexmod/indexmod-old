@@ -16,8 +16,8 @@ profession: multimedia artist working and living in Moscow
 photo: Mikhail Sachkov wearing Turbo Yulia during Bacardi Dancefloor Main Event: Disclosure party in Moscow in 2017
 photographer: Dmitry Shumov
 source: Facebook UnityUnity
-photographerurl: https://www.facebook.com/actionunity/photos/a.2005908676123891/2005910156123743/?type=3&theater
-sourceurl: https://www.facebook.com/actionunity/photos/a.2005908676123891/2005910156123743/?type=3&theater
+photographerurl: https://www.facebook.com
+sourceurl: https://www.facebook.com
 founder: of IIIYM, 4S4R and Super duet brands
 shortname: SACHKOV
 facebook: 107
