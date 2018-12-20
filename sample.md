@@ -31,6 +31,8 @@ soundcloud: 0
 pinterest: 0
 ---
 
+## About
+
 Since it’s foundation, Sample held 5 auctions, 3 exhibitions, participated in the massive Moscow “Night of Museums 2018» action and sold more than 500 works of 50 artists. Sample has become a project that represents a community of young artists from around the world and people, who are interested in contemporary art and actively interacting with it.
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
