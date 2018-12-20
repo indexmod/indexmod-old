@@ -16,8 +16,8 @@ profession: multimedia artist working and living in Moscow
 photo: Mikhail Sachkov wearing Turbo Yulia during Bacardi Dancefloor Main Event: Disclosure party in Moscow in 2017
 photographer: Dmitry Shumov
 source: Facebook UnityUnity
-photographerurl: https://www.facebook.com
-sourceurl: https://www.facebook.com
+photographerurl:
+sourceurl:
 founder: of IIIYM, 4S4R and Super duet brands
 shortname: SACHKOV
 facebook: 107
@@ -29,6 +29,7 @@ tumblr: 0
 vkontakte: 37
 soundcloud: 127
 ---
+
 ## About
 
 Founder of creative association "Super duet", co-founder and art director in 4S4R, one of the first Russian artists began to work in the genre of fashion film, living and working in Moscow.
