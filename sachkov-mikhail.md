@@ -54,4 +54,4 @@ Since 2017, Mikhail Sachkov works as an independent video art artist. Of the lat
 
 [[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](index)
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Orekhovgallery.com)](http://orekhovgallery.com/artist/4/)
+[[2]](#a2) <span id="f2"></span> [MS (Orekhovgallery.com)](http://orekhovgallery.com/artist/4/)
