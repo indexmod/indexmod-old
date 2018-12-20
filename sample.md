@@ -10,7 +10,7 @@ birth: 2016
 givenname: Sample
 familyname:
 othername: Sample-art.com, Online gallery & Auction
-venue: Red Square
+venue: "Triumph" gallery, "Tsvetnoy" department store
 founder: Anna Naumova, Sofya Simakova and Alexandra Lekomtseva (2018)
 origin: a Russian
 profession: online gallery & auction based in Moscow

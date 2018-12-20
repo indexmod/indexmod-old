@@ -280,7 +280,7 @@ layout: info
 
 **Mongolia**
 
-|Goyol Fashion Festival||
+|[Goyol](goyol)|GFF|
 
 
 **Nepal**
