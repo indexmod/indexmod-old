@@ -5,7 +5,7 @@ layout: default
 originlang: Eng.
 originspell: Fashion Cares
 appearing: Est.
-city: Atlanta
+city: 
 birth: 1992
 givenname: Fashion Cares
 familyname:
@@ -13,7 +13,7 @@ othername: FC
 venue:
 founder:
 origin: an international
-profession: fashion event in Canada
+profession: fashion event in ???
 photo: This is sample for image caption
 photographer: Photographer
 source: Source

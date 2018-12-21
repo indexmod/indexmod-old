@@ -83,7 +83,6 @@ layout: info
 
 |[African Fashion Week Toronto](african-fashion-week-toronto)|AFWT|
 |[Alberta Fashion Week](alberta-fashion-week)|AFW|
-|[Fashion Cares](fashion-cares)s|FC|
 |[Montréal Fashion and Design Festival](montreal-fashion-and-design-festival)|MFDF|
 |[Toronto Fashion Week](toronto-fashion-week)|TFW|
 |[TOM](tom)|TOMTMFW|

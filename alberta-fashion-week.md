@@ -38,7 +38,6 @@ The last show was for May 16–21, 2011 <span id="a2">[\[2\]](#f2)</span>
 ## See also
 
 + [African Fashion Week Toronto](african-fashion-week-toronto)
-+ [Fashion Cares](fashion-cares)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Montréal Fashion and Design Festival](montreal-fashion-and-design-festival)
 + [Tom](tom)
