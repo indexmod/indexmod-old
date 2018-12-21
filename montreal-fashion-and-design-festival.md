@@ -2,19 +2,19 @@
 title: Montréal Fashion and Design Festival
 permalink: montreal-fashion-and-design-festival
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
+originlang: Eng.
+originspell: Montréal Fashion and Design Festival
+appearing: Est.
+city: Montréal
+birth: 2000
+givenname: Montréal Fashion and Design Festival
+familyname:
+othername: MFDF
+venue:
+founder:
+origin: a national
+profession: fashion and design event in Canada
+photo:
 photographer: Photographer
 source: Source
 photographerurl: index
@@ -31,22 +31,14 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
 ## See also
 
-+ [About](index)
-+ [More](index)
++ [African Fashion Week Toronto](african-fashion-week-toronto)
++ [Alberta Fashion Week](alberta-fashion-week)
++ [Fashion Cares](fashion-cares)
++ [Tom](tom)
++ [Toronto Fashion Week](toronto-fashion-week)
++ [Vancouver Fashion Week](vancouver-fashion-week)
 
 ## Footnotes
 

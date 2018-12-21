@@ -81,11 +81,13 @@ layout: info
 
 **Canada**
 
-|Alberta Fashion Week|AFW|
-|Fashion Cares|FC|
-|Montréal Fashion and Design Festival|MFDF|
-|Toronto Fashion Week|TFW|
-|Vancouver Fashion Week|VFW|
+|[African Fashion Week Toronto](african-fashion-week-toronto)|AFWT|
+|[Alberta Fashion Week](alberta-fashion-week)|AFW|
+|[Fashion Cares](fashion-cares)s|FC|
+|[Montréal Fashion and Design Festival](montreal-fashion-and-design-festival)|MFDF|
+|[Toronto Fashion Week](toronto-fashion-week)|TFW|
+|[TOM](tom)|TOMTMFW|
+|[Vancouver Fashion Week](vancouver-fashion-week)|VFW|
 
 
 **Chile**

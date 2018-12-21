@@ -1,26 +1,25 @@
 ---
-title: Vancouver Fashion Week
-permalink: vancouver-fashion-week
+title: Tom
+permalink: tom
 layout: default
-exclude:
 originlang: Eng.
-originspell: Vancouver Fashion Week
+originspell: Tom
 appearing: Est.
-city: Vancouver
-birth:
-givenname: Vancouver Fashion Week
+city: Toronto
+birth: 2000
+givenname: Tom
 familyname:
-othername: VFW
+othername: Toronto Men's Fashion Week
 venue:
 founder:
-origin: an international
+origin: a national
 profession: fashion event in Canada
-photo:
-photographer:
-source:
+photo: This is sample for image caption
+photographer: Photographer
+source: Source
 photographerurl: index
 sourceurl: index
-shortname: VANCOUVER
+shortname: TOM
 facebook: 0
 instagram: 0
 youtube: 0
@@ -40,6 +39,7 @@ pinterest: 0
 + [Montréal Fashion and Design Festival](montreal-fashion-and-design-festival)
 + [Tom](tom)
 + [Toronto Fashion Week](toronto-fashion-week)
++ [Vancouver Fashion Week](vancouver-fashion-week)
 
 ## Footnotes
 

@@ -1,17 +1,17 @@
 ---
-title: Fashion Cares
-permalink: fashion-cares
+title: Toronto Fashion Week
+permalink: toronto-fashion-week
 layout: default
 originlang: Eng.
-originspell: Fashion Cares
+originspell: Toronto Fashion Week
 appearing: Est.
-city:
-birth:
-givenname: Fashion Cares
+city: Toronto
+birth: 2000
+givenname: Toronto Fashion Week
 familyname:
-othername: FC
-venue:
-founder:
+othername: TFW
+venue: Yorkville, Hazelton Avenue and Yorkville Avenue
+founder: Founder
 origin: an international
 profession: fashion event in Canada
 photo: This is sample for image caption
@@ -19,25 +19,29 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: FASHIONCARES
-facebook: 0
-instagram: 0
-youtube: 0
+shortname: TORONTO
+facebook: 14243
+instagram: 33000
+youtube: 33
 vimeo: 0
-twitter: 0
+twitter: 831
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
 
+## About
+
+The exclusive three-day festival will roll out in style in our chic new home in Yorkville, Toronto’s most prestigious luxury retail neighbourhood, along Hazelton Avenue and Yorkville Avenue this fall.
+
 ## See also
 
 + [African Fashion Week Toronto](african-fashion-week-toronto)
 + [Alberta Fashion Week](alberta-fashion-week)
++ [Fashion Cares](fashion-cares)
 + [Montréal Fashion and Design Festival](montreal-fashion-and-design-festival)
 + [Tom](tom)
-+ [Toronto Fashion Week](toronto-fashion-week)
 + [Vancouver Fashion Week](vancouver-fashion-week)
 
 ## Footnotes
