@@ -1,25 +1,25 @@
 ---
-title: Fashion Cares
-permalink: fashion-cares
+title: African Fashion Week Toronto
+permalink: african-fashion-week-toronto
 layout: default
 originlang: Eng.
-originspell: Fashion Cares
+originspell: African Fashion Week Toronto
 appearing: Est.
-city: Atlanta
-birth: 1992
-givenname: Fashion Cares
+city: Toronto
+birth: 2000
+givenname: African Fashion Week Toronto
 familyname:
-othername: FC
+othername: AFWT
 venue:
 founder:
 origin: an international
-profession: fashion event in Canada
+profession: fashion event in Toronto
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: FASHIONCARES
+shortname: AFWT
 facebook: 0
 instagram: 0
 youtube: 0
@@ -33,11 +33,11 @@ pinterest: 0
 
 ## See also
 
-+ [African Fashion Week Toronto](african-fashion-week-toronto)
 + [Alberta Fashion Week](alberta-fashion-week)
++ [Fashion Cares](fashion-cares)
 + [Montréal Fashion and Design Festival](montreal-fashion-and-design-festival)
-+ [Tom](tom)
 + [Toronto Fashion Week](toronto-fashion-week)
++ [Tom](tom)
 + [Vancouver Fashion Week](vancouver-fashion-week)
 
 ## Footnotes
