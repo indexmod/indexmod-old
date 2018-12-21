@@ -11,7 +11,7 @@ givenname: Mikhail
 familyname: Sachkov
 othername: Mic, Mish, Миш, flockTV!, NKNZN
 venue: Patriki
-origin: Russian
+origin: a Russian
 profession: multimedia artist working and living in Moscow
 photo: Mikhail Sachkov wearing Turbo Yulia during Bacardi Dancefloor Main Event Disclosure party in Moscow in 2017
 photographer: Dmitry Shumov
