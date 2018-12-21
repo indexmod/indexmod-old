@@ -5,20 +5,20 @@ layout: default
 originlang: Eng.
 originspell: Alberta Fashion Week
 appearing: Est.
-city: Alberta
-birth: 2000
+city: Calgary
+birth: 2009
 givenname: Alberta Fashion Week
 familyname:
 othername: AFW
-venue:
-founder:
+venue: Banke of Nova Scotia, Stephen Avenue
+founder: David R. Politi
 origin: a Canadian
-profession: fashion event
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+profession: fashion event, a bi-yearly, featuring local and national designers
+photo: Daryl a fashion designer at Nat Christie Centre for the Fashion Week Opening
+photographer: Kelsey Mulyk
+source: Avenuecalgary.com
+photographerurl: http://www.avenuecalgary.com/June-2011/Calgary-Style-Stalker-Daryl-at-the-Alberta-Fashion-Week-Opening/
+sourceurl: http://www.avenuecalgary.com/June-2011/Calgary-Style-Stalker-Daryl-at-the-Alberta-Fashion-Week-Opening/
 shortname: ALBERTA
 facebook: 0
 instagram: 0
@@ -30,6 +30,10 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
+
+## Status
+
+The last show was for May 16–21, 2011 <span id="a2">[\[2\]](#f2)</span>
 
 ## See also
 
@@ -43,4 +47,6 @@ pinterest: 0
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Calgary Style Stalker: Daryl at the Alberta Fashion Week Opening (Avenuecalgary.com)](http://www.avenuecalgary.com/June-2011/Calgary-Style-Stalker-Daryl-at-the-Alberta-Fashion-Week-Opening/)
+
+[[1]](#a1) <span id="f1"></span> [Calgary Style Stalker: Daryl at the Alberta Fashion Week Opening (Avenuecalgary.com)](http://www.avenuecalgary.com/June-2011/Calgary-Style-Stalker-Daryl-at-the-Alberta-Fashion-Week-Opening/)
