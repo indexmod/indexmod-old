@@ -13,7 +13,7 @@ othername: AFW
 venue: Banke of Nova Scotia, Stephen Avenue
 founder: David R. Politi
 origin: a Canadian
-profession: fashion event, a bi-yearly, featuring local and national designers
+profession: fashion event based in Calgary, a bi-yearly, featuring local and national designers
 photo: Daryl a fashion designer at Nat Christie Centre for the Fashion Week Opening
 photographer: Kelsey Mulyk
 source: Avenuecalgary.com
@@ -49,4 +49,4 @@ The last show was for May 16–21, 2011 <span id="a2">[\[2\]](#f2)</span>
 
 [[1]](#a1) <span id="f1"></span> [Calgary Style Stalker: Daryl at the Alberta Fashion Week Opening (Avenuecalgary.com)](http://www.avenuecalgary.com/June-2011/Calgary-Style-Stalker-Daryl-at-the-Alberta-Fashion-Week-Opening/)
 
-[[1]](#a1) <span id="f1"></span> [Calgary Style Stalker: Daryl at the Alberta Fashion Week Opening (Avenuecalgary.com)](http://www.avenuecalgary.com/June-2011/Calgary-Style-Stalker-Daryl-at-the-Alberta-Fashion-Week-Opening/)
+[[2]](#a2) <span id="f2"></span> [Alberta Fashion Week (Wikipedia.org)](https://en.wikipedia.org/wiki/Alberta_Fashion_Week)
