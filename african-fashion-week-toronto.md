@@ -6,22 +6,22 @@ originlang: Eng.
 originspell: African Fashion Week Toronto
 appearing: Est.
 city: Toronto
-birth: 2000
+birth: 2013
 givenname: African Fashion Week Toronto
 familyname:
 othername: AFWT
-venue:
+venue: The Globe and Mail Centre
 founder:
 origin: an international
 profession: fashion event in Toronto
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+photo: Models and the design team of the Adebayo Jones showcase pose in a freight elevator at the Design Exchange on August 21
+photographer: Yvano Antonio
+source: Yongemag.com
+photographerurl: https://yongemag.com/african-fashion-week-toronto-2016-ccbaf0a51d01
+sourceurl: https://yongemag.com/african-fashion-week-toronto-2016-ccbaf0a51d01
 shortname: AFWT
 facebook: 0
-instagram: 0
+instagram: 7999
 youtube: 0
 vimeo: 0
 twitter: 0
@@ -42,4 +42,4 @@ pinterest: 0
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [African Fashion Week Toronto (Nowtoronto.com)](https://nowtoronto.com/events/African-Fashion-Week-Toronto-80bf1f91/)
