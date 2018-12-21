@@ -35,6 +35,7 @@ pinterest: 0
 
 + [Alberta Fashion Week](alberta-fashion-week)
 + [Fashion Cares](fashion-cares)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Montréal Fashion and Design Festival](montreal-fashion-and-design-festival)
 + [Toronto Fashion Week](toronto-fashion-week)
 + [Tom](tom)
