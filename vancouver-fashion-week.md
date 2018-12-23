@@ -14,7 +14,7 @@ venue: Vancouver Art Gallery North Plaza
 founder: Jamal Abdourahman
 origin: an international
 profession: fashion event in Canada
-photo: VFW Protest organizers Chase and Jamie
+photo: VFW protest organizers Chase and Jamie
 photographer: Witchslapped
 source: Witchslapped.org
 photographerurl: https://www.witchslapped.org/wp-content/uploads/2015/03/vancouver-fashion-week-2015-not-our-fashion-week-protest.jpg
