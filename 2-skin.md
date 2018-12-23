@@ -11,7 +11,7 @@ givenname: 2SKIN
 familyname:
 othername: 2.s.k.i.n
 venue: On-line store
-founder: Lorena Chkadua
+founder: Loren Chkadua
 origin: a Russian
 profession: brand of temporary tattoos and accessories with worldwide shipping founded by Lorena Chkadua in 2017
 photo: Tattoos 2SKIN in collaboration with Masha Yankovskaya released a set of 9 different tattoos

@@ -47,7 +47,7 @@ pinterest: 0
 ## See also
 
 + [TsUM](index)
-+ [GUM](index)
++ [Bezous](bezous)
 
 ## Footnotes
 
