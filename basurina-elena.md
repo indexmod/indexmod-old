@@ -1,5 +1,5 @@
 ---
-title: Basurina, Elena
+title: 'Basurina, Elena'
 permalink: basurina-elena
 layout: default
 originlang: Rus.
@@ -9,13 +9,13 @@ city: Moscow
 birth: 1982
 givenname: Elena
 familyname: Basurina
-othername: Basurik, Басурик
+othername: 'Basurik, Басурик'
 venue: TsUM
-founder:
+founder: null
 origin: a Russian
-profession: visual merchandizer, cartoon artist working and living in Moscow
+profession: 'visual merchandizer, cartoon artist working and living in Moscow'
 photo: Elena in 2018
-photographer: Vacheslav Nazarchuk
+photographer: Vyacheslav Nazarchuk
 source: Facebook
 photographerurl: index
 sourceurl: index
@@ -29,6 +29,7 @@ tumblr: 0
 vkontakte: 148
 soundcloud: 0
 pinterest: 0
+published: true
 ---
 
 |![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)|![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)|
