@@ -15,7 +15,7 @@ founder:
 origin: a Russian
 profession: visual merchandizer, cartoon artist working and living in Moscow
 photo: Elena in 2018
-photographer: Vacheslav Nazarchuk
+photographer: Vyacheslav Nazarchuk
 source: Facebook
 photographerurl: index
 sourceurl: index
