@@ -31,7 +31,7 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
+|![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)|![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)|
 
 **TsUM prizes of 2016 and 2018**
 
