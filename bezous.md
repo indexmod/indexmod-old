@@ -13,7 +13,7 @@ othername: Безус
 venue: Bobrov Lane
 founder: Ruslan Bezous
 origin: a Russian
-profession: woman wear fashion brand based in Moscow founded by Omsk designer Ruslan Bezous
+profession: woman's wear fashion brand based in Moscow founded by Omsk designer Ruslan Bezous
 photo: Woman's look by Bezouse in 2011
 photographer: Cycles and Seasons by MasterCard
 source: Abolenkin.livejournal.com
