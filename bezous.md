@@ -48,6 +48,6 @@ pinterest: 0
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Vogue.ru)](https://www.vogue.ru/search/bezous/)
+[[1]](#a1) <span id="f1"></span> [На счет три. Третий сезон Cycles and Seasons by MasterCard стартует в понедельник (Vogue.ru)](https://www.vogue.ru/search/bezous/)
 
 [[2]](#a2) <span id="f2"></span> [Теневые игроки моды: кто стоит за производством одежды. Часть 1, вводная (Sncmedia.ru)](http://www.sncmedia.ru/fashion/tenevye-igroki-mody-kto-stoit-za-proizvodstvom-odezhdy-chast-1-vvodnaya/)
