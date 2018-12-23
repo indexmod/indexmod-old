@@ -9,7 +9,7 @@ city: Moscow
 birth: 2017
 givenname: 2SKIN
 familyname:
-othername: @2.s.k.i.n
+othername: 2.s.k.i.n
 venue: On-line store
 founder:
 origin: a Russian
@@ -17,8 +17,8 @@ profession: brand of temporary tattoos and accessories with worldwide shipping
 photo: Tattoos 2SKIN in collaboration with Masha Yankovskaya released a set of 9 different tattoos
 photographer: Yankovskaya х 2SKIN
 source: Mashayankovskaya.store
-photographerurl: http://mashayankovskaya.store/
-sourceurl: http://mashayankovskaya.store/
+photographerurl: http://mashayankovskaya.store
+sourceurl: http://mashayankovskaya.store
 shortname: 2SKIN
 facebook: 0
 instagram: 37700
