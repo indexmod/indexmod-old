@@ -24,11 +24,11 @@ facebook: 17178
 instagram: 15600
 youtube: 0
 vimeo: 0
-twitter: 0
+twitter: 3108
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
-pinterest: 0
+pinterest: 48
 ---
 
 ## See also
