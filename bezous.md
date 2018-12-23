@@ -30,6 +30,9 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
+## Random
+
+“But the most talented designer of all is the designer Ruslan Bezus,” says Marina Riemer, “if he were as active now as at the beginning of his career, he would have worked in Jil Sander, no less.” Ruslan - his somewhat forgotten Bezous brand was once demonstrated at Cycles & Seasons Fashion Week, confirms: “Yes, I do everything myself: I draw, cut, put on patterns” <span id="a2">[\[2\]](#f2)</span>.
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
@@ -40,8 +43,11 @@ pinterest: 0
 ## See also
 
 + [Cycles and Seasons by MasterCard](index)
++ [Marina Riemer](index)
 
 
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [(Vogue.ru)](https://www.vogue.ru/search/bezous/)
+
+[[2]](#a2) <span id="f2"></span> [Теневые игроки моды: кто стоит за производством одежды. Часть 1, вводная (Sncmedia.ru)](http://www.sncmedia.ru/fashion/tenevye-igroki-mody-kto-stoit-za-proizvodstvom-odezhdy-chast-1-vvodnaya/)
