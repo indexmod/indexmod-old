@@ -6,7 +6,7 @@ originlang: Rus.
 originspell: Елена Басурина
 appearing: Born
 city: Moscow
-birth:
+birth: 1982
 givenname: Elena
 familyname: Basurina
 othername: Basurik, Басурик
@@ -26,7 +26,7 @@ youtube: 0
 vimeo: 0
 twitter: 0
 tumblr: 0
-vkontakte: 0
+vkontakte: 148
 soundcloud: 0
 pinterest: 0
 ---
@@ -51,4 +51,4 @@ pinterest: 0
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Анализ профиля Elena Basurina ВКонтакте (Vkfaces.com)](https://vkfaces.com/vk/user/idbasurik)
