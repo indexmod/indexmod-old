@@ -46,4 +46,4 @@ The exclusive three-day festival will roll out in style in our chic new home in 
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Toronto’s fashion war (Thestar.com)](https://www.thestar.com/entertainment/2017/08/28/toronto-fashion-week-set-to-strut-its-stuff.html)

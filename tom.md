@@ -10,18 +10,18 @@ birth: 2000
 givenname: Tom
 familyname:
 othername: Toronto Men's Fashion Week
-venue:
-founder:
+venue: 1 Yonge Street Loading Dock Warehouse
+founder: Jose Jeffrey Rustia
 origin: a national
 profession: fashion event in Canada
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+photo: Jose Jeffrey Rustia a founder of Tom
+photographer: Ash Reginald, @ashreginald
+source: Thestar.com
+photographerurl: https://www.thestar.com/entertainment/2017/08/28/toronto-fashion-week-set-to-strut-its-stuff.html
+sourceurl: https://www.thestar.com/entertainment/2017/08/28/toronto-fashion-week-set-to-strut-its-stuff.html
 shortname: TOM
-facebook: 0
-instagram: 0
+facebook: 17178
+instagram: 15600
 youtube: 0
 vimeo: 0
 twitter: 0
@@ -43,4 +43,4 @@ pinterest: 0
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Toronto’s fashion war (Thestar.com)](https://www.thestar.com/entertainment/2017/08/28/toronto-fashion-week-set-to-strut-its-stuff.html)
