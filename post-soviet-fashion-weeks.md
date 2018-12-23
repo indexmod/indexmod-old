@@ -50,7 +50,7 @@ layout: info
 
 **Mongolia**
 
-|Goyol Fashion Festival|GFF|
+|[Goyol Fashion Festival](goyol)|GFF|
 
 **Russia**
 
@@ -73,7 +73,7 @@ layout: info
 **Ukraine**
 
 |Mercedes-Benz Kiev Fashion Days|MBKFD|
-|Ukrainian Fashion Week|UFW|
+|[Ukrainian Fashion Week](ukrainian-fashion-week)|UFW|
 |[Odessa Holiday Fashion Week](odessa-holiday-fashion-week)|OHFW|
 
 **Uzbekistan**
@@ -82,22 +82,24 @@ layout: info
 |Uzbekistan Fashion Week|TFW|
 
 
-## Weeks compare
+## Weeks age compare
 
-|City|Index|Location|Est.|Brands|Operator|
-|-|-|-|-|-|-|
-|Yerevan|PPY|MAH|2004|7|AFC|
-|Odessa|OHFW||2006|30|FWUA|
-|Tashkent|AWSU|YIS|2007||FFU|
-|Lviv|LVFW|SE|2009|45|LVFW|
-|Tbilisi|TBFW|RBIH|2009|14|TFW|
-|Tbilisi|GFW|SRNAT|2009|14|GFG|
-|Kiev|MBKFD|NSCO|2010|32|MB|
-|Minsk|BFWBM|BFWBM|2010|48|MRK|
-|Baku|BFW|Unknown|2010|0|PHC|
-|Riga|RGFW||2011|0|BFF|
-|Vilnius|Mados infekcija|Contemporary Art Centre|1994|48 (2018)|Contemporary Art Centre|
-|Almaty|KZFW|AT|2011|5|MBF|
+|City|Est.|
+|-|-|
+|[Mados infekcija](mados-infekcija)|1994|
+|[Erevan Fashion Week](yerevan-fashion-week)|2004|
+|[Odessa Holiday Fashion Week](odessa-holiday-fashion-week)|2006|
+|Tashkent|2007|
+|Lviv|2009|
+|Tbilisi|2009|
+|[Mercedes-Benz Fashion Week Tbilisi](mercedes-benz-fashion-week-tbilisi)|??|
+|[Azerbaijan Fashion Week](azerbaijan-fashion-week)|??|
+|Baku|2010|
+|[Ukrainian Fashion Week](ukrainian-fashion-week)|2010|
+|[Belorussian Fashion Week](belorussian-fashion-week)|2010|
+|Almaty|2011|
+|[Kazakhstan Fashion Week Astana](kazakhstan-fashion-week-astana)|??|
+|Riga|2011|
 
 ## See also
 

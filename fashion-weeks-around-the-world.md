@@ -235,28 +235,28 @@ layout: info
 
 **Indonesia**
 
-|[Indonesia Fashion Week](indonesia-fashion-week)||
-|Jakarta Fashion Week||
-|Plaza Indonesia's Men Fashion Week||
-|Surabaya Fashion Parade||
-|Bandung Fashion Week||
-|Jember Fashion Carnaval||
-|Bali Fashion Trend||
-|Jogja Fashion Week||
-|Jakarta Modest Fashion Week||
-|Jakarta Hijab Fashion Week Femme||
-|Celebes Beauty Fashion Week||
+|[Indonesia Fashion Week](indonesia-fashion-week)|IFW|
+|Jakarta Fashion Week|JFW|
+|Plaza Indonesia's Men Fashion Week|PIMFW|
+|Surabaya Fashion Parade|SFP|
+|Bandung Fashion Week|BFW|
+|Jember Fashion Carnaval|JFC|
+|Bali Fashion Trend|BFT|
+|Jogja Fashion Week|JFW|
+|Jakarta Modest Fashion Week|JFW|
+|Jakarta Hijab Fashion Week Femme|JHFW|
+|Celebes Beauty Fashion Week|SBFW|
 
 
 **Iran**
 
-|Iran Fashion Week||
-|[Tehran Fashion Week](tehran-fashion-week)||
+|Iran Fashion Week|IFW|
+|[Tehran Fashion Week](tehran-fashion-week)|TFW|
 
 
 **Israel**
 
-|Tel Aviv Fashion Week||
+|Tel Aviv Fashion Week|TAFW|
 
 
 **Japan**
@@ -274,7 +274,7 @@ layout: info
 
 **Malaysia**
 
-|Kuala Lumpur Fashion Week||
+|Kuala Lumpur Fashion Week|KLFW|
 |Malaysian International Fashion Alliance (MIFA)||
 |Asia Islamic Fashion Week 2017 (AIFW 2017)||
 
@@ -286,67 +286,67 @@ layout: info
 
 **Nepal**
 
-|CHIC Fashion Show||
-|Model Hunt Nepal||
-|Nepal Fashion Week||
-|[The Himalayan Times TGIF Nepal Fashion Week](himalayan-times-tgif-nepal-fashion-week-the)||
-|The Show||
-|Voyage of creation||
+|CHIC Fashion Show|CFS|
+|Model Hunt Nepal|MHN|
+|Nepal Fashion Week|NFW|
+|[The Himalayan Times TGIF Nepal Fashion Week](himalayan-times-tgif-nepal-fashion-week-the)|THTFW|
+|The Show|TS|
+|Voyage of creation|VC|
 
 
 **Pakistan**
 
-|Pakistan Fashion Week||
-|Islamabad Fashion Week||
-|Karachi Fashion Week||
-|Lahore Fashion Week||
-|Peshawar Fashion Week||
-|PFDC Sunsilk Fashion Week||
-|Media Box Fashion Week||
+|Pakistan Fashion Week|PFW|
+|Islamabad Fashion Week|IFW|
+|Karachi Fashion Week|KFW|
+|Lahore Fashion Week|LFW|
+|Peshawar Fashion Week|PFW|
+|PFDC Sunsilk Fashion Week|SFW|
+|Media Box Fashion Week|MBFW|
 
 
 **Philippines**
 
-|Philippine Fashion Week||
-|Manila Fashion Festival||
-|Mega Fashion Week||
-|Stylefest Ph||
-|Philippine Fashion Gala||
-|Bench Fashion Week||
+|Philippine Fashion Week|PFW|
+|Manila Fashion Festival|MFF|
+|Mega Fashion Week|MFW|
+|Stylefest Ph|SP|
+|Philippine Fashion Gala|PWG|
+|Bench Fashion Week|BFW|
 
 
 **Qatar**
 
-|Doha Fashion Week**
+|Doha Fashion Week|DFW|
 
 
 **Russia**
 
-|Novosibirsk Fashion Week||
-|Yekaterinburg Ural Fashion Week||
+|Novosibirsk Fashion Week|NFW|
+|Yekaterinburg Ural Fashion Week|EUFW|
 
 **Singapore**
 
-|Asia Fashion Exchange||
-|Asia Style Collection||
-|Fide Fashion Weeks||
-|Men's Fashion Week||
-|Singapore Fashion Festival||
-|Singapore Fashion Week||
+|Asia Fashion Exchange|AFE|
+|Asia Style Collection|ASC|
+|Fide Fashion Weeks|FFW|
+|Men's Fashion Week|MFW|
+|Singapore Fashion Festival|SFF|
+|Singapore Fashion Week|SFW|
 
 
 **South Korea**
 
-|Busan Fashion Week||
-|Daegu Fashion Fair (Week)||
-|Preview in Daegu||
-|Seoul Fashion Week||
-|Seoul Girls Collection||
+|Busan Fashion Week|BFW|
+|Daegu Fashion Fair (Week)|DFFW|
+|Preview in Daegu|PD|
+|Seoul Fashion Week|SFW|
+|Seoul Girls Collection|SGC|
 
 
 **Sri Lanka**
 
-|Colombo Fashion Week||
+|Colombo Fashion Week|CFW|
 
 
 **Thailand**
@@ -356,68 +356,68 @@ layout: info
 
 **Turkey**
 
-|Ankara Fashion Week||
-|[Istanbul Fashion Week](istanbul-fashion-week)||
-|[Mercedes-Benz Fashion Week Istanbul](mercedes-benz-fashion-week-istanbul)||
+|Ankara Fashion Week|AFW|
+|[Istanbul Fashion Week](istanbul-fashion-week)|IFW|
+|[Mercedes-Benz Fashion Week Istanbul](mercedes-benz-fashion-week-istanbul)|MBFWI|
 
 
 **United Arab Emirates**
 
-|Arab Fashion Week||
+|Arab Fashion Week|AFW|
 
 
 **Vietnam**
 
-|Vietnam International Fashion Week||
+|Vietnam International Fashion Week|VIFW|
 
 ## Europe
 
 **Austria**
 
-|[Viena Fashion Week](viena-fashion-week)||
+|Viena Fashion Week|VFF|
 
 **Azerbaijan**
 
-|[Azerbaijan Fashion Week](azerbaijan-fashion-week)||
-|[Baku Fashion Week](baku-fashion-week)||
+|[Azerbaijan Fashion Week](azerbaijan-fashion-week)|AFW|
+|[Baku Fashion Week](baku-fashion-week)|BFW|
 
 **Belarus**
 
-|[Belorussian Fashion Week](belorussian-fashion-week)||
+|[Belorussian Fashion Week](belorussian-fashion-week)|BFW|
 
 
 **Belgium**
 
-|Antwerp Fashion Show||
-|Brussels Fashion Week||
+|Antwerp Fashion Show|AFS|
+|Brussels Fashion Week|BFW|
 
 
 **Bulgaria**
 
-|Sofia Fashion Week Couture||
-|[Sofia Fashion Week](sofia-fashion-week)||
-|Kids Fashion Week||
-|Men's Fashion Week Plovdiv||
-|Plovdiv Fashion Week Prêt-à-Porter||
-|Bridal Fashion Week Plovdiv||
-|Dance Fashion Week Burgas||
-|Lingerie & Swimwear Fashion Week Varna||
+|Sofia Fashion Week Couture|SFWC|
+|[Sofia Fashion Week](sofia-fashion-week)|SFW|
+|Kids Fashion Week|KFW|
+|Men's Fashion Week Plovdiv|MFWP|
+|Plovdiv Fashion Week Prêt-à-Porter|PFWP|
+|Bridal Fashion Week Plovdiv|BFWP|
+|Dance Fashion Week Burgas|DFWB|
+|Lingerie & Swimwear Fashion Week Varna|LSFWV|
 
 
 **Czech Republic**
 
-|Prague Fashion Week||
+|Prague Fashion Week|PFW|
 
 
 **Croatia**
 
-|Zagreb Fashion Week||
+|Zagreb Fashion Week|ZFW|
 
 
 **Denmark**
 
-|[Copenhagen Fashion Week](copenhagen-fashion-week)||
-|Gallery Int Fashion Fair||
+|[Copenhagen Fashion Week](copenhagen-fashion-week)|CFW|
+|Gallery Int Fashion Fair|GIFF|
 
 **Estonia**
 
@@ -425,33 +425,33 @@ layout: info
 
 **Finland**
 
-|Helsinki Fashion Week||
+|Helsinki Fashion Week|HFW|
 
 
 **France**
 
 |Africa Fashion Week Paris|AFWP|
-|Bordeaux Fashion Week||
-|Elite Model Look||
-|Cannes-Nice Fashion Week||
-|Bal des débutantes||
-|Paris Fashion Week (capital)||
-|Men's Fashion Week||
-|Lille Fashion Week||
-|Lyon Fashion Week (FashionCity Show)||
-|Marseille Fashion Week||
-|Nantes Fashion Week||
-|Rennes Fashion Week||
-|Toulouse Fashion Week||
-|Strasbourg Fashion Week (EM Fashion Week)||
-|St. Tropez Fashion Week||
+|Bordeaux Fashion Week|BFW|
+|Elite Model Look|EML|
+|Cannes-Nice Fashion Week|CNFW|
+|Bal des débutantes|BD|
+|Paris Fashion Week|PFW|
+|Men's Fashion Week|MFW|
+|Lille Fashion Week|LFW|
+|Lyon Fashion Week (FashionCity Show)|LFW|
+|Marseille Fashion Week|MFW|
+|Nantes Fashion Week|NFW|
+|Rennes Fashion Week|RFW|
+|Toulouse Fashion Week|TFW|
+|Strasbourg Fashion Week (EM Fashion Week)|SFW|
+|St. Tropez Fashion Week|SFW|
 
 
 **Georgia**
 
-|[Adjara Fashion Week](adjara-fashion-week)||
-|[Mercedes-Benz Fashion Week Tbilisi](mercedes-benz-fashion-week-tbilisi)||
-|Tbilisi Fashion Week||
+|[Adjara Fashion Week](adjara-fashion-week)|AFW|
+|[Mercedes-Benz Fashion Week Tbilisi](mercedes-benz-fashion-week-tbilisi)|MBFWT|
+|Tbilisi Fashion Week|TFW|
 
 
 **Germany**
@@ -560,10 +560,10 @@ layout: info
 
 **Russia**
 
-|Nizhny Fashion Week||
-|Mercedes-Benz Fashion Week Russia||
-|St. Petersburg Fashion Week||
-|Volvo Moscow Fashion Week||
+|Nizhny Fashion Week|NFW|
+|Mercedes-Benz Fashion Week Russia|MBFWR|
+|St. Petersburg Fashion Week|SPFW|
+|Volvo Moscow Fashion Week|VMFW|
 
 **Serbia**
 
