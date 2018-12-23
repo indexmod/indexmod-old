@@ -31,6 +31,12 @@ soundcloud: 0
 pinterest: 48
 ---
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**A founder of Toronto Men's Fashion Week Tom Jose Rustia**
+
+*Photo: [R. S. Kane Funeral Home](https://rskane.ca/tribute/details/10815/Jose-Rustia/photos.html) / [Rskane.ca](https://rskane.ca/tribute/details/10815/Jose-Rustia/photos.html)*
+
 ## See also
 
 + [African Fashion Week Toronto](african-fashion-week-toronto)

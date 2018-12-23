@@ -14,11 +14,11 @@ venue: Yorkville, Hazelton Avenue and Yorkville Avenue
 founder: Founder
 origin: an international
 profession: fashion event in Canada
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+photo: A model wears a creation by Korhani during Toronto Fashion Week on March 12, 2012
+photographer: George Pimentel
+source: Windsorstar.com
+photographerurl: http://www.windsorstar.com/life/fashionshows/Photos+Korhani+Toronto+Fashion+Week+Fall+2012/6301009/story.html
+sourceurl: http://www.windsorstar.com/life/fashionshows/Photos+Korhani+Toronto+Fashion+Week+Fall+2012/6301009/story.html
 shortname: TORONTO
 facebook: 14243
 instagram: 33000
@@ -34,6 +34,12 @@ pinterest: 0
 ## About
 
 The exclusive three-day festival will roll out in style in our chic new home in Yorkville, Toronto’s most prestigious luxury retail neighbourhood, along Hazelton Avenue and Yorkville Avenue this fall.
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**A model in Korhani at Toronto Fashion Week in 2012**
+
+*Photo: [George Pimentel](http://www.windsorstar.com/life/fashionshows/Photos+Korhani+Toronto+Fashion+Week+Fall+2012/6301009/story.html) / [Windsorstar.com](http://www.windsorstar.com/life/fashionshows/Photos+Korhani+Toronto+Fashion+Week+Fall+2012/6301009/story.html)*
 
 ## See also
 
