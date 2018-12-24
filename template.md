@@ -16,7 +16,7 @@ founder: Founder
 origin: a / an Russian
 profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Photographer
+photographer: Unknown author
 source: Source
 photographerurl: index
 sourceurl: index
@@ -32,11 +32,19 @@ soundcloud: 0
 pinterest: 0
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+indexmod.gq/edit
+-->
+
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Image caption**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Unknown author](index) / [Source](index)*
 
 ## Сonspectus
 
