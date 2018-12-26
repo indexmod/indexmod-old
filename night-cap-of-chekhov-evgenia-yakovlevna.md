@@ -9,7 +9,7 @@ city: Melikhovo
 birth: 1919
 givenname: Night cap of Chekhov Evgenia Yakovlevna
 familyname:
-othername: Ночной чепчик жены Чехова
+othername: Ночной чепчик матери Чехова
 venue: Melikhovo
 founder: Museum-Reserve A.P. Chekhov "Melikhovo"
 origin: Russia,
