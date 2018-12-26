@@ -6,21 +6,21 @@ originlang: Rus.
 originspell: Ночной чепчик Евгении Яковлевны Чеховой
 appearing: Use.
 city: Melikhovo
-birth: 1899
+birth: 1919
 givenname: Night cap of Chekhov Evgenia Yakovlevna
 familyname:
 othername: Ночной чепчик жены Чехова
 venue: Melikhovo
-founder: Founder
-origin:
-profession: The memorial item was transferred to the Melikhov Museum of Yalta in 1957, and before that more than half a century was carefully kept by Maria Pavlovna
+founder: Museum-Reserve A.P. Chekhov "Melikhovo"
+origin: Russia,
+profession: the memorial item was transferred to the Melikhov Museum of Yalta in 1957, and before that more than half a century was carefully kept by Maria Pavlovna
 photo: Night cap of Chekhov Evgenia Yakovlevna
 photographer: Unknown author
 source: Source
 photographerurl: index
 sourceurl: index
 shortname: NCCEY
-facebook: 0
+facebook: 6836
 instagram: 0
 youtube: 0
 vimeo: 0
@@ -58,4 +58,4 @@ The cap is made of thin white cambric, decorated with a double frill with narrow
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Chekhov (Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Chekhov Museum  (Facebook)](https://www.facebook.com/chekhovmuseum/)
