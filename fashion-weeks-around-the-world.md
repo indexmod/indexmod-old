@@ -15,7 +15,7 @@ layout: info
 
 **Cote d'Ivoire**
 
-|Cote d'Ivoire Fashion Week|CFW|
+|[Cote d'Ivoire Fashion Week](cote-d-ivoire-fashion-week)|CFW|
 
 
 **Egypt**
