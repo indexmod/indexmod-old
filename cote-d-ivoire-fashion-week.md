@@ -5,7 +5,7 @@ layout: default
 originlang: Fr.
 originspell: Semaine de la mode en Côte d'Ivoire
 appearing: Est.
-city: Yamoussoukro
+city:
 birth: 2011
 givenname: Cote d’Ivoire Fashion Week
 familyname:
@@ -14,10 +14,10 @@ venue:
 founder: WFO
 origin: an Ivorian
 profession: fashion event founded by WFO
-photo: This is sample for image caption
-photographer: Photographer
+photo: AGOA Fashion Week
+photographer: Unknown
 source: Source
-photographerurl: index
+photographerurl: https://twitter.com/ivorianfashion
 sourceurl: index
 shortname: COTE D’IVOIRE
 facebook: 6710
