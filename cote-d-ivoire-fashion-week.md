@@ -20,7 +20,7 @@ source: Source
 photographerurl: index
 sourceurl: index
 shortname: COTE D’IVOIRE
-facebook: 0
+facebook: 6710
 instagram: 0
 youtube: 0
 vimeo: 0
@@ -30,6 +30,13 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
+
+Ivory Coast Fashion Week is a platform of promotion of the creativity of Ivorian Fashion industry and textile actors (Fashion Designers, Stylists, Models, traditional textile craftsmen, Hairdressers, Make-up artists, Choreographers, Fashion Photographers, etc.) as well as companies products and services.
+
+All these craftsmen with their creative genius gave a Fashion cultural identity to Ivory Coast as Abidjan (economic capital of the country) is considered as the Regional Fashion Capital in West Africa.
+
+Ivory Coast Fashion Week is also the platform of selection of Ivorian fashion industry actors who will represent the country at World Fashion Week and World Fashion Awards.
+
 
 ## See also
 
