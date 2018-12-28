@@ -40,8 +40,7 @@ Ivory Coast Fashion Week is also the platform of selection of Ivorian fashion in
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 
 ## Footnotes
 
