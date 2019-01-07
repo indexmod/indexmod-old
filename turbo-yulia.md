@@ -5,7 +5,7 @@ layout: default
 originlang: Rus.
 originspell: Турбо Юлия
 appearing: Est.
-city: Moscow
+city: Saint Petersburg
 birth: 2010
 givenname: Turbo Yulia
 familyname:
