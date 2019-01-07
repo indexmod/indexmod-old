@@ -2,7 +2,7 @@
 title: São Paulo Fashion Week
 permalink: sao-paulo-fashion-week
 layout: default
-originlang: Esp.
+originlang: Por.
 originspell: Semana da Moda de São Paulo
 appearing: Est.
 city: São Paulo
