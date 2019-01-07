@@ -39,8 +39,11 @@ A trade show held semi-annually in São Paulo. It is notable as “Latin America
 
 ## See also
 
-+ [Santiago Fashion Week](santiago-fashion-week)
++ [Chile Fashion Week](chile-fashion-week)
 + [Itaú MoWeek](itau-moweek)
++ [Santiago Fashion Week](santiago-fashion-week)
++ [Santa Fe Fashion Week](santa-fe-fashion-week)
++ [LIF Fashion Week (Lima)](lif-fashion-week-lima)
 
 ## Footnotes
 

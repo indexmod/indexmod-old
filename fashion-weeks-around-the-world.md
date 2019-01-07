@@ -178,8 +178,8 @@ layout: info
 
 **Uruguay**
 
+|[Itaú MoWeek](itau-moweek)|IMOW|
 |Montevideo Fashion Week|MFW|
-
 
 **Venezuela**
 
