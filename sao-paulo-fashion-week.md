@@ -21,10 +21,10 @@ photographerurl: index
 sourceurl: index
 shortname: SÃOPAULO
 facebook: 0
-instagram: 0
+instagram: 348000
 youtube: 0
 vimeo: 0
-twitter: 0
+twitter: 522000
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
