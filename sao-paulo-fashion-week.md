@@ -19,7 +19,7 @@ photographer: Agência Fotosite
 source: Facebook.com
 photographerurl: https://www.facebook.com/SPFW/photos/a.2383698141658553/2383698301658537/?type=3&theater
 sourceurl: https://www.facebook.com/SPFW/photos/a.2383698141658553/2383698301658537/?type=3&theater
-shortname: SÃOPAULO
+shortname: SPFW
 facebook: 617839
 instagram: 348000
 youtube: 0
