@@ -12,8 +12,8 @@ familyname:
 othername: LFW
 venue: 180 Strand
 founder: British Fashion Council
-origin: a British
-profession: fashion event in London
+origin: a international
+profession: fashion event in UK
 photo: Arsenal defender Hector Bellerin strikes a pose in Covent Garden at London Fashion Week
 photographer: Poli Alexeeva
 source: Dailymail.co.uk
