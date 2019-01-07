@@ -48,4 +48,4 @@ Following London Fashion Week each season, the 4-day London Fashion Week Festiva
 
 [[1]](#a1) <span id="f1"></span> [Hector Bellerin takes in London Fashion Week catwalk show while wearing another eye-catching outfit (Dailymail.co.uk)](https://www.dailymail.co.uk/sport/football/article-6563563/Hector-Bellerin-takes-London-Fashion-Week-catwalk-wearing-eye-catching-outfit.html)
 
-[[2]](#a2) <span id="f2"></span> [LFW (Wikipedia.org)](https://en.wikipedia.org/wiki/London_Fashion_Week)
+[[2, 3]](#a2) <span id="f2"></span> [LFW (Wikipedia.org)](https://en.wikipedia.org/wiki/London_Fashion_Week)
