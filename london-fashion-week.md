@@ -33,15 +33,15 @@ pinterest: 28000
 
 ## London Fashion Week Men's
 
-In Summer 2012, London introduced London Collections: Men, in addition to the collections shows in spring / summer and autumn / winter. Since its first instalment, the showcase has grown by 67% and included 77 separate designers in June 2015.[11] London Collections: Men was renamed from the Autumn/Winter 2017 season as London Fashion Week Men's, to help better reflect the growing consumer focus of the event.[12]
+In Summer 2012, London introduced London Collections: Men, in addition to the collections shows in spring / summer and autumn / winter. Since its first instalment, the showcase has grown by 67% and included 77 separate designers in June 2015. London Collections: Men was renamed from the Autumn/Winter 2017 season as London Fashion Week Men's, to help better reflect the growing consumer focus of the event <span id="a2">[\[2\]](#f2)</span>.
 
 ## London Fashion Week Festival
 
-Following London Fashion Week each season, the 4-day London Fashion Week Festival (LFWF), formerly known as London Fashion Weekend, offers a consumer-orientated fashion week experience. Held at The Store Studios, 180 The Strand, LFWF allows consumers to shop a curated edit of designer collections at show exclusive prices, sit front row at catwalk shows by London Fashion Week designers, get a head start on the key trends of the coming season and listen to talks by industry experts <span id="a2">[\[2\]](#f2)</span>.
+Following London Fashion Week each season, the 4-day London Fashion Week Festival (LFWF), formerly known as London Fashion Weekend, offers a consumer-orientated fashion week experience. Held at The Store Studios, 180 The Strand, LFWF allows consumers to shop a curated edit of designer collections at show exclusive prices, sit front row at catwalk shows by London Fashion Week designers, get a head start on the key trends of the coming season and listen to talks by industry experts <span id="a2">[\[3\]](#f2)</span>.
 
 ## See also
 
-+ [Turbo Yulia](index)
++ [Turbo Yulia](turbo-yulia)
 + [London Fashion Week Festival](index)
 
 ## Footnotes
