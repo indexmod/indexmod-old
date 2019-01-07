@@ -48,3 +48,6 @@ A trade show held semi-annually in São Paulo. It is notable as “Latin America
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [SPFW (Facebook)](https://www.facebook.com/SPFW/photos/a.2383698141658553/2383698301658537/?type=3&theater)
+
+
+DDDDDDD
