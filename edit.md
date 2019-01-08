@@ -6,6 +6,13 @@ exclude: true
 published: true
 ---
 
+
+`Participation is possible in two ways: through the comments section (a) and (b) directly editing.
+
+(A) Your comments will not go unnoticed. All comments are reviewed and then included in the articles.
+
+(B) For direct editing, click on the appropriate link on the page to the interface of the visual editor. Minimum knowledge of Markdown, Proce.io and GitHub will be  required`
+
 ## Link to Editor
 
 Edit any page following under-underlined **Edit** link on top of every page, you will be redirected to Prose.io editor. Warning: to save  changes you may need authorize as [GitHub](https://github.com/join) user.
