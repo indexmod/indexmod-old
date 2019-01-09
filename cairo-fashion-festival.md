@@ -46,21 +46,11 @@ pinterest: 0
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Cairo Fashion Festival](cairo-fashion-festival)
++ [Cairo Couture Collections](cairo-couture-collections)
++ [Cairo Fashion Week](cairo-fashion-week)
++ [La Mode A Beyrouth - Cairo](mode-a-beyrouth-cairo-la)
 
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
-
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Source name)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)

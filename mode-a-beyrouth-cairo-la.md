@@ -2,7 +2,7 @@
 title: Mode A Beyrouth Cairo, La
 permalink: mode-a-beyrouth-cairo-la
 layout: default
-originlang: Rus. / Eng.
+originlang: Eg.
 originspell: Original spell
 appearing: Updated / Est. / Born
 city: Moscow
@@ -19,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: M BEYROUTH CAIRO
+shortname: BEYROUTH
 facebook: 0
 instagram: 0
 youtube: 0
@@ -46,8 +46,10 @@ pinterest: 0
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Cairo Fashion Festival](cairo-fashion-festival)
++ [Cairo Couture Collections](cairo-couture-collections)
++ [Cairo Fashion Week](cairo-fashion-week)
++ [La Mode A Beyrouth - Cairo](mode-a-beyrouth-cairo-la)
 
 ## Footnotes
 

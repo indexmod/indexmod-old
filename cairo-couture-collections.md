@@ -1,12 +1,12 @@
 ---
-title: cairo-couture-collections
+title: Cairo Couture Collections
 permalink: cairo-couture-collections
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
+originlang: Eg.
+originspell: مجموعات القاهرة للأزياء الراقية
 appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
+city: Cairo
+birth: 2000
 givenname: Given name
 familyname: Family name
 othername: Other name
@@ -19,8 +19,8 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: cairo-couture-collections
-facebook: 0
+shortname: CCC
+facebook: 20022
 instagram: 0
 youtube: 0
 vimeo: 0
@@ -31,36 +31,13 @@ soundcloud: 0
 pinterest: 0
 ---
 
-
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Cairo Fashion Festival](cairo-fashion-festival)
++ [Cairo Couture Collections](cairo-couture-collections)
++ [Cairo Fashion Week](cairo-fashion-week)
++ [La Mode A Beyrouth - Cairo](mode-a-beyrouth-cairo-la)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
-
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Source name)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[1]](#a1) <span id="f1"></span> [Cairo Couture Collections (Facebook)](https://www.facebook.com/cairocouturecollections/)

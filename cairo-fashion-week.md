@@ -1,12 +1,12 @@
 ---
-title: cairo-fashion-week
+title: Cairo Fashion Week
 permalink: cairo-fashion-week
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
+originlang: Eg.
+originspell: أسبوع الموضة في القاهرة
+appearing: Est.
+city: Cairo
+birth: 2001
 givenname: Given name
 familyname: Family name
 othername: Other name
@@ -19,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: cairo-fashion-week
+shortname: CAIRO
 facebook: 0
 instagram: 0
 youtube: 0
@@ -46,8 +46,10 @@ pinterest: 0
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Cairo Fashion Festival](cairo-fashion-festival)
++ [Cairo Couture Collections](cairo-couture-collections)
++ [Cairo Fashion Week](cairo-fashion-week)
++ [La Mode A Beyrouth - Cairo](mode-a-beyrouth-cairo-la)
 
 ## Footnotes
 
