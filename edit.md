@@ -3,7 +3,6 @@ title: How to edit
 permalink: edit
 layout: info
 exclude: true
-published: true
 ---
 
 
