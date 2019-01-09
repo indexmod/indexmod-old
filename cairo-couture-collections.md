@@ -12,7 +12,7 @@ familyname: Family name
 othername: Other name
 venue: Red Square
 founder: Founder
-origin: a / an Russian
+origin: a / an international
 profession: writer based in Europe
 photo: This is sample for image caption
 photographer: Photographer
@@ -34,9 +34,9 @@ pinterest: 0
 ## See also
 
 + [Cairo Fashion Festival](cairo-fashion-festival)
-+ [Cairo Couture Collections](cairo-couture-collections)
 + [Cairo Fashion Week](cairo-fashion-week)
 + [La Mode A Beyrouth - Cairo](mode-a-beyrouth-cairo-la)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 
 ## Footnotes
 

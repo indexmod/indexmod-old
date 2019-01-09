@@ -2,17 +2,17 @@
 title: Mode A Beyrouth Cairo, La
 permalink: mode-a-beyrouth-cairo-la
 layout: default
-originlang: Eg.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
+originlang: Fr.
+originspell: La Mode A Beyrouth Cairo
+appearing: Est.
+city: Cairo
 birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
+givenname: La Mode A Beyrouth Cairo
+familyname:
+othername: BEYROUTH
+venue: Beyrouth
+founder: Beyrouth
+origin: a / an international
 profession: writer based in Europe
 photo: This is sample for image caption
 photographer: Photographer
@@ -31,25 +31,12 @@ soundcloud: 0
 pinterest: 0
 ---
 
-
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
 ## See also
 
 + [Cairo Fashion Festival](cairo-fashion-festival)
 + [Cairo Couture Collections](cairo-couture-collections)
 + [Cairo Fashion Week](cairo-fashion-week)
-+ [La Mode A Beyrouth - Cairo](mode-a-beyrouth-cairo-la)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 
 ## Footnotes
 
