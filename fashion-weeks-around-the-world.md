@@ -20,10 +20,10 @@ layout: info
 
 **Egypt**
 
-|Cairo Fashion Festival|CFF|
-|Cairo Couture Collections|CCC|
-|Cairo Fashion Week|CFW|
-|La Mode A Beyrouth - Cairo|LMDBC|
+|[Cairo Fashion Festival(cairo-fashion-festival)]|CFF|
+|[Cairo Couture Collections(cairo-couture-collections)]|CCC|
+|[Cairo Fashion Week](cairo-fashion-week)|CFW|
+|[La Mode A Beyrouth - Cairo](mode-a-beyrouth-cairo-la)|LMDBC|
 
 
 **Kenya**

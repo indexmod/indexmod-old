@@ -1,26 +1,25 @@
 ---
-title: cairo-fashion-festival
+title: Cairo Fashion Festival
 permalink: cairo-fashion-festival
 layout: default
-exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+originlang: Eg.
+originspell: مهرجان كايرو فاشون
+appearing: Est.
+city: Cairo
+birth: 2012
+givenname: Cairo Fashion Festival
+familyname:
+othername: CFF
+venue: Cairo Festival City Mall
+founder: Cairo Festival City Mall
+origin: a national
+profession: fashion event in Cairo
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: cairo-fashion-festival
+shortname: CFF
 facebook: 0
 instagram: 0
 youtube: 0

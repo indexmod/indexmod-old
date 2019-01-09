@@ -2,7 +2,6 @@
 title: cairo-couture-collections
 permalink: cairo-couture-collections
 layout: default
-exclude: true
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
