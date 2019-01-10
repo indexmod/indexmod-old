@@ -2,23 +2,23 @@
 title: Cairo Couture Collections
 permalink: cairo-couture-collections
 layout: default
-originlang: Eg.
+originlang: Ar.
 originspell: مجموعات القاهرة للأزياء الراقية
-appearing: Updated / Est. / Born
+appearing: Est.
 city: Cairo
-birth: 2000
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an international
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+birth: 2015
+givenname: Cairo Couture Collections
+familyname:
+othername: Fashion Zone Cairo Couture Collections
+venue: Central El-Mokattam St.
+founder: FZ
+origin: a 
+profession: fashion event in Egypt
+photo: Sheikha Hend of House of Hend — one of the participating brands of Fashion Zone Cairo Couture Collections in 2015
+photographer: FZCCC
+source: Facebook
+photographerurl: https://www.facebook.com/pg/cairocouturecollections/photos/?ref=page_internal
+sourceurl: https://www.facebook.com/pg/cairocouturecollections/photos/?ref=page_internal
 shortname: CCC
 facebook: 20022
 instagram: 0
