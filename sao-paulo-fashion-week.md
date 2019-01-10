@@ -13,8 +13,8 @@ othername: SPFW
 venue: Farol Santander
 founder: Brilliance Group, Luminosidade, LUMI 5
 origin: an international
-profession: fashion event in Brasilia
-photo: Água De Coco Brasil
+profession: fashion event in Brazil
+photo: Água De Coco Brazil
 photographer: Agência Fotosite
 source: Facebook.com
 photographerurl: https://www.facebook.com/SPFW/photos/a.2383698141658553/2383698301658537/?type=3&theater
