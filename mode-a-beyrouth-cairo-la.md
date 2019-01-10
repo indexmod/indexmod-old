@@ -6,10 +6,10 @@ originlang: Fr.
 originspell: La Mode A Beyrouth Cairo
 appearing: Est.
 city: Cairo
-birth: 2018
+birth: 2016
 givenname: La Mode A Beyrouth Cairo
 familyname:
-othername: MABC
+othername: MBC
 venue: Fairmont Heliopolis
 founder: Multi Art
 origin: an international
@@ -35,7 +35,7 @@ After going through all the elements pertaining to the Mega Fashion week that we
 
 La Mode A Beyrouth – Cairo is a Unique fashion week that is held bi-annually in Cairo-Egypt, where participants are Arabs, Egyptians and International designers.
 
-Multi-Art Group have franchised LMAB-Cairo on February 9, 2016 and it is now entitled to be the largest and most popular consumer fashion event in the country attracting around 10,000 people across a 5-day event. The next edition will take place on the 8th – 12th of May, 2017 at Fairmont Heliopolis. Moreover, creating a platform across the Egyptian fashion industry to promote the Cairo Young Fashion Designer Competition (CYFDC).
+Multi-Art Group have franchised LMAB-Cairo on February 9, 2016 <span id="a2">[\[2\]](#f2)</span> and it is now entitled to be the largest and most popular consumer fashion event in the country attracting around 10,000 people across a 5-day event. The next edition will take place on the 8th – 12th of May, 2017 at Fairmont Heliopolis. Moreover, creating a platform across the Egyptian fashion industry to promote the Cairo Young Fashion Designer Competition (CYFDC).
 
 ## See also
 
@@ -47,3 +47,5 @@ Multi-Art Group have franchised LMAB-Cairo on February 9, 2016 and it is now ent
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [et Fashion Designer of the Week: Christine Massarany (Egypttoday.com)](http://www.egypttoday.com/Article/6/27764/et-Fashion-Designer-of-the-Week-Christine-Massarany)
+
+[[2]](#a2) <span id="f2"></span> [Lmabfashionweek.com (Archive.org)](https://web.archive.org/web/20160406083215/http://www.lmabfashionweek.com:80/)
