@@ -55,7 +55,7 @@ One of CFW major strategic goals is to provide qualified prospective entrepreneu
 CFW Business Program serves as a one-stop trade fashion show knowledge base to help you fully benefit from all aspects of event participation and achieve enviable results from your work. Our trade fashion show represents a significant opportunity to enhance brand and product visibility, promote new and existing products, generate leads and drive incremental sales.
 
 
-##CFW Training Program
+## CFW Training Program
 
 Through its Training Program the unique structure of CFW offers a "bouquet" of programs and courses at the hands of selected premier international and national lecturers. Training will be provided by local Experts in the apparel, fashion design, costume, and retail, textiles, merchandising, and management industries.
 
