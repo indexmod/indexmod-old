@@ -16,7 +16,7 @@ origin: a Russian
 profession: fashion editor based in Moscow
 photo: Julia Vydolob in 2018
 photographer: Leonid Sorokin
-source: Source
+source: Instagram.com
 photographerurl: https://www.instagram.com/p/BlbNRcrHZ88/
 sourceurl: https://www.instagram.com/p/BlbNRcrHZ88/
 shortname: VYDOLOB
