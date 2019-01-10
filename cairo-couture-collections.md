@@ -1,27 +1,26 @@
 ---
-title: cairo-couture-collections
+title: Cairo Couture Collections
 permalink: cairo-couture-collections
 layout: default
-exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
-shortname: cairo-couture-collections
-facebook: 0
+originlang: Ar.
+originspell: مجموعات القاهرة للأزياء الراقية
+appearing: Est.
+city: Cairo
+birth: 2015
+givenname: Cairo Couture Collections
+familyname:
+othername: Fashion Zone Cairo Couture Collections
+venue: Central El-Mokattam St.
+founder: FZ
+origin: a 
+profession: fashion event in Egypt
+photo: Sheikha Hend of House of Hend — one of the participating brands of Fashion Zone Cairo Couture Collections in 2015
+photographer: FZCCC
+source: Facebook
+photographerurl: https://www.facebook.com/pg/cairocouturecollections/photos/?ref=page_internal
+sourceurl: https://www.facebook.com/pg/cairocouturecollections/photos/?ref=page_internal
+shortname: CCC
+facebook: 20022
 instagram: 0
 youtube: 0
 vimeo: 0
@@ -32,36 +31,13 @@ soundcloud: 0
 pinterest: 0
 ---
 
-
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Cairo Fashion Festival](cairo-fashion-festival)
++ [Cairo Fashion Week](cairo-fashion-week)
++ [La Mode A Beyrouth - Cairo](mode-a-beyrouth-cairo-la)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
-
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Source name)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[1]](#a1) <span id="f1"></span> [Cairo Couture Collections (Facebook)](https://www.facebook.com/cairocouturecollections/)

@@ -1,67 +1,45 @@
 ---
-title: cairo-fashion-festival
+title: Cairo Fashion Festival
 permalink: cairo-fashion-festival
 layout: default
-exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
-shortname: cairo-fashion-festival
-facebook: 0
-instagram: 0
-youtube: 0
+originlang: Ar.
+originspell: مهرجان كايرو فاشون
+appearing: Est.
+city: Cairo
+birth: 2012
+givenname: Cairo Fashion Festival
+familyname:
+othername: CFF
+venue: Cairo Festival City Mall
+founder: Cairo Festival City Mall, Nada Mohamed
+origin: a local and international
+profession: fashion event in Cairo, a seasonal event created for the sole purpose of promoting local/international emerging fashion designers
+photo: Cairo fashionista at the opening of the store  of the Egyptian brand Montu by Cairo Fashion Festival CFF Agency in 2018
+photographer: CFF
+source: Facebook
+photographerurl: https://www.facebook.com/pg/CairoFashionFestival/photos/?tab=album&album_id=1943889072395563
+sourceurl: https://www.facebook.com/pg/CairoFashionFestival/photos/?tab=album&album_id=1943889072395563
+shortname: CFF
+facebook: 65771
+instagram: 88900
+youtube: 160
 vimeo: 0
-twitter: 0
+twitter: 1397
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
 
-
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+Seasonal fashion platform for local, Middle East, African designers and international retailers. Est. 2012
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Cairo Couture Collections](cairo-couture-collections)
++ [Cairo Fashion Week](cairo-fashion-week)
++ [La Mode A Beyrouth - Cairo](mode-a-beyrouth-cairo-la)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
-
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Source name)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[1]](#a1) <span id="f1"></span> [The connection That Matter (Egypttoday.com)](http://www.egypttoday.com/Article/15/61828/The-connection-That-Matter)
