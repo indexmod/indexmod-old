@@ -1,5 +1,5 @@
 ---
-title: Vydolob, Julia
+title: 'Vydolob, Julia'
 permalink: vydolob-julia
 layout: default
 originlang: Rus.
@@ -17,8 +17,8 @@ profession: fashion editor based in Moscow
 photo: Julia Vydolob in 2018
 photographer: Leonid Sorokin
 source: Instagram.com
-photographerurl: https://www.instagram.com/p/BlbNRcrHZ88/
-sourceurl: https://www.instagram.com/p/BlbNRcrHZ88/
+photographerurl: 'https://www.instagram.com/p/BlbNRcrHZ88/'
+sourceurl: 'https://www.instagram.com/p/BlbNRcrHZ88/'
 shortname: VYDOLOB
 facebook: 1281
 instagram: 1731
@@ -29,6 +29,7 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 275
+published: true
 ---
 
 <!---
@@ -39,7 +40,7 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
-Mrs. Vydolob graduated from the philological faculty of Moscow State University, worked as a journalist and editor in the “Afisha” and on the website afisha.ru, in Look At Me, wrote texts for Vogue magazines, Harper’s Bazaar, Mir, Port, The Business of Fashion.
+Mrs. Vydolob graduated from the philological faculty of Moscow State University, worked as a journalist and editor in the “Afisha” and on the website afisha.ru, in Look At Me, wrote texts for Vogue, Harper’s Bazaar, Mir, Port, The Business of Fashion magazines.
 
 ## See also
 

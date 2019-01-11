@@ -8,17 +8,19 @@ appearing: Est.
 city: Kiev
 birth: 1997
 givenname: Ukrainian Fashion Week
-familyname:
+familyname: null
 othername: UFW
-venue: Margaritka, Arsenal
-founder: UFW
+venue: 'Margaritka, Arsenal'
+founder: Irina Danilevska
 origin: an international
-profession: fashion events in Kiev, and Odessa as Odessa Holiday Fashion Week
+profession: 'fashion events in Kiev, and Odessa as Odessa Holiday Fashion Week'
 photo: A contributor of the UFW Jardin Exotique from SS 2019
 photographer: UFW
 source: Vogue.ua
-photographerurl: https://vogue.ua/ua/article/fashion/brend/obyavleny-daty-novogo-sezona-ukrainian-fashion-week.html
-sourceurl: https://vogue.ua/ua/article/fashion/brend/obyavleny-daty-novogo-sezona-ukrainian-fashion-week.html
+photographerurl: >-
+  https://vogue.ua/ua/article/fashion/brend/obyavleny-daty-novogo-sezona-ukrainian-fashion-week.html
+sourceurl: >-
+  https://vogue.ua/ua/article/fashion/brend/obyavleny-daty-novogo-sezona-ukrainian-fashion-week.html
 shortname: UKRAINE
 facebook: 29451
 instagram: 30900
@@ -29,6 +31,7 @@ tumblr: 0
 vkontakte: 10775
 soundcloud: 0
 pinterest: 0
+published: true
 ---
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
