@@ -2,25 +2,25 @@
 title: 'Delvey, Anna'
 permalink: delvey-anna
 layout: default
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+originspell: Анна Делви
+appearing: Born
+city: Unknown (Russia)
+birth: 1991
+givenname: Anna
+familyname: Sorokina
+othername: Анна Сорокина
+venue: Rikers Island
+founder: Anna Delvey Foundation
+origin: is a dauter of Russian immigrants from Colone suburbs
+profession: founder of the Anna Delvey Foundation
+photo: Anna Delvey
+photographer: Sergio Corvacho
+source: The Cut
+photographerurl: https://www.thecut.com/2018/05/how-anna-delvey-tricked-new-york.html
+sourceurl: https://www.thecut.com/2018/05/how-anna-delvey-tricked-new-york.html
 shortname: DELVEY
 facebook: 0
-instagram: 0
+instagram: 52900
 youtube: 0
 vimeo: 0
 twitter: 0
@@ -30,13 +30,11 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Rus. Анна Делви, also Анна Сорокина {{ page.birth }}, {{ page.city }}) is a dauter of Russian immigrants from Colone suburbs, founder of the {{ page.founderof }} in NYC <span id="a1">[\[1\]](#f1)</span>, posing as a thoroughbred German woman, described by New York Magazine online supplement The Cut as "wannabe socialite busted for skipping out on pricey hotel bills", who was arrested in Malibu in the summer of 2017 and charged with six charges as thefts and their attempts. Since October 2017, Anna Delvey (Sorokina) awaits trial in Rikers Prison on the eponymous island near New York <span id="a2">[\[2\]](#f2)</span>.
+Is a dauter of Russian immigrants from Colone suburbs, founder of the Anna Delvey Foundation in NYC, posing as a thoroughbred German woman, described by New York Magazine online supplement The Cut as "wannabe socialite busted for skipping out on pricey hotel bills", who was arrested in Malibu in the summer of 2017 and charged with six charges as thefts and their attempts. Since October 2017, Anna Delvey (Sorokina) awaits trial in Rikers Prison on the eponymous island near New York <span id="a2">[\[2\]](#f2)</span>.
 
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+## Rikers Island
 
-**Anna Delvey**
-
-*Photo: [Sergio Corvacho](corvacho-sergio) / [The Cut](https://www.thecut.com/2018/05/how-anna-delvey-tricked-new-york.html)*
+A drawing by artist Salvador Dalí, done as an apology because he was unable to attend a talk about art for the prisoners at Rikers Island, hung in the inmate dining room in J.A.T.C. (HDM) from 1965 to 1981, when it was moved to the prison lobby in E.M.T.C. (C76) for safekeeping. The drawing was stolen in March 2003 and replaced with a fake; three Correction Officers and an Assistant Deputy Warden were arrested and charged, and though the three later pleaded guilty and one was acquitted, the drawing has not been recovered (Wikipedia, Rikers Island).
 
 ## See also
 
