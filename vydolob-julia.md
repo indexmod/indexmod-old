@@ -46,7 +46,7 @@ Mrs. Vydolob graduated from the philological faculty of Moscow State University,
 
 + [Pavel Vardishvili](vardishvili-pavel)
 + [Philipp Mironov](mironov-philipp)
-
++ [Maria Pudan](pudan-maria)
 
 ## Footnotes
 
