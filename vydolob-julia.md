@@ -11,7 +11,7 @@ givenname: Julia
 familyname: Vydolob
 othername: Юлия Выдолоб
 venue: The Blueprint
-founder: of The Blueprint
+founder: null
 origin: a Russian
 profession: fashion editor based in Moscow
 photo: Julia Vydolob in 2018
