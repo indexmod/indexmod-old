@@ -15,7 +15,7 @@ founder: Fashion Syndicate St. Petersburg, Nikita Kondrushenko
 origin: an international
 profession: fashion event in St. Petersburg
 photo: Nikita Kondrushenko called one of the founders of the St. Petersburg glamor
-photographer: Fashion Syndicate St.Petersburg
+photographer: Fashion Syndicate St. Petersburg
 source: Fashionsyndicate.ru
 photographerurl: http://fashionsyndicate.ru/about
 sourceurl: http://fashionsyndicate.ru/about
