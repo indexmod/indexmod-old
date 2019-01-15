@@ -3,6 +3,7 @@ title: 'Delvey, Anna'
 permalink: delvey-anna
 layout: default
 originspell: Анна Делви
+originlang: Rus.
 appearing: Born
 city: Unknown (Russia)
 birth: 1991
@@ -30,7 +31,22 @@ soundcloud: 0
 pinterest: 0
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+indexmod.gq/edit
+-->
+
 Is a dauter of Russian immigrants from Colone suburbs, founder of the Anna Delvey Foundation in NYC, posing as a thoroughbred German woman, described by New York Magazine online supplement The Cut as "wannabe socialite busted for skipping out on pricey hotel bills", who was arrested in Malibu in the summer of 2017 and charged with six charges as thefts and their attempts. Since October 2017, Anna Delvey (Sorokina) awaits trial in Rikers Prison on the eponymous island near New York <span id="a2">[\[2\]](#f2)</span>.
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Anna Delvey (Sorokina)**
+
+*Photo: [Dave Kotinsky](https://www.thecut.com/2018/06/anna-delvey-posts-instagram-from-rikers-island.html?fbclid=IwAR18oiZrMU2C_KKYY96IrvJZ6CFw5_xyBSaYlWaSkZfvUVLtJ7DZu6YMJQM) / [Getty Images](https://www.thecut.com/2018/06/anna-delvey-posts-instagram-from-rikers-island.html?fbclid=IwAR18oiZrMU2C_KKYY96IrvJZ6CFw5_xyBSaYlWaSkZfvUVLtJ7DZu6YMJQM)*
+
 
 ## Rikers Island
 
