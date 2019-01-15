@@ -3,7 +3,7 @@ title: St. Petersburg Fashion Week
 permalink: st-petersburg-fashion-week
 layout: default
 originlang: Rus.
-originspell: Неделя моды в Санкт-Петербурга
+originspell: Неделя моды в Санкт-Петербурге
 appearing: Est.
 city: St. Petersburg
 birth: 2011
@@ -19,7 +19,7 @@ photographer: Fashion Syndicate St.Petersburg
 source: Fashionsyndicate.ru
 photographerurl: http://fashionsyndicate.ru/about
 sourceurl: http://fashionsyndicate.ru/about
-shortname: ST. PETERSBURG
+shortname: SPBFW
 facebook: 12690
 instagram: 11300
 youtube: 7900
