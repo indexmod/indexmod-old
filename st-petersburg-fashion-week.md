@@ -2,33 +2,33 @@
 title: St. Petersburg Fashion Week
 permalink: st-petersburg-fashion-week
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+originlang: Rus.
+originspell: Неделя моды в Санкт-Петербурга
+appearing: Est.
+city: St. Petersburg
+birth: 2011
+givenname: St. Petersburg Fashion Week
+familyname:
+othername: SPBFW
+venue: The New Stage of the Alexandrinsky Theatre
+founder: Fashion Syndicate St. Petersburg, Nikita Kondrushenko
+origin: an international
+profession: fashion event in St. Petersburg
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
 shortname: ST. PETERSBURG
-facebook: 0
-instagram: 0
-youtube: 0
+facebook: 12690
+instagram: 11300
+youtube: 7900
 vimeo: 0
-twitter: 0
+twitter: 6783
 tumblr: 0
-vkontakte: 0
+vkontakte: 37834
 soundcloud: 0
-pinterest: 0
+pinterest: 963
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
@@ -59,15 +59,9 @@ pinterest: 0
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
++ [Post-soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[3]](#a3) <span id="f3"></span> [Неделя моды St. Petersburg fashion week стартует в Петербурге (Prclub.spb.ru)](http://prclub.spb.ru/2018/10/18/st-petersburg-fashion-week/)

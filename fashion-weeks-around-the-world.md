@@ -562,7 +562,7 @@ layout: info
 
 |Nizhny Fashion Week|NFW|
 |Mercedes-Benz Fashion Week Russia|MBFWR|
-|St. Petersburg Fashion Week|SPFW|
+|[St. Petersburg Fashion Week](st-petersburg-fashion-week)|SPFW|
 |Volvo Moscow Fashion Week|VMFW|
 
 **Serbia**

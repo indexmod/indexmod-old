@@ -59,7 +59,7 @@ layout: info
 |Yekaterinburg Ural Fashion Week|YUFW|
 |Russia Fashion Week|RFW|
 |Mercedes-Benz Fashion Week Russia|MBFWR|
-|St. Petersburg Fashion Week|SPBFW|
+|[St. Petersburg Fashion Week](st-petersburg-fashion-week)|SPFW|
 |Volvo Moscow Fashion Week|VMFW|
 
 **Tadzhikistan**
