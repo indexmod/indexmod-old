@@ -12,7 +12,7 @@ familyname: Sorokina
 othername: Анна Сорокина
 venue: Rikers Island
 founder: Anna Delvey Foundation
-origin: is a dauter of Russian immigrants from Colone suburbs
+origin: a dauter of Russian immigrants from Colone suburbs
 profession: founder of the Anna Delvey Foundation
 photo: Anna Delvey
 photographer: Sergio Corvacho
