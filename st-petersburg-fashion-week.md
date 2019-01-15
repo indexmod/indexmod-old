@@ -31,32 +31,6 @@ soundcloud: 0
 pinterest: 963
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
-
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Image**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-## Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
-
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
@@ -64,4 +38,4 @@ pinterest: 963
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [Неделя моды St. Petersburg fashion week стартует в Петербурге (Prclub.spb.ru)](http://prclub.spb.ru/2018/10/18/st-petersburg-fashion-week/)
+[[1]](#a1) <span id="f1"></span> [Неделя моды St. Petersburg fashion week стартует в Петербурге (Prclub.spb.ru)](http://prclub.spb.ru/2018/10/18/st-petersburg-fashion-week/)
