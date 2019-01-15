@@ -14,11 +14,11 @@ venue: The New Stage of the Alexandrinsky Theatre
 founder: Fashion Syndicate St. Petersburg, Nikita Kondrushenko
 origin: an international
 profession: fashion event in St. Petersburg
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+photo: Nikita Kondrushenko called one of the founders of the St. Petersburg glamor
+photographer: Fashion Syndicate St.Petersburg
+source: Fashionsyndicate.ru
+photographerurl: http://fashionsyndicate.ru/about
+sourceurl: http://fashionsyndicate.ru/about
 shortname: ST. PETERSBURG
 facebook: 12690
 instagram: 11300
