@@ -14,11 +14,11 @@ venue: LFW, Agency Eleven
 founder: Xander Zhou
 origin: a Chinese fashion designer
 profession: living and working in London
-photo: **The look Nr. 14 from the SS 19 Xander Zhou show at Oval Space in London**
+photo: The look Nr. 14 from the SS 19 Xander Zhou show at Oval Space in London
 photographer: Edward Japp, Jack Webber, Chuck Blue Lowry
 source: Instagram.com
-photographerurl: https://www.instagram.com/p/Bsn7Qw_BRmk/
-sourceurl: https://www.instagram.com/p/Bsn7Qw_BRmk/
+photographerurl: https://www.instagram.com/p/Bsn7Qw_BRmk
+sourceurl: https://www.instagram.com/p/Bsn7Qw_BRmk
 shortname: ZHOU
 facebook: 0
 instagram: 98900
@@ -28,7 +28,7 @@ twitter: 75
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
-pinterest: 0
+pinterest: 22
 weibo: 2038612
 ---
 
