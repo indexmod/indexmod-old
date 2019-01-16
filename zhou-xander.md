@@ -65,4 +65,4 @@ The designer has successfully established a cult fan base domestically and inter
 
 [[1]](#a1) <span id="f1"></span> [Xander Zhou (Weibo.com)](https://www.weibo.com/xanderzhou?nick=XanderZhou&is_hot=1)
 
-[[2]](#a2) <span id="f2"></span> [(Xander Zhou Businessoffashion.com)](https://www.businessoffashion.com/community/people/xander-zhou-1)
+[[2]](#a2) <span id="f2"></span> [Xander Zhou (Businessoffashion.com)](https://www.businessoffashion.com/community/people/xander-zhou-1)
