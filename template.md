@@ -30,6 +30,7 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
+weibo: 0
 ---
 
 <!---
