@@ -23,8 +23,8 @@ shortname: ZHOU
 facebook: 0
 instagram: 98900
 youtube: 0
-vimeo: 0
-twitter: 0
+vimeo: 5
+twitter: 75
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
