@@ -48,7 +48,7 @@ indexmod.gq/edit
 
 ## Stuff
 
-|Year|City|Year|
+|Name|Position|Year|
 |-|-|
 |Bayo Haastrup|Creative Director|2018|
 |Adewale Yusuf|Project Manager|2018|
