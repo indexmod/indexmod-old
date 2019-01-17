@@ -14,7 +14,7 @@ venue: Calle La Puntilla
 founder: Founder
 origin: a Puerto-Rican
 profession: fashion event in San Juan
-photo: Look from the “Sunset” collection by Leonardo Fifth Avenue at San Juan Moda SS 2019
+photo: Look from the “Sunset” collection by Leonardo Fifth Avenue at San Juan Moda SS 2019 (fragment)
 photographer: Alvin Rafael Couto de Jesús
 source: Facebook.com
 photographerurl: https://www.instagram.com/alvinrcouto/
@@ -32,6 +32,11 @@ pinterest: 0
 weibo: 0
 ---
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Look from the “Sunset” collection by Leonardo Fifth Avenue at San Juan Moda SS 2019**
+
+*Photo: [Alvin Rafael Couto de Jesús](https://www.instagram.com/alvinrcouto/) / [Facebook](https://www.facebook.com/SanJuanModaPR/photos/pb.461835303904733.-2207520000.1547644825./2027261360695445/?type=3&theater)*
 
 ## See also
 
