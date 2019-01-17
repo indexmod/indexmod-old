@@ -13,8 +13,8 @@ othername:
 venue: Amazon Fashion Week
 founder: Ksenia and Anton Schnaider
 origin: an Ukrainian fashion brand
-profession: founded Ksenia and Anton Schnaider based in Kiev
-photo: Asymmetrical Jeans Ksenia Schnaider $375
+profession: founded by Ksenia and Anton Schnaider based in Kiev
+photo: Asymmetrical Jeans by Ksenia Schnaider SS 2019, $375
 photographer: Ksenia Schnaider
 source: Kseniaschnaider.com
 photographerurl: https://www.kseniaschnaider.com/products/asymmetrical-jeans
@@ -40,9 +40,9 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
-## Stockists world
+## Stockists
 
-|Year|City|
+||Quantity|
 |-|-|
 |Countries|21|
 |Stores|75|
