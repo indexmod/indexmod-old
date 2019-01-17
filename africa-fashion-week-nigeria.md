@@ -24,7 +24,7 @@ facebook: 18116
 instagram: 0
 youtube: 0
 vimeo: 0
-twitter: 0
+twitter: 3775
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
@@ -78,7 +78,7 @@ Africa Fashion week Nigeria a social enterprise that provides a platform to help
 
 ## See also
 
-+ [Nigeria’s Next Top Designer](index)
++ [Nigeria’s Next Top Designer](nigeria-s-next-top-designer)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Ptichka](ptichka)
 
