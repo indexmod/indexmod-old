@@ -14,14 +14,14 @@ venue: The Lagoon, Ozumba Mbadiwe, Victoria Island
 founder: Ronke Ademiluyi
 origin: a national
 profession: fashion event in Nigeria founded by Ronke Ademiluyi base at Lagos
-photo: This is sample for image caption
-photographer: Unknown author
-source: Source
-photographerurl: index
-sourceurl: index
+photo: Look by Andrea Iyamah
+photographer: AFWN, Andrea Iyamah
+source: Facebook.com
+photographerurl: https://www.facebook.com/Africafashionweeknigeria/photos/a.565953823424401/2336723993014033/?type=3&theater
+sourceurl: https://www.facebook.com/Africafashionweeknigeria/photos/a.565953823424401/2336723993014033/?type=3&theater
 shortname: AFWN
 facebook: 18116
-instagram: 0
+instagram: 9976
 youtube: 0
 vimeo: 0
 twitter: 3775
@@ -42,9 +42,9 @@ indexmod.gq/edit
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Fashion Brand Rikaoto By Me is the proudly Nigerian, proudly African brand owned by stupendously gorgeous, ex-beauty queen from Kebbi State by name, Mariam Elisha**
 
-*Photo: [Unknown author](index) / [Source](index)*
+*Photo: [Unknown author](https://www.facebook.com/Africafashionweeknigeria/photos/a.565953823424401/2299671513385948/?type=3&theater) / [Facebook.com](https://www.facebook.com/Africafashionweeknigeria/photos/a.565953823424401/2299671513385948/?type=3&theater)*
 
 ## Stuff
 
@@ -76,6 +76,12 @@ The AFWN team believe that for creativity to grow, there needs to be a platform 
 
 Africa Fashion week Nigeria a social enterprise that provides a platform to help promote Nigerian brands through worldwide visibility and distribution and manufacturing. The AFWN team focus on empowerment, creating jobs and supporting education and skills training in fashion.
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Fashion Designer Erenti was established out of the aspiration to discover a distinctive approach to showcase African class and elegance through modern, urban apparel and accessories. The brand aims to establish its position in the Men’s African Fashion industry both Lagos and London**
+
+*Photo: [Unknown author](https://www.facebook.com/Africafashionweeknigeria/photos/a.565953823424401/2299669600052806/?type=3&theater) / [Facebook.com](https://www.facebook.com/Africafashionweeknigeria/photos/a.565953823424401/2299669600052806/?type=3&theater)*
+
 ## See also
 
 + [Nigeria’s Next Top Designer](nigeria-s-next-top-designer)
@@ -84,4 +90,4 @@ Africa Fashion week Nigeria a social enterprise that provides a platform to help
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Africa Fashion Week Nigeria welcomes over 300 models for casting (Pulse.ng)](https://www.pulse.ng/lifestyle/fashion/afwn-2018-africa-fashion-week-nigeria-welcomes-over-300-models-for-casting/jmtt3yj)
