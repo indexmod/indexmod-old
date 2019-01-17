@@ -76,7 +76,7 @@ The AFWN team believe that for creativity to grow, there needs to be a platform 
 
 Africa Fashion week Nigeria a social enterprise that provides a platform to help promote Nigerian brands through worldwide visibility and distribution and manufacturing. The AFWN team focus on empowerment, creating jobs and supporting education and skills training in fashion.
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
 **Fashion Designer Erenti was established out of the aspiration to discover a distinctive approach to showcase African class and elegance through modern, urban apparel and accessories. The brand aims to establish its position in the Men’s African Fashion industry both Lagos and London**
 
