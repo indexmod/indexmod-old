@@ -1,3 +1,44 @@
+---
+title: Ptichka
+permalink: ptichka
+layout: default
+originlang: Rus.
+originspell: Птичка
+appearing: Est.
+city: Moscow
+birth: 2017
+givenname: Ptichka
+familyname:
+othername: PTCHK
+venue:
+founder: Founder
+origin: an Russian
+profession: online delivery generator
+photo: This is sample for image caption
+photographer: Unknown author
+source: Source
+photographerurl: index
+sourceurl: index
+shortname: PTICHKA
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 0
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
+weibo: 0
+---
+
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+indexmod.gq/edit
+-->
 
 (設立	2017年, モスクワ) サービスはUberの原則に取り組んでモスクワで宅配便を呼び出します <span id="a1">[\[1\]](#f1)</span>。
 

@@ -38,6 +38,7 @@ layout: info
 
 **Nigeria**
 
+|[Africa Fashion Week Nigeria](africa-fashion-week-nigeria)|AFWN|
 |Hayati Fashion Week|HFW|
 |Lagos Fashion Week|LFW|
 |Port Harcourt International Fashion Week|PHIFW|
