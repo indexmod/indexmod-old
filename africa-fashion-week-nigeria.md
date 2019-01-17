@@ -13,7 +13,7 @@ othername: Fashion Week Nigeria, Nigerian Fashion Week
 venue: The Lagoon, Ozumba Mbadiwe, Victoria Island
 founder: Ronke Ademiluyi
 origin: a national
-profession: fashion event in Nigeria founded by Ronke Ademiluyi base at Lagos
+profession: fashion event in Nigeria founded by Ronke Ademiluyi based at Lagos
 photo: Look by Andrea Iyamah
 photographer: AFWN, Andrea Iyamah
 source: Facebook.com
