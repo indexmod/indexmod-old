@@ -13,7 +13,7 @@ othername:
 venue: Amazon Fashion Week
 founder: Ksenia and Anton Schnaider
 origin: an Ukrainian fashion brand
-profession: founded by Ksenia and Anton Schnaider based in Kiev
+profession: founded by Ksenia and Anton Schnaider based in Kiev, who has won over the world after the invention of demi-denims and asymmetrical jeans
 photo: Asymmetrical Jeans by Ksenia Schnaider SS 2019, $375
 photographer: Ksenia Schnaider
 source: Kseniaschnaider.com
@@ -47,7 +47,7 @@ indexmod.gq/edit
 |Countries|21|
 |Stores|75|
 
-The designer family duo, Ksenia and Anton Schnaider, began their brand story in 2011. The masterminds behind the brand are constantly working hand in hand- creating fashion pieces combining reworked materials, perfect cut, Eastern European cultural quotes and spicing it up with some innovative digital concepts. Spending days on experimenting, and finally created the perfect trend- “demi-denims” taking the fashion world by storm since 2016, and becoming a hit amongst A-list celebrities. Ksenia Schnaider brand is available worldwide in more than 70 stores, such as on Shopbop, Selfridges and etc <span id="a3">[\[3\]](#f3)</span>.
+The designer family duo, Ksenia and Anton Schnaider, began their brand story in 2011. The masterminds behind the brand are constantly working hand in hand-creating fashion pieces combining reworked materials, perfect cut, Eastern European cultural quotes and spicing it up with some innovative digital concepts. Spending days on experimenting, and finally created the perfect trend- “demi-denims” taking the fashion world by storm since 2016, and becoming a hit amongst A-list celebrities. Ksenia Schnaider brand is available worldwide in more than 70 stores, such as on Shopbop, Selfridges and etc <span id="a3">[\[3\]](#f3)</span>.
 
 ## See also
 
