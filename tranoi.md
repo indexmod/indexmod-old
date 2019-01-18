@@ -42,7 +42,7 @@ indexmod.gq/edit
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Russian designer Svetlana Tegin at stage of the Tranoï venue in 2018**
+**Russian designer Svetlana Tegin at the entrance stairs of the Tranoï venue in 2018**
 
 *Photo: [Unknown author](https://www.facebook.com/svetlana.tegin/videos/pcb.10213009366621267/10213009365701244/?type=3&theater) / [Facebook.com](https://www.facebook.com/svetlana.tegin/videos/pcb.10213009366621267/10213009365701244/?type=3&theater)*
 
