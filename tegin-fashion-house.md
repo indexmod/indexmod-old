@@ -64,6 +64,7 @@ Haute couture and prêt-à-porter wear for woman and kids and fashion house foun
 ## See also
 
 + [Goyol](goyol)
++ [Tranoï](tranoi)
 + [Tegin Atelier](tegin-atelier)
 + [Svetlana Tegin](tegin-svetlana)
 

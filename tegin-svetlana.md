@@ -37,6 +37,7 @@ Svetlana is often called as “the queen of cashmere” due to collections that 
 
 ## See also
 
++ [Tranoï](tranoi)
 + [Tegin Atelier](tegin-atelier)
 + [Tegin Fashion House](tegin-fashion-house)
 
