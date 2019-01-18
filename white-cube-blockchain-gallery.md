@@ -12,13 +12,13 @@ familyname:
 othername: WCBG
 venue: Red Square
 founder: Denis Semenov
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
+origin: a Russian
+profession: art Gallery based in Moscow
+photo: Denis Semenov, the founder of the White Cube Blockchain Gallery in 2017
 photographer: Unknown author
-source: Source
-photographerurl: index
-sourceurl: index
+source: Facebook
+photographerurl: https://www.facebook.com/photo.php?fbid=1425465670845687&set=a.255066451218954&type=3&theater
+sourceurl: https://www.facebook.com/photo.php?fbid=1425465670845687&set=a.255066451218954&type=3&theater
 shortname: WCBG
 facebook: 708
 instagram: 0
@@ -40,18 +40,6 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Unknown author](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
@@ -59,4 +47,4 @@ indexmod.gq/edit
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [WCBG (Archive.org)](https://web.archive.org/web/*/http://wcbg.tilda.ws)
