@@ -46,11 +46,11 @@ indexmod.gq/edit
 
 *Photo: [Unknown author](https://www.facebook.com/svetlana.tegin/videos/pcb.10213009366621267/10213009365701244/?type=3&theater) / [Facebook.com](https://www.facebook.com/svetlana.tegin/videos/pcb.10213009366621267/10213009365701244/?type=3&theater)*
 
-Four times a year during Paris Fashion Week, the TRANOÏ fashion trade show takes place in prestigious venues and establishes a relationship between creativity and business.
+Four times a year during Paris Fashion Week, the Tranoï fashion trade show takes place in prestigious venues and establishes a relationship between creativity and business.
 ​
-TRANOÏ, which means “between us” in Italian, is an artistic platform that gathers and curates the very best of avant-garde and emerging designers as well as contemporary and leading brands, and puts them in the hands of the most influential players in the fashion industry.
+Tranoï, which means “between us” in Italian, is an artistic platform that gathers and curates the very best of avant-garde and emerging designers as well as contemporary and leading brands, and puts them in the hands of the most influential players in the fashion industry.
 ​
-More than a commercial gathering, TRANOÏ features artistic installations, runway shows, parties and an array of events which inspire dreams and desires that are inherent to fashion <span id="a2">[\[2\]](#f2)</span>.
+More than a commercial gathering, Tranoï features artistic installations, runway shows, parties and an array of events which inspire dreams and desires that are inherent to fashion <span id="a2">[\[2\]](#f2)</span>.
 
 ## See also
 
