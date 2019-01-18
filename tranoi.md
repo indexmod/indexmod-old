@@ -13,7 +13,7 @@ othername: Tra Noi
 venue: 22 Place du General Catroux
 founder: Mr. David Hadida, Tranoi SAS., a public limited company
 origin: an international
-profession: Paris-based fashion trade show, biggest in Europe
+profession: Paris-based fashion trade show
 photo: Armand Hadida, the founder of Tranoï
 photographer: BOF
 source: Fashionnetwork.com
@@ -50,13 +50,7 @@ Four times a year during Paris Fashion Week, the TRANOÏ fashion trade show take
 ​
 TRANOÏ, which means “between us” in Italian, is an artistic platform that gathers and curates the very best of avant-garde and emerging designers as well as contemporary and leading brands, and puts them in the hands of the most influential players in the fashion industry.
 ​
-More than a commercial gathering, TRANOÏ features artistic installations, runway shows, parties and an array of events which inspire dreams and desires that are inherent to fashion.
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+More than a commercial gathering, TRANOÏ features artistic installations, runway shows, parties and an array of events which inspire dreams and desires that are inherent to fashion <span id="a2">[\[2\]](#f2)</span>.
 
 ## See also
 
@@ -69,4 +63,6 @@ More than a commercial gathering, TRANOÏ features artistic installations, runwa
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Tranoï Homme sous le signe du street luxe (Fashionnetwork.com)](https://fr.fashionnetwork.com/news/Tranoi-Homme-sous-le-signe-du-street-luxe-,455461.html#.XEHkos8zbzZ)
+
+[[2]](#a2) <span id="f2"></span> [Our Story (Facebook.com)](https://www.facebook.com/tranoi)
