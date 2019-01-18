@@ -40,6 +40,12 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
+## Сonspectus
+
+|Date|Event, venue|
+|-|-|
+|19.01.2019|Общество потребления. Выставка в супермаркете. Auchan Troika Moscow <span id="a2">[\[2\]](#f2)</span>|
+
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
@@ -48,3 +54,5 @@ indexmod.gq/edit
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [WCBG (Archive.org)](https://web.archive.org/web/*/http://wcbg.tilda.ws)
+
+[[2]](#a2) <span id="f2"></span> [Общество потребления. Выставка в супермаркете. (Facebook.com)](https://www.facebook.com/events/1028761747320986/)
