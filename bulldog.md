@@ -13,7 +13,7 @@ othername: Bulldog by Garik Kharlamov, Bulldog.moda
 venue: Business center Otrada
 founder: Garik Bulldog Kharlamov (Igor Yourievich Kharlamov)
 origin: a Russian
-profession: fashion brand founded in 2018 by Russian comedian Garik Kharlamov known also under Bulldog nickname
+profession: fashion brand founded in 2018 by comedian Garik Kharlamov known also under Bulldog nickname
 photo: A sample T-shirt by Garik Bulldog Kharlamov with “I want a sea bass” print based on the song by E. Surovy
 photographer: Garik Bulldog Kharlamov
 source: Instagram.com
