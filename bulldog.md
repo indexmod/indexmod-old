@@ -9,7 +9,7 @@ city: Moscow
 birth: 2018
 givenname: Bulldog
 familyname:
-othername: Bulldog.moda
+othername: Bulldog by Garik Kharlamov, Bulldog.moda
 venue: Business center Otrada
 founder: Garik Bulldog Kharlamov (Igor Yourievich Kharlamov)
 origin: a Russian
