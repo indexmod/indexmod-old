@@ -13,7 +13,7 @@ othername: Arab. رحيم الرحمن
 venue: 	35 Larson Walk Larson Walk London E14 9HZ
 founder: Founder of Rahemur Rahman Ltd.
 origin: a British-Bangladeshi
-profession: writer based in Europe
+profession: Fashion Design lecturer at UAL and Cambridge School of Visual and Performing Arts, as well as a freelance creative director and has worked on projects such as London Modest Fashion Week
 photo: Rahemur Rahman
 photographer: Momtaz Begum-Hossain
 source: Source
@@ -46,19 +46,28 @@ indexmod.gq/edit
 
 *Photo: [Unknown author](index) / [Source](index)*
 
-## Сonspectus
 
-|Year|City|
+
+## Milestones
+
+|Year|Milestone|
 |-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2018|Rahemur Rahman Ltd. Founding in London <span id="a2">[\[2\]](#f2)</span>|
+|2018|Rahemur Rahman AW19 at LFW presented <span id="a3">[\[3\]](#f3)</span>|
+
+Fashion Design lecturer at UAL and Cambridge School of Visual and Performing Arts, as well as a freelance creative director and has worked on projects such as London Modest Fashion Week <span id="a4">[\[4\]](#f4)</span>
 
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
-+ [Bangladesh Fashion Week London](post-soviet-fashion-weeks)
++ [London Modest Fashion Week](post-soviet-fashion-weeks)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Rahemur Rahman Limited (Endole.co.uk)](https://suite.endole.co.uk/insight/company/11684918-rahemur-rahman-limited)
-
 [[1]](#a1) <span id="f1"></span> [London Fashion Week Men’s: British designer Rahemur Rahman puts Bangladesh on the male fashion map but not as you know it… (Asianculturevulture.com)](http://asianculturevulture.com/portfolios/london-fashion-week-men-british-designer-rahemur-rahman-puts-bangladesh-on-the-male-fashion-map-but-not-as-you-know-it/)
+
+[[2]](#a2) <span id="f2"></span> [Rahemur Rahman Limited (Endole.co.uk)](https://suite.endole.co.uk/insight/company/11684918-rahemur-rahman-limited)
+
+[[3]](#a3) <span id="f2"></span> [Minutes from The Ethnic Representation In The Fashion Industry Event (Fashionroundtable.co.uk)](https://www.fashionroundtable.co.uk/news/ethnic-representation-in-the-fashion-industry-roundtable)
+
+[[4]](#a4) <span id="f4"></span> [Minutes from The Ethnic Representation In The Fashion Industry Event (Fashionroundtable.co.uk)](https://www.fashionroundtable.co.uk/news/ethnic-representation-in-the-fashion-industry-roundtable)
