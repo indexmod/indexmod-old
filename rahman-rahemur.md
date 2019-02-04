@@ -66,6 +66,7 @@ Fashion Design lecturer at UAL and Cambridge School of Visual and Performing Art
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [London Modest Fashion Week](london-modest-fashion-week)
++ [Russia. Modest Fashion Week](russia-modest-fashion-week)
 
 ## Footnotes
 
