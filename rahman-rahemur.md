@@ -56,7 +56,7 @@ indexmod.gq/edit
 
 Fashion Design lecturer at UAL and Cambridge School of Visual and Performing Arts, as well as a freelance creative director and has worked on projects such as London Modest Fashion Week <span id="a4">[\[4\]](#f4)</span>. Rahemur Rahman presented his debut collection at London Fashion Week Men’s AW19 at the Kobi Nazrul Centre <span id="a5">[\[5\]](#f5)</span> – a Bangladeshi community centre where Rahman also teaches – in London’s East End.
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg) ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-3.jpg)
+|![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)|![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-3.jpg)|
 
 **Sketch and look by Rahemur Rahman for Rahemur Rahman AW 19 collection**
 
