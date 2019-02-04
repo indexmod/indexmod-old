@@ -4,7 +4,7 @@ permalink: rahman-rahemur
 layout: default
 originlang: Beng.
 originspell: রাহীমুর রাহমান
-appearing: Updated / Est. / Born
+appearing: Born
 city: London
 birth: 1990
 givenname: Rahemur
@@ -16,7 +16,7 @@ origin: a British-Bangladeshi
 profession: Fashion Design lecturer at UAL and Cambridge School of Visual and Performing Arts, as well as a freelance creative director and has worked on projects such as London Modest Fashion Week
 photo: Rahemur Rahman in 2018
 photographer: Momtaz Begum-Hossain
-source: Source
+source: Asianculturevulture.com
 photographerurl: http://asianculturevulture.com/portfolios/london-fashion-week-men-british-designer-rahemur-rahman-puts-bangladesh-on-the-male-fashion-map-but-not-as-you-know-it/
 sourceurl: http://asianculturevulture.com/portfolios/london-fashion-week-men-british-designer-rahemur-rahman-puts-bangladesh-on-the-male-fashion-map-but-not-as-you-know-it/
 shortname: RAHMAN
@@ -65,7 +65,7 @@ Fashion Design lecturer at UAL and Cambridge School of Visual and Performing Art
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
-+ [London Modest Fashion Week](post-soviet-fashion-weeks)
++ [London Modest Fashion Week](london-modest-fashion-week)
 
 ## Footnotes
 
