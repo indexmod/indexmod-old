@@ -51,8 +51,8 @@ indexmod.gq/edit
 
 |Year|Milestone|
 |-|-|
-|2018|Rahemur Rahman Ltd. Founding in London <span id="a2">[\[2\]](#f2)</span>|
-|2018|Rahemur Rahman AW19 at LFW presented <span id="a3">[\[3\]](#f3)</span>|
+|2018|Rahemur Rahman Ltd., founding in London <span id="a2">[\[2\]](#f2)</span>|
+|2018|Rahemur Rahman AW19, presented at the Kobi Nazrul Centre in London <span id="a3">[\[3\]](#f3)</span>|
 
 Fashion Design lecturer at UAL and Cambridge School of Visual and Performing Arts, as well as a freelance creative director and has worked on projects such as London Modest Fashion Week <span id="a4">[\[4\]](#f4)</span>. Rahemur Rahman presented his debut collection at London Fashion Week Men’s AW19 at the Kobi Nazrul Centre <span id="a5">[\[5\]](#f5)</span> – a Bangladeshi community centre where Rahman also teaches – in London’s East End.
 
