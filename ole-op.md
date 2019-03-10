@@ -10,18 +10,18 @@ birth: 2017
 givenname: Ole Op
 familyname:
 othername: Аллей-уп
-venue:
+venue: Goma&Co
 founder: Dmitry Chernyaev
 origin: a Russian
 profession: brand of casual wear, also self-named as a “human softwear” and founded by artist Dmitry Chernyaev (Дмитрий Черняев)
 photo: Ole Op's “loop” ID  for shirts
-photographer: Dmitry Chernyaev
+photographer: Dmitry Chernyaev / Mic Sachkov
 source: Instagram
 photographerurl: chernyaev-dmitry
 sourceurl: https://www.instagram.com/oleoplovesyou/
 shortname: OLEOP
-facebook: 68
-instagram: 194
+facebook: 237
+instagram: 384
 youtube: 0
 vimeo: 0
 twitter: 0

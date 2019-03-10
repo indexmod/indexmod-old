@@ -2,70 +2,44 @@
 title: 'Belov, Anatoly'
 permalink: belov-anatoly
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
+originlang: Ukr.
+originspell: Анатолій Бєлов
+appearing: Born
+city: Kiev
+birth: 1977
+givenname: Anatoly
+familyname: Belov
+othername: Анатолій Бєлов
+venue: PinchukArtCentre
+founder: of Ludska podoba band
+origin: a Ukrainian
+profession: artist, film director shortlisted at National Prize of PinchukArtCentre for young Ukrainian artists (2013)
+photo: Anatoly Belov in 2018
+photographer: Александр Сытников
+source: Facebook.com
+photographerurl: https://www.facebook.com/ANATOLIY.BELOV
+sourceurl: https://www.facebook.com/ANATOLIY.BELOV
 shortname: BELOV
-facebook: 0
-instagram: 0
+facebook: 1003
+instagram: 1013
 youtube: 0
-vimeo: 0
+vimeo: 21
 twitter: 0
 tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
+weibo: 0
 ---
 
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Belov's drawigs**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Artwork: [Анатолій Бєлов / Anatoly Belov](https://www.facebook.com/ANATOLIY.BELOV) / [Facebook](https://www.facebook.com/ANATOLIY.BELOV)*
 
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
-
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Source name)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
-
-(Укр. Анатолій Бєлов, born. 1977, Kiev) is a Ukrainian artist, film director shortlisted at National Prize of PinchukArtCentre for young Ukrainian artists (2013) <span id="a1">[\[1\]](#f1)</span>, autor and performer at the band "Ludska podoba" earlier at the bands "Penoplast" (Пенопласт), "R.E.P." (Р.Э.П.) and "Emblika Quali" <span id="a2">[\[2\]](#f2)</span>. Living and working in Kiev.
+A Ukrainian artist, film director shortlisted at National Prize of PinchukArtCentre for young Ukrainian artists (2013), autor and performer at the band "Ludska podoba" earlier at the bands "Penoplast" (Пенопласт), "R.E.P." (Р.Э.П.) and "Emblika Quali" <span id="a2">[\[2\]](#f2)</span>. Living and working in Kiev.
 
 ![](https://nashkiev.ua/ckeditor_assets/old_site/19522/belov.jpg)
 
@@ -73,28 +47,20 @@ pinterest: 0
 
 *Photo: [Roman Noven](noven-roman) / [Nash Kiev](indehttps://nashkiev.ua/zhournal/lyudi/anatoliy-belov.html)*
 
-# {{page.title}} Conspectus
+# Conspectus
 
-|Year|City|
+|Year|Milestone|
 |-|-|
-|2012|Ludska podoba <span id="a3">[\[3\]](#f3)</span>|
+|2012|Ludska podoba band <span id="a3">[\[3\]](#f3)</span>|
+|2017|"The most pornographic book in the world" publishing|
+|2018|"The most pornographic book in the world 2" publishing|
 
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a4">[\[4\]](#f4)</span>|4895||
-|Instagram <span id="a5">[\[5\]](#f5)</span>|1013||
-|Vimeo|21||
-|Age|41||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,06685632||
 
 # See also
 
++ [Beirendonck, Walter Van](beirendonck-walter-van)
 + [PinchukArtCentre](pinchukartcentre)
-+ [Victor Pinchuk Foundation](victor-pinchuk-foundation)
-+ [Kiev](kiev)
++ [Richards, Robert W.](richards-robert-w)
 
 # Footnotes
 

@@ -32,7 +32,7 @@ layout: info
 
 **Kazakhstan**
 
-|Almaty Fashion Week|AFW|
+|[Almaty Fashion Week](almaty-fashion-week)|AFW|
 |[Kazakhstan Fashion Week Astana](kazakhstan-fashion-week-astana)|KFWA|
 
 **Kyrgyzstan**
@@ -72,7 +72,7 @@ layout: info
 
 **Ukraine**
 
-|Mercedes-Benz Kiev Fashion Days|MBKFD|
+|[Mercedes-Benz Kiev Fashion Days](mercedes-benz-kiev-fashion-days)|MBKFD|
 |[Ukrainian Fashion Week](ukrainian-fashion-week)|UFW|
 |[Odessa Holiday Fashion Week](odessa-holiday-fashion-week)|OHFW|
 
@@ -88,21 +88,20 @@ layout: info
 |-|-|
 |[Mados infekcija](mados-infekcija)|1994|
 |[Erevan Fashion Week](yerevan-fashion-week)|2004|
+|[Kazakhstan Fashion Week Astana](kazakhstan-fashion-week-astana)|2004|
 |[Odessa Holiday Fashion Week](odessa-holiday-fashion-week)|2006|
-|Tashkent|2007|
-|Lviv|2009|
-|Tbilisi|2009|
-|[Mercedes-Benz Fashion Week Tbilisi](mercedes-benz-fashion-week-tbilisi)|??|
-|[Azerbaijan Fashion Week](azerbaijan-fashion-week)|??|
-|Baku|2010|
+|[Tashkent Fashion Week](tashkent-fashion-week)|2007|
+|[Lviv Fashion Week](lviv-fashion-week)|2009|
+|[Tbilisi Fashion Week](tbilisi-fashion-week)|2009|
+|[Baku Fashion Week](baku-fashion-week)|2010|
 |[Ukrainian Fashion Week](ukrainian-fashion-week)|2010|
 |[Belorussian Fashion Week](belorussian-fashion-week)|2010|
-|Almaty|2011|
-|[Kazakhstan Fashion Week Astana](kazakhstan-fashion-week-astana)|??|
-|Riga|2011|
+|[Almaty Fashion Week](almaty-fashion-week)|2011|
+|[Riga Fashion Week](riga-fashion-week)|2011|
+|[Azerbaijan Fashion Week](azerbaijan-fashion-week)|2015|
+|[Mercedes-Benz Fashion Week Tbilisi](mercedes-benz-fashion-week-tbilisi)|2015|
+
 
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
-+ [PinchukArtCentre](pinchukartcentre)
-+ [Victor Pinchuk Foundation](victor-pinchuk-foundation)
