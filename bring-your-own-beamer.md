@@ -8,17 +8,19 @@ appearing: Est.
 city: Berlin
 birth: 2010
 givenname: Bring your own beamer
-familyname:
+familyname: null
 othername: BYOB
 venue: Worldwide
-founder: Rafaël Rozendaal, Anne de Vries
+founder: 'Rafaël Rozendaal, Anne de Vries'
 origin: an international movement
-profession: of a series of one-night-exhibitions curated by different people around the world
+profession: >-
+  of a series of one-night-exhibitions curated by different people around the
+  world
 photo: Bring Your Own Beamer at Yeltsin Center Art Gallery in Yekaterinbur in 2017
 photographer: Lubov Kabalinova
 source: Yeltsin.ru
-photographerurl: https://yeltsin.ru/news/videoart-tehnologii-i-iskusstvo/
-sourceurl: https://yeltsin.ru/news/videoart-tehnologii-i-iskusstvo/
+photographerurl: 'https://yeltsin.ru/news/videoart-tehnologii-i-iskusstvo/'
+sourceurl: 'https://yeltsin.ru/news/videoart-tehnologii-i-iskusstvo/'
 shortname: BYOB
 facebook: 0
 instagram: 0
@@ -29,6 +31,7 @@ tumblr: 0
 vkontakte: 307
 soundcloud: 0
 pinterest: 0
+published: true
 ---
 
 BYOB is a way of making a big exhibition with zero budget. It is an exploration of the medium of projection.
@@ -38,6 +41,7 @@ BYOB is a way of making a big exhibition with zero budget. It is an exploration 
 |Year|Day|City|Place|
 |-|-|
 |2018|Nov 03|Proun Gallery|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2019|Mar 30|Location TBC|Erevan <span id="a2">[\[2\]](#f2)</span>|
 
 ## Open source
 
@@ -59,7 +63,7 @@ BYOB is for anyone who is interested in moving light, sound and performance. Pro
 ## World
 
 About 350 BYOB's have happened around the world.
-Here are some of those cities: Aarhus, Amsterdam, Antwerp, Argentina, Athens, Auckland, Austin, Baltimore, Barcelona, Basel, Beijing, Belfast, Bergen, Berlin, Birmingham, Bogota, Bonn, Boston, Boulder, Breda, Brighton, Brooklyn, Bruges, Brussels, Bucharest, Budapest, Buffalo, Calgary, CapeTown, Caracas, Cardiff, Charlestown, Chicago, Chile, Cincinnati, Colchester, Cologne, Colombia, Columbus, Copenhagen, Corredor, Palma, Coventry, Cracow, Darwin, Denver, Detroit, Dublin, Dusseldorf, Edinburgh, Eindhoven, El Salvador, Enschede, Firenze, Frankfurt, Gavere, Geneva, Genk, Ghent, Glasgow, Gothenburg, Grand Rapids, Grenoble, Guatemala, Heerenveen, Heerlen, Hembrug, Hong Kong, Houston, Istanbul, Jerusalem, Jinju, Karlsruhe, Kosice, Krakow, Habana, Lausanne, Leeds, Lima, Linz, Ljubljana, London, Los Angeles, Maastricht, Madrid, Mallorca, Malmo, Manchester, Marrakesh, Marseille, Medellin, Melbourne, Mexico, Miami, Milano, Milton Keynes, Minneapolis, Montreal, Moscow <span id="a2">[\[2\]](#f2)</span>, Munich, Myanmar, Münster, Nashville, New Haven, New Orleans, New York, Nicosia, Norwich, Oregon, Oslo, Osnabrück, Ostend, Ostuni, Paris, Iiaarhus, Perth, Philadelphia, Pittsburgh, Portland, Poznan, Prague, Queens, Reno, Richmond, Rio de Janeiro, Rotterdam, Saint Paul, San Antonio, San Diego, Francisco, Santa Barbara, Sao Paulo, Seattle, Seoul, Shanghai, Singapore, Somerville, Southampton, Stockton, StonyBrook, Swansea, Sydney, Taipei, TelAviv, The Hague, Tijuana, Toronto, Tucson, Tuebingen, Utrecht, Valparaiso, Vancouver, Venice, Vevey, Vienna, Vitória, Warszawa, Wellington, Wrocław, Yekaterinburg.
+Here are some of those cities: Aarhus, Amsterdam, Antwerp, Argentina, Athens, Auckland, Austin, Baltimore, Barcelona, Basel, Beijing, Belfast, Bergen, Berlin, Birmingham, Bogota, Bonn, Boston, Boulder, Breda, Brighton, Brooklyn, Bruges, Brussels, Bucharest, Budapest, Buffalo, Calgary, CapeTown, Caracas, Cardiff, Charlestown, Chicago, Chile, Cincinnati, Colchester, Cologne, Colombia, Columbus, Copenhagen, Corredor, Palma, Coventry, Cracow, Darwin, Denver, Detroit, Dublin, Dusseldorf, Edinburgh, Eindhoven, El Salvador, Enschede, Erevan (2019), Firenze, Frankfurt, Gavere, Geneva, Genk, Ghent, Glasgow, Gothenburg, Grand Rapids, Grenoble, Guatemala, Heerenveen, Heerlen, Hembrug, Hong Kong, Houston, Istanbul, Jerusalem, Jinju, Karlsruhe, Kosice, Krakow, Habana, Lausanne, Leeds, Lima, Linz, Ljubljana, London, Los Angeles, Maastricht, Madrid, Mallorca, Malmo, Manchester, Marrakesh, Marseille, Medellin, Melbourne, Mexico, Miami, Milano, Milton Keynes, Minneapolis, Montreal, Moscow <span id="a2">[\[2\]](#f2)</span>, Munich, Myanmar, Münster, Nashville, New Haven, New Orleans, New York, Nicosia, Norwich, Oregon, Oslo, Osnabrück, Ostend, Ostuni, Paris, Iiaarhus, Perth, Philadelphia, Pittsburgh, Portland, Poznan, Prague, Queens, Reno, Richmond, Rio de Janeiro, Rotterdam, Saint Paul, San Antonio, San Diego, Francisco, Santa Barbara, Sao Paulo, Seattle, Seoul, Shanghai, Singapore, Somerville, Southampton, Stockton, StonyBrook, Swansea, Sydney, Taipei, TelAviv, The Hague, Tijuana, Toronto, Tucson, Tuebingen, Utrecht, Valparaiso, Vancouver, Venice, Vevey, Vienna, Vitória, Warszawa, Wellington, Wrocław, Yekaterinburg.
 
 ## See also
 
