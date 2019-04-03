@@ -12,13 +12,13 @@ familyname: Sorokina
 othername: Анна Сорокина
 venue: Rikers Island
 founder: Anna Delvey Foundation
-origin: a dauter of Russian immigrants from Colone's suburbs,
+origin: 'a dauter of Russian immigrants from Colone''s suburbs,'
 profession: a founder of the Anna Delvey Foundation
 photo: Anna Delvey
 photographer: Sergio Corvacho
 source: The Cut
-photographerurl: https://www.thecut.com/2018/05/how-anna-delvey-tricked-new-york.html
-sourceurl: https://www.thecut.com/2018/05/how-anna-delvey-tricked-new-york.html
+photographerurl: 'https://www.thecut.com/2018/05/how-anna-delvey-tricked-new-york.html'
+sourceurl: 'https://www.thecut.com/2018/05/how-anna-delvey-tricked-new-york.html'
 shortname: DELVEY
 facebook: 0
 instagram: 52900
@@ -29,6 +29,7 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
+published: true
 ---
 
 <!---
@@ -39,7 +40,7 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
-Is a dauter of Russian immigrants from Colone suburbs, founder of the Anna Delvey Foundation in NYC, posing as a thoroughbred German woman, described by New York Magazine online supplement The Cut as "wannabe socialite busted for skipping out on pricey hotel bills", who was arrested in Malibu in the summer of 2017 and charged with six charges as thefts and their attempts. Since October 2017, Anna Delvey (Sorokina) awaits trial in Rikers Prison on the eponymous island near New York <span id="a2">[\[2\]](#f2)</span>.
+Is a dauter of Russian immigrants from Colone suburbs, founder of the Anna Delvey Foundation in NYC, posing as a thoroughbred German woman, described by New York Magazine online supplement The Cut as "wannabe socialite busted for skipping out on pricey hotel bills" <span id="a2">[\[2\]](#f2)</span>, who was arrested in Malibu in the summer of 2017 and charged with six charges as thefts and their attempts. Since October 2017, Anna Delvey (Sorokina) was arrested <span id="a3">[\[3\]](#f3)</span> and awaits trial in Rikers Prison on the eponymous island near New York.
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
@@ -71,6 +72,7 @@ A drawing by artist Salvador Dalí, done as an apology because he was unable to 
 
 [[2]](#a2) <span id="f2"></span> [Maybe She Had So Much Money She Just Lost Track of It Somebody had to foot the bill for Anna Delvey’s fabulous new life. The city was full of marks. (Jessica Pressler, The Cut)](https://www.thecut.com/2018/05/how-anna-delvey-tricked-new-york.html)
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Instagram)](https://www.instagram.com/annadlvv/?utm_source=ig_embed)
+[[3]](#a3) <span id="f3"></span> [Фальшивая наследница: 
+За что в Нью-Йорке судят россиянку Анну Делви (Wonderzine.com)](https://www.wonderzine.com/wonderzine/life/life/242349-anna-delvey)
 
 [[4 — 12]](#a4) <span id="f4"></span> [Let’s Dreamcast the Anna Delvey Story (Hunter Harris, Vulture.com)](http://www.vulture.com/2018/05/anna-delvey-scammer-movie-dream-cast.html)
