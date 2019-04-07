@@ -19,9 +19,9 @@ photographer: Texnosergey
 source: Facebook
 photographerurl: index
 sourceurl: index
-shortname: SHORTNAME
+shortname: TEXNOSERGEY
 facebook: 0
-instagram: 0
+instagram: 3871
 youtube: 0
 vimeo: 0
 twitter: 0
