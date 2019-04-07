@@ -42,7 +42,7 @@ indexmod.gq/edit
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Screen from Texnosergey**
+**Screen from of the Texnosergey channel on Instagram**
 
 *Photo: [Indexmod](index) / [Instagram](index)*
 
