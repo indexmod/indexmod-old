@@ -9,7 +9,7 @@ city: Rostov-on-Don
 birth: 1988
 givenname: Sergey
 familyname: Unspecified
-othername: Сережа
+othername: Павел Александров
 venue:
 founder: Founder of @Texnosergey channel on Instagram
 origin: a Russian
@@ -51,6 +51,12 @@ indexmod.gq/edit
 |Year|Milestone|
 |-|-|
 |2018|First publication on Instagram <span id="a2">[\[2\]](#f2)</span>|
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
+
+**Image as Pavel Alexandrov at Vkontakte**
+
+*Photo: [Unspecified](index) / [Vkontakte](https://vk.com/id478344533)*
 
 ## See also
 
