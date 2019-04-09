@@ -1,18 +1,17 @@
 ---
 title: Rosbalet
-permalink: template
+permalink: rosbalet
 layout: default
-exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Росбалет
+appearing: Est.
 city: Moscow
 birth: 2018
 givenname: Given name
 familyname: Family name
 othername: Other name
 venue: Red Square
-founder: Founder
+founder: Sergei Kozyrev,
 origin: a / an Russian
 profession: writer based in Europe
 photo: This is sample for image caption
@@ -57,6 +56,9 @@ indexmod.gq/edit
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
++ [Sergei Kozyrev](kozyrev-sergei)
++ [Rusbalet](rusbalet)
++ [Julia Nikulina](nikulina-julia)
 
 ## Footnotes
 

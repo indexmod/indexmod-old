@@ -1,12 +1,12 @@
 ---
-title: Kozyrev, Sergei
-permalink: kozyrev-sergei
+title: Nikulina, Julia
+permalink: nikulina-julia
 layout: default
 originlang: Rus.
-originspell: Сергей Козырев
+originspell: Original spell
 appearing: Born
-city: Rostov-on-Don
-birth: 1988
+city: M
+birth: 2
 givenname: Given name
 familyname: Family name
 othername: Other name

@@ -1,13 +1,13 @@
 ---
-title: Texnosergey
+title: TexnoSergey
 permalink: texnosergey
 layout: default
 originlang: Rus.
 originspell: Техно Сергей
-appearing: Born
-city: Rostov-on-Don
-birth: 1988
-givenname: Sergey
+appearing: Est.
+city: Moscow
+birth: 2018
+givenname: TexnoSergey
 familyname: Unspecified
 othername: Павел Александров
 venue:
@@ -62,10 +62,14 @@ indexmod.gq/edit
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
++ [Sergei Kozyrev](kozyrev-sergei)
++ [Rusbalet](rusbalet)
++ [Julia Nikulina](nikulina-julia)
+
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Chère celine pourriez-vous s'il vous plaît présenter votre nouveau sac à mashavoguerussia , elle veut vraiment ce sac. S'il vous plaît soyez généreux, nous serons tous reconnaissants!
+[[1]](#a1) <span id="f1"></span> [Chère celine pourriez-vous s'il vous plaît présenter votre nouveau sac à mashavoguerussia, elle veut vraiment ce sac. S'il vous plaît soyez généreux, nous serons tous reconnaissants!
 Merci beaucoup, vraiment votre texnosergey (Instagram)](https://www.instagram.com/p/Bv5arGlHOYa/)
 
 [[2]](#a2) <span id="f2"></span> [Обожаю телемагазин на диване. Это самая смешная развлекательная живучая телепередача на свете... (Instagram)](https://www.instagram.com/p/BrBRBB3BSeJ/)
