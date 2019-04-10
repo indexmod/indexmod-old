@@ -2,11 +2,10 @@
 title: Artyomov, Andrey
 permalink: artyomov-andrey
 layout: default
-exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
+originlang: Rus.
+originspell: Андрей Артёмов
+appearing: Born
+city: Ufa
 birth: 2018
 givenname: Given name
 familyname: Family name
@@ -20,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORTNAME
+shortname: ARTYOMOV
 facebook: 0
 instagram: 0
 youtube: 0
@@ -46,8 +45,13 @@ pinterest: 0
 
 ## See also
 
-+ [About](index)
-+ [More](index)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
++ [Post soviet fashion weeks](post-soviet-fashion-weeks)
++ [Sergei Kozyrev](kozyrev-sergei)
++ [Rusbalet](rusbalet)
++ [Julia Nikulina](nikulina-julia)
++ [Ilona Stolie](Stolie-Ilona)
++ [Walk of Shame (brand)](walk-of-shame-brand)
 
 ## Footnotes
 

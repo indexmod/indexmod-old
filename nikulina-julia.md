@@ -58,7 +58,6 @@ indexmod.gq/edit
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 + [Sergei Kozyrev](kozyrev-sergei)
 + [Rusbalet](rusbalet)
-+ [Julia Nikulina](nikulina-julia)
 + [Andrey Artyomov](artyomov-andrey)
 + [Ilona Stolie](Stolie-Ilona)
 + [Walk of Shame (brand)](walk-of-shame-brand)

@@ -60,7 +60,6 @@ indexmod.gq/edit
 + [Julia Nikulina](nikulina-julia)
 + [Andrey Artyomov](artyomov-andrey)
 + [Ilona Stolie](Stolie-Ilona)
-+ [Walk of Shame (brand)](walk-of-shame-brand)
 
 ## Footnotes
 
