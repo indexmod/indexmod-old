@@ -4,22 +4,22 @@ permalink: walk-of-shame-brand
 layout: default
 originlang: Rus. / Eng.
 originspell: Original spell
-appearing: Updated / Est. / Born
+appearing: Est.
 city: Moscow
 birth: 2018
 givenname: Given name
 familyname: Family name
 othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
+venue:
+founder: Andrey Artyomov
+origin: a Russian
 profession: writer based in Europe
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: WALK OF SHAME
+shortname: WALKOFSHAME
 facebook: 0
 instagram: 0
 youtube: 0
@@ -31,34 +31,37 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Est. 2013, city) Walk of Shame, est. 2011, is a brandname of female dress founded by Russian stylist Andrey Artyomov <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+indexmod.gq/edit
+-->
 
-![](/images/image-name.jpg)
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-*Image caption*
+**Image caption**
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photo: [Unknown author](index) / [Source](index)*
 
-# Conspectus
+## Сonspectus
 
 |Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
-# See also
+## See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-Andrey Artyomov
-Ilona Stolie
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
++ [Post soviet fashion weeks](post-soviet-fashion-weeks)
++ [Andrey Artyomov](artyomov-andrey)
++ [Ilona Stolie](Stolie-Ilona)
++ [Walk of Shame (brand)](walk-of-shame-brand)
 
-# Footnotes
+## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
 
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+(Est. 2013, city) Walk of Shame, est. 2011, is a brandname of female dress founded by Russian stylist Andrey Artyomov <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.

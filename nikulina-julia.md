@@ -12,14 +12,14 @@ familyname: Family name
 othername: Other name
 venue: Red Square
 founder: Founder
-origin: a / an Russian
+origin: a Russian
 profession: writer based in Europe
 photo: This is sample for image caption
 photographer: Unknown author
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORTNAME
+shortname: NIKULINA
 facebook: 0
 instagram: 0
 youtube: 0
@@ -59,6 +59,9 @@ indexmod.gq/edit
 + [Sergei Kozyrev](kozyrev-sergei)
 + [Rusbalet](rusbalet)
 + [Julia Nikulina](nikulina-julia)
++ [Andrey Artyomov](artyomov-andrey)
++ [Ilona Stolie](Stolie-Ilona)
++ [Walk of Shame (brand)](walk-of-shame-brand)
 
 ## Footnotes
 

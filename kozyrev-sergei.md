@@ -19,7 +19,7 @@ photographer: Unknown author
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORTNAME
+shortname: KOZYREV
 facebook: 0
 instagram: 0
 youtube: 0
@@ -59,6 +59,9 @@ indexmod.gq/edit
 + [Sergei Kozyrev](kozyrev-sergei)
 + [Rusbalet](rusbalet)
 + [Julia Nikulina](nikulina-julia)
++ [Andrey Artyomov](artyomov-andrey)
++ [Ilona Stolie](Stolie-Ilona)
++ [Walk of Shame (brand)](walk-of-shame-brand)
 
 ## Footnotes
 
