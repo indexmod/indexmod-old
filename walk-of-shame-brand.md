@@ -19,7 +19,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: WALKOFSHAME
+shortname: WOS
 facebook: 0
 instagram: 0
 youtube: 0
@@ -55,6 +55,9 @@ indexmod.gq/edit
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
++ [Sergei Kozyrev](kozyrev-sergei)
++ [Rusbalet](rusbalet)
++ [Julia Nikulina](nikulina-julia)
 + [Andrey Artyomov](artyomov-andrey)
 + [Ilona Stolie](Stolie-Ilona)
 + [Walk of Shame (brand)](walk-of-shame-brand)
