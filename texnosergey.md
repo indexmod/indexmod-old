@@ -66,7 +66,7 @@ indexmod.gq/edit
 + [Ilona Stolie](Stolie-Ilona)
 + [Walk of Shame (brand)](walk-of-shame-brand)
 + [Sergei Kozyrev](kozyrev-sergei)
-+ [Rusbalet](rusbalet)
++ [Rosbalet](rosbalet)
 + [Julia Nikulina](nikulina-julia)
 
 
