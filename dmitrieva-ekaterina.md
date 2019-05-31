@@ -43,9 +43,9 @@ indexmod.gq/edit
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Ekaterina Dmitrieva**
+**Ekaterina Dmitrieva (left) at Vladimir Dubossarsky work**
 
-*Photo: [Unknown author](index) / [Source](index)*
+*Photo: [Copyright Ekaterina Dmitrieva](https://www.facebook.com/photo.php?fbid=2107913665983214&set=t.100002938040611&type=3&theater) / [Facebook](https://www.facebook.com/photo.php?fbid=2107913665983214&set=t.100002938040611&type=3&theater)*
 
 ## Filmography
 
@@ -63,6 +63,4 @@ indexmod.gq/edit
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](http://www.timeout.ru/cherepovec/feature/24565)
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](http://www.timeout.ru/cherepovec/feature/24565)
+[[1]](#a1) <span id="f1"></span> [(Timeout)](http://www.timeout.ru/cherepovec/feature/24565)
