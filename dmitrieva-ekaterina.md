@@ -20,16 +20,17 @@ source: Timeout.ru
 photographerurl: index
 sourceurl: http://www.timeout.ru/cherepovec/feature/24565
 shortname: DMITRIEVA
-facebook: 0
-instagram: 0
-youtube: 0
+facebook: 654
+instagram: 2122
+youtube: 28
 vimeo: 0
-twitter: 0
+twitter: 40
 tumblr: 0
-vkontakte: 0
-soundcloud: 0
+vkontakte: 3
+soundcloud: 892
 pinterest: 0
-weibo: 0
+weibo:
+
 ---
 
 <!---
