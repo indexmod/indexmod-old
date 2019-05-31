@@ -14,7 +14,7 @@ venue: Noon Group
 founder: Noon Group (co-founder)
 origin: a Russian
 profession: artist of film costume, stylists, journalist
-photo: Ekaterina Dmitrieva in 2011
+photo: Ekaterina Dmitrieva (as Katya Vanila) in 2011
 photographer: Unknown author
 source: Timeout.ru
 photographerurl: index
