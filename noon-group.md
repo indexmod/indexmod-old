@@ -14,9 +14,9 @@ venue:
 founder: Olga Galinskaia, Ekaterina Dmitrieva
 origin: a Russian
 profession: brand, creative group founded by Olga Galinskaia, Ekaterina Dmitrieva
-photo: This is sample for image caption
-photographer: Unknown author
-source: Source
+photo: Sketch of the group by Ekaterina Dmitrieva
+photographer: Indexmod
+source: Indexmod
 photographerurl: index
 sourceurl: index
 shortname: NOONGROUP
@@ -42,9 +42,9 @@ indexmod.gq/edit
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**The founders of Noon Olga Galinskaia and Ekaterina Dmitrieva**
 
-*Photo: [Unknown author](index) / [Source](index)*
+*Photo: [Copyright Ekaterina Dmitrieva](index) / [Facebook](https://www.facebook.com/photo.php?fbid=10215076171271328&set=a.2774084184912&type=3&theater)*
 
 ## Filmography
 
