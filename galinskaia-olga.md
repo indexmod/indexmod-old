@@ -74,6 +74,7 @@ The highlights of such work are assignments for Bacardi, Sberbank and Saks Fifth
 + [Andrei Abolenkin](abolenkin-andrei)
 + [Ekaterina Dmitrieva](dmitrieva-ekaterina)
 + [Bryan Ferry](ferry-bryan)
++ [Noon Group](noon-group)
 + [Roman Prygunov](prygunov-roman)
 + [Vlad Monroe](vlad-monroe)
 

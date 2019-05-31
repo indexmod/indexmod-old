@@ -57,6 +57,7 @@ indexmod.gq/edit
 + [Ekaterina Dmitrieva](dmitrieva-ekaterina)
 + [Olga Galinskaia](galinskaia-olga)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
++ [Noon Group](noon-group)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes
