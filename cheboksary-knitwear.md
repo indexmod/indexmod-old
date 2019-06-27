@@ -14,11 +14,11 @@ venue: Red Square
 founder: Founder
 origin: a Cheboksarian
 profession: brand of knitwear located in Chuvash Republic
-photo: This is sample for image caption
-photographer: V. Kharitonova
-source: Chuash Encyclopedia
-photographerurl: http://enc.cap.ru/?t=publ&lnk=4329
-sourceurl: http://enc.cap.ru/?t=publ&lnk=4329
+photo: Drawers Cheboksary jersey H-2
+photographer: Modalada
+source: Modalada.ru
+photographerurl: http://modalada.ru/product/pantalony-cheboksarskiy-trikotazh-ch-2
+sourceurl: http://modalada.ru/product/pantalony-cheboksarskiy-trikotazh-ch-2
 shortname: CHEBOKNIT
 facebook: 0
 instagram: 0
@@ -55,6 +55,7 @@ indexmod.gq/edit
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
++ [Lecharlatan](lecharlatan)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes
