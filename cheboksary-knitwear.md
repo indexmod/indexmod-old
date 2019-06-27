@@ -12,8 +12,8 @@ familyname:
 othername: Шупашкар трикотажĕ
 venue: Cheboksary
 founder: USSR (Gov.)
-origin: a Cheboksarian
-profession: brand of knitwear located in Chuvash Republic
+origin: a Chuvashian
+profession: brand of knitwear founded in Poltava (USSR) located in Chuvash Republic
 photo: Drawers Cheboksary jersey H-2
 photographer: Modalada
 source: Modalada.ru
