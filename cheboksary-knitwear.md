@@ -48,7 +48,11 @@ indexmod.gq/edit
 
 ## The explosive popularity of the unofficial commercial in 2019
 
-In 2016, a video clip <span id="a2">[\[2\]](#f2)</span> about the company's activities was filmed and published. After the publication of an unofficial video <span id="a3">[\[3, 4, 5\]](#f3)</span> in 2019 made by enthusiasts, many comments and reposts appeared on the net.
+In 2016, a video clip <span id="a2">[\[2\]](#f2)</span> about the company's activities was filmed and published. After the publication by “Loud fish” of an unofficial video <span id="a3">[\[3, 4, 5\]](#f3)</span> in 2019 made by enthusiasts, many comments and reposts appeared on the net.
+
+## Loud fish
+
+“Loud fish” consists of four guys from different cities and republics of Russia - two from Kazan, one from Sarapul (Republic of Udmurtia) and one from urban-type settlement Paranyga (Mari El), project representative Kirill Karamov told Medialeaks. On their YouTube channel with 33 thousand subscribers, the guys usually publish comedy videos, cooking and reviews on a variety of topics - from new laws in Russia to blockbusters <span id="a6">[\[6\]](#f6)</span>.
 
 ## See also
 
@@ -62,6 +66,10 @@ In 2016, a video clip <span id="a2">[\[2\]](#f2)</span> about the company's acti
 
 [[2]](#a2) <span id="f2"></span> [Чулочно-трикотажная фабрика (Youtube)](https://www.youtube.com/user/trikota21)
 
-[[3]](#a3) <span id="f3"></span> [Чебоксарский трикотаж (Чуашская энциклопедия)](http://enc.cap.ru/?t=publ&lnk=4329)
+[[3]](#a3) <span id="f3"></span> [Неофициальный проморолик «Чебоксарского трикотажа» в стиле киберпанк покоряет Сеть (Znak.com)](https://www.znak.com/2019-06-25/neoficialnyy_promorolik_cheboksarskogo_trikotazha_v_stile_kiberpank_pokoryaet_set)
 
-[[1]](#a1) <span id="f1"></span> [Чебоксарский трикотаж (Чуашская энциклопедия)](http://enc.cap.ru/?t=publ&lnk=4329)
+[[4]](#a3) <span id="f3"></span> [Казанские блогеры покорили рунет неофициальной рекламой «Чебоксарского трикотажа» (Business-gazeta.ru)](https://www.business-gazeta.ru/news/429196)
+
+[[5]](#a3) <span id="f3"></span> [Хайпанули на олдскуле: «Gucci шьют в Китае, чебоксарский трикотаж – в Чебоксарах» (Business-gazeta.ru)](https://www.business-gazeta.ru/article/429307)
+
+[[6]](#a6) <span id="f6"></span> [«Рекламы Louis Vuitton курят в сторонке». Блогеры сняли промо «Чебоксарского трикотажа», и это мегапсиходел (Medialeaks.ru)](https://medialeaks.ru/2306amv-cheboksary-trikotazh/)
