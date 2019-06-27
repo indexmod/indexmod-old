@@ -48,7 +48,7 @@ indexmod.gq/edit
 
 ## The explosive popularity of the unofficial commercial in 2019
 
-In 2016, a video clip <span id="a2">[\[2\]](#f2)</span> about the company's activities was filmed and published. After the publication by “Loud fish” of an unofficial video <span id="a3">[\[3, 4, 5\]](#f3)</span> in 2019 made by enthusiasts, many comments and reposts appeared on the net.
+In 2016, a video clip <span id="a2">[\[2\]](#f2)</span> about the company's activities was filmed and published. After the publication by “Loud fish” of an unofficial video <span id="a3">[\[3, 4, 5\]](#f3)</span> in 2019, many comments and reposts appeared on the net.
 
 ## Loud fish
 
