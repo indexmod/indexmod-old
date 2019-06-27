@@ -1,6 +1,6 @@
 ---
 title: Cheboksary knitwear
-permalink: cheboksary-knitwear-brand
+permalink: cheboksary-knitwear
 layout: default
 originlang: Cv.
 originspell: Шупашкар трикотажĕ
