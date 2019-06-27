@@ -5,13 +5,13 @@ layout: default
 originlang: Cv.
 originspell: Шупашкар трикотажĕ
 appearing: Est.
-city: Moscow
+city: Poltava, Ukraine
 birth: 1958
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
+givenname: Чулочно-трикотажная фабрика
+familyname:
+othername: Шупашкар трикотажĕ
+venue: Cheboksary
+founder: USSR (Gov.)
 origin: a Cheboksarian
 profession: brand of knitwear located in Chuvash Republic
 photo: Drawers Cheboksary jersey H-2
@@ -22,7 +22,7 @@ sourceurl: http://modalada.ru/product/pantalony-cheboksarskiy-trikotazh-ch-2
 shortname: CHEBOKNIT
 facebook: 0
 instagram: 0
-youtube: 0
+youtube: 64
 vimeo: 0
 twitter: 0
 tumblr: 0
@@ -46,11 +46,9 @@ indexmod.gq/edit
 
 *Photo: [V. Kharitonova](http://enc.cap.ru/?t=publ&lnk=4329) / [Chuash Encyclopedia](http://enc.cap.ru/?t=publ&lnk=4329)*
 
-## Сonspectus
+## The explosive popularity of the unofficial commercial in 2019
 
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+In 2016, a video clip <span id="a2">[\[2\]](#f2)</span> about the company's activities was filmed and published. After the publication of an unofficial video in 2019 made by enthusiasts, many comments and reposts appeared on the net.
 
 ## See also
 
@@ -62,8 +60,8 @@ indexmod.gq/edit
 
 [[1]](#a1) <span id="f1"></span> [Чебоксарский трикотаж (Чуашская энциклопедия)](http://enc.cap.ru/?t=publ&lnk=4329)
 
-[[1]](#a1) <span id="f1"></span> [Чебоксарский трикотаж (Чуашская энциклопедия)](http://enc.cap.ru/?t=publ&lnk=4329)
+[[2]](#a2) <span id="f2"></span> [Чулочно-трикотажная фабрика (Youtube)](https://www.youtube.com/user/trikota21)
 
-[[1]](#a1) <span id="f1"></span> [Чебоксарский трикотаж (Чуашская энциклопедия)](http://enc.cap.ru/?t=publ&lnk=4329)
+[[3]](#a3) <span id="f3"></span> [Чебоксарский трикотаж (Чуашская энциклопедия)](http://enc.cap.ru/?t=publ&lnk=4329)
 
 [[1]](#a1) <span id="f1"></span> [Чебоксарский трикотаж (Чуашская энциклопедия)](http://enc.cap.ru/?t=publ&lnk=4329)
