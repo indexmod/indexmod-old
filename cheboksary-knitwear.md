@@ -7,9 +7,9 @@ originspell: Шупашкар трикотажĕ
 appearing: Est.
 city: Poltava, Ukraine
 birth: 1958
-givenname: Чулочно-трикотажная фабрика
+givenname: Cheboksary knitwear
 familyname:
-othername: Шупашкар трикотажĕ
+othername: Чебоксарский трикотаж, Чулочно-трикотажная фабрика
 venue: Cheboksary
 founder: USSR (Gov.)
 origin: a Chuvashian
