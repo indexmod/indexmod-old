@@ -48,6 +48,12 @@ On the night of June 27-28, 2019, two young men attacked and beat the young dire
 |2015|dOP, Berlin|
 |2019|Razbezhkina, Moscow|
 
+## Filmography
+
+|Year|Film|
+|-|-|
+|2017|Out of Place <span id="a4">[\[4\]](#f4)</span>|
+
 ## See also
 
 + [dOP](dop)
@@ -60,3 +66,5 @@ On the night of June 27-28, 2019, two young men attacked and beat the young dire
 [[2]](#a2) <span id="f2"></span> [Подозреваемых в избиении режиссёра Галдановой задержали в Петербурге (Svoboda.org)](https://www.svoboda.org/a/30035204.html)
 
 [[3]](#a2) <span id="f2"></span> [Мужчины, напавшие на Агнию Галданову, задержаны полицией (Buro247.ru)](https://www.buro247.ru/news/lifestyle/3-jul-2019-agniya-galdanova-moscow.html)
+
+[[4]](#a4) <span id="f4"></span> [Agniia Galdanova. Director. Costume Designer. Production Designer.  (Imdb.com)](https://www.imdb.com/name/nm8979390/)
