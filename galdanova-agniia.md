@@ -64,7 +64,7 @@ On the night of June 27-28, 2019, two young men attacked and beat the young dire
 ## See also
 
 + [dOP](dop)
-+ [Turbo Yulia]()
++ [Turbo Yulia](turbo-yulia)
 + [Vandesande, Damien](vandesande-damien)
 
 ## Footnotes
