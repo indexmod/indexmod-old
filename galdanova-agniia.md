@@ -11,9 +11,9 @@ givenname: Agniia
 familyname: Galdanova
 othername: Agnia (Агния Галданова)
 venue: Школа документального кино и театра Марины Разбежкиной и Михаила Угарова
-founder:
+founder: 
 origin: a Russian
-profession: film director, based in Berlin and Moscow
+profession: film director, costume designer, production designer based in Berlin and Moscow
 photo: Agniia Galdanova in 2016
 photographer: Unknown
 source: Vimeo
