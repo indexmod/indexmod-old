@@ -29,6 +29,7 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
+weibo: 0
 ---
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
