@@ -10,7 +10,7 @@ birth: 1987
 givenname: Agniia
 familyname: Galdanova
 othername: Agniia Galdanova
-venue: Red Square
+venue: 
 founder:
 origin: a Russian
 profession: film director, based in Berlin and Moscow
@@ -45,8 +45,8 @@ On the night of June 27-28, 2019, two young men attacked and beat the young dire
 
 |Year|Event, city|
 |-|-|
-|2015|dOP Berlin|
-|2019|Razbezhkina Moscow|
+|2015|dOP, Berlin|
+|2019|Razbezhkina, Moscow|
 
 ## See also
 
