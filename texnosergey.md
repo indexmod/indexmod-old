@@ -9,7 +9,7 @@ city: Moscow
 birth: 2018
 givenname: TexnoSergey
 familyname: Unspecified
-othername: Sergei Kozyrev, Павел Александров
+othername: Серёжа, Sergei Kozyrev, Павел Александров
 venue:
 founder: Founder of @Texnosergey channel on Instagram
 origin: a Russian
@@ -21,7 +21,7 @@ photographerurl: index
 sourceurl: index
 shortname: TEXNOSERGEY
 facebook: 0
-instagram: 3871
+instagram: 36507
 youtube: 0
 vimeo: 0
 twitter: 0
