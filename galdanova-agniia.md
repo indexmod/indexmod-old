@@ -10,7 +10,7 @@ birth: 1987
 givenname: Agniia
 familyname: Galdanova
 othername: Agniia Galdanova
-venue: 
+venue:
 founder:
 origin: a Russian
 profession: film director, based in Berlin and Moscow
@@ -35,11 +35,11 @@ pinterest: 0
 
 **Showreel 2016 (still)**
 
-*Photo: [Not specified](https://vimeo.com/187537564) / [Source](https://vimeo.com/187537564)*
+*Photo: [Agniia Galdanova](https://vimeo.com/187537564) / [Vimeo.com](https://vimeo.com/187537564)*
 
 ## An incident Karetny Ryad 2019
 
-On the night of June 27-28, 2019, two young men attacked and beat the young director for refusing sex. The men who attacked Agnia Galdanova were arrested by the police. They were caught in St. Petersburg <span id="a2">[\[2, 3\]](#f2)</span>. The incident caused widespread discussion in official media and social networks.
+On the night of June 27-28, 2019, two young men attacked and beat the young director for refusing sex. The men who attacked Agniia Galdanova were arrested by the police. They were caught in St. Petersburg <span id="a2">[\[2, 3\]](#f2)</span>. The incident caused widespread discussion in official media and social networks.
 
 ## Сonspectus
 
