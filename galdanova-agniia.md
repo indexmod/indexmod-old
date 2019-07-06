@@ -6,12 +6,12 @@ originlang: Rus.
 originspell: Агния Галданова
 appearing: Born
 city: Saint Petersburg
-birth: 1987
+birth: 1982
 givenname: Agniia
 familyname: Galdanova
 othername: Agnia (Агния Галданова)
 venue: Школа документального кино и театра Марины Разбежкиной и Михаила Угарова
-founder: 
+founder:
 origin: a Russian
 profession: film director, based in Berlin and Moscow
 photo: Agniia Galdanova in 2016
