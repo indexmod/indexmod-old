@@ -9,7 +9,7 @@ city: Saint Petersburg
 birth: 1987
 givenname: Agniia
 familyname: Galdanova
-othername: Agniia Galdanova
+othername: Agnia (Агния Галданова)
 venue:
 founder:
 origin: a Russian
