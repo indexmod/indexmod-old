@@ -54,7 +54,7 @@ indexmod.gq/edit
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
-**Image as Pavel Alexandrov at Vkontakte**
+**Image as Pavel Alexandrov at Vkontakte (Серёжа, Sergei Kozyrev)**
 
 *Photo: [Unspecified](index) / [Vkontakte](https://vk.com/id478344533)*
 
