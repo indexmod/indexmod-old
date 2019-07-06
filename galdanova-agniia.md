@@ -49,7 +49,7 @@ On the night of June 27-28, 2019, two young men attacked and beat the young dire
 |2015|dOP, Berlin|
 |2019|Razbezhkina, Moscow|
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
 **Agniia Galdanova in 2018 wearing the coat by Turbo Yulia**
 
