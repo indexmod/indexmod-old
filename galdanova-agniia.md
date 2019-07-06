@@ -39,7 +39,7 @@ pinterest: 0
 
 ## An incident Karetny Ryad 2019
 
-On the night of June 27-28, 2019, two young men attacked and beat the young director for refusing sex. The men who attacked Agnia Galdanova were arrested by the police. They were caught in St. Petersburg <span id="a2">[\[2, 3\]](#f2)</span>|. The incident caused widespread discussion in official media and social networks.
+On the night of June 27-28, 2019, two young men attacked and beat the young director for refusing sex. The men who attacked Agnia Galdanova were arrested by the police. They were caught in St. Petersburg <span id="a2">[\[2, 3\]](#f2)</span>. The incident caused widespread discussion in official media and social networks.
 
 ## Сonspectus
 
