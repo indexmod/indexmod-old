@@ -1,0 +1,62 @@
+---
+title: Galdanova, Agniia
+permalink: galdanova-agniia
+layout: default
+originlang: Rus.
+originspell: Агния Галданова
+appearing: Born
+city: Saint Petersburg
+birth: 1987
+givenname: Agniia
+familyname: Galdanova
+othername: Agniia Galdanova
+venue: Red Square
+founder:
+origin: a Russian
+profession: film director, based in Berlin and Moscow
+photo: Agniia Galdanova in 2016
+photographer: Unknown
+source: Vimeo
+photographerurl: https://vimeo.com/user40958283
+sourceurl: https://vimeo.com/user40958283
+shortname: GALDANOVA
+facebook: 0
+instagram: 0
+youtube: 0
+vimeo: 13
+twitter: 0
+tumblr: 0
+vkontakte: 0
+soundcloud: 0
+pinterest: 0
+---
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Showreel 2016 (still)**
+
+*Photo: [Not specified](https://vimeo.com/187537564) / [Source](https://vimeo.com/187537564)*
+
+## An incident Karetny Ryad 2019
+
+On the night of June 27-28, 2019, two young men attacked and beat the young director for refusing sex. The men who attacked Agnia Galdanova were arrested by the police. They were caught in St. Petersburg <span id="a2">[\[2, 3\]](#f2)</span>|. The incident caused widespread discussion in official media and social networks.
+
+## Сonspectus
+
+|Year|Event, city|
+|-|-|
+|2015|dOP Berlin|
+|2019|Razbezhkina Moscow|
+
+## See also
+
++ [dOP](dop)
++ [Wandesand, Demien](wandesand-demien)
+
+## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [Agniia Galdanova (Vimeo)](https://vimeo.com/187537564)
+
+[[2]](#a2) <span id="f2"></span> [Подозреваемых в избиении режиссёра Галдановой задержали в Петербурге (Svoboda.org)](https://www.svoboda.org/a/30035204.html)
+
+[[3]](#a2) <span id="f2"></span> [Мужчины, напавшие на Агнию Галданову, задержаны полицией (Buro247.ru)](https://www.buro247.ru/news/lifestyle/3-jul-2019-agniya-galdanova-moscow.html)
