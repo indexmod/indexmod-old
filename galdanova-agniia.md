@@ -49,6 +49,12 @@ On the night of June 27-28, 2019, two young men attacked and beat the young dire
 |2015|dOP, Berlin|
 |2019|Razbezhkina, Moscow|
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Agniia Galdanova in 2018 wearing the coat by Turbo Yulia**
+
+*Photo: [Masha Lapina](https://indexmod.gq/turbo-yulia) / [Indexmod](https://indexmod.gq/turbo-yulia)*
+
 ## Filmography
 
 |Year|Film|
@@ -58,6 +64,7 @@ On the night of June 27-28, 2019, two young men attacked and beat the young dire
 ## See also
 
 + [dOP](dop)
++ [Turbo Yulia]()
 + [Vandesande, Damien](vandesande-damien)
 
 ## Footnotes
