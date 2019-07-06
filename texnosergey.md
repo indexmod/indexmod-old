@@ -3,17 +3,17 @@ title: TexnoSergey
 permalink: texnosergey
 layout: default
 originlang: Rus.
-originspell: Техно Сергей
+originspell: Техно-Cергей
 appearing: Est.
 city: Moscow
 birth: 2018
 givenname: TexnoSergey
 familyname: Unspecified
-othername: Павел Александров
+othername: Sergei Kozyrev, Павел Александров
 venue:
 founder: Founder of @Texnosergey channel on Instagram
 origin: a Russian
-profession: blogger, video artist became famous in 2019 for his caricatures on celebrities in the fashion world, based in Moscow
+profession: brandname of blogger, video artist became famous in 2019 for his caricatures on celebrities in the fashion world, based in Moscow
 photo: Texnosergey in 2019
 photographer: Texnosergey
 source: Facebook
