@@ -46,15 +46,16 @@ indexmod.gq/edit
 
 *Photo: [Unknown author](index) / [Source](index)*
 
-## Сonspectus
+## Speakers 2019
 
-|Year|City|
+|Name|Position|
 |-|-|
 |2019|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
+
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes

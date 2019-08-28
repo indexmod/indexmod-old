@@ -21,7 +21,7 @@ photographerurl: https://theblueprint.ru/culture/koncert-duran-duran
 sourceurl: https://theblueprint.ru/culture/koncert-duran-duran
 shortname: DIULGEROVA
 facebook: 0
-instagram: 0
+instagram: 562
 youtube: 0
 vimeo: 0
 twitter: 0
@@ -34,7 +34,7 @@ pinterest: 0
 
 ![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Anna Dyulgerova in 2011**
 
 *Photo: [Alexey Kiselev](https://origin.anothermag.com/fashion-beauty/1087/anna-dyulgerova-cycles-and-seasons) / [Anothermag.com](https://origin.anothermag.com/fashion-beauty/1087/anna-dyulgerova-cycles-and-seasons)*
 
