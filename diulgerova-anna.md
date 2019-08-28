@@ -3,7 +3,7 @@ title: Dyulgerova, Anna
 permalink: dyulgerova-anna
 layout: default
 originlang: Rus.
-originspell: Original spell
+originspell: Анна Дюльгерова
 appearing: Born
 city: Moscow
 birth: 1976
