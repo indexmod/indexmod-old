@@ -62,7 +62,7 @@ PR-consultant and business director for Garage magazine, former executive fashio
 
 [[2]](#a2) <span id="f2"></span> [The former executive fashion editor of Russian Vogue paints a picture of modern Moscow (Crane.tv)](http://crane.tv/anna-dyulgerova?fbclid=IwAR2HrJMvS7PiTasaGKGcCPgmkvtF3CK7LJxh7fSUduXEZLAvcmVb-SRV3aE)
 
-[[3]](#a3) <span id="f3"></span> [HAPPY ENDINGS Kate Sutton on Olafur Eliasson at the PinchukArtCentre (Artforum.com)](https://www.artforum.com/diary/kate-sutton-on-olafur-eliasson-at-the-pinchukartcentre-28310)
+[[3]](#a3) <span id="f3"></span> [Happy endings. Kate Sutton on Olafur Eliasson at the PinchukArtCentre (Artforum.com)](https://www.artforum.com/diary/kate-sutton-on-olafur-eliasson-at-the-pinchukartcentre-28310)
 
 [[4]](#a4) <span id="f4"></span> [Secret Cities Moscow Anna Dyulgerova's Modern Vision of the Russian Megacity (Nowness.com)](https://www.nowness.com/series/secret-cities/secret-cities-moscow)
 
