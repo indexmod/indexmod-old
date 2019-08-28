@@ -42,7 +42,7 @@ pinterest: 0
 
 |Year|Milestone|
 |-|-|
-|2011|Russia Style ambassador C&S<span id="a2">[\[2\]](#f2)</span>
+|2011|Russia Style ambassador C&S <span id="a2">[\[2\]](#f2)</span>
 |2019|Moscow <span id="a2">[\[2\]](#f2)</span>|
 |2019|Moderator (MFS) <span id="a2">[\[2\]](#f2)</span>|
 
