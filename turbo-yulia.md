@@ -14,7 +14,7 @@ venue: Turbo Shop
 founder: Yulia Makarova
 origin: a Russian
 profession: brand founded by fashion designer, Andrey Bartenev’s companion and finalist of the “New Names in Design” competition Yulia Vorobieva (Makarova) and inspired by futurism and artificial digital reality
-photo: The coat by Turbo Yulia worn by Agnia Gald in 2018
+photo: The coat by Turbo Yulia worn by Agniia Galdanova in 2018
 photographer: Masha Lapina
 source: Facebook
 photographerurl: index
@@ -42,6 +42,7 @@ indexmod.gq/edit
 ## See also
 
 + [Andrey Bartenev](bartenev-andrey)
++ [Agniia Galdanova](galdanova-agniia)
 + [London Fashion Week](london-fashion-week)
 
 ## Footnotes
