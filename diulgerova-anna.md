@@ -47,8 +47,8 @@ PR-consultant and business director for Garage magazine, former executive fashio
 
 |Year|Milestone|
 |-|-|
-|2011|Russia Style ambassador C&S <span id="a2">[\[2\]](#f2)</span>
-|2019|Moderator (MFS) <span id="a2">[\[2\]](#f2)</span>|
+|2011|Russia Style ambassador C&S <span id="a6">[\[6\]](#f7)</span>
+|2019|Speaker, moderator (MFS) <span id="a7">[\[7\]](#f7)</span>|
 
 ## See also
 
@@ -68,4 +68,6 @@ PR-consultant and business director for Garage magazine, former executive fashio
 
 [[5]](#a5) <span id="f5"></span> [Интервью с PR агентом и маркетинг консультантом Анной Дюльгеровой (Богдан Максименко, Telegra.ph)](https://telegra.ph/YA-delayu-to-chto-mne-interesno-s-temi-gde-ya-vizhu-potencial-primeneniya-svoih-sil-Intervyu-s-direktorom-kommunikacionnogo-agen-03-09?fbclid=IwAR0fc6D-tlsvipnPnJaVhD6sf6l03sfIr9xRD6DWhb0UFsjwU1y7Qjx4b64)
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[6]](#a6) <span id="f6"></span> [Anna Dyulgerova, Cycles and Seasons (Anothermag.com)](https://origin.anothermag.com/fashion-beauty/1087/anna-dyulgerova-cycles-and-seasons)
+
+[[7]](#a7) <span id="f7"></span> [(Wikipedia)](index)
