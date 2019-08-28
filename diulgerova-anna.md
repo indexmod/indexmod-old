@@ -14,7 +14,7 @@ venue: Garage Moscow
 founder: Cycles&Seasons, Anna Dyulgerova Communication
 origin: a Russian
 profession: PR-consultant and business director for Garage magazine
-photo: This is sample for image caption
+photo: Anna at after-party of the “Fondation Louis Vuitton Collection. favorites" xhibition at Strelka Bar
 photographer: Sasha Mademuaselle
 source: Theblueprint.ru
 photographerurl: https://theblueprint.ru/culture/koncert-duran-duran
