@@ -70,4 +70,4 @@ PR-consultant and business director for Garage magazine, former executive fashio
 
 [[6]](#a6) <span id="f6"></span> [Anna Dyulgerova, Cycles and Seasons (Anothermag.com)](https://origin.anothermag.com/fashion-beauty/1087/anna-dyulgerova-cycles-and-seasons)
 
-[[7]](#a7) <span id="f7"></span> [(Wikipedia)](index)
+[[7]](#a7) [Что такое Ассоциация моды Москвы и при чём тут Ксения Собчак (Buro247.ru)](https://www.buro247.ru/fashion/fashion-industry/16-apr-2019-association-of-fashion.html)
