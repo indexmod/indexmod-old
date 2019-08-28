@@ -50,12 +50,32 @@ indexmod.gq/edit
 
 |Name|Position|
 |-|-|
-|2019|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|Kirill Ilyichev|Head Of Moscow Export Center|
+|Anzor Kankulov|Head Of Fashion Program At HSE Art And Design School, Fashion Expert|
+|Ksenia Sobchak|Ex-Chief-Editor For L'Officiel Russia, Journalist, TV Host|
+|Carine Roitfeld|CR Fashion Book Founder and Chief Editor, Global Fashion Director For Harper'S Bazaar|
+|Vladimir Restoin-Roitfeld|President Of CR Fashion Book Ltd|
+|Caroline Rush - CBE|Chief Executive Officer, British Fashion Council|
+|Zowie Broach|Head Of Fashion At London'S Royal College of Art|
+|Joerg Koch|Founder, Creative Director 032с and Ssense|
+|Maria Koch|Founder, Creative Director 032с|
+|Tatyana Konstantinova|Partner And Managing Director
+of R.S.V.P Agency|
+|Yurate Gurauskayte|Chief Editor for Instyle Russia|
+|Eugeny Tikhonovich|RBC Style Chief Editor|
+|Ekaterina Darma|Buro 24/7 Chief Editor|
+|Maria Popova|Vogue Russia Chief Web Editor|
+|Katya Fedorova|Founder and Author of 'Good Morning, Karl!'|Telegram Channel|
+|Alexander Perepelkin|Founder and Partner of Lunar Hare Agency|
+|Andrey Artemov|Founder and Creative Designer of Walk Of Shame|
+|[Anna Dyulgerova](dyulgerova-anna)|Pr-Consultant and Business Director for Garage Magazine|
+|Olga Karput'|Founder and Beholder of KM20|
+|Oxana Bondarenko|Founder of 'Li-Lu' Showroom|
 
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
-
++ + [Anna Dyulgerova](dyulgerova-anna)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes
