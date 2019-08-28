@@ -14,11 +14,11 @@ venue: Vinzavod
 founder: MEC and Moscow City Government
 origin: a Russian
 profession: fashion event in Moscow
-photo: This is sample for image caption
-photographer: Sasha Mademuaselle
-source: Source
-photographerurl: index
-sourceurl: index
+photo: Ksenia Sobchak and Anzor Kankulov presented the project “Moscow Fashion Association”
+photographer: PR Archives
+source: Instyle.ru
+photographerurl: https://instyle.ru/stars/news/kseniya-sobchak-i-anzor-kankulov-predstavili-proekt-assotsiatsii-mody-moskvy/?slide=5&gallery=2
+sourceurl: https://instyle.ru/stars/news/kseniya-sobchak-i-anzor-kankulov-predstavili-proekt-assotsiatsii-mody-moskvy/?slide=5&gallery=2
 shortname: MFS
 facebook: 2
 instagram: 0
@@ -39,12 +39,6 @@ on right menu
 Full edit instructions
 indexmod.gq/edit
 -->
-
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Unknown author](index) / [Source](index)*
 
 ## Speakers 2019
 
@@ -82,3 +76,5 @@ indexmod.gq/edit
 [[1]](#a1) <span id="f1"></span> [Ксения Собчак рассказала, чем занимается Ассоциация моды Москвы (Fashionunited.ru)](https://fashionunited.ru/novostee/beeznyes/kseniya-sobchak-rasskazala-chem-zanimaetsya-assotsiatsiya-mody-moskvy/2019060725962)
 
 [[2]](#a2) <span id="f2"></span> [Что такое Ассоциация моды Москвы и при чём тут Ксения Собчак (Buro247.ru)](https://www.buro247.ru/fashion/fashion-industry/16-apr-2019-association-of-fashion.html)
+
+[[3]](#a3) <span id="f3"></span> [Что такое Ассоциация моды Москвы и при чём тут Ксения Собчак (Buro247.ru)](https://www.buro247.ru/fashion/fashion-industry/16-apr-2019-association-of-fashion.html)
