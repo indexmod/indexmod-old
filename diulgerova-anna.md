@@ -19,7 +19,7 @@ photographer: Sasha Mademuaselle
 source: Theblueprint.ru
 photographerurl: https://theblueprint.ru/culture/koncert-duran-duran
 sourceurl: https://theblueprint.ru/culture/koncert-duran-duran
-shortname: DIULGEROVA
+shortname: DYULGEROVA
 facebook: 0
 instagram: 562
 youtube: 0
@@ -38,11 +38,11 @@ pinterest: 0
 
 *Photo: [Alexey Kiselev](https://origin.anothermag.com/fashion-beauty/1087/anna-dyulgerova-cycles-and-seasons) / [Anothermag.com](https://origin.anothermag.com/fashion-beauty/1087/anna-dyulgerova-cycles-and-seasons)*
 
-## Сonspectus
+## Selected milestones
 
 |Year|Milestone|
 |-|-|
-|2011|Style ambassador <span id="a2">[\[2\]](#f2)</span>
+|2011|Russia Style ambassador C&S<span id="a2">[\[2\]](#f2)</span>
 |2019|Moscow <span id="a2">[\[2\]](#f2)</span>|
 |2019|Moderator (MFS) <span id="a2">[\[2\]](#f2)</span>|
 
@@ -54,6 +54,8 @@ pinterest: 0
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Ксения Собчак рассказала, чем занимается Ассоциация моды Москвы (Fashionunited.ru)](https://fashionunited.ru/novostee/beeznyes/kseniya-sobchak-rasskazala-chem-zanimaetsya-assotsiatsiya-mody-moskvy/2019060725962)
 
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Source name)](index)
+[[1]](#a1) <span id="f1"></span> [Ксения Собчак рассказала, чем занимается Ассоциация моды Москвы (Fashionunited.ru)](https://fashionunited.ru/novostee/beeznyes/kseniya-sobchak-rasskazala-chem-zanimaetsya-assotsiatsiya-mody-moskvy/2019060725962)
+
+[[2]](#a2) <span id="f2"></span> [Fashion weeks around the world](Moscowfashionsummit.ru)](http://moscowfashionsummit.ru/en)
