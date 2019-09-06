@@ -62,10 +62,10 @@ indexmod.gq/edit
 
 ## See also
 
-+ [Cosmoscow]()
-+ [Crosby Studios]()
++ [Cosmoscow](cosmoscow)
++ [Crosby Studios](crosby-studios)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
-+ [Opening Ceremony]()
++ [Opening Ceremony](opening-ceremony)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes
