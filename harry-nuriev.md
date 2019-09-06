@@ -5,7 +5,7 @@ layout: default
 originlang: Rus.
 originspell: Гарри Нуриев
 appearing: Born
-city: Stavropol, Russia
+city: Stavropol
 birth: 1984
 givenname: Harry
 familyname: Nuriev
