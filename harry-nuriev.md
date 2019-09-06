@@ -61,6 +61,7 @@ indexmod.gq/edit
 
 ## See also
 
++ [Cosmoscow]()
 + [Crosby Studios]()
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Opening Ceremony]()
