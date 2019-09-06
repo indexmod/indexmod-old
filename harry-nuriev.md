@@ -1,5 +1,5 @@
 ---
-title: Harry Nuriev
+title: Nuriev, Harry
 permalink: harry-nuriev
 layout: default
 originlang: Rus.
