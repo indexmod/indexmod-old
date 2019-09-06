@@ -1,21 +1,20 @@
 ---
-title: Template
-permalink: template
+title: Harry Nuriev
+permalink: harry-nuriev
 layout: default
-exclude: true
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
+originlang: Rus.
+originspell: Гарри Нуриев
+appearing: Born
+city: Stavropol, Russia
+birth: 1984
+givenname: Harry
+familyname: Nuriev
+othername: Гарри Нуриев
 venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
+founder: Сrosby Studios
+origin: a Russian
+profession: designer living and working in NYC
+photo: Harry Nuriev
 photographer: Georgy Kardava
 source: Style.rbc.ru
 photographerurl: https://style.rbc.ru/people/5bfc5ca99a794727ecfcfdc0
@@ -51,7 +50,7 @@ indexmod.gq/edit
 
 |Year|City|
 |-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2019|Yandex colab in Moscow <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
@@ -60,4 +59,6 @@ indexmod.gq/edit
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](https://style.rbc.ru/people/5bfc5ca99a794727ecfcfdc0)
+[[1]](#a1) <span id="f1"></span> [Архитектор Гарри Нуриев — о разнице между Москвой и Нью-Йорком (Style.rbc.ru)](https://style.rbc.ru/people/5bfc5ca99a794727ecfcfdc0)
+
+[[1]](#a1) <span id="f1"></span> [«Яндекс.Такси» и архитектор Гарри Нуриев выпустили коллекцию одежды (Esquire.ru)](https://esquire.ru/style-and-grooming/122372-yandekstaksi-i-arhitektor-garri-nuriev-vypustili-kollekciyu-odezhdy/)
