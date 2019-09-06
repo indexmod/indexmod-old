@@ -3,7 +3,7 @@ title: TexnoSergey
 permalink: texnosergey
 layout: default
 originlang: Rus.
-originspell: Техно-Cергей
+originspell: ТехноCергей
 appearing: Est.
 city: Moscow
 birth: 2018
