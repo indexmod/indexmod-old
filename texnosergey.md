@@ -40,6 +40,9 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
+
+Russian web edition Spletnik called him as "the one who describes the life of consumers of luxury items" Rus. [ obozrevatel tazhelogo luksa ] <span id="a3">[\[3\]](#f3)</span>.
+
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Screen from of the Texnosergey channel on Instagram**
@@ -50,7 +53,7 @@ indexmod.gq/edit
 
 |Year|Milestone|
 |-|-|
-|2018|First publication on Instagram <span id="a2">[\[2\]](#f2)</span>|
+|2018|First publication on Instagram <span id="a3">[\[3\]](#f3)</span>|
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
@@ -72,7 +75,8 @@ indexmod.gq/edit
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Chère celine pourriez-vous s'il vous plaît présenter votre nouveau sac à mashavoguerussia, elle veut vraiment ce sac. S'il vous plaît soyez généreux, nous serons tous reconnaissants!
-Merci beaucoup, vraiment votre texnosergey (Instagram)](https://www.instagram.com/p/Bv5arGlHOYa/)
+[[1]](#a1) <span id="f1"></span> [Chère celine pourriez-vous s'il vous plaît présenter votre nouveau sac à mashavoguerussia, elle veut vraiment ce sac. S'il vous plaît soyez généreux, nous serons tous reconnaissants! Merci beaucoup, vraiment votre texnosergey (Instagram)](https://www.instagram.com/p/Bv5arGlHOYa/)
 
-[[2]](#a2) <span id="f2"></span> [Обожаю телемагазин на диване. Это самая смешная развлекательная живучая телепередача на свете... (Instagram)](https://www.instagram.com/p/BrBRBB3BSeJ/)
+[[2]](#a2) <span id="f2"></span> [Писдав, Стриптизерша, Алла Вцуми и все-все-все (Spletnik.ru)](http://www.spletnik.ru/blogs/pro_zvezd/170510_pisdav-striptizersha-alla-vtcumi-i-vse-vse-vse)
+
+[[3]](#a3) <span id="f2"></span> [Обожаю телемагазин на диване. Это самая смешная развлекательная живучая телепередача на свете... (Instagram)](https://www.instagram.com/p/BrBRBB3BSeJ/)
