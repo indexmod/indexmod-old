@@ -61,4 +61,4 @@ indexmod.gq/edit
 
 [[1]](#a1) <span id="f1"></span> [Архитектор Гарри Нуриев — о разнице между Москвой и Нью-Йорком (Style.rbc.ru)](https://style.rbc.ru/people/5bfc5ca99a794727ecfcfdc0)
 
-[[1]](#a1) <span id="f1"></span> [«Яндекс.Такси» и архитектор Гарри Нуриев выпустили коллекцию одежды (Esquire.ru)](https://esquire.ru/style-and-grooming/122372-yandekstaksi-i-arhitektor-garri-nuriev-vypustili-kollekciyu-odezhdy/)
+[[2]](#a2) <span id="f2"></span> [«Яндекс.Такси» и архитектор Гарри Нуриев выпустили коллекцию одежды (Esquire.ru)](https://esquire.ru/style-and-grooming/122372-yandekstaksi-i-arhitektor-garri-nuriev-vypustili-kollekciyu-odezhdy/)
