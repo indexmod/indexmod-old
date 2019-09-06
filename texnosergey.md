@@ -13,7 +13,7 @@ othername: Серёжа, Sergei Kozyrev, Павел Александров
 venue:
 founder: Founder of @Texnosergey channel on Instagram
 origin: a Russian
-profession: brandname of blogger, video artist became famous in 2019 for his caricatures on celebrities in the fashion world, based in Moscow
+profession: futurologist, blogger, video artist became famous in 2019 for his caricatures on celebrities in the fashion world, based in Moscow
 photo: Texnosergey in 2019
 photographer: Texnosergey
 source: Facebook
