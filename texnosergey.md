@@ -41,7 +41,7 @@ indexmod.gq/edit
 -->
 
 
-Russian web edition Spletnik called him as "the one who describes the life of consumers of luxury items" Rus. [ obozrevatel tazhelogo luksa ] <span id="a3">[\[3\]](#f3)</span>.
+Russian web edition Spletnik called him as "the one who describes the life of consumers of luxury items" Rus. [ obozrevatel tezhelogo luksa ] <span id="a3">[\[3\]](#f3)</span>.
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
