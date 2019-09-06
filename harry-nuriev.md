@@ -53,6 +53,7 @@ indexmod.gq/edit
 |2018|Opening Ceremony, NYC <span id="a2">[\[2\]](#f2)</span>|
 |2019|Yandex.Taxi co-laboration, Moscow <span id="a3">[\[3\]](#f3)</span>|
 
+
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
 **Artists presented at Cosmoscow 2019: Harry Nuriev Yandex.Taxi x Crosby Studios**
