@@ -10,7 +10,7 @@ birth: 1984
 givenname: Harry
 familyname: Nuriev
 othername: Гарри Нуриев
-venue: Сrosby Studios Moscow / NYC
+venue: 26/1, Trubnikovskiy Lane, Moscow, Russia, 121069
 founder: Сrosby Studios
 origin: a Russian
 profession: architect, artist, fashion designer living and working in NYC and Moscow
@@ -51,11 +51,19 @@ indexmod.gq/edit
 |Year|Project, city|
 |-|-|
 |2018|Opening Ceremony, NYC <span id="a2">[\[2\]](#f2)</span>|
-|2019|Yandex Taxi co-laboration, Moscow <span id="a3">[\[3\]](#f3)</span>|
+|2019|Yandex.Taxi co-laboration, Moscow <span id="a3">[\[3\]](#f3)</span>|
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
+
+**Artists presented at Cosmoscow 2019: Harry Nuriev Yandex.Taxi x Crosby Studios**
+
+*Photo: [Crosby Studios](https://www.cosmoscow.com/en/galleries/gallery-311/) / [Cosmoscow.com](https://www.cosmoscow.com/en/galleries/gallery-311/)*
 
 ## See also
 
++ [Crosby Studios]()
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
++ [Opening Ceremony]()
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes
