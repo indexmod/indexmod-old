@@ -21,7 +21,7 @@ photographerurl: index
 sourceurl: index
 shortname: TEXNOSERGEY
 facebook: 0
-instagram: 36507
+instagram: 53900
 youtube: 0
 vimeo: 0
 twitter: 0
