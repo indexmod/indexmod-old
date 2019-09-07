@@ -20,10 +20,10 @@ source: Facebook
 photographerurl: index
 sourceurl: index
 shortname: MALHOTRA
-facebook: 0
-instagram: 0
+facebook: 6
+instagram: 299
 youtube: 0
-vimeo: 0
+vimeo: 3
 twitter: 0
 tumblr: 0
 vkontakte: 0
@@ -65,5 +65,10 @@ Shriya Malhotra is an urban researcher and artist working with Partizaning in Mo
 + [Dmytro Zaiets](zaiets-dmytro)
 
 ## Footnotes
+
+
+
+[[1]](#a1) <span id="f1"></span> [IN THE CITY, EVERYONE IS AN ARTIST (Britishcouncil.org)](https://www.britishcouncil.org/sites/default/files/shriyamalhotra_a4_digital_highres.pdf)
+
 
 [[2]](#a2) <span id="f2"></span> [Shriya Malhotra (Resite.org)](https://www.resite.org/speakers/shriya-malhotra)
