@@ -21,7 +21,7 @@ photographerurl: 'https://www.thecut.com/2018/05/how-anna-delvey-tricked-new-yor
 sourceurl: 'https://www.thecut.com/2018/05/how-anna-delvey-tricked-new-york.html'
 shortname: DELVEY
 facebook: 0
-instagram: 52900
+instagram: 74100
 youtube: 0
 vimeo: 0
 twitter: 0
