@@ -40,6 +40,20 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
+# Presentation
+
+Shriya will share examples of DIY urbanism and trajectories of unsanctioned, civic street art from Russia, with a focus on initiatives and interventions by Partizaning— guerilla crosswalks, bicycle navigation, metro maps, public mailboxes and other actions. She will also discuss the development a new web / smart phone platform, Mikroact, aimed at collaboratively supporting ideas of a ‘New collectivism’ and enabling citizen lead collective and creative urban actions in Moscow and New York.
+
+# Biography
+
+Shriya Malhotra collaboratives on artistic research and creative activism projects. Her work explores how people shape the cities they live in from the bottom up, and how they can create new dialogues with one another and their built environment. She has an MA in Cities and Urbanization from the New School in New York, and is a member of a Moscow based creative collective, Partizaning. She is currently based in Berlin and working on an artistic research project at the Zentrum for Kunst and Urbanistik as part of the Partizaning Lab which combines urban research and practices.
+
+# Links
+
++ eng.partizaning.org
++ zku-berlin.org
++ lab.partizaning.org
+
 # See also
 
 + [Partizaning (disambiguation)](partizaning-disambiguation)
