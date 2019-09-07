@@ -29,7 +29,16 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
+weibo: 0
 ---
+
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+indexmod.gq/edit
+-->
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
@@ -55,41 +64,26 @@ pinterest: 0
 
 (Est. 2013, city) is a Shriya Malhotra (Hi. श्रेया मल्होत्रा) born 1983, India—an artist, researcher, interventionist, former editor of Partizaning, living and working at New Deli. Login to edit Shriya Malhotra <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-**Image title**
-“Shriya is ready for a kiss”
-Photo: Nica Komarova / Facebook
-*Photo: [Name](index) / [Source](index)*
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-# {{page.title}} Conspectus
+**“Shriya is ready for a kiss”**
+
+*Photo: [Nica Komarova](index) / [Facebook](index)*
+
+## Сonspectus
 
 |Year|City|
 |-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
-
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
 # See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-Partizaning (disambiguation)
-Anton Polsky (Make)
-Igor Ponosov
-Dmytro Zaiets
++ [Partizaning (disambiguation)](partizaning-disambiguation)
++ [Anton Polsky (Make)](polsky-anton-make)
++ [Igor Ponosov](ponosov-igor)
++ [Dmytro Zaiets](zaiets-dmytro)
 
-# Footnotes
+## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)

@@ -2,18 +2,18 @@
 title: Partizaning (movement)
 permalink: partizaning-movement
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Партизанинг
+appearing: Est.
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+birth: 2013
+givenname: Partizaning
+familyname:
+othername: 
+venue:
+founder: Make
+origin: an international
+profession: movement founded by a group of street art activists in Moscow in beginning of 10s with its goal is to reflect and promote the idea of art-based DIY activism
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
@@ -29,51 +29,46 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
+weibo: 0
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+indexmod.gq/edit
+-->
 
-(Est. 2013, city) is a Partizaning  (Rus. Партизанинг)—a movement founded by a group of street art activists in Moscow in beginning of 10s with its goal is to reflect and promote the idea of art-based DIY activism aimed at rethinking, restructuring and improving urban environments and communities, and to explore the role of art as a practical tool for inclusive city regeneration and social activism, to provide documentation and analysis of the role of art in reshaping public spaces, cities and human interactions—globally.1
- <span id="a1">[\[1\]](#f1)</span>.
+Movement founded by a group of street art activists in Moscow in beginning of 10s with its goal is to reflect and promote the idea of art-based DIY activism aimed at rethinking, restructuring and improving urban environments and communities, and to explore the role of art as a practical tool for inclusive city regeneration and social activism, to provide documentation and analysis of the role of art in reshaping public spaces, cities and human interactions—globally <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
+ ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image title**
+ **Russian tank in Amsterdam as part of Prtizaning Projects**
 
-*Photo: [Name](index) / [Source](index)*
-Russian tank in Amsterdam as part of Prtizaning Projects
-Photo: Make / Prtizaning
+ *Photo: [Make](index) / [Prtizaning](index)*
 
-Userpic of Partizaning movement at its Facebook page
-Image: Make / Facebook
-# {{page.title}} Conspectus
+ ## Сonspectus
 
-|Year|City|
-|-|-|
-|2017|Moscow|
+ |Year|City|
+ |-|-|
+ |2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
-# {{page.title}} Indexmod
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+**Userpic of Partizaning movement at its Facebook page**
+
+*Photo: [Make](index) / [Facebook](index)*
 
 
 # See also
 
-Partizaning (disambiguation)
-Anton Polsky (Make)
-Igor Ponosov
-Shriya Malhotra
-Dmytro Zaiets
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Partizaning (disambiguation)](partizaning-disambiguation)
++ [Anton Polsky (Make)](polsky-anton-make)
++ [Igor Ponosov](ponosov-igor)
++ [Shriya Malhotra](malhotra-shriya)
++ [Dmytro Zaiets](zaiets-dmytro)
 
-# Footnotes
+## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)

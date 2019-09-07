@@ -29,12 +29,38 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
+weibo: 0
 ---
+
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+indexmod.gq/edit
+-->
+
 (Rus. Дмитрий Заец, born 1985, Kharkiv) is an independed cultural sociologist, co-counder of Partizaning movement, M.A. in Sociology at Lancaster University, Ph.D in Sociology at V. Karazin Kharkiv National University.
 
-## See also
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-+ Partizaning (disambiguation)
-+ Anton Polsky (Make)
-+ Igor Ponosov
-+ Shriya Malhotra
+**Image caption**
+
+*Photo: [Unknown author](index) / [Source](index)*
+
+## Сonspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+
+# See also
+
++ [Partizaning (disambiguation)](partizaning-disambiguation)
++ [Anton Polsky (Make)](polsky-anton-make)
++ [Igor Ponosov](ponosov-igor)
++ [Shriya Malhotra](malhotra-shriya)
+
+## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
