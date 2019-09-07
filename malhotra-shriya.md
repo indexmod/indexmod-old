@@ -48,6 +48,9 @@ Shriya will share examples of DIY urbanism and trajectories of unsanctioned, civ
 
 Shriya Malhotra collaboratives on artistic research and creative activism projects. Her work explores how people shape the cities they live in from the bottom up, and how they can create new dialogues with one another and their built environment. She has an MA in Cities and Urbanization from the New School in New York, and is a member of a Moscow based creative collective, Partizaning. She is currently based in Berlin and working on an artistic research project at the Zentrum for Kunst and Urbanistik as part of the Partizaning Lab which combines urban research and practices.
 
+
+Shriya Malhotra is an urban researcher and artist working with Partizaning in Moscow. Her work uses participatory arts-based practices for research and community engagement, with a goal to create better cities. She has an MA in Cities and Urbanization, and her work focuses on urban sustainability, mobility, public health and social inclusion. Shriya has collaborated on community arts and research projects in Buenos Aires, New York, New Delhi, and Moscow <span id="a2">[\[2\]](#f2)</span>.
+
 # Links
 
 + eng.partizaning.org
@@ -62,3 +65,5 @@ Shriya Malhotra collaboratives on artistic research and creative activism projec
 + [Dmytro Zaiets](zaiets-dmytro)
 
 ## Footnotes
+
+[[2]](#a2) <span id="f2"></span> [Shriya Malhotra (Resite.org)](https://www.resite.org/speakers/shriya-malhotra)

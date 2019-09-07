@@ -65,6 +65,7 @@ Igor Ponosov demonstrates his tent-coat in 2015
 
 + [Partizaning (disambiguation)](partizaning-disambiguation)
 + [Anton Polsky (Make)](polsky-anton-make)
++ [Igor Ponosov](ponosov-igor)
 + [Shriya Malhotra](malhotra-shriya)
 + [Dmytro Zaiets](zaiets-dmytro)
 
