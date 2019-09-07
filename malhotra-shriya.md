@@ -14,9 +14,9 @@ venue: New Deli
 founder: Partizaning
 origin: an Indian
 profession: artist, researcher, interventionist, former editor of Partizaning, living and working at New Deli
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
+photo: Shriya is ready for a kiss
+photographer: Nica Komarova
+source: Facebook
 photographerurl: index
 sourceurl: index
 shortname: MALHOTRA
@@ -48,5 +48,3 @@ indexmod.gq/edit
 + [Dmytro Zaiets](zaiets-dmytro)
 
 ## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
