@@ -53,9 +53,9 @@ Shriya Malhotra is an urban researcher and artist working with Partizaning in Mo
 
 # Links
 
-+ eng.partizaning.org
-+ zku-berlin.org
-+ lab.partizaning.org
++ [eng.partizaning.org](eng.partizaning.org)
++ [zku-berlin.org](zku-berlin.org)
++ [lab.partizaning.org](lab.partizaning.org)
 
 # See also
 
