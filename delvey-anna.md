@@ -5,14 +5,14 @@ layout: default
 originspell: Анна Делви
 originlang: Rus.
 appearing: Born
-city: Unknown (Russia)
+city: Domodedovo
 birth: 1991
 givenname: Anna
 familyname: Sorokina
 othername: Анна Сорокина
 venue: Rikers Island
 founder: Anna Delvey Foundation
-origin: 'a dauter of Russian immigrants from Colone''s suburbs,'
+origin: dauter of Russian immigrants from Colone's suburbs,
 profession: a founder of the Anna Delvey Foundation
 photo: Anna Delvey
 photographer: Sergio Corvacho
@@ -72,7 +72,7 @@ A drawing by artist Salvador Dalí, done as an apology because he was unable to 
 
 [[2]](#a2) <span id="f2"></span> [Maybe She Had So Much Money She Just Lost Track of It Somebody had to foot the bill for Anna Delvey’s fabulous new life. The city was full of marks. (Jessica Pressler, The Cut)](https://www.thecut.com/2018/05/how-anna-delvey-tricked-new-york.html)
 
-[[3]](#a3) <span id="f3"></span> [Фальшивая наследница: 
+[[3]](#a3) <span id="f3"></span> [Фальшивая наследница:
 За что в Нью-Йорке судят россиянку Анну Делви (Wonderzine.com)](https://www.wonderzine.com/wonderzine/life/life/242349-anna-delvey)
 
 [[4 — 12]](#a4) <span id="f4"></span> [Let’s Dreamcast the Anna Delvey Story (Hunter Harris, Vulture.com)](http://www.vulture.com/2018/05/anna-delvey-scammer-movie-dream-cast.html)
