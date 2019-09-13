@@ -48,9 +48,9 @@ indexmod.gq/edit
 
 ## Сonspectus
 
-|Year|City|
+|Year|City, event|
 |-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2019|Moscow, <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
@@ -65,4 +65,6 @@ indexmod.gq/edit
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [Ксения Собчак и Анзор Канкулов — об Ассоциации моды Москвы (Theblueprint.ru)](https://theblueprint.ru/fashion/fashion-association)
+
+[[2]](#a2) <span id="f2"></span> [Ксения Собчак и Анзор Канкулов — об Ассоциации моды Москвы (Theblueprint.ru)](https://theblueprint.ru/fashion/fashion-association)

@@ -51,7 +51,7 @@ indexmod.gq/edit
 |Year|City|
 |-|-|
 |2017|Presidential Candidate RF <span id="a2">[\[2\]](#f2)</span>|
-|2019|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2019|Moscow, Moscow Fashion Association <span id="a3">[\[3\]](#f3)</span>|
 
 ## See also
 
