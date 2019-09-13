@@ -11,8 +11,7 @@ givenname: Anzor
 familyname: Kankulov
 othername: Анзор Канкулов
 venue: HSE University
-founder:
-Moscow Fashion Association
+founder: Moscow Fashion Association
 origin: a Russian
 profession: journalist, Senior Lecturer at Faculty of Communications, Media, and Design
 photo: This is sample for image caption
@@ -56,6 +55,8 @@ indexmod.gq/edit
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
++ [Sobchak, Ksenia](sobchak-ksenia)
++ [Kankulov, Anzor](kankulov-anzor)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes
