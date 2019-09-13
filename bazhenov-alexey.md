@@ -2,13 +2,13 @@
 title: Bazhenov, Alexey
 permalink: bazhenov-alexey
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
+originlang: Rus.
+originspell: Алексей Баженов
 appearing: Born
 city: Saint Petersburg
 birth: 2018
-givenname: Given name
-familyname: Family name
+givenname: Alexey
+familyname: Bazhenov
 othername: Алексей Баженов
 venue:
 founder: Be-in.ru
