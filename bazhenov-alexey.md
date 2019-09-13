@@ -4,23 +4,23 @@ permalink: bazhenov-alexey
 layout: default
 originlang: Rus. / Eng.
 originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
+appearing: Born
+city: Saint Petersburg
 birth: 2018
 givenname: Given name
 familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Unknown author
-source: Source
-photographerurl: index
-sourceurl: index
+othername: Алексей Баженов
+venue:
+founder: Be-in.ru
+origin: a Russian
+profession: philologist, journalist, fashion figure, founder and CEO of Be-in.ru, Be In Open and Be In Open Film Festival
+photo: Alexey Bazhenov in Paris in 2018
+photographer: Turbo Yulia
+source: Facebook.com
+photographerurl: turbo-yulia
+sourceurl: https://www.facebook.com/photo.php?fbid=1887501334620498&set=t.100000220400166&type=3&theater
 shortname: BAZHENOV
-facebook: 0
+facebook: 4984
 instagram: 0
 youtube: 0
 vimeo: 0
@@ -42,25 +42,24 @@ indexmod.gq/edit
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Alexey Bazhenov at Birzha Bar at MediaBuzz event in Saint Petersburg**
 
-*Photo: [Unknown author](index) / [Source](index)*
+*Photo: [Maria Tarasova](http://svetznn.com/vstrecha-s-osnovatelem-portala-be-in-ru-alekseem-bazhenovym-2/) / [Svetznn.com](http://svetznn.com/vstrecha-s-osnovatelem-portala-be-in-ru-alekseem-bazhenovym-2/)*
 
 ## Сonspectus
 
 |Year|City|
 |-|-|
-|2015|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2006|Saint Petersburg, Be In.ru founded|
 
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Kankulov, Anzor](kankulov-anzor)
-
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [ВСТРЕЧА С ОСНОВАТЕЛЕМ ПОРТАЛА BE-IN.RU АЛЕКСЕЕМ БАЖЕНОВЫМ (Svetznn.com)](http://svetznn.com/vstrecha-s-osnovatelem-portala-be-in-ru-alekseem-bazhenovym-2/)
+[[1]](#a1) <span id="f1"></span> [Встреча с основателем портала Be-in.ru Алексеем Баженовым (Svetznn.com)](http://svetznn.com/vstrecha-s-osnovatelem-portala-be-in-ru-alekseem-bazhenovym-2/)
 
 [[2]](#a2) <span id="f2"></span> [Алексей Баженов: «Мода в России переживает период ломки — с безвкусицей и вторичным производством» (Sobaka.ru)](http://www.sobaka.ru/fashion/heroes/78811)

@@ -51,7 +51,7 @@ indexmod.gq/edit
 
 |Year|City, event|
 |-|-|
-|2009|Saint Petersburg, Be In.ru founded|
+|2006|Saint Petersburg, Be In.ru founded|
 |2018|Be In Open|
 |2019|Ulianovsk, Gastroli <span id="a3">[\[3\]](#f3)</span>|
 
