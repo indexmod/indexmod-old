@@ -86,4 +86,4 @@ indexmod.gq/edit
 
 [[4, 5]](#a4) <span id="f4"></span> [Собчак назвала причины развода с Виторганом (Ridus.ru)](https://www.ridus.ru/news/295106)
 
-[[1]](#a1) <span id="f1"></span> [Опубликован список приглашенных на свадьбу Собчак и Богомолова (Rg.ru)](https://rg.ru/2019/09/11/opublikovan-spisok-priglashennyh-na-svadbe-sobchak-i-bogomolova.html)
+[[6]](#a6) <span id="f6"></span> [Опубликован список приглашенных на свадьбу Собчак и Богомолова (Rg.ru)](https://rg.ru/2019/09/11/opublikovan-spisok-priglashennyh-na-svadbe-sobchak-i-bogomolova.html)
