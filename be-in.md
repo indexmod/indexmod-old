@@ -6,8 +6,8 @@ originlang: Rus.
 originspell: Би-ин
 appearing: Est.
 city: Saint Petersburg
-birth: 2018
-givenname: Be-in
+birth: 2007
+givenname: Be-in.ru
 familyname:
 othername: Би-ин
 venue:  
@@ -20,15 +20,16 @@ source: Indexmod Blockchainpedia
 photographerurl: dei-andrei
 sourceurl: index
 shortname: BEIN
-facebook: 0
-instagram: 0
-youtube: 0
+facebook: 76918
+instagram: 8279
+youtube: 781
 vimeo: 0
-twitter: 0
+twitter: 1909
 tumblr: 0
-vkontakte: 0
+vkontakte: 217565
 soundcloud: 0
 pinterest: 0
+weibo: 0
 ---
 
 <!---
@@ -48,10 +49,11 @@ indexmod.gq/edit
 
 ## Сonspectus
 
-|Year|Events|
+|Year|City, event|
 |-|-|
-|2017|Be In Open|
+|2009|Saint Petersburg, Be In.ru founded|
 |2018|Be In Open|
+|2019|Ulianovsk, Gastroli <span id="a3">[\[3\]](#f3)</span>|
 
 ## See also
 
@@ -60,4 +62,8 @@ indexmod.gq/edit
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/beinru/)
+[[1]](#a1) <span id="f1"></span> ["Деловой Петербург". Модная реклама приносит доход (Dp.ru)](https://www.dp.ru/a/2013/10/29/Modnaja_reklama_prinosit_d)
+
+[[2]](#a2) <span id="f2"></span> [(Wikipedia)](index)
+
+[[3]](#a3) <span id="f3"></span> [Форум модной индустрии Be in Open запускает просветительский проект "Гастроли" (Fashionnetwork.com)](https://ru.fashionnetwork.com/news/Forum-modnoy-industrii-Be-in-Open-zapuskayet-prosvetitel%CA%B9skiy-proyekt-Gastroli-,1131889.html#.XXtx9dMzbUI)
