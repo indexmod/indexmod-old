@@ -68,4 +68,4 @@ indexmod.gq/edit
 
 [[2]](#a2) <span id="f2"></span> [Ksenia Sobchak, Russia’s Star Presidential Candidate, Will Be Heard (Themoscowtimes.com)](https://www.themoscowtimes.com/2017/10/26/ksenia-sobchak-russias-star-presidential-candidate-a59377)
 
-[[1]](#a1) <span id="f1"></span> [Russian Presenter And Samsung Brand Ambassador Pictured With An iPhone (Wikipedia)](index)
+[[3]](#a3) <span id="f3"></span> [Ксения Собчак и Анзор Канкулов — об Ассоциации моды Москвы (Theblueprint.ru)](https://theblueprint.ru/fashion/fashion-association)

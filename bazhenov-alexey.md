@@ -50,7 +50,7 @@ indexmod.gq/edit
 
 |Year|City|
 |-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2015|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
@@ -60,3 +60,5 @@ indexmod.gq/edit
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [ВСТРЕЧА С ОСНОВАТЕЛЕМ ПОРТАЛА BE-IN.RU АЛЕКСЕЕМ БАЖЕНОВЫМ (Svetznn.com)](http://svetznn.com/vstrecha-s-osnovatelem-portala-be-in-ru-alekseem-bazhenovym-2/)
+
+[[2]](#a2) <span id="f2"></span> [Алексей Баженов: «Мода в России переживает период ломки — с безвкусицей и вторичным производством» (Sobaka.ru)](http://www.sobaka.ru/fashion/heroes/78811)

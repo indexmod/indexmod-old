@@ -27,7 +27,6 @@ source: YouTube
 photographerurl: https://www.youtube.com/watch?v=0VmfD-muoTE
 sourceurl: https://www.youtube.com/watch?v=0VmfD-muoTE
 founder: Alexei Bazhenov
-published: true
 ---
 
 ## See also
