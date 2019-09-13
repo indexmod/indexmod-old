@@ -55,11 +55,17 @@ indexmod.gq/edit
 
 ## See also
 
++ [Be In Open](be-in-open)
++ [Bazhenov, Alexey](bazhenov-alexey)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Anna Dyulgerova](dyulgerova-anna)
 + [Kankulov, Anzor](kankulov-anzor)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [Russian Presenter And Samsung Brand Ambassador Pictured With An iPhone (Ladbible.com)](https://www.ladbible.com/news/weird-russian-presenter-and-samsung-brand-ambassador-pictured-with-an-iphone-20181018?fbclid=IwAR2JlM2AhXEaea9HA0n1bk4Hw6Bpt3WYsLUplriCcmNJJ4GuU2bLJoelOdw)
+
+[[2]](#a2) <span id="f2"></span> [Ksenia Sobchak, Russia’s Star Presidential Candidate, Will Be Heard (Themoscowtimes.com)](https://www.themoscowtimes.com/2017/10/26/ksenia-sobchak-russias-star-presidential-candidate-a59377)
 
 [[1]](#a1) <span id="f1"></span> [Russian Presenter And Samsung Brand Ambassador Pictured With An iPhone (Wikipedia)](index)

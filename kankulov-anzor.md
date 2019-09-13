@@ -54,6 +54,8 @@ indexmod.gq/edit
 
 ## See also
 
++ [Be In Open](be-in-open)
++ [Bazhenov, Alexey](bazhenov-alexey)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Sobchak, Ksenia](sobchak-ksenia)
 + [Kankulov, Anzor](kankulov-anzor)
