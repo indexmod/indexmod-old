@@ -14,11 +14,11 @@ venue: HSE University
 founder: Moscow Fashion Association
 origin: a Russian
 profession: journalist, Senior Lecturer at Faculty of Communications, Media, and Design
-photo: This is sample for image caption
-photographer: Unknown author
-source: Source
-photographerurl: index
-sourceurl: index
+photo: Anzor Kankulov
+photographer: RFE/RL
+source: Svoboda.org
+photographerurl: https://www.svoboda.org/a/28718025.html
+sourceurl: https://www.svoboda.org/a/28718025.html
 shortname: KANKULOV
 facebook: 2849
 instagram: 2514
@@ -59,7 +59,6 @@ indexmod.gq/edit
 + [Kankulov, Anzor](kankulov-anzor)
 + [Moscow Fashion Summit](moscow-fashion-summit)
 + [Moscow Fashion Association](moscow-fashion-association)
-+ []()
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes
