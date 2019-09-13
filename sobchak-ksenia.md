@@ -1,61 +1,65 @@
 ---
-title: SOBCHAK, Ksenia
+title: Sobchak, Ksenia
 permalink: sobchak-ksenia
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
-shortname: SHORTNAME
-facebook: 0
-instagram: 0
-youtube: 0
+originlang: Rus.
+originspell: Ксения Собчак
+appearing: Born
+city: Leningrad
+birth: 1981
+givenname: Ksenia
+familyname: Sobchak
+othername: Ksiusha Sobchak
+venue:
+founder: Moscow Fashion Association
+origin: a Russian
+profession: TV presenter, journalist, founder of Moscow Fashion Association
+photo: Ksenia Sobchak in 2017
+photographer: Alexander Zemlianichenko/AP
+source: Theguardian.com
+photographerurl: https://www.theguardian.com/world/2017/oct/18/putin-mentors-daughter-ksenia-sobchak-to-run-for-president
+sourceurl: https://www.theguardian.com/world/2017/oct/18/putin-mentors-daughter-ksenia-sobchak-to-run-for-president
+shortname: SOBCHAK
+facebook: 766
+instagram: 6600000
+youtube: 875000
 vimeo: 0
-twitter: 0
+twitter: 1400000
 tumblr: 0
-vkontakte: 0
+vkontakte: 35000
 soundcloud: 0
 pinterest: 0
+weibo: 0
 ---
 
-(Rus. Ксения Собчак, born 1981, Leningrad) is a Russian, TV presenter, journalist <span id="a1">[\[1\]](#f1)</span>.
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+indexmod.gq/edit
+-->
 
-(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+**Russian TV personality Ksenia Sobchak**
 
-**Image**
+*Photo: [CEN](https://www.ladbible.com/news/weird-russian-presenter-and-samsung-brand-ambassador-pictured-with-an-iphone-20181018?fbclid=IwAR2JlM2AhXEaea9HA0n1bk4Hw6Bpt3WYsLUplriCcmNJJ4GuU2bLJoelOdw) / [Ladbible.com](https://www.ladbible.com/news/weird-russian-presenter-and-samsung-brand-ambassador-pictured-with-an-iphone-20181018?fbclid=IwAR2JlM2AhXEaea9HA0n1bk4Hw6Bpt3WYsLUplriCcmNJJ4GuU2bLJoelOdw)*
 
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
+## Сonspectus
 
 |Year|City|
 |-|-|
-|2017|Moscow|
+|2017|Presidential Candidate RF <span id="a2">[\[2\]](#f2)</span>|
+|2019|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
-# See also
+## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
++ [Anna Dyulgerova](dyulgerova-anna)
++ [Kankulov, Anzor](kankulov-anzor)
++ [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
-# Footnotes
+## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[1]](#a1) <span id="f1"></span> [Russian Presenter And Samsung Brand Ambassador Pictured With An iPhone (Wikipedia)](index)
