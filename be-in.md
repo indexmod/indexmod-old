@@ -31,6 +31,21 @@ soundcloud: 0
 pinterest: 0
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+indexmod.gq/edit
+-->
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Image caption**
+
+*Photo: [Unknown author](index) / [Source](index)*
+
+
 ## Сonspectus
 
 |Year|Events|

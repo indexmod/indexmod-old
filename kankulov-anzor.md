@@ -58,7 +58,6 @@ indexmod.gq/edit
 + [Bazhenov, Alexey](bazhenov-alexey)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Sobchak, Ksenia](sobchak-ksenia)
-+ [Kankulov, Anzor](kankulov-anzor)
 + [Moscow Fashion Summit](moscow-fashion-summit)
 + [Moscow Fashion Association](moscow-fashion-association)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)

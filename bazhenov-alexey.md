@@ -55,6 +55,8 @@ indexmod.gq/edit
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
++ [Kankulov, Anzor](kankulov-anzor)
+
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes

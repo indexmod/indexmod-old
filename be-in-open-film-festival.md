@@ -28,8 +28,32 @@ photographerurl: https://www.youtube.com/watch?v=0VmfD-muoTE
 sourceurl: https://www.youtube.com/watch?v=0VmfD-muoTE
 founder: Alexei Bazhenov
 ---
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+indexmod.gq/edit
+-->
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Image caption**
+
+*Photo: [Unknown author](index) / [Source](index)*
+
+## Сonspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
++ [Post soviet fashion weeks](post-soviet-fashion-weeks)
++ [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Alexey Bazhenov](bazhenov-alexey)
 + [Be-in.ru](be-in)
++ [Sobchak, Ksenia](sobchak-ksenia)
++ [Kankulov, Anzor](kankulov-anzor)
++ [Post soviet fashion weeks](post-soviet-fashion-weeks)
