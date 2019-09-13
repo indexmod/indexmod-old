@@ -59,4 +59,4 @@ indexmod.gq/edit
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [ВСТРЕЧА С ОСНОВАТЕЛЕМ ПОРТАЛА BE-IN.RU АЛЕКСЕЕМ БАЖЕНОВЫМ (Svetznn.com)](http://svetznn.com/vstrecha-s-osnovatelem-portala-be-in-ru-alekseem-bazhenovym-2/)
