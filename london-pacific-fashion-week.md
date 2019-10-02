@@ -19,7 +19,7 @@ photographer: Unknown author
 source: Source
 photographerurl: index
 sourceurl: index
-shortname: SHORTNAME
+shortname: LPFW
 facebook: 0
 instagram: 0
 youtube: 0
