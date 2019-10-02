@@ -14,7 +14,7 @@ venue: London
 founder: Ana Lavekau
 origin: an International
 profession: A fashion promoter in London founded by
-photo: Walking model while opening the London. Creative Director Yanah Luvy hosted at Meston Suite, The Royal Horse Guards Hotel.
+photo: Dancing model while opening the London. Creative Director Yanah Luvy hosted at Meston Suite, The Royal Horse Guards Hotel.
 photographer: Laura Martinez
 source: Facebook.com
 photographerurl: https://www.facebook.com/LPFltd/
