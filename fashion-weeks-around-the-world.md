@@ -594,7 +594,6 @@ layout: info
 
 **United Kingdom**
 
-|London Fashion Week at Somerset House|LFWSH|
 |[Aberdeen Fashion Week](aberdeen-fashion-week)|AFW|
 |[Asia Fashion Week London]()|AFWL|
 |Africa Fashion Week London(africa-fashion-week-london)|AFWL|
@@ -608,6 +607,8 @@ layout: info
 |Leeds Fashion Show|LEFW|
 |Liverpool Fashion Week|LIFW|
 |London Fashion Week|LFW|
+|London Fashion Week at Somerset House|LFWSH|
+|[London Pacific Fashion Week](london-pacific-fashion-week)|LPFW|
 |Men's Fashion Week|MFW|
 |Manchester Fashion Week|MFW|
 |Oxford Fashion Week|OFW|
