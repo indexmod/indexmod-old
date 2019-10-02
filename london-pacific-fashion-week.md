@@ -13,7 +13,7 @@ othername: LPFW
 venue: London
 founder: Ana Lavekau
 origin: an International
-profession: A fashion promoter in London founded by
+profession: fashion promoter, event in London founded by Fijian-born model Ana Lavekau
 photo: Dancing model while opening the LPFW. Creative Director Yanah Luvy hosted at Meston Suite, The Royal Horse Guards Hotel.
 photographer: Laura Martinez
 source: Facebook.com
