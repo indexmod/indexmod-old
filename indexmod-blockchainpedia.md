@@ -7,7 +7,7 @@ familyname:
 shortname: INDEXMOD
 originlang: Rus.
 originspell: Индексмод
-othername: Индексмод
+othername: Indexmod blockchainpedia
 appearing: Est.
 birth: 2006
 city: Moscow
@@ -17,7 +17,7 @@ origin: a Russian
 profession: English language wiki-site based on the conception of hybriding wiki, blockchain, ICO and social networking
 photo: Indexmod Encyclopedia's site layout in 2015 based on Google sites engine
 photographer: Andrei Dei
-source: Indexmod Blockchainpedia
+source: Indexmod blockchainpedia
 photographerurl: dei-andrei
 sourceurl: index
 facebook: 60
