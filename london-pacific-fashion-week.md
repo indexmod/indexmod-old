@@ -44,7 +44,7 @@ London Pacific Fashion Week (LPFW) was established in October 2012. Originally f
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Ana Lavekau**
+**Founder of LPFW Ana Lavekau**
 
 *Photo: [Unknown author](https://www.starnow.com/analavekau/photos/9925768) / [Starnow.com](https://www.starnow.com/analavekau/photos/9925768)*                      
 
