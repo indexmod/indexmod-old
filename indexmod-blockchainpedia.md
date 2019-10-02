@@ -38,7 +38,7 @@ A wiki-site based on the conception of hybrid wiki, blockchain, ICO and social n
 
 The aim of Indexmod encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod encyclopedia.
 
-## Naming
+## Naming & domains
 
 |Year|Name|Domain|
 |-|-|-|
