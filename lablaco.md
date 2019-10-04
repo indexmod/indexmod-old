@@ -1,6 +1,6 @@
 ---
-title: Lablaco
-permalink: lablaco
+title: Lablaco (website)
+permalink: lablaco-website
 layout: default
 originlang: It.
 originspell: Lablaco
