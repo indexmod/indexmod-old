@@ -62,7 +62,7 @@ ShihYun (Eliana), Kuo, Co-Founder & COO of Lablaco, in charge of Business Strate
 
 Born in Taipei and living between Paris and Milan, ShihYun, Kuo is a Data and Digital Innovation Entrepreneur with 8+ years of experience in Luxury Retail Buying & Merchandising Management, Data System and Digital Media. After obtained a luxury fashion MBA at SDA Bocconi School of Management, she entered in Luxury industry as Retail Business Analyst in Etro, following APAC Merchandising & Buying supervisor in Giorgio Armani HQ, in Milan.
 
-Solution-driven thinker, she was honored to be assigned personally by General Manager of Giorgio Armani HQ to develop new technology projects for the Maison, brought to life a few Startups across Europe and Asia in KOLs & Online Media, Digital Marketing and Fashion & Lifestyle Retail sectors, with clients such as Vogue, Officiel, Dolce&Gabanna and Vionnet.  Always having in mind to build a global platform to support talents and the industry for fashion, in 2016,  she has finally founded Lablaco, the first Circular Fashion Platform with a mission to accelerate the digitalization and transition towards the Circular Economy of the Fashion Industry. By leveraging Blockchain within an open source platform, Lablaco aims to redesign a new ecosystem for fashion industry by introducing new sustainable business models and re-defining the relationships among retailers, brands, designers, influencers, content creators and consumers in a single system. 
+Solution-driven thinker, she was honored to be assigned personally by General Manager of Giorgio Armani HQ to develop new technology projects for the Maison, brought to life a few Startups across Europe and Asia in KOLs & Online Media, Digital Marketing and Fashion & Lifestyle Retail sectors, with clients such as Vogue, Officiel, Dolce&Gabanna and Vionnet.  Always having in mind to build a global platform to support talents and the industry for fashion, in 2016,  she has finally founded Lablaco, the first Circular Fashion Platform with a mission to accelerate the digitalization and transition towards the Circular Economy of the Fashion Industry. By leveraging Blockchain within an open source platform, Lablaco aims to redesign a new ecosystem for fashion industry by introducing new sustainable business models and re-defining the relationships among retailers, brands, designers, influencers, content creators and consumers in a single system.
 
 “Digitalization is the key to make fashion circular, transparent and more sustainable in business.” - ShihYun Kuo, Lablaco
 
@@ -77,7 +77,7 @@ A Collective Action Summit to discuss the issues in Fashion, Tech and Sustainabi
 
 ## Сonspectus
 
-|Year|City|
+|Year|Event, city|
 |-|-|
 |2019|Circular Fashion Summit, Paris <span id="a2">[\[2\]](#f2)</span>|
 
