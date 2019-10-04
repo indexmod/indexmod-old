@@ -72,14 +72,14 @@ Solution-driven thinker, she was honored to be assigned personally by General Ma
 
 To make change happen at scale, Lablaco is now launching the Circular Fashion Summit, partnering with the Lane Crawford Joyce Group, the largest luxury retailer in Asia, on 28t September 2019 at Station F during Paris Fashion Week.
 
-A Collective Action Summit to discuss the issues in Fashion, Tech and Sustainability with industry leaders from Kering, IBM, Adidas, Eco Age and many other great companies, starting also to act immediately on 3 measurable goals supporting the United Nations SDG to be achieved collectively in 12-month timeframe, powered by the Lablaco system, using Blockchain for a transparent supply chain, enabling companies and individuals to start making fashion circular together.
+A Collective Action Summit to discuss the issues in Fashion, Tech and Sustainability with industry leaders from Kering, IBM, Adidas, Eco Age and many other great companies, starting also to act immediately on 3 measurable goals supporting the United Nations SDG to be achieved collectively in 12-month timeframe, powered by the Lablaco system, using Blockchain for a transparent supply chain, enabling companies and individuals to start making fashion circular together <span id="a1">[\[2\]](#f1)</span>.
 
 
 ## Сonspectus
 
 |Year|Event, city|
 |-|-|
-|2019|Circular Fashion Summit, Paris <span id="a2">[\[2\]](#f2)</span>|
+|2019|Circular Fashion Summit, Paris <span id="a1">[\[3\]](#f1)</span>|
 
 ## See also
 
@@ -89,4 +89,4 @@ A Collective Action Summit to discuss the issues in Fashion, Tech and Sustainabi
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1, 2, 3]](#a1) <span id="f1"></span> [Circular Fashion Summit 2019 Press kit (Lablaco, Drive.google.com)](https://drive.google.com/drive/folders/19eKwa6xSuHlYRKag5lo9uP7J9jC7jZCF)
