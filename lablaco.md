@@ -83,6 +83,8 @@ A Collective Action Summit to discuss the issues in Fashion, Tech and Sustainabi
 
 ## See also
 
++ [Amed, Imran](amed-imran)
++ [Buro 24/7](buro-24-7)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 + [Circular Fashion Summit](circular-fashion-summit)
