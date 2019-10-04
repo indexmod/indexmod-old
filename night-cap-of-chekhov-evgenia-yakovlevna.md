@@ -12,8 +12,8 @@ familyname:
 othername: Ночной чепчик матери Чехова
 venue: Melikhovo
 founder: Museum-Reserve A.P. Chekhov "Melikhovo"
-origin: Russia,
-profession: the memorial item was transferred to the Melikhov Museum of Yalta in 1957, and before that more than half a century was carefully kept by Maria Pavlovna
+origin: Russian
+profession: memorial item was transferred to the Melikhov Museum of Yalta in 1957, and before that more than half a century was carefully kept by Maria Pavlovna
 photo: Night cap of Chekhov Evgenia Yakovlevna
 photographer: Unknown author
 source: Source

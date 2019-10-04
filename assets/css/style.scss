@@ -39,9 +39,9 @@
 	list-style-type: none;
 }
 body {
-	max-width: 600px;
+	max-width: auto;
 	margin: auto;
-	padding: 20px;
+	padding: 20%;
 	background: white;
 }
 
@@ -110,11 +110,13 @@ table {
 	font-weight: 500;
 	color: black;
 	border-collapse: collapse;
+	margin: 0px 0px 0px 0px;
 }
 th, td {
 	padding: 10px;
 	text-align: left;
 	border-bottom: 1px solid #ddd;
+	margin: 0px 0px 0px 0px;
 }
 th {
 	font-family: 'Verdana', serif;
@@ -122,15 +124,18 @@ th {
 	text-align: left;
 	height: auto;
 	vertical-align: center;
+	margin: 0px 0px 0px 0px;
 }
 td {
 	font-weight: 500;
 	height: auto;
 	vertical-align: center;
+	margin: 0px 0px 0px 0px;
 }
 tr:hover {
 	background-color: #DCDCDC;
 	font-weight: 500;
+	margin: 0px 0px 0px 0px;
 }
 table.top {
 	width: 100%;
@@ -140,21 +145,24 @@ table.top {
 	font-weight: 500;
 	color: black;
 	border-collapse: collapse;
-	margin-left: 1px;
+	margin: 0px 0px 0px 0px;
 }
 table.top th, td {
 	padding: 10px;
 	text-align: left;
 	border-bottom: 1px solid #ddd;
+	margin: 0px 0px 0px 0px;
 }
 table.top td {
 	font-weight: 500;
 	height: auto;
 	vertical-align: center;
+	margin: 0px 0px 0px 0px;
 }
 table.top tr:hover {
 	background-color: #DCDCDC;
 	font-weight: 500;
+	margin: 0px 0px 0px 0px;
 }
 .toptable-meta {
 	font-weight: 500;
@@ -251,8 +259,8 @@ a:active {
 	font-weight: 900;
 }
 img {
-	max-width: 95%;
-	min-width: 95%;
+	max-width: 80%;
+	min-width: 80%;
 	height: auto;
 	margin: 0em 0em 0em 0em;
 	-webkit-filter: grayscale(100%);

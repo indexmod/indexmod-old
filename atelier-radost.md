@@ -2,7 +2,7 @@
 title: Atelier Radost
 permalink: atelier-radost
 layout: default
-shortname: RADOST
+shortname: ATELIERRADOST
 originspell: Радость (ателье)
 appearing: Updated
 birth: 2018
