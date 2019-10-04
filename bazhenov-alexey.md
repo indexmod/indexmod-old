@@ -6,7 +6,7 @@ originlang: Rus.
 originspell: Алексей Баженов
 appearing: Born
 city: Saint Petersburg
-birth: 2018
+birth: 1991
 givenname: Alexey
 familyname: Bazhenov
 othername: Алексей Баженов
