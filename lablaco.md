@@ -79,6 +79,7 @@ A Collective Action Summit to discuss the issues in Fashion, Tech and Sustainabi
 
 |Year|Event, city|
 |-|-|
+|2016|Establishing|
 |2019|Circular Fashion Summit, Paris <span id="a1">[\[3\]](#f1)</span>|
 
 ## See also
