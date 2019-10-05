@@ -6,7 +6,7 @@ originlang: Rus.
 originspell: Алексей Баженов
 appearing: Born
 city: Saint Petersburg
-birth: 2018
+birth: 1991
 givenname: Alexey
 familyname: Bazhenov
 othername: Алексей Баженов
@@ -54,8 +54,13 @@ indexmod.gq/edit
 
 ## See also
 
+
++ [Amed, Imran](amed-imran)
++ [Buro 24/7](buro-24-7)
++ [Circular Fashion Summit](circular-fashion-summit)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Kankulov, Anzor](kankulov-anzor)
++ [Lablaco](lablaco-website)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes
