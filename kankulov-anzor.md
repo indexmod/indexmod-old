@@ -40,17 +40,8 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+Is a Russian journalist, Senior Lecturer at Faculty of Communications, Media, and Design, сurator of the Fashion direction at the HSE School of Design <span id="a2">[\[2\]](#f2)</span>.
 
-**Image caption**
-
-*Photo: [Unknown author](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City, event|
-|-|-|
-|2019|Moscow, <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
@@ -66,4 +57,4 @@ indexmod.gq/edit
 
 [[1]](#a1) <span id="f1"></span> [Ксения Собчак и Анзор Канкулов — об Ассоциации моды Москвы (Theblueprint.ru)](https://theblueprint.ru/fashion/fashion-association)
 
-[[2]](#a2) <span id="f2"></span> [Ксения Собчак и Анзор Канкулов — об Ассоциации моды Москвы (Theblueprint.ru)](https://theblueprint.ru/fashion/fashion-association)
+[[2]](#a2) <span id="f2"></span> [Анзор Канкулов — об уходе Демны Гвасалии из Vetements (Buro247.ru)](https://www.buro247.ru/fashion/expert/18-sep-2019-demna-gvasalia-quits-vetements.html)
