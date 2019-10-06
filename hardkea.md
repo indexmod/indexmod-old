@@ -2,8 +2,8 @@
 title: Hardkea
 permalink: hardkea
 layout: default
-originlang: Rus. / Ukr.
-originspell: Хардкея / Хардкеa
+originlang: Rus., Ukr.
+originspell: Хардкея, Хардкеa
 appearing: Est.
 city: Kiev
 birth: 2017
