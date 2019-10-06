@@ -9,16 +9,16 @@ city: Milan
 birth: 2016
 givenname: Lablaco
 familyname:
-othername: Lablaco S.r.l
+othername: Lablaco Srl
 venue: Corso di Porta Vittoria 18
 founder: Lorenzo Albrighi, ShihYun (Eliana) Kuo
 origin: a global
-profession: platform, app, website, services under brandname Lablaco committed to making fashion circular, revolutionizing the average shopping experience to create the first social-commerce platform to give away pre-loved clothes, earn discounts, shop designer fashion worldwide.
+profession: platform, app, website, services under brandname Lablaco committed to making fashion circular
 photo: Lorenzo Albrighi CEO & Co-Founder of Lablaco
 photographer: Unknown author
 source: Circular Fashion Summit 2019 Press kit
-photographerurl: https://drive.google.com/drive/folders/19eKwa6xSuHlYRKag5lo9uP7J9jC7jZCF
-sourceurl: https://drive.google.com/drive/folders/19eKwa6xSuHlYRKag5lo9uP7J9jC7jZCF
+photographerurl:
+sourceurl:
 shortname: LABLACO
 facebook: 15255
 instagram: 46500
@@ -39,6 +39,8 @@ on right menu
 Full edit instructions
 indexmod.gq/edit
 -->
+
+A platform, app, website, services under brandname Lablaco committed to making fashion circular, revolutionizing the average shopping experience to create the first social-commerce platform to give away pre-loved clothes, earn discounts, shop designer fashion worldwide.
 
 ## Bio of Lorenzo Albrighi
 
