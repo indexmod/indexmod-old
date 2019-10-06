@@ -44,7 +44,7 @@ indexmod.gq/edit
 
 **Kirill Kupin founder of Hardkea**
 
-*Photo: [Daniil Primak](https://www.forbes.ru/karera-i-svoy-biznes/384659-beton-dlya-eldzheya-kak-predprinimatel-iz-donecka-zarabatyvaet-milliony) / [Forbes.ru](https://www.forbes.ru/karera-i-svoy-biznes/384659-beton-dlya-eldzheya-kak-predprinimatel-iz-donecka-zarabatyvaet-milliony)*
+*Photo (fragment): [Daniil Primak](https://www.forbes.ru/karera-i-svoy-biznes/384659-beton-dlya-eldzheya-kak-predprinimatel-iz-donecka-zarabatyvaet-milliony) / [Forbes.ru](https://www.forbes.ru/karera-i-svoy-biznes/384659-beton-dlya-eldzheya-kak-predprinimatel-iz-donecka-zarabatyvaet-milliony)*
 
 ## Сonspectus
 
