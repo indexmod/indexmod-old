@@ -14,7 +14,7 @@ venue: Elektrozavod
 founder: Kirill Kupin
 origin: an Ukrainian
 profession: brand of concrete-made furniture based in Moscow, founded by Kirill Kupin
-photo: "Module" a table by Hardkea (₽23000)
+photo: Module a table by Hardkea ₽23000
 photographer: Hardkea
 source: Hardkea.com
 photographerurl: https://hardkea.com/product/14
