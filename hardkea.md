@@ -2,14 +2,14 @@
 title: Hardkea
 permalink: hardkea
 layout: default
-originlang: Rus.
-originspell: Хардкеa
+originlang: Rus. / Ukr.
+originspell: Хардкея / Хардкеa
 appearing: Est.
 city: Kiev
 birth: 2017
 givenname: Hardkea
 familyname:
-othername: Хардкеa
+othername: Хардкея
 venue: Elektrozavod
 founder: Kirill Kupin
 origin: an Ukrainian
