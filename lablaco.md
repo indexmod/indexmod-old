@@ -17,8 +17,8 @@ profession: platform, app, website, services under brandname Lablaco committed t
 photo: Lorenzo Albrighi CEO & Co-Founder of Lablaco
 photographer: Unknown author
 source: Circular Fashion Summit 2019 Press kit
-photographerurl:
-sourceurl:
+photographerurl: https://www.circularfashionsummit.com/press
+sourceurl: https://www.circularfashionsummit.com/press
 shortname: LABLACO
 facebook: 15255
 instagram: 46500
@@ -56,7 +56,7 @@ So they Founded Lablaco in 2016,  the first Circular Fashion platform with missi
 
 **ShihYun (Eliana) Kuo founder of Lablaco S.r.l**
 
-*Photo: [Unknown author](index) / [Circular Fashion Summit 2019 Press kit](https://drive.google.com/drive/folders/19eKwa6xSuHlYRKag5lo9uP7J9jC7jZCF)*
+*Photo: [Unknown author](https://www.circularfashionsummit.com/press) / [Circular Fashion Summit 2019 Press kit](https://www.circularfashionsummit.com/press)*
 
 ## Bio of ShihYun (Eliana) Kuo
 
@@ -66,9 +66,7 @@ Born in Taipei and living between Paris and Milan, ShihYun, Kuo is a Data and Di
 
 Solution-driven thinker, she was honored to be assigned personally by General Manager of Giorgio Armani HQ to develop new technology projects for the Maison, brought to life a few Startups across Europe and Asia in KOLs & Online Media, Digital Marketing and Fashion & Lifestyle Retail sectors, with clients such as Vogue, Officiel, Dolce&Gabanna and Vionnet.  Always having in mind to build a global platform to support talents and the industry for fashion, in 2016,  she has finally founded Lablaco, the first Circular Fashion Platform with a mission to accelerate the digitalization and transition towards the Circular Economy of the Fashion Industry. By leveraging Blockchain within an open source platform, Lablaco aims to redesign a new ecosystem for fashion industry by introducing new sustainable business models and re-defining the relationships among retailers, brands, designers, influencers, content creators and consumers in a single system.
 
-“Digitalization is the key to make fashion circular, transparent and more sustainable in business.” - ShihYun Kuo, Lablaco
-
-
+`“Digitalization is the key to make fashion circular, transparent and more sustainable in business.” - ShihYun Kuo, Lablaco`
 
 ## Present of Lablaco
 
@@ -95,4 +93,4 @@ A Collective Action Summit to discuss the issues in Fashion, Tech and Sustainabi
 
 ## Footnotes
 
-[[1, 2, 3]](#a1) <span id="f1"></span> [Circular Fashion Summit 2019 Press kit (Lablaco, Drive.google.com)](https://drive.google.com/drive/folders/19eKwa6xSuHlYRKag5lo9uP7J9jC7jZCF)
+[[1, 2, 3]](#a1) <span id="f1"></span> [Circular Fashion Summit 2019 Press kit (Lablaco, Drive.google.com)](https://www.circularfashionsummit.com/press)
