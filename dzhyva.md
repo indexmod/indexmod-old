@@ -41,8 +41,9 @@ pinterest: 0
 
 ## See also
 
-+ (英語で) [Baltic Shamans](baltic-shamans)
 
++ (英語で) [Baltic Shamans](baltic-shamans)
++ [Hardkea](hardkea)
 
 ## Footnotes
 

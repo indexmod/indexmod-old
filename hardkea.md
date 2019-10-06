@@ -56,6 +56,7 @@ indexmod.gq/edit
 
 ## See also
 
++ [Dzhyva (リネン)](dzhyva)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
