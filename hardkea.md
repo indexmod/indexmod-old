@@ -52,7 +52,7 @@ indexmod.gq/edit
 |-|-|
 |2017|Founding of brand in Kiev <span id="a2">[\[2\]](#f2)</span>|
 |2018|Opening manufacturing facility in Moscow <span id="a2">[\[3\]](#f2)</span>|
-|2019|Media notations (Forbes Russia, Tinkoff Journal)|
+|2019|First publications (Forbes Russia, Tinkoff Journal)|
 
 ## See also
 
