@@ -52,6 +52,7 @@ indexmod.gq/edit
 |-|-|
 |2017|Founding in Kiev <span id="a2">[\[2\]](#f2)</span>|
 |2018|Opening plant in Moscow <span id="a2">[\[3\]](#f2)</span>|
+|2019|Media notations (Forbes Russia, Tinkoff Journal)|
 
 ## See also
 
@@ -62,4 +63,4 @@ indexmod.gq/edit
 
 [[1]](#a1) <span id="f1"></span> [Бетон для Элджея: как предприниматель из Донецка зарабатывает миллионы на брутальной мебели (Forbes.ru)](https://www.forbes.ru/karera-i-svoy-biznes/384659-beton-dlya-eldzheya-kak-predprinimatel-iz-donecka-zarabatyvaet-milliony)
 
-[[2, 3]](#a2) <span id="f2"></span> [Бизнес: мебель из бетона в Москве (Journal.tinkoff.r)](https://journal.tinkoff.ru/beton/)
+[[2, 3]](#a2) <span id="f2"></span> [Бизнес: мебель из бетона в Москве (Journal.tinkoff.ru)](https://journal.tinkoff.ru/beton/)
