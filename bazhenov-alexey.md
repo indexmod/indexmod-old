@@ -60,7 +60,7 @@ indexmod.gq/edit
 + [Circular Fashion Summit](circular-fashion-summit)
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Kankulov, Anzor](kankulov-anzor)
-+ [Lablaco](lablaco-website)
++ [Lablaco](lablaco)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 
 ## Footnotes
