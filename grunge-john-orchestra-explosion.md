@@ -9,9 +9,9 @@ city: Moscow
 birth: 2009
 givenname: Grunge John Orchestra
 familyname:
-othername: Grunge John. Made in Moscow, GJO.E
+othername: Grunge John. Made somewhere in Moscow. GJO.E
 venue: A flagmanship store at Nikitski Bulvar in Moscow
-founder: Igor Isaev
+founder: Igor Isaev, Ilia Nafeev
 origin: a Russian
 profession: hi-end urban fashion brand based in Moscow
 photo: Grunge John Orchestra. Explosion emblem since 2009
@@ -20,15 +20,16 @@ source: Facebook
 photographerurl:
 sourceurl: index
 shortname: GJO.E
-facebook: 0
-instagram: 17900
-youtube: 0
-vimeo: 0
-twitter: 54
+facebook: 15056
+instagram: 26600
+youtube: 16133
+vimeo: 2
+twitter: 65
 tumblr: 0
-vkontakte: 8619
-soundcloud: 0
-pinterest: 0
+vkontakte: 9132
+soundcloud: 48
+pinterest: 4
+weibo: 0
 ---
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
@@ -69,3 +70,13 @@ Explosion — first Russian hi-end urban fashion brand. Made somewhere in Moscow
 ## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Идеальная парка: как выбирать и носить, чем чистить и за что любить («РБК Стиль»)](https://style.rbc.ru/items/587e14b59a79477b780bbec4)
+
+[[2]](#a2) <span id="f2"></span> [Grunge John Orchestra. Explosion x adidas Originals 2015 Fall/Winter Collection (Hypebeast.com)](https://hypebeast.com/2015/11/adidas-originals-grunge-john-orchestra-explosion-2015-fall-winter)
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+
+[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
