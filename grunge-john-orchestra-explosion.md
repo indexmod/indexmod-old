@@ -35,7 +35,7 @@ pinterest: 0
 
 **Anna Mongayt and Sergey Mongayt in Grunge John Orchestra. Explosion concept store in 2018**
 
-*Photo: [Ilia Nafeev](naffev-ilia) / [Facebook](https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/44969689_2115305048533682_5008874548032962560_o.jpg?_nc_cat=108&_nc_ht=scontent-frx5-1.xx&oh=34564ffa6857b84fc8b99a7f57d313c7&oe=5C4E9585)*
+*Photo: [Dmitry Chuntul](https://www.facebook.com/chuntul) / [Facebook.com/chuntul](https://www.facebook.com/chuntul)*
 
 ## Stores dynamics
 
