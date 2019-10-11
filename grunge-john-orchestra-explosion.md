@@ -38,6 +38,14 @@ weibo: 0
 
 *Photo: [Dmitry Chuntul](https://www.facebook.com/chuntul) / [Facebook.com/chuntul](https://www.facebook.com/chuntul)*
 
+## Сonspectus
+
+|Year|City|
+|-|-|
+|2009|Founding in Moscow|
+|2017|The founder of the Grunge brand, John Orchestra, has died. Explosion Igor Isaev <span id="a2">[\[2\]](#f2)</span>|
+|2019|10 years anniversary in Moscow|
+
 ## Stores dynamics
 
 |Year|City|
@@ -71,12 +79,16 @@ Explosion — first Russian hi-end urban fashion brand. Made somewhere in Moscow
 
 [[1]](#a1) <span id="f1"></span> [Идеальная парка: как выбирать и носить, чем чистить и за что любить («РБК Стиль»)](https://style.rbc.ru/items/587e14b59a79477b780bbec4)
 
-[[2]](#a2) <span id="f2"></span> [Grunge John Orchestra. Explosion x adidas Originals 2015 Fall/Winter Collection (Hypebeast.com)](https://hypebeast.com/2015/11/adidas-originals-grunge-john-orchestra-explosion-2015-fall-winter)
+[[2]](#a2) <span id="f2"></span> [Умер основатель бренда Grunge John Orchestra. Explosion Игорь Исаев (Secretmag.ru)](https://secretmag.ru/news/umer-osnovatel-brenda-grunge-john-orchestra-explosion-igor-isaev-15-07-2017.htm)
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[3]](#a3) <span id="f3"></span> [adidas Originals and Grunge John Orchestra Team up for Fall/Winter 2015 (Highsnobiety.com)](https://www.highsnobiety.com/2015/11/09/adidas-originals-grunge-john-orchestra/)
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[4]](#a4) <span id="f4"></span> [Grunge John Orchestra. Explosion x adidas Originals 2015 Fall/Winter Collection (Hypebeast.com)](https://hypebeast.com/2015/11/adidas-originals-grunge-john-orchestra-explosion-2015-fall-winter)
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[5]](#a5) <span id="f5"></span> [Что мы знаем о коллекции adidas Originals by GJO.E (Faceslaces.com)](https://locals.faceslaces.com/blog/chto-my-znaem-o-kollektsii-adidas-originals-by-gjo-e/)
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[6]](#a6) <span id="f6"></span> [Рабочая одежда для творческих людей (Expert.ru)](https://expert.ru/expert/2014/36/rabochaya-odezhda-dlya-tvorcheskih-lyudej/)
+
+[[7]](#a7) <span id="f7"></span> [Дизайнер: Игорь Исаев, марка Grunge John Orchestra. Explosion (Be-in.ru)](https://www.be-in.ru/subject/23842-igor_isaev/)
+
+[[8]](#a8) <span id="f8"></span> [GRUNGE JOHN ORCHESTRA. EXPLOSION: ВИДЕО И ФОТОГРАФИИ С ПОКАЗА, А ТАКЖЕ КОММЕНТАРИИ СОЗДАТЕЛЕЙ (Furfur.me)](http://www.furfur.me/furfur/culture/culture/158275-gjoe)
