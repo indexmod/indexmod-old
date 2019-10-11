@@ -14,11 +14,11 @@ venue: A flagmanship store at Nikitski Bulvar in Moscow
 founder: Igor Isaev, Ilia Nafeev
 origin: a Russian
 profession: hi-end urban fashion brand based in Moscow
-photo: Grunge John Orchestra. Explosion emblem since 2009
-photographer: Ilia Nafeev
-source: Facebook
-photographerurl:
-sourceurl: index
+photo: Tesla Live by Nikita Zabelin during GJO.E Decade at Club 1930 in 2019 in Moscow
+photographer: Gia Abramishvili
+source: Facebook.com
+photographerurl: https://www.facebook.com/giaabramishvili
+sourceurl: https://www.facebook.com/giaabramishvili
 shortname: GJO.E
 facebook: 15056
 instagram: 26600
