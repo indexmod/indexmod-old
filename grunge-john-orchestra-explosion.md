@@ -46,16 +46,6 @@ weibo: 0
 |2017|The founder of the Grunge brand, John Orchestra, has died. Explosion Igor Isaev <span id="a2">[\[2\]](#f2)</span>|
 |2019|10 years anniversary in Moscow|
 
-## Stores dynamics
-
-|Year|City|
-|-|-|
-|2011|Moscow|
-|20XX|SPB|
-|20XX|Bressanone|
-|20XX|Ceggia|
-|20XX|Rotterdam|
-
 ## Instagram
 
 Hi-End urban fashion. Technological garments & innovative fabrics. Made somewhere in Moscow
@@ -67,6 +57,13 @@ Explosion — first Russian hi-end urban fashion brand. Made somewhere in Moscow
 ## Vkontakte
 
 Первый российский бренд, объединивший в повседневной одежде технологичный крой, функциональность и лучшие инновационные материалы.
+
+## Stores dynamics
+
+|Year|Store|
+|-|-|
+|2011|Moscow|
+|2015|Tsvetnoi Corner Moscow <span id="a9">[\[9\]](#f9)</span>|
 
 ## See also
 
@@ -92,3 +89,5 @@ Explosion — first Russian hi-end urban fashion brand. Made somewhere in Moscow
 [[7]](#a7) <span id="f7"></span> [Дизайнер: Игорь Исаев, марка Grunge John Orchestra. Explosion (Be-in.ru)](https://www.be-in.ru/subject/23842-igor_isaev/)
 
 [[8]](#a8) <span id="f8"></span> [GRUNGE JOHN ORCHESTRA. EXPLOSION: ВИДЕО И ФОТОГРАФИИ С ПОКАЗА, А ТАКЖЕ КОММЕНТАРИИ СОЗДАТЕЛЕЙ (Furfur.me)](http://www.furfur.me/furfur/culture/culture/158275-gjoe)
+
+[[9]](#a9) <span id="f9"></span> [В «Цветном» открылся корнер бренда Grunge John Orchestra. Explosion (The-village.ru)](https://www.the-village.ru/village/service-shopping/novoemesto/228179-grunge-john-orchestra-explosion)
