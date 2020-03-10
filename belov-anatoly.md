@@ -9,7 +9,7 @@ city: Kiev
 birth: 1977
 givenname: Anatoly
 familyname: Belov
-othername: Анатолій Бєлов
+othername: Cybele Attis
 venue: PinchukArtCentre
 founder: of Ludska podoba band
 origin: a Ukrainian
@@ -19,8 +19,8 @@ photographer: Александр Сытников
 source: Facebook.com
 photographerurl: https://www.facebook.com/ANATOLIY.BELOV
 sourceurl: https://www.facebook.com/ANATOLIY.BELOV
-shortname: BELOV
-facebook: 1003
+shortname: CYBELEATTIS
+facebook: 4999
 instagram: 1013
 youtube: 0
 vimeo: 21
