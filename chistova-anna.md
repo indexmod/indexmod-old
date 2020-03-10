@@ -80,35 +80,37 @@ By 2020 Anna’s portfolio consists of more than 20 movies. Her clients are famo
 
 # Filmography
 
-+ Three (2020), dir. Anna Melikyan
-+ Tenderness (2020), dir. Anna Melikyan
-+ Masha (2020), dir. Anastasia Palchikova
-+ Beautiful girl! (2020), dir. Yana Smooth
-+ Queen (2020), dir. Taisiya Igumentseva
-+ Happy End (TV series 2020), dir. Roman Prygunov
-+ Fairy (2019), dir. Anna Melikyan
-+ Triad (TV series, 2019), dir. Dmitry Dyachenko
-+ Tenderness (2018), dir. Anna Melikyan
-+ Dead Lake (TV series 2018), dir. Roman Prygunov
-+ Handsfree (2018), dir. Alexey Nuzhny
-+ Draft (2018), dir. Sergey Mokritsky
-+ Beyond Reality (2018), dir. Alexander Boguslavsky
-+ Quartet (TV series, 2016), dir. Anna Melikyan
-+ Zoology (2016), dir. Ivan I. Tverdovsky
-+ 8 (2015), dir. Anna Melikyan
-+ I am a teacher (2015), dir. Sergey Mokritsky
-+ About Love (2015), dir. Anna Melikyan
-+ Duhless 2 (2015), dir. Roman Prygunov
-+ Such a mood, adagio Bach and a small fragment from the life of a girl Lena (2014), dir. Anna Melikyan
-+ Cinema about Alekseev (2014), dir. Michael Segal
-+ Star (2014), dir. Anna Melikyan
-+ Correction Class (2014), dir. Ivan I. Tverdovsky
-+ Country of Good Kids (2013), dir. Olga Kaptur
-+ Duhless (2011), dir. Roman Prygunov
+|Film (year)|Director|
+|Three (2020)|Anna Melikyan|
+|Tenderness (2020)|Anna Melikyan
+|Masha (2020)|Anastasia Palchikova
+|Beautiful girl! (2020)|Yana Smooth
+|Queen (2020)|Taisiya Igumentseva
+|Happy End (TV series 2020)|Roman Prygunov
+|Fairy (2019)|Anna Melikyan
+|Triad (TV series, 2019)|Dmitry Dyachenko
+|Tenderness (2018)|Anna Melikyan
+|Dead Lake (TV series, 2018)|Roman Prygunov
+|Handsfree (2018)|Alexey Nuzhny
+|Draft (2018)|Sergey Mokritsky
+|Beyond Reality (2018)|Alexander Boguslavsky
+|Quartet (TV series, 2016)|Anna Melikyan
+|Zoology (2016)|Ivan I. Tverdovsky
+|8 (2015)|Anna Melikyan
+|I am a teacher (2015)|Sergey Mokritsky
+|About Love (2015)|Anna Melikyan
+|Duhless 2 (2015)|Roman Prygunov
+|Such a mood, adagio Bach and a small fragment from the life of a girl |Lena (2014)|Anna Melikyan
+|Cinema about Alekseev (2014)|Michael Segal
+|Star (2014)|Anna Melikyan
+|Correction Class (2014)|Ivan I. Tverdovsky|
+|Country of Good Kids (2013)|Olga Kaptur|
+|Duhless (2011)|Roman Prygunov|
 
 # Actress
 
-+ Star (2014), dir. Anna Melikyan
+|Film (year)|Director|
+|Star (2014)|Anna Melikyan|
 
 # See also
 
