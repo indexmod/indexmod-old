@@ -12,13 +12,13 @@ familyname: Chistova
 othername: Chistova
 venue: Apartement26 / Kuznetsky bridge Str.
 founder: Apartement26
-origin: a / an Russian
-profession: designer
-photo: This is sample for image caption
+origin: a Russian
+profession: designer living and working in Moscow
+photo: Anna Chistova, Meglinskaya Gallery, February 24, 2010
 photographer: Alexander Lepeshkin
 source: Flikr
 photographerurl: https://www.flickr.com/photos/lepeshkin/
-sourceurl: index
+sourceurl: https://www.flickr.com/photos/lepeshkin/4499899762
 shortname: CHISTOVA
 facebook: 1590
 instagram: 0
@@ -50,14 +50,19 @@ indexmod.gq/edit
 
 # Biography
 
-Anna was born to an artistic family in Ekaterinburg. She lives and works in Moscow currently. In 2003 Anna created a new brand ChistovaEndourova, which already a year later  has become a headliner during the Mercedes-Benz Fashion Week Russia. 
+Anna was born to an artistic family in Ekaterinburg. She lives and works in Moscow currently. In 2003 Anna created a new brand ChistovaEndourova, which already a year later  has become a headliner during the Mercedes-Benz Fashion Week Russia.
 
 Since 2013 Chistova is a private brand under which new fashion collections are created as well as costumes for movie stars, theatre actors and  musical industry players.
 
-In 2015 two brands Chistova and Arsenicum joined  together to establish a mutual creative space, Apartment26 studio, which is currently situated in a historical centre Kuznetsky Most and became for them a real place of power and inspiration. 
+In 2015 two brands Chistova and Arsenicum joined  together to establish a mutual creative space, Apartment26 studio, which is currently situated in a historical centre Kuznetsky Most and became for them a real place of power and inspiration.
 
-By 2020 Anna’s portfolio consists of more than 20 movies. Her clients are famous movie stars and show business celebrities. 
+By 2020 Anna’s portfolio consists of more than 20 movies. Her clients are famous movie stars and show business celebrities.
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
+
+**Apartment26 studio**
+
+*Photo: [Oleg Borodin](https://www.the-village.ru/village/service-shopping/novoemesto/139779-apartment-26) / [The-village.ru](https://www.the-village.ru/village/service-shopping/novoemesto/139779-apartment-26)*
 
 
 # Anna about herself
