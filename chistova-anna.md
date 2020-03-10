@@ -21,7 +21,7 @@ photographerurl: https://www.flickr.com/photos/lepeshkin/
 sourceurl: https://www.flickr.com/photos/lepeshkin/4499899762
 shortname: CHISTOVA
 facebook: 1590
-instagram: 0
+instagram: 2288
 youtube: 0
 vimeo: 0
 twitter: 0
@@ -112,9 +112,11 @@ By 2020 Anna’s portfolio consists of more than 20 movies. Her clients are famo
 
 # See also
 
++ [Gate](gate)
 + [Chistova (clothes)](chistova-clothes)
 + [Agata Cristi (a Soviet band)](index)
 + [Духless (the movie)](index)
+
 
 # Footnotes
 
