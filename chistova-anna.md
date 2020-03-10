@@ -2,25 +2,25 @@
 title: 'Chistova, Anna'
 permalink: chistova-anna
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Анна Чистова
+appearing: Born
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
+birth: 1980
+givenname: Anna
+familyname: Chistova
+othername: Chistova
+venue: Apartement26 / Kuznetsky bridge Str.
+founder: Apartement26
 origin: a / an Russian
-profession: writer based in Europe
+profession: designer
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
 shortname: CHISTOVA
-facebook: 0
+facebook: 1590
 instagram: 0
 youtube: 0
 vimeo: 0
@@ -31,15 +31,38 @@ soundcloud: 0
 pinterest: 0
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+indexmod.gq/edit
+-->
 
-(Rus. Анна Чистова, born. 1980, Ekaterinburg) Russian designer of evening dresses, artist and actress <span id="a1">[\[1\]](#f1)</span>, co-founder ChistovaEndourova brand, founder and owner of [Chistova](chistova-clothes) brand. Anna also known as costume creator and stylist for «Духless» (2005) and «Духless 2» (2015).
 
-![](http://www.womanhit.ru/media/CACHE/images/dynasty/dinastii4_6bRa2As/18341685626b30ca1e4f2497cdeabd74.png)
+(Rus. Анна Чистова, born. 1980, Ekaterinburg) Fashion designer, costume designer, stylist, founder of Apartement26, designer of evening dresses, artist and actress <span id="a1">[\[1\]](#f1)</span>, co-founder ChistovaEndourova brand, founder and owner of [Chistova](chistova-clothes) brand. Anna also known as costume creator and stylist for «Духless» (2005) and «Духless 2» (2015).
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Anna Chistova and Gleb Samoilov**
 
-
 *Photo: [Gennadi Avramenko](avramenko-gennadi) / [Woman Hit](woman-hit)*
+
+# Biography
+
+Anna was born to an artistic family in Ekaterinburg. She lives and works in Moscow currently. In 2003 Anna created a new brand ChistovaEndourova, which already a year later  has become a headliner during the Mercedes-Benz Fashion Week Russia. 
+
+Since 2013 Chistova is a private brand under which new fashion collections are created as well as costumes for movie stars, theatre actors and  musical industry players.
+
+In 2015 two brands Chistova and Arsenicum joined  together to establish a mutual creative space, Apartment26 studio, which is currently situated in a historical centre Kuznetsky Most and became for them a real place of power and inspiration. 
+
+By 2020 Anna’s portfolio consists of more than 20 movies. Her clients are famous movie stars and show business celebrities. 
+
+
+
+# Anna about herself
+
+“On the screen I try to focus on pure esthetics. I immerse myself in the movie stylistics, trying to open the characters by bringing my own style and vision into each  scene...”
 
 # Private life
 
@@ -50,6 +73,37 @@ pinterest: 0
 |Husband|Oleg Zotkin (promoter)|
 |Son|Egor Zotkin|
 
+# Filmography
+
++ Three (2020), dir. Anna Melikyan
++ Tenderness (2020), dir. Anna Melikyan
++ Masha (2020), dir. Anastasia Palchikova
++ Beautiful girl! (2020), dir. Yana Smooth
++ Queen (2020), dir. Taisiya Igumentseva
++ Happy End (TV series 2020), dir. Roman Prygunov
++ Fairy (2019), dir. Anna Melikyan
++ Triad (TV series, 2019), dir. Dmitry Dyachenko
++ Tenderness (2018), dir. Anna Melikyan
++ Dead Lake (TV series 2018), dir. Roman Prygunov
++ Handsfree (2018), dir. Alexey Nuzhny
++ Draft (2018), dir. Sergey Mokritsky
++ Beyond Reality (2018), dir. Alexander Boguslavsky
++ Quartet (TV series, 2016), dir. Anna Melikyan
++ Zoology (2016), dir. Ivan I. Tverdovsky
++ 8 (2015), dir. Anna Melikyan
++ I am a teacher (2015), dir. Sergey Mokritsky
++ About Love (2015), dir. Anna Melikyan
++ Duhless 2 (2015), dir. Roman Prygunov
++ Such a mood, adagio Bach and a small fragment from the life of a girl Lena (2014), dir. Anna Melikyan
++ Cinema about Alekseev (2014), dir. Michael Segal
++ Star (2014), dir. Anna Melikyan
++ Correction Class (2014), dir. Ivan I. Tverdovsky
++ Country of Good Kids (2013), dir. Olga Kaptur
++ Duhless (2011), dir. Roman Prygunov
+
+# Actress
+
++ Star (2014), dir. Anna Melikyan
 
 # See also
 
