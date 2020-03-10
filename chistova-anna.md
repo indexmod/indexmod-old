@@ -15,9 +15,9 @@ founder: Founder
 origin: a / an Russian
 profession: writer based in Europe
 photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
+photographer: Alexander Lepeshkin
+source: Flikr
+photographerurl: https://www.flickr.com/photos/lepeshkin/
 sourceurl: index
 shortname: CHISTOVA
 facebook: 0
