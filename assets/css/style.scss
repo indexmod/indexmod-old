@@ -43,9 +43,6 @@ body {
 	margin: auto;
 	padding: 10%;
 	background: white;
-	border-style: solid;
-	border-color: black;
-	border-width: 1px;
 }
 
 .date {
@@ -57,30 +54,30 @@ body {
 }
 p {
 	font-family: 'Old Standard TT', serif;
-	font-size: 20px;
-	line-height: 1.5em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 900;
 	color: black;
 }
 
 p.foot {
 	font-family: 'Old Standard TT', serif;
-	font-size: 15px;
-	line-height: 1em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 900;
 }
 
 
 p.caption-name {
 	font-family: 'Old Standard TT', serif;
-	font-size: 19px;
-	line-height: 1.5em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 900;
 }
 p.caption-position {
 	font-family: 'Verdana', serif;
-	font-size: 15px;
-	line-height: 1.2em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 500;
 }
 .rate {
@@ -93,30 +90,30 @@ p.caption-position {
 }
 h1 {
 	font-family: 'Old Standard TT', serif;
-	font-size: 42px;
+	font-size: 3em;
 	font-weight: 900;
-	line-height: 1.3em;
+	line-height: 3em;
 	color: black;
 }
 h2, h3, h4, h5, h6 {
 	font-family: 'Verdana';
-	font-size: 25px;
+	font-size: 2em;
 	font-weight: 900;
-	line-height: 1.5em;
+	line-height: 2em;
 	color: black;
 }
 table {
 	width: 100%;
 	font-family: 'Verdana', serif;
-	font-size: 17px;
-	line-height: 1.1em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 500;
 	color: black;
 	border-collapse: collapse;
 	margin: 0px 0px 0px 0px;
 }
 th, td {
-	padding: 10px;
+	padding: 2em;
 	text-align: left;
 	border-bottom: 1px solid #ddd;
 	margin: 0px 0px 0px 0px;
@@ -143,8 +140,8 @@ tr:hover {
 table.top {
 	width: 100%;
 	font-family: 'Verdana', serif;
-	font-size: 17px;
-	line-height: 1.1em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 500;
 	color: black;
 	border-collapse: collapse;
@@ -173,8 +170,8 @@ table.top tr:hover {
 }
 .highlighter-rouge {
 	font-family: 'Verdana';
-	font-size: 16px;
-	line-height: 3em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 300;
 	color: black;
 	border: solid 1px silver;
@@ -190,50 +187,50 @@ del {
 strong {
 	color: black;
 	font-family: 'Verdana';
-	font-size: 17px;
-	line-height: 0.8em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 900;
 }
 em {
 	font-family: 'Old Standard TT', serif;
 	color: black;
-	font-size: 19px;
-	line-height: 0.8em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 900;
 }
 li {
 	font-family: 'Verdana';
-	font-size: 20px;
-	line-height: 1.5em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 900;
 	color: #4e80d8;
 }
 ul {
 	font-family: 'Old Standard TT', serif;
-	font-size: 20px;
-	line-height: 1.5em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 900;
 	color: #4e80d8;
 }
 a.one:link {
 	color: #4e80d8;
 	font-family: 'Verdana';
-	font-size: 20px;
-	line-height: 1.5em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 900;
 }
 a.one:visited {
 	color: #4e80d8;
 	font-family: 'Verdana';
-	font-size: 20px;
-	line-height: 1.5em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 900;
 }
 a.one:hover {
 	color: green;
 	font-family: 'Verdana';
-	font-size: 20px;
-	line-height: 1.5em;
+	font-size: 2em;
+	line-height: 2em;
 	font-weight: 900;
 }
 a:link {
