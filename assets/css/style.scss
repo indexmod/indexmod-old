@@ -6,21 +6,21 @@
 .rex {
 	font-family: 'Verdana';
 	font-size: 20px;
-	font-weight: 300;
+	font-weight: 500;
 	line-height: 1.5em;
 	color: black;
 }
 .rates-top {
 	font-family: 'Monaco';
 	font-size: 19px;
-	font-weight: 300;
+	font-weight: 500;
 	-webkit-filter: grayscale(99%);
 	filter: grayscale(99%);
 }
 .rates-top:hover {
 	font-family: 'Monaco';
 	font-size: 19px;
-	font-weight: 300;
+	font-weight: 500;
 	-webkit-filter: grayscale(0%);
 	filter: grayscale(0%);
 }
@@ -28,13 +28,13 @@
 	font-family: 'Verdana', serif;
 	font-size: 19px;
 	line-height: 1.5em;
-	font-weight: 300;
+	font-weight: 500;
 	color: black;
 }
 .intro {
 	font-family: 'Verdana';
 	font-size: 20px;
-	font-weight: 300;
+	font-weight: 500;
 	line-height: 1.5em;
 	list-style-type: none;
 }
@@ -49,14 +49,14 @@ body {
 	font-family: 'Verdana', serif;
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 	color: black;
 }
 p {
 	font-family: 'Verdana', serif;
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 	color: black;
 }
 
@@ -64,7 +64,7 @@ p.foot {
 	font-family: 'Verdana', serif;
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 }
 
 
@@ -72,7 +72,7 @@ p.caption-name {
 	font-family: 'Verdana', serif;
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 }
 p.caption-position {
 	font-family: 'Verdana', serif;
@@ -81,11 +81,11 @@ p.caption-position {
 	font-weight: 500;
 }
 .rate {
-	font-weight: 300;
+	font-weight: 500;
 	color: green;
 }
 .rate:hover {
-	font-weight: 300;
+	font-weight: 500;
 	color: black;
 }
 h1 {
@@ -98,7 +98,7 @@ h1 {
 h2, h3, h4, h5, h6 {
 	font-family: 'Verdana';
 	font-size: 1,6em;
-	font-weight: 300;
+	font-weight: 500;
 	line-height: 1,8em;
 	color: black;
 }
@@ -120,21 +120,21 @@ th, td {
 }
 th {
 	font-family: 'Verdana', serif;
-	font-weight: 300;
+	font-weight: 500;
 	text-align: left;
 	height: auto;
 	vertical-align: center;
 	margin: 0px 0px 0px 0px;
 }
 td {
-	font-weight: 300;
+	font-weight: 500;
 	height: auto;
 	vertical-align: center;
 	margin: 0px 0px 0px 0px;
 }
 tr:hover {
 	background-color: #DCDCDC;
-	font-weight: 300;
+	font-weight: 500;
 	margin: 0px 0px 0px 0px;
 }
 table.top {
@@ -142,7 +142,7 @@ table.top {
 	font-family: 'Verdana', serif;
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 	color: black;
 	border-collapse: collapse;
 	margin: 0px 0px 0px 0px;
@@ -154,7 +154,7 @@ table.top th, td {
 	margin: 0px 0px 0px 0px;
 }
 table.top td {
-	font-weight: 300;
+	font-weight: 500;
 	height: auto;
 	vertical-align: center;
 	margin: 0px 0px 0px 0px;
@@ -172,7 +172,7 @@ table.top tr:hover {
 	font-family: 'Verdana';
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 	color: black;
 	border: solid 1px silver;
 	background-color: #DCDCDC;
@@ -189,27 +189,27 @@ strong {
 	font-family: 'Verdana';
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 }
 em {
 	font-family: 'Verdana', serif;
 	color: black;
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 }
 li {
 	font-family: 'Verdana';
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 	color: #4e80d8;
 }
 ul {
 	font-family: 'Verdana', serif;
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 	color: #4e80d8;
 }
 a.one:link {
@@ -217,46 +217,46 @@ a.one:link {
 	font-family: 'Verdana';
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 }
 a.one:visited {
 	color: #4e80d8;
 	font-family: 'Verdana';
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 }
 a.one:hover {
 	color: green;
 	font-family: 'Verdana';
 	font-size: 1,6em;
 	line-height: 1,8em;
-	font-weight: 300;
+	font-weight: 500;
 }
 a:link {
 	color: #4e80d8;
 	text-decoration: none;
-	font-weight: 300;
+	font-weight: 500;
 }
 a:visited {
 	color: #4e80d8;
 	text-decoration: none;
-	font-weight: 300;
+	font-weight: 500;
 }
 a:hover {
 	color: green;
 	text-decoration: none;
-	font-weight: 300;
+	font-weight: 500;
 }
 a:active {
 	color: #4e80d8;
 	text-decoration: none;
-	font-weight: 300;
+	font-weight: 500;
 }
 .footnote {
 	color: #4e80d8;
 	text-decoration: none;
-	font-weight: 300;
+	font-weight: 500;
 }
 img {
 	max-width: 80%;
