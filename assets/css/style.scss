@@ -3,41 +3,21 @@
 
 @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
 
-.rex {
-	font-family: 'Verdana';
-	font-size: 20px;
-	font-weight: 500;
-	line-height: 1.5em;
-	color: black;
-}
 .rates-top {
 	font-family: 'Monaco';
-	font-size: 19px;
-	font-weight: 500;
+	font-size: 2em;
+	font-weight: 100;
 	-webkit-filter: grayscale(99%);
 	filter: grayscale(99%);
 }
 .rates-top:hover {
 	font-family: 'Monaco';
-	font-size: 19px;
-	font-weight: 500;
+	font-size: 2em;
+	font-weight: 100;
 	-webkit-filter: grayscale(0%);
 	filter: grayscale(0%);
 }
-.memo {
-	font-family: 'Verdana', serif;
-	font-size: 19px;
-	line-height: 1.5em;
-	font-weight: 500;
-	color: black;
-}
-.intro {
-	font-family: 'Verdana';
-	font-size: 20px;
-	font-weight: 500;
-	line-height: 1.5em;
-	list-style-type: none;
-}
+
 body {
 	max-width: auto;
 	margin-top: 5%;
@@ -47,13 +27,6 @@ body {
 	background: white;
 }
 
-.date {
-	font-family: 'Verdana', serif;
-	font-size: 1,6em;
-	line-height: 1,8em;
-	font-weight: 500;
-	color: black;
-}
 p {
 	font-family: 'Verdana', serif;
 	font-size: 1,6em;
