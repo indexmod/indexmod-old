@@ -235,13 +235,13 @@ a:active {
 }
 img {
 	max-width: 100%;
-	min-width: 100%;
+	min-width: 50%;
 	height: auto;
 	margin: 0em 0em 0em 0em;
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
 	-webkit-filter: opacify(brown, 70%;
-	filter: grayscale(100%);
+	filter: opacify(brown, 70%;
 }
 .container {
 	width: 50px;
