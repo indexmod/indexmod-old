@@ -40,7 +40,10 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
-![instagram](BpKjlo-B4uI)
+![instagram](https://flowertimes.ru/wp-content/uploads/2018/03/gazania_cvetok.jpg)*Подпись*
+
+  ![GitHub Logo](/images/logo.png)
+  Format: ![Alt Text](url)
 
 ## Сonspectus
 
