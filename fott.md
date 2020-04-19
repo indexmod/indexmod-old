@@ -41,13 +41,6 @@ indexmod.gq/edit
 -->
 
 
-
-![(шшш)](https://www.instagram.com/p/Bz3dcfqBpWR/?utm_source=ig_web_copy_link)
-
-**Nikita Lashin**
-
-*Photo: [Unknown author](index) / [Source](index)*
-
 ## Сonspectus
 
 |Year|Milestone|
