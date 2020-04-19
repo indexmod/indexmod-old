@@ -63,6 +63,11 @@ indexmod.gq/edit
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
++ [Bosco](bosco)
++ [Post](index)
++ [Post](index)
++ [Post](index)
+
 
 ## Footnotes
 
