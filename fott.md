@@ -6,12 +6,12 @@ originlang: Rus.
 originspell: Фотт
 appearing: Est.
 city: Moscow
-birth: 2008
+birth: 2007
 givenname: Fott
 familyname:
 othername: FOTT / Фотт
-venue: Stoleshniki / Dmitrovskaya
-founder: Founder
+venue: Frunzenskaya / Stoleshniki / Dmitrovskaya
+founder: Oleg Maximov
 origin: an Russian
 profession: men's fashion store based in Moscow, closed in 2015
 photo: This is sample for image caption
@@ -40,9 +40,11 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+
+![(Additional images correspondent to the article)](https://www.instagram.com/p/Bz3dcfqBpWR/?utm_source=ig_web_copy_link)
+
+**Nikita Lashin**
 
 *Photo: [Unknown author](index) / [Source](index)*
 
@@ -64,8 +66,8 @@ indexmod.gq/edit
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
 + [Post soviet fashion weeks](post-soviet-fashion-weeks)
 + [Bosco](bosco)
-+ [Post](index)
-+ [Post](index)
++ [Red Wing](index)
++ [14OZ](index)
 + [Post](index)
 
 
