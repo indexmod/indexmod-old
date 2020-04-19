@@ -13,7 +13,7 @@ othername: Sophichka
 venue: RA
 founder: of the Sophie O'Leary Art
 origin: a British
-profession: artist, founder of “Sophie O'Leary Art", The Curator at Indexmod Encyclopedia in London, living and working in London
+profession: artist, founder of “Sophie O'Leary Art", The Curator at Indexmod in London, living and working in London
 photo: Sophie in 1978 in Farnham, Surrey; Sophie in 2014 at Avebury, Wiltshire; Laser and Bubble, Linocut, 2015; Morley Gallery, Lambeth, London. Summer 2015
 photographer: Michael O'Leary
 source: O'Leary's family archives
@@ -32,7 +32,7 @@ pinterest: 0
 ---
 
 
-(Aka Sophichka, born. 1973, Hampshire) is an UK British artist, founder of “Sophie O'Leary Art", The Curator at Indexmod Encyclopedia in London, living and working in London <span id="a1">[\[1\]](#f1)</span>.
+(Aka Sophichka, born. 1973, Hampshire) is an UK British artist, founder of “Sophie O'Leary Art", The Curator at Indexmod in London, living and working in London <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/o-leary-sophie.jpg)
 
@@ -42,6 +42,11 @@ pinterest: 0
 |-|-|
 |2015|Exibit in Columbia <span id="a2">[\[2\]](#f2)</span>|
 
+![](/images/o-leary-sophie-2.jpg)
+
+Interior of the O'Leary's lockdown studio in 2020
+
+*Photo: Sophie O'Leary / Sophie O'Leary Art*
 
 # See also
 
