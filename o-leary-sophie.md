@@ -1,9 +1,9 @@
 ---
-title: O'Leary, Sophie
+title: 'O''Leary, Sophie'
 permalink: o-leary-sophie
 layout: default
 originlang: Eng.
-originspell: Sophie O'Leary
+originspell: Sophie OLeary
 appearing: Born
 city: Hampshire
 birth: 1973
@@ -11,15 +11,19 @@ givenname: Sophie
 familyname: O`Leary
 othername: Sophichka
 venue: RA
-founder: of the Sophie O'Leary Art
+founder: of the Sophie OLeary Art
 origin: a British
-profession: artist, founder of “Sophie O'Leary Art", The Curator at Indexmod in London, living and working in London
-photo: Sophie in 1978 in Farnham, Surrey; Sophie in 2014 at Avebury, Wiltshire; Laser and Bubble, Linocut, 2015; Morley Gallery, Lambeth, London. Summer 2015
-photographer: Michael O'Leary
+profession: >-
+  artist, founder of Sophie O'Leary Art, The Curator at Indexmod in London,
+  living and working in London
+photo: >-
+  Sophie in 1978 in Farnham, Surrey; Sophie in 2014 at Avebury, Wiltshire; Laser
+  and Bubble, Linocut, 2015; Morley Gallery, Lambeth, London. Summer 2015
+photographer: Michael OLeary
 source: O'Leary's family archives
 photographerurl: index
 sourceurl: index
-shortname: O'LEARY
+shortname: OLEARY
 facebook: 688
 instagram: 863
 youtube: 0
@@ -29,6 +33,7 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
+published: true
 ---
 
 
@@ -57,12 +62,12 @@ Born in Hampshire in 1973 and based in London, Sophie has a distinctive abstract
 
 |Years||Course|College|
 |-|-|-|
-|2017 | 2018 | Correspondence Course | Turps Art School, London|
-|2015 | 2016 | Advanced Painting | Morley College, London|
-|2014 | 2015 | Fine Art Foundation (Distinction) | Morley College, London|
-|2001 | 2002 | PGCE Primary | Oxford Brookes University, Oxford|
-|1994 | 1995 | ERASMUS | University of Amsterdam, Netherlands|
-|1992 | 1995 | BA/MA Social Anthropology | Sussex University, Brighton, UK <span id="a4">[\[5\]](#f4)</span>|
+|2017—2018 | Correspondence Course | Turps Art School, London|
+|2015—2016 | Advanced Painting | Morley College, London|
+|2014—2015 | Fine Art Foundation (Distinction) | Morley College, London|
+|2001—2002 | PGCE Primary | Oxford Brookes University, Oxford|
+|1994—1995 | ERASMUS | University of Amsterdam, Netherlands|
+|1992—1995 | BA/MA Social Anthropology | Sussex University, Brighton, UK <span id="a4">[\[5\]](#f4)</span>|
 
 ## Events
 
