@@ -48,9 +48,16 @@ indexmod.gq/edit
 
 ## Сonspectus
 
+|Year|Milestone|
+|-|-|
+|2008|Opening <span id="a2">[\[2\]](#f2)</span>|
+
+## Stuff
+
 |Year|City|
 |-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2008|Pavel Osovtsov <span id="a2">[\[2\]](#f2)</span>|
+|2009|Nikita Lashin <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
