@@ -42,7 +42,7 @@ indexmod.gq/edit
 
 
 
-![(Additional images correspondent to the article)](https://www.instagram.com/p/Bz3dcfqBpWR/?utm_source=ig_web_copy_link)
+![(шшш)](https://www.instagram.com/p/Bz3dcfqBpWR/?utm_source=ig_web_copy_link)
 
 **Nikita Lashin**
 
