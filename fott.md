@@ -40,7 +40,11 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
-![](https://flowertimes.ru/wp-content/uploads/2018/03/gazania_cvetok.jpg)
+![](https://cdn.the-village.ru/the-village.ru/post_image-image/2zezwAMLdAL3AJKl6u6mMA-wide.png)
+
+**Консультанты Fott в Дмитровском переулке в 2014-м году**
+
+*Lena Butko / The-village.ru*
 
 ## Сonspectus
 
