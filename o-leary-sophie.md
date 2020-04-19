@@ -55,12 +55,14 @@ Born in Hampshire in 1973 and based in London, Sophie has a distinctive abstract
 
 ## Education
 
-2017 - 2018 | Correspondence Course | Turps Art School, London
-2015 - 2016 | Advanced Painting | Morley College, London
-2014 - 2015 | Fine Art Foundation (Distinction) | Morley College, London
-2001 - 2002 | PGCE Primary | Oxford Brookes University, Oxford
-1994 - 1995 | ERASMUS | University of Amsterdam, Netherlands
-1992 - 1995 | BA/MA Social Anthropology | Sussex University, Brighton, Uk <span id="a4">[\[5\]](#f4)</span>
+|Years|Course|College|
+|-|-|
+|2017 - 2018 | Correspondence Course | Turps Art School, London|
+|2015 - 2016 | Advanced Painting | Morley College, London|
+|2014 - 2015 | Fine Art Foundation (Distinction) | Morley College, London|
+|2001 - 2002 | PGCE Primary | Oxford Brookes University, Oxford|
+|1994 - 1995 | ERASMUS | University of Amsterdam, Netherlands|
+|1992 - 1995 | BA/MA Social Anthropology | Sussex University, Brighton, UK <span id="a4">[\[5\]](#f4)</span>|
 
 ## Events
 
