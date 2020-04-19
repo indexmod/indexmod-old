@@ -42,7 +42,7 @@ indexmod.gq/edit
 
 ![](https://cdn.the-village.ru/the-village.ru/post_image-image/2zezwAMLdAL3AJKl6u6mMA-wide.png)
 
-**Консультанты Fott в Дмитровском переулке в 2014-м году**
+***Консультанты Fott в Дмитровском переулке в 2014-м году***
 
 *Lena Butko / The-village.ru*
 
