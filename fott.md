@@ -40,6 +40,7 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
+![instagram](BpKjlo-B4uI)
 
 ## Сonspectus
 
