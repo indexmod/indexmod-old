@@ -40,23 +40,20 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
-![instagram](https://flowertimes.ru/wp-content/uploads/2018/03/gazania_cvetok.jpg)*Подпись*
-
-  ![GitHub Logo](/images/logo.png)
-  Format: ![Alt Text](url)
+![](https://flowertimes.ru/wp-content/uploads/2018/03/gazania_cvetok.jpg)
 
 ## Сonspectus
 
 |Year|Milestone|
 |-|-|
-|2008|Opening <span id="a2">[\[2\]](#f2)</span>|
+|2008|Opening <span id="1">[\[2\]](#f2)</span>|
 
 ## Stuff
 
-|Year|City|
+|Year|Person|
 |-|-|
-|2008|Pavel Osovtsov <span id="a2">[\[2\]](#f2)</span>|
-|2009|Nikita Lashin <span id="a2">[\[2\]](#f2)</span>|
+|2008|Pavel Osovtsov <span id="a1">[\[3\]](#f3)</span>|
+|2009|Nikita Lashin <span id="a1">[\[4\]](#f4)</span>|
 
 ## See also
 
@@ -70,4 +67,4 @@ indexmod.gq/edit
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Как убивали FOTT (Inserttips.com)](https://inserttips.com/fott-kill/?fbclid=IwAR2A1ba-Punm8e2adIj9nSar6Wdy1iJR6499NP97zdV5MS5cEMkROaQi1qc)
+[[1, 2, 3, 4]](#a1) <span id="f1"></span> [Как убивали FOTT (Inserttips.com)](https://inserttips.com/fott-kill/?fbclid=IwAR2A1ba-Punm8e2adIj9nSar6Wdy1iJR6499NP97zdV5MS5cEMkROaQi1qc)
