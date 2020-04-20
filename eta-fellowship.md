@@ -33,7 +33,7 @@ pinterest: 0
 
 (Rus. Товарищество «Эта», est. 2017, Mozzhinka) is a creative fellowship based in Moscow, founded by Maksim Kamo and Andrei Dei with aim to visualize of science data. In 2017 also collaborated with Petro Sanchuk, Elvira Kuznetsova.
 
-![](/encyclopedia/images/eta-2018.png)
+![(Userpic of "Eta" on Facebook in 2017)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Userpic of "Eta" on Facebook in 2017**
 
