@@ -2,27 +2,27 @@
 title: Eta (fellowship)
 permalink: eta-fellowship
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Эта
+appearing: Est.
 city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
-photographer: Photographer
-source: Source
-photographerurl: index
-sourceurl: index
-shortname: ETA
-facebook: 0
+birth: 2017
+givenname: Товарищество «Эта»
+familyname:
+othername: Heth
+venue: IFZ RAN
+founder: Maxim Tuzhikov
+origin: a Russian
+profession: creative fellowship fonded by Maxim Tuzhikov in 2017, based Moscow
+photo:
+photographer:
+source:
+photographerurl:
+sourceurl:
+shortname: HETH
+facebook: 2
 instagram: 0
-youtube: 0
+youtube: 2
 vimeo: 0
 twitter: 0
 tumblr: 0
@@ -39,18 +39,18 @@ pinterest: 0
 
 *Image: [Andrei Dei](dei-andrei) / [Eta Facebook]()*
 
-# Naming and identity
+## Naming and identity
 
 The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation of the eighth letter of the phoenician alphabet "heth". Because "Eta" is not an abbreviation, but a noun and a pronoun, the semantic, morphological and syntactic properties determine the rules for writing "Eta" as a proper name.
 
-# Fonts
+## Fonts
 
 |Year|Font|Usage|
 |----|-----|---|
 |2017|Helvetica Neue|For all identity|
 |2017|Square|For some headers|
 
-# Colors
+## Colors
 
 |Year|Color|Usage|
 |----|-----|---|
@@ -67,7 +67,7 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 
 *CGI: [Mikhael Oshin](oshin-mikhael) / [Eta](http://e-t-a.space/Altai-triangulation)*
 
-# Conspectus
+## Conspectus
 
 |Year|Milestone|
 |----|-----|
@@ -77,17 +77,6 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 |2017|Applying to Plums Fest|
 |2018|Mars Triangulation Project|
 
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
-
 # See also
 
 + [Andrei Dei](deinichenko-andrei)
@@ -96,10 +85,6 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 + [Elvira Kuznetsova](kuznetsova-elvira)
 + [Mikhael Oshin](oshin-mikhael)
 
-
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Основатель проекта «Эта» рассказал о визуализации пространственных данных в Геофизическом центре Российской академии наук
- (Пресс-релизы, «Эта»)](http://e-t-a.space/7-декабря-2017)
-
-`Updated Mar. 2018 (Andrei Dei)`
+[[1]](#a1) <span id="f1"></span> [Основатель проекта «Эта» рассказал о визуализации пространственных данных в Геофизическом центре Российской академии наук (Пресс-релизы, «Эта»)](https://e-t-a.ga/7-nov-2017)
