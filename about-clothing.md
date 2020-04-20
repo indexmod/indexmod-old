@@ -31,6 +31,12 @@ soundcloud: 0
 pinterest: 0
 ---
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+
+**Beside its core B2B activities, Utenos trikotažas internationally operates two in-house created fashion brands**
+
+*Photo: [Utenos trikotažas](Utenos trikotažas) / [Ut.lt](Ut.lt)*
+
 ## Features
 
 |No rough stitching|
