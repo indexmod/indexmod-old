@@ -9,7 +9,7 @@ city: Maykop
 birth: 1997
 givenname: Roman
 familyname: Uvarov
-othername: Roma Uvarov
+othername: Рома Уваров
 venue: Nob, Podium TV Show, MRFW
 founder: of Roma Uvarov Design
 origin: a Russian
