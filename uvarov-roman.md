@@ -46,10 +46,8 @@ pinterest: 0
 
 ## Footnotes
 
+[[1]](#a1) <span id="f1"></span> [Рейтинг самых перспективных россиян до 30 лет — 2020. 100 номинантов (Forbes.ru)](https://www.forbes.ru/karera-i-svoy-biznes/398605-reyting-samyh-perspektivnyh-rossiyan-do-30-let-2020-100-nominantov)
 
+[[2]](#a2) <span id="f2"></span> [«Обожаю мерзость!»: дизайнер Рома Уваров о проекте «Подиум», sustainable fashion и планах на будущее (Sncmedia.ru)](http://www.sncmedia.ru/fashion/obozhayu-merzost-dizayner-roma-uvarov-o-proekte-podium-sustainable-fashion-i-planakh-na-budushchee/)
 
-[[1]](#a1) <span id="f1"></span> [Ярко, свободно – от RomaUvarov (Газета «Краснодарские известия»)](http://ki-news.ru/2018/04/04/yarko-svobodno-ot-romauvarov-/)
-
-[[2]](#a2) <span id="f2"></span> [Рейтинг самых перспективных россиян до 30 лет — 2020. 100 номинантов (Forbes.ru)](https://www.forbes.ru/karera-i-svoy-biznes/398605-reyting-samyh-perspektivnyh-rossiyan-do-30-let-2020-100-nominantov)
-
-[[3]](#a3) <span id="f3"></span> [«Обожаю мерзость!»: дизайнер Рома Уваров о проекте «Подиум», sustainable fashion и планах на будущее (Sncmedia.ru)](http://www.sncmedia.ru/fashion/obozhayu-merzost-dizayner-roma-uvarov-o-proekte-podium-sustainable-fashion-i-planakh-na-budushchee/)
+[[3]](#a3) <span id="f3"></span> [Ярко, свободно – от RomaUvarov (Газета «Краснодарские известия»)](http://ki-news.ru/2018/04/04/yarko-svobodno-ot-romauvarov-/)
