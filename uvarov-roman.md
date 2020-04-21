@@ -53,7 +53,7 @@ In the fall of 2018, two crucial events took place in Roman's life at once. Invi
 
 + [Maria Minogarova](minogarova-maria)
 + [Mercedes-Benz Fashion Week Russia](mercedes-benz-fashion-week-russia)
-[Nob](nob)
++ [Nob](nob)
 + [Roma Uvarov Design](roma-uvarov-design)
 
 ## Footnotes
