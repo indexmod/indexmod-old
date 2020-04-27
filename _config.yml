@@ -14,7 +14,7 @@ theme: jekyll-theme-minimal
 
 include: ['.htaccess']
 
-exclude: ['indexmod-curators.html']
+exclude: ['indexmod-curators.html','style-universe.scss','style.scss' ]
 
 use_github_wiki: false
 use_prose_io: true
@@ -33,6 +33,8 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /style-universe.scss
+    - /style.scss
     - /assets
     - 404.md
     - universe.md
