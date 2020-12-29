@@ -3,7 +3,7 @@ title: Jury Urso. No. 5 (Pen over cells)
 permalink: jury-urso-no-5
 layout: default
 originlang: Bel.
-originspell: Журы Урсо. № 5 (шарыкавая ручка, папера ў клетку)
+originspell: Юры Урсо. № 5 (шарыкавая ручка, папера ў клетку)
 appearing: Made
 city: Minsk
 birth: 2020
@@ -43,7 +43,7 @@ indexmod.gq/edit
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Журы Урсо. № 5 (шарыкавая ручка, папера ў клетку)**
+**Юры Урсо. № 5 (шарыкавая ручка, папера ў клетку)**
 
 *Photo: [Jury Urso](https://www.facebook.com/photo?fbid=1768429036657307&set=a.234881336678759) / [Facebook](https://www.facebook.com/photo?fbid=1768429036657307&set=a.234881336678759)*
 
