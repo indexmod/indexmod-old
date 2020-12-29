@@ -39,7 +39,7 @@ founder: Antibourgeois Anticulture
 
 ## Footnotes
 
-<!---[[1]](#a1) <span id="f1"></span> [Юрий Урсо: Чем был СССР? Настолько ли он был ужасен? (Politring.com)](https://politring.com/battles/3560-yuriy-urso-chem-byl-sssr-nastolko-li-on-byl-uzhasen.html)--->
+[[1]](#a1) <span id="f1"></span> [Belarus Artists Union: Don’t draw, Protest! Art Strike NOW (Psychogeography.org)](http://www.psychogeography.org/belarus-art-strike-now/)
 
 
 <!---[[1]](#a1) <span id="f1"></span> [Юрий Урсо: Чем был СССР? Настолько ли он был ужасен? (Politring.com)](https://politring.com/battles/3560-yuriy-urso-chem-byl-sssr-nastolko-li-on-byl-uzhasen.html)--->
