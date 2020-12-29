@@ -13,8 +13,8 @@ familyname:
 othername: Jury Urso. No. 5 (Pen over cells)
 venue: London
 founder: Jury Urso
-origin: Belorussian art
-profession: work
+origin: an artwork
+profession:
 photo: Журы Урсо. № 5 (ручка над клеткамі)
 photographer: Jury Urso
 source: Facebook
