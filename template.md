@@ -7,7 +7,8 @@ originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
 city: Moscow
-birth: 2018
+birth: 2020
+indexed: 2020
 givenname: Given name
 familyname: Family name
 othername: Other name
