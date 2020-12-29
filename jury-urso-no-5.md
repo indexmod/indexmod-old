@@ -53,6 +53,13 @@ indexmod.gq/edit
 |-|-|-|-|-|
 |2020|London <span id="a2">[\[2\]](#f1)</span>|Sold|5000|5000|
 
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
+
+**Payments received**
+
+*Photo: [Jury Urso](https://www.facebook.com/photo?fbid=1768380676662143&set=a.234881336678759) / [Facebook](https://www.facebook.com/photo?fbid=1768380676662143&set=a.234881336678759)*
+
 ## See also
 
 + [Urso, Jury](urso-jury)
