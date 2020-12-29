@@ -10,7 +10,7 @@ exclude: true
 
 <wrap>
 
-{% assign mypages = site.html_pages | sort: "title" %}
+{% assign mypages = site.html_pages | sort: "order" %}
 {% for page in mypages %}
 {% unless page.exclude %}
 <figure>
