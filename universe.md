@@ -8,7 +8,7 @@ exclude: true
 
 <wrap>
 
-{% assign mypages = site.html_pages | sort: "order" %}
+{% assign mypages = site.html_pages | sort: "page.indexmod" %}
 {% for page in mypages %}
 {% unless page.exclude %}
 <figure>
@@ -18,4 +18,5 @@ exclude: true
 </figure>
 {% endunless %}
 {% endfor %}
+
 </wrap>
