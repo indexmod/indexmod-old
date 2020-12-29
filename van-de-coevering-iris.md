@@ -4,7 +4,7 @@ layout: default
 shortname: VANDECOEVERING
 birth: 1974
 city: Baku
-title: Iris Van de Coevering
+title: Van de Coevering, Iris
 originlang: Rus.
 originspell: Ирис Ван Де Коверинг
 othername: Uma Kumari
