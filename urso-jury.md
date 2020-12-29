@@ -35,6 +35,7 @@ founder: Antibourgeois Anticulture
 
 + [Petr Shirkovsky](shirkovsky-petr)
 + [Vladimir Fedorov](fedorov-vladimir)
++ [Jury Urso. No. 5 (Pen over cells)](jury-urso-no-5-pen-over-cells)
 
 ## Footnotes
 
