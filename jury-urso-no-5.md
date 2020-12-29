@@ -1,6 +1,6 @@
 ---
 title: Jury Urso. No. 5 (Pen over cells)
-permalink: jury-urso-no-5-pen-over-cells
+permalink: jury-urso-no-5
 layout: default
 originlang: Bel.
 originspell:
