@@ -51,7 +51,7 @@ indexmod.gq/edit
 
 |Year|City|Status|$ Estimate|$ Final|
 |-|-|-|-|-|
-|2020|London <span id="a2">[\[2\]](#f1)</span>|Sold|5000|5000|
+|2020|London <span id="a2">[\[2\]](#f1)</span>|Sold|5000|4789|
 
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
