@@ -13,8 +13,8 @@ othername: AFW
 venue: Red Square
 founder: Adiree
 origin: an international
-profession: fashion event in world cities produced by Adiree started as Africa Fashion Week in New York
-photo: Showroom presentation from Tiagbe of Kososhi; Photo by Robert Cooper provided by Adirée (AFWNY 2014)
+profession: fashion event in world cities produced by Adiree
+photo: Showroom presentation from Tiagbe of Kososhi
 photographer: Okay Africa
 source: Okayafrica.com
 photographerurl: http://www.okayafrica.com/new-york-fashion-week-nyfw-africa-diaspora/
