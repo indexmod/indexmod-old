@@ -14,7 +14,7 @@ Indexmod formula contains the sum of the official statistics from Facebook, Inst
 
 {% include indexmod-indicator.html%}
 
-This image is generated SVG based on variables from meta data taken from "front row" of every article. See more at [Indexmod.gq/universe](https://indexmod.gq/universe)
+This image is generated SVG based on variables from meta data taken from "front row" of every article. See more at [Indexmod.gq/universe](https://indexmod-blockchainpedia.gq/univerce)
 
 
 ## Formula
