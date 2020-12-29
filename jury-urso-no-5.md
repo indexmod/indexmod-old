@@ -3,8 +3,7 @@ title: Jury Urso. No. 5 (Pen over cells)
 permalink: jury-urso-no-5
 layout: default
 originlang: Bel.
-originspell:
-Журы Урсо. № 5 (ручка над клеткамі)
+originspell: Журы Урсо. № 5 (ручка над клеткамі)
 appearing: Made
 city: Minsk
 birth: 2020
