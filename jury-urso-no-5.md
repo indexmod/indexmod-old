@@ -8,8 +8,8 @@ appearing: Made
 city: Minsk
 birth: 2020
 indexed: 2020
-givenname: No. 5
-familyname: Jury Urso. No. 5
+givenname: Jury Urso. No. 5
+familyname:
 othername: Jury Urso. No. 5 (Pen over cells)
 venue: London
 founder: Jury Urso
