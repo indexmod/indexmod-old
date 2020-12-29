@@ -41,6 +41,12 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
+
+**Payments received**
+
+*Photo: [Jury Urso](https://www.facebook.com/photo?fbid=1768380676662143&set=a.234881336678759) / [Facebook](https://www.facebook.com/photo?fbid=1768380676662143&set=a.234881336678759)*
+
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Юры Урсо. № 5 (шарыкавая ручка, папера ў клетку)**
@@ -49,16 +55,10 @@ indexmod.gq/edit
 
 ## Сonspectus
 
-|Year|City|Status|$ Estimate|$ Final|
+|Year|City|Status|
 |-|-|-|-|-|
-|2020|London <span id="a2">[\[2\]](#f1)</span>|Sold|5000|4789|
+|2020|London <span id="a2">[\[2\]](#f1)</span>|Sold|
 
-
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
-
-**Payments received**
-
-*Photo: [Jury Urso](https://www.facebook.com/photo?fbid=1768380676662143&set=a.234881336678759) / [Facebook](https://www.facebook.com/photo?fbid=1768380676662143&set=a.234881336678759)*
 
 ## See also
 
