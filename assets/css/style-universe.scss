@@ -1,8 +1,5 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
-
-
 
 html {
 	height: 100%;
@@ -10,66 +7,19 @@ html {
 
 h1
 {
-	font-family: 'Old Standard TT', serif;
-	font-size: 42px;
+	font-family: 'Monaco', serif;
+	font-size: 30px;
 	text-align: center;
 	line-height: 1.5em;
 	font-weight: 900;
 	color: black;
 }
 
-p
-{
-	font-family: 'Old Standard TT', serif;
-	font-size: 5px;
-	line-height: 1.5em;
-	font-weight: 900;
-	color: black;
-}
-
-
-
-p.age
-{
-	font-family: 'Old Standard TT', serif;
-	font-size: 25px;
-	line-height: 1em;
-	font-weight: 900;
-	color: green;
-}
-
-p.social
-{
-	font-family: 'Old Standard TT', serif;
-	font-size: 20px;
-	line-height: 1em;
-	font-weight: 900;
-	color: blue;
-}
-
-p.formula
-{
-	font-family: 'Monaco', serif;
-	font-size: 10px;
-	line-height: 1em;
-	font-weight: 900;
-	color: black;
-}
-
-
-p.words
-{
-	font-family: 'Monaco', serif;
-	font-size: 15px;
-	line-height: 1em;
-	font-weight: 900;
-	color: grey;
-}
 
 p.shortname
 {
 	font-family: 'Monaco', serif;
-	font-size: 10px;
+	font-size: 8px;
 	line-height: 1em;
 	font-weight: 100;
 	color: #4e80d8;
@@ -77,8 +27,8 @@ p.shortname
 
 p.info
 {
-	font-family: 'Verdana', serif;
-	font-size: 15px;
+	font-family: 'Monaco', serif;
+	font-size: 30px;
 	line-height: 1em;
 	font-weight: 100;
 	color: grey;
@@ -87,7 +37,7 @@ p.info
 
 figure {
   float: left;
-  width: 10%;
+  width: 20%;
   text-align: center;
   font-style: inherit;
   font-size: inherit;
