@@ -60,4 +60,4 @@ indexmod.gq/edit
 
 ## Footnotes
 
-[[1, 2]](#a1) <span id="f1"></span> [(Facebook, )](https://www.facebook.com/photo?fbid=1768429036657307&set=a.234881336678759)
+[[1, 2]](#a1) <span id="f1"></span> [(Facebook, Jury Urso)](https://www.facebook.com/photo?fbid=1768429036657307&set=a.234881336678759)
