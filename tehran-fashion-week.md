@@ -8,10 +8,10 @@ appearing: Est.
 city: Tehran
 birth: 2015
 givenname: Tehran Fashion Week
-familyname:
+familyname: null
 othername: THRFW
-venue:
-founder:
+venue: null
+founder: null
 origin: an Iranian
 profession: fashion event held in Tehran since 2015
 photo: An emblem of the THRFW
@@ -29,7 +29,10 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
+published: true
 ---
+
+Test
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
