@@ -32,7 +32,6 @@ pinterest: 0
 published: true
 ---
 
-Test
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
