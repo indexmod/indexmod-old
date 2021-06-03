@@ -54,6 +54,13 @@ He is familiar though in different incarnations. Appeared for the first time in 
 The “real” Tamkovich persistently resisted, even called himself the “original” but nothing helped. As a result he began introducing himself as Yan Ginzbourg at every possible opportunity. The imitator was victorious. The “original” and the “copy” even had an altercation at one of the “Nights of Vernissages” at the Vinzavod Contemporary Art Center, the video of which was a hit in artistic circles for a while. In November 2016 Tamkovich-Friske and Individual Entrepreneur held a gay-wedding in Center "Red" “Bound to Death. Equal Marriage” <span id="a2">[\[3\]](#f2)</span>.
 
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
+
+**Шедевр-младший: загранпаспорт (2020) <span id="a5">[\[5\]](#f5)</span>**
+
+*Photo: [Facebook.com](https://www.facebook.com/photo?fbid=1395748914137341&set=a.120519958326916)*
+
+
 ## The Merge
 
 In the early summer of 2016, a case occurred that finally tipped the scales in the direction of Tamkovich-Friske. An employee of the NCCA called him and asked if he could come and sign an agreement for the transportation of Tamkovich’s work from one gallery to another, which he did. Thus, one of the largest Moscow institutions -- the NCCA -- has officially recognized that there is no difference between Tamkovichi. For the blind bureaucratic machine, they became one person <span id="a4">[\[4\]](#f4)</span>.
@@ -69,3 +76,5 @@ In the early summer of 2016, a case occurred that finally tipped the scales in t
 [[2, 3]](#a2) <span id="f2"></span> [Theme: Psycho (DI #6-2017)](http://di.mmoma.ru/news?mid=3096&id=1335)
 
 [[4]](#a4) <span id="f4"></span> [Ян Тамкович-Фриске — поучительная история о том, как в 25 стать самым парадоксальным и ненавидимым современным художником Москвы  (Knife)](https://knife.media/tamkovich-friske/)
+
+[[5]](#a5) <span id="f5"></span> [Ян Тамкович-Фриске «Faît Accompli. Выставка одного шедевра» (Facebook)](https://www.facebook.com/events/1724564334472516/)
