@@ -23,8 +23,8 @@ custom_sidebar: false
 custom_footer: false
 
 prose:
-  rooturl: 'https://indexmod.ga'
-  siteurl: 'https://indexmod.ga'
+  rooturl: 'https://github.com/indexmod/indexmod-blockchainpedia.gq'
+  siteurl: 'https://indexmod-blockchainpedia.gq/'
   relativeLinks: 'https://prose.github.io/starter/links.jsonp'
   media: '/images'
 
