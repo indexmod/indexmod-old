@@ -1,4 +1,5 @@
 ---
+
 title: Indexmod
 timezone: UTC
 description: Indexmod is a fashion and art blockchainpædia
@@ -22,8 +23,8 @@ custom_sidebar: false
 custom_footer: false
 
 prose:
-  rooturl: ''
-  siteurl: ''
+  rooturl: 'https://indexmod.ga'
+  siteurl: 'https://indexmod.ga'
   relativeLinks: 'https://prose.github.io/starter/links.jsonp'
   media: '/images'
 
