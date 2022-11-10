@@ -2,19 +2,19 @@
 title: Zlye (art group)
 permalink: zlye-art-group
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: Moscow
-birth: 2018
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
-photo: This is sample for image caption
+originlang: Rus.
+originspell: Злые
+appearing: Est.
+city: Kamensk-Uralsky
+birth: 2004
+givenname:  
+familyname:  
+othername:
+venue:
+founder:
+origin: an art group
+profession:  based in Russia
+photo: This is Zlye logo
 photographer: Photographer
 source: Source
 photographerurl: index
