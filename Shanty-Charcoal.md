@@ -1,8 +1,8 @@
 ---
 title: Shanty Charcoal
-permalink: Shanty-Charcoal
+permalink: shanty-charcoal
 layout: default
-exclude: true
+exclude: false
 originlang: Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
