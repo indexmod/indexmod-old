@@ -13,7 +13,7 @@ othername: SFW
 venue: Shanghai New International Expo Center in Pudong
 founder: 'Shanghai Municipal Government, Shanghai Textile Group'
 origin: an international
-profession: >-
+profession:
   fashion events in China, held twice in a year for seven days which is a part
   of Shanghai International Fashion Culture Festival which usually lasts for a
   month, also in 2013 Mode Shanghai collaborated with ENK International, the

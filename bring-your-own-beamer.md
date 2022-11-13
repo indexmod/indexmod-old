@@ -13,7 +13,7 @@ othername: BYOB
 venue: Worldwide
 founder: 'Rafaël Rozendaal, Anne de Vries'
 origin: an international movement
-profession: >-
+profession:
   of a series of one-night-exhibitions curated by different people around the
   world
 photo: Bring Your Own Beamer at Yeltsin Center Art Gallery in Yekaterinbur in 2017

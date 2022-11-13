@@ -2,9 +2,9 @@
 title: Stasenko, Evgeniy
 permalink: stasenko-evgeniy
 layout: default
-originlang: Rus. / Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
+originlang: Rus.
+originspell: Стасенко
+appearing: born
 city: Moscow
 birth: 1996
 givenname: Given name

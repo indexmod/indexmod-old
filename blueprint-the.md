@@ -17,11 +17,9 @@ twitter: null
 tumblr: null
 vkontakte: '11605'
 origin: a Russian
-profession: >-
-  online an independent edition about fashion, beauty and modern culture based
+profession: online an independent edition about fashion, beauty and modern culture based
   in Moscow
-photo: >-
-  The Blueprint's Editorial Director Alexander Perepelkin (left) and Publisher
+photo: The Blueprint's Editorial Director Alexander Perepelkin (left) and Publisher
   Evgenia Fisheleva (center) on the launch of the first ever collection of steel
   watches Piaget Polo S
 photographer: 'Marina Krylova, Cyril Popovich, Igor Bogdanov'
