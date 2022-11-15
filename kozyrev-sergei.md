@@ -1,7 +1,7 @@
 ---
 title: Kozyrev, Sergei
 permalink: kozyrev-sergei
-layout: default
+layout: info
 originlang: Rus.
 originspell: Сергей Козырев
 appearing: Born
@@ -40,18 +40,6 @@ Full edit instructions
 indexmod.gq/edit
 -->
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Unknown author](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
 ## See also
 
 + [Fashion weeks around the world](fashion-weeks-around-the-world)
@@ -61,7 +49,3 @@ indexmod.gq/edit
 + [Andrey Artyomov](artyomov-andrey)
 + [Ilona Stolie](Stolie-Ilona)
 + [Walk of Shame (brand)](walk-of-shame-brand)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
