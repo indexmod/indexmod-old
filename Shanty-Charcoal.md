@@ -69,8 +69,8 @@ Barbara Antinoro: "The sound was me and a friend singing in broken bottles I fou
 
 ## See also
 
-+ [Fashion weeks around the world](fashion-weeks-around-the-world)
-+ [Post soviet fashion weeks](post-soviet-fashion-weeks)
++ [O'Leary, Sophie](o-leary-sophie)
++ [Yee, Evan Desmond](yee-evan-desmond)
 
 ## Footnotes
 
