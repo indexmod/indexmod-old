@@ -1,7 +1,7 @@
 ---
 title: Ministry of Supply (brand)
 permalink: ministry-of-supply-brand
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,14 +31,7 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Est. 2013, city) is a Ministry of Supply est. 2012, Boston—is a  men's fashion brand, producer of the first seamless sweater printed on the 3D printer, inventor of a “1 In, 1 Out” policy, founded by Aman Advani, Kit Hickey, Kevin Rustagi, and Gihan Amarasiriwardena (Massachusetts Institute of Technology), and named after a British government department formed World War I <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/{{page.permalink}}.jpg)
-
-**Image title**
-Massachusetts Institute of Technology logo
-Photo: MIT / Ministry of Supply
-*Photo: [Name](index) / [Source](index)*
+Ministry of Supply est. 2012, Boston is a  men's fashion brand, producer of the first seamless sweater printed on the 3D printer, inventor of a “1 In, 1 Out” policy, founded by Aman Advani, Kit Hickey, Kevin Rustagi, and Gihan Amarasiriwardena (Massachusetts Institute of Technology), and named after a British government department formed World War I.
 
 # Brands
 
@@ -51,13 +44,7 @@ Photo: MIT / Ministry of Supply
 
 # See also
 
-Aman Advani
-Kit Hickey
-Kevin Rustagi
-Gihan Amarasiriwardena
-
-# Footnotes
-
-1 Бесшовная одежда, напечатанная на 3D-принтере, уже в продаже (Hightech Fm) https://hightech.fm/2016/04/15/printed-jacket
-
-[[3]](#a3) <span id="f3"></span> [(Facebook)](index)
++ Aman Advani
++ Kit Hickey
++ Kevin Rustagi
++ Gihan Amarasiriwardena
