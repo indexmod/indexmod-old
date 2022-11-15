@@ -1,7 +1,7 @@
 ---
 title: Kim, Tricia (jeweller)
 permalink: kim-tricia-jeweller
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,32 +31,10 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+(Korean 트리샤 김) born in New York—Korean-American jewelry designer living and working at Denpasar. Company: Mrs. Kim is founder and designer at Nagicia Inc.
 
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
-
-
-(Est. 2013, city) is a  (Korean 트리샤 김) born in New York—Korean-American jewelry designer living and working at Denpasar <span id="a1">[\[1\]](#f1)</span>. Company: Mrs. Kim is founder and designer at Nagicia Inc.
-
-Bali
-Hossein Farmani
-Meli Shanti
-Nagicia
-Nagicia by Tricia
++ Bali
++ Hossein Farmani
++ Meli Shanti
++ Nagicia
++ Nagicia by Tricia

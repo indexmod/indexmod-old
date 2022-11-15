@@ -1,7 +1,7 @@
 ---
 title: Kisselman, Iluxa
 permalink: kisselman-iluxa
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,34 +31,12 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
-
-
-(Est. 2013, city) is Iluxa Kisselman (Rus. Илья Киссельман) born 1973, Moscow—Russian artist, art director, working with a number of technics from pencil graphics to video and animation, a graduate of Moscow Architectural Institute, founder and teacher of the Kisselman Studio <span id="a1">[\[1\]](#f1)</span>.
+Iluxa Kisselman (Rus. Илья Киссельман) born 1973, Moscow—Russian artist, art director, working with a number of technics from pencil graphics to video and animation, a graduate of Moscow Architectural Institute, founder and teacher of the Kisselman Studio.
 
 Composition Nr. 17 from Micrografika project
 Pen graphics: Iluxa Kisselman / Behance
 
-Dom Shaliapina
-Kisselman Studio
-Sergei Pogosian
-Petra-Ivana Babushkina
++ Dom Shaliapina
++ Kisselman Studio
++ Sergei Pogosian
++ Petra-Ivana Babushkina
