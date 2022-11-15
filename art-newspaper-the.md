@@ -1,8 +1,7 @@
 ---
 title: Art Newspaper, The
 permalink: art-newspaper-the
-layout: default
-exclude: true
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -32,26 +31,6 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
 
 The Art Newspaper, est. 1983, Turin—is a is an online and paper publication based in London and New York, provides a news service about the art world, fed by its network of sister editions, which together have around 50 correspondents working in over 30 countries, with editorial offices in London, Turin, New York, Paris, Moscow, Beijing and Athens
 
