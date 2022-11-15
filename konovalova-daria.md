@@ -1,7 +1,7 @@
 ---
 title: Konovalova, Daria
 permalink: konovalova-daria
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -30,33 +30,6 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
-
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
-
-(Est. 2013, city) is a Daria Konovalova, Konovalova-Infante (Rus. Дарья Коновалова, Дарья Коновалова-Инфанте) born 19??, Moscow—is a Russian artist working in a genre of video <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/konovalova.png)
-
-**Daria Konovalova and Homourban Group, 1998**
 
 # Bio and education
 

@@ -1,7 +1,7 @@
 ---
 title: Kolhui
 permalink: kolhui
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,13 +31,8 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Rus. Колхуи, колдовские художники, "witchcraft artists", est. 2002, Saint Petersburg) is a group, about 13 participants, of artists, also artist Nikolai Kopeikin one of the founders, formed in 2002 to explore so called multrealism <span id="a1">[\[1\]](#f1)</span>. The works of the group's participants are in more than 30 museums of Russia and abroad. Exhibitions of the group, with different composition, about 15 in Moscow, St. Petersburg, Geneva, V. Novgorod, etc.
+(Rus. Колхуи, колдовские художники, "witchcraft artists", est. 2002, Saint Petersburg) is a group, about 13 participants, of artists, also artist Nikolai Kopeikin one of the founders, formed in 2002 to explore so called multrealism. The works of the group's participants are in more than 30 museums of Russia and abroad. Exhibitions of the group, with different composition, about 15 in Moscow, St. Petersburg, Geneva, V. Novgorod, etc.
 
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**Viktor Puzo-Buravkin, Vasya Lozhkin, Vladimir Medvedev, Mikhail Rubtsov, Nikolai Kopeikin, Andrei Kagadeev, Nikolai Vasilyev, Alexei Uvarov, Andrei Lyublinsky and Kirill Miller**
-
-*Photo: [Unknown](index) / [Facebook](index)*
 
 ## Conspectus
 
