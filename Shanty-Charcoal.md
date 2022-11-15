@@ -5,17 +5,17 @@ layout: default
 exclude: false
 originlang: Eng.
 originspell: ˈʃænti ˈtʃɑːrˌkoʊl
-appearing: by
+appearing: performed in
 city: Whitstable
 birth: 2022
 indexed: 2022
-givenname:
-familyname:
-othername:
+givenname: Shanty
+familyname: Charcoal
+othername: シャンティチャコール
 venue: Whitstable
 founder: Barbara Antinoro
-origin: a
-profession: perfomace and
+origin: an original
+profession: perfomace and video documentation by Italian artist based in the UK 
 photo: Video documentation of the Shanty Charcoal by Barbara Antinoro
 photographer: Barbara Antinoro
 source: YouTube
