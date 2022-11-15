@@ -1,7 +1,7 @@
 ---
 title: Kiba, Anton (DJ Freak)
 permalink: kiba-anton-dj-freak
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
