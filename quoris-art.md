@@ -1,7 +1,7 @@
 ---
 title: Quoris Art
 permalink: quoris-art
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,16 +31,15 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Est. 2013, city) is a Quoris Art—a curating program established in 2012 by KIA Motors Russia to focus on “a current contemporary art” with a concept of the “true art”, or “art without doubt”, embodied in various forms of art, which does not leave the audience indifferent. Quoris Art aims to discover and present the best examples of arts.1 Sign in to edit Quoris Art <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Quoris Art—a curating program established in 2012 by KIA Motors Russia to focus on “a current contemporary art” with a concept of the “true art”, or “art without doubt”, embodied in various forms of art, which does not leave the audience indifferent. Quoris Art aims to discover and present the best examples of arts.1 Sign in to edit Quoris Art.
 
 A president of KIA Motors Rus, Kim Sung-Hwan (second on left)
 and sisters Ruban at “Trekhgorka” during Quoris Art in 2015
-Photo: Nikolai Zverkov / Quoris Art
 
- 2012 	Premier of Aidan Salakhova 	 Moscow
- 2013	 Concert of Sumi Jo	 Moscow
- 2014 	Dance Delhi 	 Moscow
- 2015	 Ruban SS 16 	 Moscow
++ 2012 Premier of Aidan Salakhova Moscow
++ 2013 Concert of Sumi Jo	Moscow
++ 2014 Dance Delhi Moscow
++ 2015 Ruban SS 16 Moscow
 
-Alisa Ruban
-Yuliya Ruban
++ Alisa Ruban
++ Yuliya Ruban
