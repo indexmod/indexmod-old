@@ -4,27 +4,27 @@ permalink: shanty-charcoal
 layout: default
 exclude: false
 originlang: Eng.
-originspell: Original spell
-appearing: Updated / Est. / Born
-city: London
-birth: 2020
-indexed: 2020
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
-founder: Founder
-origin: a / an
-profession: artist
-photo: This is sample for image caption
-photographer: Unknown author
-source: Source
-photographerurl: index
-sourceurl: index
-shortname: SHORTNAME
+originspell: ˈʃænti ˈtʃɑːrˌkoʊl
+appearing: by
+city: Whitstable
+birth: 2022
+indexed: 2022
+givenname:
+familyname:
+othername:
+venue: Whitstable
+founder: Barbara Antinoro
+origin: a
+profession: perfomace and
+photo: Video documentation of the Shanty Charcoal by Barbara Antinoro
+photographer: Barbara Antinoro
+source: YouTube
+photographerurl:
+sourceurl: https://www.youtube.com/watch?v=2ti2tU63TMg
+shortname: SHANTYCHARCOAL
 facebook: 0
 instagram: 0
-youtube: 0
+youtube: 5
 vimeo: 0
 twitter: 0
 tumblr: 0
@@ -44,15 +44,28 @@ indexmod.gq/edit
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
+**Barbara Antinoro performing The Shanty Charcoal**
 
-*Photo: [Unknown author](index) / [Source](index)*
+*Photo: [Barbara Antinoro](index) / [Shanty Charcoal at YouTube](https://www.youtube.com/watch?v=2ti2tU63TMg)*
 
-## Сonspectus
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
+
+**Barbara Antinoro's studio interior**
+
+*Photo: [Barbara Antinoro](index) / [Shanty Charcoal at YouTube](https://www.youtube.com/watch?v=2ti2tU63TMg)*
+
+## Original soundtrack
+
+Barbara Antinoro: "The sound was me and a friend singing in broken bottles I found and collected on the estuary. Then I mixed our voices. And it reminded me of a folk music style called “sea shanty” that’s why I called the piece “shanty charcoal”"
+
++ [Original soundtrack of The Shanty Charcoal]({{ site.url }}/media/{{ page.permalink }}.m4a)
+
+
+## Performances
 
 |Year|City|
 |-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
+|2022|Whitstable <span id="a2">[\[2\]](#f2)</span>|
 
 ## See also
 
@@ -61,4 +74,4 @@ indexmod.gq/edit
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+[[1]](#a1) <span id="f1"></span> [(Shanty Charcoal at YouTube)](https://www.youtube.com/watch?v=2ti2tU63TMg)
