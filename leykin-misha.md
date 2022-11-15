@@ -1,7 +1,7 @@
 ---
 title: Leykin, Misha
 permalink: leykin-misha
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,29 +31,7 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+Misha Leykin (Rus. Миша Лейкин) born 1968, a Russian architect, member of Iced Architects, graduate Moscow Architectural Institute.
 
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
-
-
-(Est. 2013, city) is a Misha Leykin (Rus. Миша Лейкин) born 1968—a Russian architect, member of Iced Architects, graduate Moscow Architectural Institute.1 Login to edit Misha Leykin <span id="a1">[\[1\]](#f1)</span>.
-
-Iced Architects
-Mishmash
++ Iced Architects
++ Mishmash
