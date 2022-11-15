@@ -2,7 +2,6 @@
 title: Mercedes Fashion Week Chile
 permalink: mercedes-fashion-week-chile
 layout: default
-exclude: true
 originlang: Eng.
 originspell: Mercedes Fashion Week Chile
 appearing: Est.

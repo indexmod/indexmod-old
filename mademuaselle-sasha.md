@@ -1,7 +1,7 @@
 ---
 title: Mademuaselle, Sasha
 permalink: mademuaselle-sasha
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,41 +31,10 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
+(Rus. Саша Мадмуазель) Russian photographer interesting to rave hangouts, taking pics of drunk friends, and find out how the rave culture in Russia seems to be taking over.
 
 
-(Est. 2013, city) is a Sasha Mademuaselle (Rus. Саша Мадмуазель) born 0000, Russian photographer interesting to rave hangouts, taking pics of drunk friends, and find out how the rave culture in Russia seems to be taking over <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/{{page.permalink}}.jpg)
-
-**Image title**
-A fragment of “000024990003copy” by Sasha Mademuaselle, 2013
-Photo: Sasha Mademuaselle / Flickr
-*Photo: [Name](index) / [Source](index)*
 
 
-Artur Lomakin
-Skotoboinya
-
-# Footnotes
-
-1 Sasha Mademuaselle. Rave goddess documenting cool kids—Metal
++ Artur Lomakin
++ Skotoboinya

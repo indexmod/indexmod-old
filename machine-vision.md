@@ -1,7 +1,7 @@
 ---
 title: Machine Vision
 permalink: machine-vision
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,33 +31,8 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
-
-
-(Est. 2013, city) is a Machine Vision (Rus. Машинное зрение) re-pres. 2016, Moscow—is an new type of avatars for social networking are invented and created with 3D scanning by Unshift at the Internet Yami-Ichi.1 Sign in to edit Machine Vision <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/{{page.permalink}}.jpg)
-
-# See also
+(Rus. Машинное зрение) re-pres. 2016, Moscow—is an new type of avatars for social networking are invented and created with 3D scanning by Unshift at the Internet Yami-Ichi.
 
 + Internet Yami-Ichi
 + Intektra

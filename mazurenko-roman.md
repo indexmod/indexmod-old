@@ -31,7 +31,7 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Est. 2013, city) is a Roman Mazurenko (Rus. Роман Мазуренко) born in 1983, Belarus; died 2015, Moscow—Russian promoter, a businessman known for having founded in 2007 LAM Magazine, in 2009, took part in the launch of the Russian version of the magazine Dazed & Confused. In 2012, he launched a publishing platform Stampsy and received a grant program Start Fellows, founded by Pavel Durov and Yuri Milner.
+Roman Mazurenko (Rus. Роман Мазуренко) born in 1983, Belarus; died 2015, Moscow—Russian promoter, a businessman known for having founded in 2007 LAM Magazine, in 2009, took part in the launch of the Russian version of the magazine Dazed & Confused. In 2012, he launched a publishing platform Stampsy and received a grant program Start Fellows, founded by Pavel Durov and Yuri Milner.
 
 Roman Mazurenko in 2011
 Photo: Andrew Isakin / GQ

@@ -31,16 +31,7 @@ soundcloud: 0
 pinterest: 0
 ---
 
-**Image caption**
-
-(Est. 2013, city) is a Malevich Experience, created in 2016, Moscow—is an interactive object of the virtual reality by Denis Semionov <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/{{page.permalink}}.jpg)
-
-**A testing of the Malevich Experience (2016)**
-
-Photo: Denis Semionov / Antimuseum / Indexmod
-*Photo: [Name](index) / [Source](index)*
+(Est. 2013, city) is a Malevich Experience, created in 2016, Moscow—is an interactive object of the virtual reality by Denis Semionov.
 
 A portal to a new perception of irrelevance and ideas of Malevich. Virtual reality gives the viewer an insight into the “Black Square” the most discussed Suprematist icons of the XX century
 
