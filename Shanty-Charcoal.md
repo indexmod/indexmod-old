@@ -15,7 +15,7 @@ othername: シャンティチャコール
 venue: Whitstable
 founder: Barbara Antinoro
 origin: an original
-profession: perfomace and video documentation by Italian artist based in the UK 
+profession: perfomace and video documentation by Barbara Antinoro an Italian artist based in the UK 
 photo: Video documentation of the Shanty Charcoal by Barbara Antinoro
 photographer: Barbara Antinoro
 source: YouTube
