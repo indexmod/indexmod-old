@@ -1,7 +1,7 @@
 ---
 title: 'Mamedova, Tatiana'
 permalink: mamedova-tatiana
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -33,25 +33,12 @@ pinterest: 0
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
 ## See also
 
 + [About](index)
 + [More](index)
 
 ## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
-
 
 
 (Rus. Татьяна Мамедова, born 1976, Moscow) is a Russian and Azerbaijani futurist artis <span id="a1">[\[1\]](#f1)</span>, film costume designer, an uniform designer <span id="a2">[\[2\]](#f2)</span> director of the fashion shows, founder of the brands Ali (conceptual ready-to-wear), EMP.OS (yoga and sportswear) and Tatiana Mamedova Atelier (high dressmaking brand), former art-director of MFW (Moscow Fashion Week), graduate of Slava Zaitsev Laboratory of Fashion.
