@@ -1,7 +1,7 @@
 ---
 title: Laska (tattoo)
 permalink: laska-tattoo
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,34 +31,9 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+(Est. 2013, city) is a Laska (Rus. Ласка) est. 2016, Moscow, is a Russian1 brand of beauty flash tattoo designed in futuristic style, founded by architect Daria Kamysheva.
 
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
-
-
-(Est. 2013, city) is a Laska (Rus. Ласка) est. 2016, Moscow, is a Russian1 brand of beauty flash tattoo designed in futuristic style, founded by architect Daria Kamysheva. Sign in to edit Laska <span id="a1">[\[1\]](#f1)</span>.
-
-View of the “Parallels” set by Laska on male and female arms, 2016
-Photo: Alice Gutkina / Laska
-
-Flash tattoo
-Tattly
-Rapid tattooing
-Tatiana Mamedova
++ Flash tattoo
++ Tattly
++ Rapid tattooing
++ Tatiana Mamedova
