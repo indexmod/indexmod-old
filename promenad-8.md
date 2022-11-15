@@ -72,6 +72,3 @@ The Premiere perfomance of the concert took place in the object of cultural heri
 # Footnotes
 
 [[2]](#a2) <span id="f2"></span> [Товарищество «Эта» представит последние мультимедийные разработки в палатах Украинцева (Пресс-релизы, E-t-a.space)](http://e-t-a.space//14-февраля-2018)
-
-
-`Updated Mar. 2018 (Andrei Dei)`
