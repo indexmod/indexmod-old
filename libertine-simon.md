@@ -1,7 +1,7 @@
 ---
 title: 'Libertine, Simon'
 permalink: libertine-simon
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,35 +31,6 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
-
-founder: Johnson Hartig
-
-**From Libertine fall-winter 2016 look-book (fragment)**
-
-*Photo: [Libertine](index) / [Siim Kohv Ltd](index)*
-
-## About Libertine
-
 As the founding force behind Libertine, Johnson Hartig ups the ante in the fashion game by creatively immersing himself and those around him in a whimsical trip where old school classics meet new school know-how.
 
 Having first launched the label in 2001, today he continues upon his quest of single-handedly revolutionizing the ready-to-wear market for men and women: enter graphic illuminations teamed with sublime screen printing techniques and an avant garde approach to deconstruction by way of customizing recycled items, thus breathing new life into designs from yesteryear.
@@ -75,4 +46,3 @@ Today he lives and works in Los Angeles with his rescue troopers Terence and Dig
 + Karl Lagerfeld
 + Anna Wintour
 + Mick Jagger
-+ [About {{page.title}}](index)

@@ -1,7 +1,7 @@
 ---
 title: Lianozovo Curse
 permalink: lianozovo-curse
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,31 +31,7 @@ soundcloud: 0
 pinterest: 0
 ---
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
-
-(Est. 2013, city) is a Lianozovo Curse or Lianozovo platform Curse (Rus. Проклятие платформы Лианозово)—a TV series based on idea and storyboard on following hypothetical novel by Andrei Deinichenko from in 2015 in Moscow and directed by Miс Sachkov.1 Sign in to edit Lianozovo platform Curse <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/lianozovo.jpg)
-
+(Est. 2013) Lianozovo Curse or Lianozovo platform Curse (Rus. Проклятие платформы Лианозово) — a TV series concept based on idea and storyboard on following hypothetical novel by Andrei Deinichenko from in 2015 in Moscow and directed by Miс Sachkov.
 
 Cover of the Lianozovo platform Curse, first half of the 2010s
 Illustration: Mic Sachkov / Indexmod
