@@ -55,7 +55,7 @@ indexmod.gq/edit
 
 ## Original soundtrack
 
-Barbara Antinoro: "The sound was me and a friend singing in broken bottles I found and collected on the estuary. Then I mixed our voices. And it reminded me of a folk music style called “sea shanty” that’s why I called the piece “shanty charcoal”"
+Barbara Antinoro: "The sound was me and a friend singing in broken bottles. I found and collected on the estuary. Then I mixed our voices. And it reminded me of a folk music style called “sea shanty” that’s why I called the piece “shanty charcoal”".
 
 + [Original soundtrack of The Shanty Charcoal]({{ site.url }}/media/{{ page.permalink }}.m4a)
 
