@@ -1,7 +1,7 @@
 ---
 title: Airborne Troops Day (2013)
 permalink: airborne-troops-day-2013
-layout: info
+layout: default
 originlang: Rus.
 originspell: День ВДВ
 appearing: Performed
