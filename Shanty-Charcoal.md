@@ -2,7 +2,6 @@
 title: Shanty Charcoal
 permalink: shanty-charcoal
 layout: default
-exclude: false
 originlang: Eng.
 originspell: ˈʃænti ˈtʃɑːrˌkoʊl
 appearing: performed in
