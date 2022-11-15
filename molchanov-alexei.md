@@ -1,7 +1,7 @@
 ---
 title: Molchanov, Alexei
 permalink: molchanov-alexei
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,7 +31,7 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Est. 2013, city) is a Alexei Molchanov  095  SNC (Rus. Алексей Молчанов) born 1975, Asha—is a national make up artist of Lancôme in Russia, 100 most influential people in Russian fashion by SNC, working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Alexei Molchanov  095  SNC (Rus. Алексей Молчанов) born 1975, Asha is a national make up artist of Lancôme in Russia, 100 most influential people in Russian fashion by SNC, working and living in Moscow.
 
 + Nikolay Zverkov
 + Alexei Kolpakov
@@ -39,24 +39,3 @@ pinterest: 0
 + Alexander Terekhov
 + Walk of Shame
 + Zhukova Dasha
-
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
