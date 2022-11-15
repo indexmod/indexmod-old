@@ -1,7 +1,7 @@
 ---
 title: Kazumi, Mico
 permalink: kazumi-mico
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -30,27 +30,6 @@ vkontakte: 0
 soundcloud: 0
 pinterest: 0
 ---
-
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow <span id="a2">[\[2\]](#f2)</span>|
-
-## See also
-
-+ [About](index)
-+ [More](index)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [(Wikipedia)](index)
 
 (Iwamoto Mico Kazumi, about. 1970, Japan) is an ambassador of Indexmod Encyclopedia in Bangkok and Japan <span id="a1">[\[1\]](#f1)</span>.
 

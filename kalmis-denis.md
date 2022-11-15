@@ -33,13 +33,6 @@ pinterest: 0
 
 Denis Kalmis (Rus. Денис Калмыш), born 1988 Chisinau, Moldova1—Chef of the “Café Garage”, author of the cookbook “Povar v Garazhe”, “GQ Russia Top 100 Stylish Men 2013” working in so-called “simple food” style, living in Moscow.
 
-![](http://www.interviewrussia.ru/sites/default/files/styles/medium/public/1_6903.jpg)![](http://www.interviewrussia.ru/sites/default/files/styles/medium/public/1_6903.jpg)
-
-Denis Kalmis in 2015
-Photo: Издательский Дом Интервью / Interview
-Cover of cookbook “Povar v Garazhe”. Booksmart, 2013
-Photo: Condé Nast / Vogue Russia
-
 + Café Garage
 + Carine Roitfeld
 + Dasha Zhukova
