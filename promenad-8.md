@@ -1,7 +1,7 @@
 ---
 title: Promenad 8
 permalink: promenad-8
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -73,10 +73,5 @@ The Premiere perfomance of the concert took place in the object of cultural heri
 
 [[2]](#a2) <span id="f2"></span> [Товарищество «Эта» представит последние мультимедийные разработки в палатах Украинцева (Пресс-релизы, E-t-a.space)](http://e-t-a.space//14-февраля-2018)
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://youtu.be/vTpl8tXP3Mw)
 
 `Updated Mar. 2018 (Andrei Dei)`
