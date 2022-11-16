@@ -255,7 +255,7 @@ layout: cover
   [Ognennaya Lady](ognennaya-lady)
   [Ognenny, Oleg](ognenny-oleg)
   [Oh, My (brand)](oh-my-brand)
-  [Ole Op](ole-op)
+  [OleOp](oleop)
   [Omaha Fashion Week](omaha-fashion-week)
   [Only Role Of The Superstar, The (2011)](only-role-of-the-superstar-the-2011)
   [Oriflame (company)](oriflame-company)
