@@ -9,13 +9,13 @@ layout: cover
   [2 Skin](2-skin)
   [4S4R](4s4r)
 # A
-  [Aberdeen Fashion Week](aberdeen-fashion-week)
-  [Abolenkin, Andrei](abolenkin-andrei)
-  [About (clothing)](about-clothing)
-  [Acid Noodles](acid-noodles)
-  [Adelaide Fashion Festival](adelaide-fashion-festival)
-  [Adjara Fashion Week](adjara-fashion-week)
-  [AES+F](aes+f)
+  [Aberdeen Fashion Week](aberdeen-fashion-week) |
+  [Abolenkin, Andrei](abolenkin-andrei) |
+  [About (clothing)](about-clothing) |
+  [Acid Noodles](acid-noodles) |
+  [Adelaide Fashion Festival](adelaide-fashion-festival) |
+  [Adjara Fashion Week](adjara-fashion-week) |
+  [AES+F](aes+f) | 
   [Afisha (magazine)](afisha-magazine)
   [Africa Fashion Week London](africa-fashion-week-london)
   [Africa Fashion Week Nigeria](africa-fashion-week-nigeria)
