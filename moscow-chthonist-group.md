@@ -1,7 +1,7 @@
 ---
 title: Moscow сhthonist (group)
 permalink: moscow-chthonist-group
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
