@@ -3,7 +3,7 @@ title: Ole Op
 permalink: ole-op
 layout: default
 originlang: Rus.
-originspell: Аллей-уп
+originspell: Аллей-уп, ქართული: ოლე ოპ
 appearing: Est.
 city: Moscow
 birth: 2017
