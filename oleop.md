@@ -3,7 +3,7 @@ title: OleOp
 permalink: oleop
 layout: info
 originlang: Rus.
-originspell: Аллей-уп, ქართული: ოლე ოპ
+originspell: Аллей-уп
 appearing: Est.
 city: Moscow
 birth: 2017
