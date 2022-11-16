@@ -13,7 +13,7 @@ othername: (maiden) Loshak; (Ukr.) Ганна Монґайт
 venue: Channel "Rain"
 founder: of "Women on top" program
 origin: a Russian
-profession: journalist, actress, TV presenter, creative producer of the television channel "Rain"
+profession: journalist, actress, TV presenter, creative producer of the television channel "Rain" working in Latvia
 photo: Anna Mongayt
 photographer: Julia Mayorova
 source: Bedush & Marennikova PR-agency
