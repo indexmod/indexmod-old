@@ -31,6 +31,14 @@ soundcloud: 0
 pinterest: 0
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Moscow 2010, Armenian & Yerevan Fashion Week. National Awards for the contribution of the development of fashion, Golden Palace**

@@ -31,6 +31,14 @@ soundcloud: 0
 pinterest: 0
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Showroom presentation from Tiagbe of Kososhi; Photo by Robert Cooper provided by Adirée (AFWNY 2014)**

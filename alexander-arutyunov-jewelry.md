@@ -27,6 +27,14 @@ founder: Alexander Arutyunov
 published: true
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 A jewelry brand founded by Alexander Arutyunov in 2014 in Moscow.
 
 # See also

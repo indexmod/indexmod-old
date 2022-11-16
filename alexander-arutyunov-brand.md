@@ -26,6 +26,13 @@ sourceurl: https://www.facebook.com/prsccobar/photos/a.1520556148072515/16793272
 founder: 'Alexander Arutyunov'
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
 
 ## See also
 

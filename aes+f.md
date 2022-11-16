@@ -31,6 +31,14 @@ soundcloud: 0
 pinterest: 0
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 ## Biography
 
 AES+F achieved worldwide recognition and acclaim in the Russian Pavilion at the 52-nd Biennale di Venezia in 2007 with their provocative, other-worldly Last Riot (2007), the first in a trio of large-scale, multichannel video installations of striking originality that have come to define both the AES+F aesthetic and the cutting edge of the medium’s capacities. The second of the series, The Feast of Trimalchio (2009), appeared in Venice in 2009, and the third, Allegoria Sacra (2011), debuted at the 4th Moscow Biennale in 2011. United as The Liminal Space Trilogy, this tour-de-force series was premiered in September 2012 at the Martin-Gropius-Bau, Berlin, and the Moscow Manege, the central exhibition hall of the artists’ home city. The Trilogy was shown in the Museum of Fine Arts in La Chaux-De-Fonds, Switzerland (June–September 2014). Most recently all three videos were shown at Albright-Knox Art Gallery, Buffalo, NY (June-September 2015). In 2015 AES+F presented the new project Inverso Mundus at 56th Biennale di Venezia. AES+F received Sergey Kuryokhin Award 2011, the main award of the Kandinsky Prize 2012, the main award of the NordArt Festival 2014, and Pino Pascali Prize 2015 (18th Edition) – all for the project Allegoria Sacra. AES+F were awarded Bronze Medal (2005) and Golden Medal (2013) of Russian National Academy of Fine Arts.

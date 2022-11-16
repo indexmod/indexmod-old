@@ -31,4 +31,12 @@ soundcloud: 0
 pinterest: 0
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 (Rus. Алёна Ахмадуллина, born 1978, Sosnovy Bor) Russian fashion designer, founder of the brand Alena Akhmadullina, participant of various Russian and international competitions in the field of fashion, мember of "Snob" from April 2009

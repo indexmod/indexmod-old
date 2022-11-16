@@ -37,7 +37,7 @@ To edit top block see
 icon "Meta Data"
 on right menu
 Full edit instructions
-indexmod.gq/edit
+{{ site.url }}/edit
 -->
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)

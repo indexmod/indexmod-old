@@ -28,6 +28,15 @@ photographerurl: https://guardian.ng/guardian-woman/african-fashion-week-nigeria
 sourceurl: https://guardian.ng/guardian-woman/african-fashion-week-nigeria-has-been-a-success-ronke-ademiluyi/
 founder: Ronke Ademiluyi
 ---
+
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 Annual event showcasing and celebrating work from established and emerging African designers. AFWL was created to introduce this work to a wider audience of potential clients and to generate interest in African fashion in an affordable and ethical manner. With the popular ‘Face of AFWL’ modelling competition providing an opportunity for models to make their mark on the industry, the focus of AFWL is to ensure that African fashions can be enjoyed by a wide audience in London and across the globe.
 
 ## Seasons

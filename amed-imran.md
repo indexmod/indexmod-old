@@ -28,6 +28,14 @@ sourceurl: index
 founder: 'основатель проектов “The Business of Fashion” и "BoF Голоса"'
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 `Bilingual article`
 
 Британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Голоса" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.

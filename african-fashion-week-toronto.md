@@ -31,6 +31,14 @@ soundcloud: 0
 pinterest: 0
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 ## See also
 
 + [Alberta Fashion Week](alberta-fashion-week)

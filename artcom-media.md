@@ -29,6 +29,14 @@ sourceurl: http://www.acmgroup.info/jubilee/17537/
 founder: Antonio Alizzi
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 A publishing house part of Russian media holding company, established in 1995, specializes in the publication of licensed versions of foreign magazines, includes publishing group Artcom Media, advertising, digital and event agency.
 
 ## Magazines and websites

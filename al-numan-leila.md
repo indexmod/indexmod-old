@@ -2,7 +2,6 @@
 title: 'Al-Numan, Leila'
 permalink: al-numan-leila
 layout: default
-published: true
 shortname: ALNUMAN
 givenname: Leila
 familyname: Al-Numan
@@ -29,6 +28,14 @@ photographerurl: http://english.spbu.ru/news/1403-art-university-graduate-a-crea
 sourceurl: http://english.spbu.ru
 founder: 'of the “Alexandria” studio'
 ---
+
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
 
 In 1993 graduated from S. G. Stroganov Moscow University of Art and Industry (faculty of Monumental Decorative and Applied Arts, Department of Glass). She is the author of more than 500 stained glass works. Leila Al-Numan is a member of Artists’ Union of Russia, International Association of UNESCO Artists. Books, “Stained glass in architecture”, Moscow.
 

@@ -27,6 +27,14 @@ sourceurl: artfido
 founder: 'Juan Garcia'
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 An online sales and auction, independent, owned by art lovers wanting to bring art to everyone site dedicated to art based in Carlton North, Victoria, Australia <span id="a2">[\[2\]](#f2)</span>.
 
 ## Footnotes

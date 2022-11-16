@@ -31,6 +31,14 @@ soundcloud: 0
 pinterest: 143
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 ## Сonspectus
 
 |Year|City|

@@ -25,8 +25,15 @@ photographer: Igor Vasiliadis
 source: Indexmod Blockchainpedia
 photographerurl: vasiliadis-igor
 sourceurl: index
-founder: ''
 ---
+
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
 
 ## See also
 

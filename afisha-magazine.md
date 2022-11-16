@@ -35,7 +35,7 @@ To edit top block see
 icon "Meta Data"
 on right menu
 Full edit instructions
-indexmod.gq/edit
+{{ site.url }}/edit
 -->
 
 Brand name founded by Russian Ilya Oskolkov-Tsentsiper and American Andrew Paulson, now magazine and website, about the urban, development culture, fashion, food, entertainment, and owned by Rambler&Co (2016) <span id="a1">[\[1\]](#f1)</span>.

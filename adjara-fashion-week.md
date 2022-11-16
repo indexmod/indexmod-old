@@ -31,6 +31,14 @@ soundcloud: 0
 pinterest: 0
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 
 ![](http://ajaratv.ge/files/photos/Sainformacio/V-ACHARA%20FESHEN%20VIKI%20%20CHRA%203.xmp.mpg_20170724_180654.690.jpg)
 

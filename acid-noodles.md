@@ -29,6 +29,14 @@ sourceurl: https://www.vogue.ru/peopleparties/afisha/interaktivnaya_vystavka_aci
 founder: 'Maria Pudan'
 ---
 
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
+
 ## Participants
 
 Young artists Mic Sachov, Slava Filimonov, Pavel Samokhvalov, Natalia Stuyk and Vasya Kolotusha <span id="a1">[\[1\]](#f1)</span> are among participants of Acid Noodles expositions.

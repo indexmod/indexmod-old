@@ -2,7 +2,6 @@
 title: Aberdeen Fashion Week
 permalink: aberdeen-fashion-week
 layout: default
-published: true
 birth: 2013
 city: Aberdeen
 shortname: ABERDEEN
@@ -30,6 +29,14 @@ photographerurl: aberdeen-fashion-week
 sourceurl: https://www.instagram.com/p/BiPl3UAFtuH/?taken-by=aberdeenfashionweek
 founder: 'Lydia Cutler'
 ---
+
+<!---
+To edit top block see
+icon "Meta Data"
+on right menu
+Full edit instructions
+{{ site.url }}/edit
+-->
 
 Hosted in Aberdeen, once a year in April followed by AFW sponsored fashion show. In 2018 anounced as Aberdeen Fashion & Art Week <span id="a1">[\[1\]](#f1)</span>.
 
