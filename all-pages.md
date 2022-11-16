@@ -3,6 +3,7 @@ title: All pages
 layout: info
 exclude: true
 ---
+[Selected pages](index) [All pages](all-pages)
 
 <ul>
   {% assign mypages = site.pages | sort: "order" %}

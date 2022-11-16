@@ -2,6 +2,7 @@
 title: Indexmod by Andrei Deinichenko
 layout: cover
 ---
+[Selected pages](index) [All pages](all-pages)
 
 # 123
   [032c (magazine)](032-c)
