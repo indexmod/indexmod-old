@@ -1,7 +1,7 @@
 ---
 title: Moscow Fashion Week
 permalink: moscow-fashion-week
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -32,14 +32,7 @@ pinterest: 0
 ---
 
 
-(Est. 2013, city) is a Moscow Fashion Week (Rus. Неделя моды в Москве), est. 1994—fashion event at Gostiny Dvor in Moscow since 2003 to 2014 (Volvo-Moscow Fashion Week) is held twice a year, in late March (autumn-winter) and at the end of October (spring-summer) <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/{{page.permalink}}.jpg)
-
-**Image title**
-Logo of MFW in 2014
-Photo: Moscow Fashion Week / Instagram.com
-*Photo: [Name](index) / [Source](index)*
+(Est. 2013, city) is a Moscow Fashion Week (Rus. Неделя моды в Москве), est. 1994—fashion event at Gostiny Dvor in Moscow since 2003 to 2014 (Volvo-Moscow Fashion Week) is held twice a year, in late March (autumn-winter) and at the end of October (spring-summer).
 
 # Moscow Gostiny Dvor
 
@@ -55,7 +48,3 @@ Photo: Moscow Fashion Week / Instagram.com
 + Anton Lisin
 
 # Footnotes
-
-1 Mosgd.ru
-
-[[3]](#a3) <span id="f3"></span> [(Facebook)](index)

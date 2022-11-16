@@ -1,7 +1,7 @@
 ---
 title: Moscow Institute of Kosmic Anomaly
 permalink: moscow-institute-of-kosmic-anomaly
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -31,9 +31,7 @@ soundcloud: 0
 pinterest: 0
 ---
 
-(Rus. Московский институт космических аномалий, est. 2009, Moscow) ) founded by Cecilia Eykhbaum and Mitya Nesterov in 2009, and in 2015 organizer of the parallel program of the second Moscow Biennale of Contemporary Art <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+(Rus. Московский институт космических аномалий, est. 2009, Moscow) ) founded by Cecilia Eykhbaum and Mitya Nesterov in 2009, and in 2015 organizer of the parallel program of the second Moscow Biennale of Contemporary Art.
 
 **MIKA on fielding an experimental site, Ritsa Lake, Abkhazia, 2015**
 *Photo: [Anna Yaroshenko](yaroshenko-anna) / [Facebook](index)*

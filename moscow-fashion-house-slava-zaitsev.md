@@ -1,7 +1,7 @@
 ---
 title: Moscow Fashion House Slava Zaitsev
 permalink: moscow-fashion-house-slava-zaitsev
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -33,19 +33,7 @@ pinterest: 0
 
 # Moscow Fashion House Slava Zaitsev
 
-(Rus. Московский дом моды «Слава Зайцев», 1983, Moscow) Soviet fashion house founded by Vyacheslav Zaitsev <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/moscow-fashion-house-slava-zaitsev.md)
-
-![](/encyclopedia/images/image-name.jpg)
-
-**Image caption title**
-
-Moscow Fashion House Slava Zaitsev
-Photo: Name / Source
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-
-# See also update in Feb. 2018
+(Rus. Московский дом моды «Слава Зайцев», 1983, Moscow) Soviet fashion house founded by Vyacheslav Zaitsev.
 
 + [Ilia Varegin](varegin-ilia)
 + [Vetements](vetements)
@@ -70,10 +58,3 @@ Photo: Name / Source
 + [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-+ Slava Zaitsev
-+ Egor Zaitsev
-
-
-# Footnotes
-
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
