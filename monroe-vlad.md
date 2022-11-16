@@ -1,7 +1,7 @@
 ---
 title: 'Monroe, Vlad'
 permalink: monroe-vlad
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -40,7 +40,7 @@ pinterest: 0
 
 *Photo: [Andrei Pomulev](pomulev-andrei) / [Facebook](https://www.facebook.com/photo.php?fbid=1657445534347751&set=a.102145249877795.3311.100002469602366&type=3&theater)*
 
-## in galeries
+## In galeries
 
 + Galerie Tretiakov, Moscow
 + Multimedia Art Museum, Moscow
