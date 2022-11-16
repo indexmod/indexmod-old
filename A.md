@@ -1,11 +1,8 @@
 ---
-title: 2 Skin
+title: A
 permalink: A
 layout: info
 ---
-
-# A
-
 + [Aberdeen Fashion Week](aberdeen-fashion-week)
 + [Abolenkin, Andrei](abolenkin-andrei)
 + [About (clothing)](about-clothing)
