@@ -9,7 +9,7 @@ city: Moscow
 birth: 2017
 givenname: OleOp
 familyname:
-othername: ქართული: ალეოპ
+othername:
 venue: Goma&Co
 founder: Dmitry Chernyaev
 origin: a Russian
