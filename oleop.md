@@ -1,20 +1,20 @@
 ---
-title: Ole Op
-permalink: ole-op
+title: OleOp
+permalink: oleop
 layout: default
 originlang: Rus.
 originspell: Аллей-уп, ქართული: ოლე ოპ
 appearing: Est.
 city: Moscow
 birth: 2017
-givenname: Ole Op
+givenname: OleOp
 familyname:
 othername: Аллей-уп
 venue: Goma&Co
 founder: Dmitry Chernyaev
 origin: a Russian
 profession: brand of casual wear, also self-named as a “human softwear” and founded by artist Dmitry Chernyaev (Дмитрий Черняев)
-photo: Ole Op's “loop” ID  for shirts
+photo: OleOp's “loop” ID  for shirts
 photographer: Dmitry Chernyaev / Mic Sachkov
 source: Instagram
 photographerurl: chernyaev-dmitry
