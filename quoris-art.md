@@ -40,6 +40,3 @@ and sisters Ruban at “Trekhgorka” during Quoris Art in 2015
 + 2013 Concert of Sumi Jo	Moscow
 + 2014 Dance Delhi Moscow
 + 2015 Ruban SS 16 Moscow
-
-+ Alisa Ruban
-+ Yuliya Ruban
