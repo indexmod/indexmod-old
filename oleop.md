@@ -1,7 +1,7 @@
 ---
 title: OleOp
 permalink: oleop
-layout: default
+layout: info
 originlang: Rus.
 originspell: Аллей-уп, ქართული: ოლე ოპ
 appearing: Est.
