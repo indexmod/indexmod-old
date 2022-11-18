@@ -1,7 +1,7 @@
 ---
 title: Pinea Chrome
 permalink: pinea-chrome
-layout: default
+layout: info
 originlang: Rus. / Eng.
 originspell: Original spell
 appearing: Updated / Est. / Born
@@ -39,13 +39,14 @@ pinterest: 0
 
 *Photo: [Alex Platonov](platonov-alex) / [YouTube](https://www.youtube.com/watch?v=CSpqlJVOCys)*
 
-# {{page.title}} Crowdfundings
+# Crowdfundings
 
 |Year|City|
 |-|-|
 |2014|Boomstarter|
 |2015|Planeta|
-|2018|Skolkovo Crowdfundings Platform|
+|2018|Skolkovo Crowdfundings Platform (Canceled)|
+|2023|Frozen|
 
 “Unsuccessful in terms of crowdfunding innovation, you can imagine Andrei Deinichenko project Pinea Chrome, with the goal of creating a humanoid robot, built from wooden beams and chrome joints. The main purpose of this device is attached to its head different objects and its subsequent use as decorative items. This project was not able to attract investors because of its actual uselessness <span id="a2">[\[2\]](#f2)</span>.”
 
@@ -56,17 +57,6 @@ The prototype Pinea Chrome has been assembled in Moscow from pine and chrome-pla
 # Noble woods
 
 “There is some directions of development of robots line Pinea Chrome: such as robots made of the noble woods or a giant video mapping installation of a hundreds robots.” — said Andrei.
-
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|||
-|Vimeo <span id="a4">[\[4\]](#f4)</span>|20||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|13||
-|Age|5||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|0,0005||
 
 
 # See also
