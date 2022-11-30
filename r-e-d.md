@@ -4,11 +4,11 @@ permalink: r-e-d
 layout: default
 originlang: Rus.
 originspell: Рэд
-appearing: Updated / Est. / Born
+appearing: Est.
 city: Moscow
 birth: 2010
-givenname: Given name
-familyname: Family name
+givenname: Fourth
+familyname: Floor
 othername: Четвертый этаж
 venue: Red Square
 founder: Founder
@@ -47,7 +47,3 @@ Photo: Indexmod / Google Maps
 + [Vardoui Nazarian](index)
 + [Vilshenko](index)
 + [Eleonor](index)
-
-## Footnotes
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
