@@ -2,19 +2,18 @@
 title: Ким Ё Чен
 permalink: kim-yo-jong
 layout: default
-published: true
 originlang: Kor.
 originspell: 김여정
 appearing: Born
 city: Пхеньян
 birth: 1987
-givenname: Given name
-familyname: Family name
-othername: Other name
-venue: Red Square
+givenname: Ким
+familyname: Ё Чен
+othername: Kim Yo Jong
+venue:
 founder: Founder
-origin: a / an Russian
-profession: writer based in Europe
+origin: a Korean
+profession: politic
 photo: Ким Ё Чен прибывает на станцию Джинбу, чтобы принять участие в церемонии открытия Олимпийских игр Пхенчхане 9 февраля 2018 года
 photographer: AFP
 source: National Post
