@@ -13,7 +13,7 @@ familyname:
 othername: Урбан-а-лиана
 venue: Rooftop Galery by Farmani
 founder: Andrii Deinichenko
-origin: is an installation
+origin: an installation
 profession: by Andrei Dei set on the rooftop in the Hossein Farmani's Rooftop
 photo: Collage by Andrei Dei
 photographer: Andrei Dei
