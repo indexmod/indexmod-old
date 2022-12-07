@@ -1,4 +1,4 @@
-# blockchainpedia
-Indexmod blockchainpedia is a fashion and art wiki 
+# Indexmod
+Indexmod is a fashion and art wiki 
 
 
