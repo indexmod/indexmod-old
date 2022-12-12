@@ -421,7 +421,7 @@ layout: cover
   [Turovnikova, Natalia](turovnikova-natalia)
 # U
   [Ukrainian Fashion Week](ukrainian-fashion-week)
-  [Umeå Fashion Week](umea-fashion-week)
+  [Urban-a-Liana (2015)](urban-a-liana-2015)
   [Uni(D)Sex](uni-d-sex)
   [Urso, Jury](urso-jury)
   [Uskov, Nikolay](uskov-nikolay)
