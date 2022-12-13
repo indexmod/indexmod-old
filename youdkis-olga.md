@@ -1,7 +1,7 @@
 ---
 title: Youdkis, Olga
 permalink: youdkis-olga
-layout: default
+layout: info
 originlang: Rus.
 originspell: Ольга Юдкис
 appearing: Born
@@ -31,24 +31,8 @@ soundcloud: 0
 pinterest: 0
 ---
 
-
-![(Additional images correspondent to the article of “{{ page.title }}”)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
-
-**Image caption**
-
-*Photo: [Not specified](index) / [Source](index)*
-
 (Rus. Ольга Юдкис, born 1968, Saint Petersburg) Russian media person who working in fashion scene as PR director of GUM (ЗАО “Московский международный дом” “Восток и Запад” known under the brand of Bosco di Ciliegi), standing at 5th position of the SNC rate of “the 100 most influential people in Russian fashion” (2015), living and working in Moscow (2015).
 
 ## Education
 
 + Moscow State Pedagogical University, Faculty of Foreign Languages (1991)
-
-
-## See also
-
-- [Source name](http://example.net/)
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
