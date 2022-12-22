@@ -57,7 +57,7 @@ He is familiar though in different incarnations. Appeared for the first time in 
 The “real” Tamkovich persistently resisted, even called himself the “original” but nothing helped. As a result he began introducing himself as Yan Ginzbourg at every possible opportunity. The imitator was victorious. The “original” and the “copy” even had an altercation at one of the “Nights of Vernissages” at the Vinzavod Contemporary Art Center, the video of which was a hit in artistic circles for a while. In November 2016 Tamkovich-Friske and Individual Entrepreneur held a gay-wedding in Center "Red" “Bound to Death. Equal Marriage” <span id="a2">[\[3\]](#f2)</span>.
 
 
-![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-4.jpg)
 
 **Завещание (2022) <span id="a5">[\[5\]](#f5)</span>**
 
