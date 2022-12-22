@@ -29,7 +29,10 @@ tumblr: 0
 vkontakte: 11
 soundcloud: 0
 pinterest: 0
+published: 2022
 ---
+
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-3.jpg)
 
 Also known with his series of provocative photos that includes images of symbols of celebrities having died or killed recently, among them a Russian actress, singer and model Zhanna Friske and scientist, statesman and liberal politician Boris Nemtsov. Ian working and living in Moscow.
 
