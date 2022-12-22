@@ -59,9 +59,9 @@ The “real” Tamkovich persistently resisted, even called himself the “origi
 
 ![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
-**Шедевр-младший: загранпаспорт (2020) <span id="a5">[\[5\]](#f5)</span>**
+**Завещание (2022) <span id="a5">[\[5\]](#f5)</span>**
 
-*Photo: [Facebook.com](https://www.facebook.com/photo?fbid=1395748914137341&set=a.120519958326916)*
+*Photo: [Facebook.com](https://www.facebook.com/photo/?fbid=1793161264396102&set=a.120519958326916)*
 
 
 ## The Merge
