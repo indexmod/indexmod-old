@@ -50,15 +50,11 @@ Co-founder of [Proun](proun-movement), also known as [Minasyan (Минасян)]
 ## See also
 
 + [Proun](proun-movement)
-+ [Nina Rasiuk](rasiuk-nina)
-+ [Minasyan (Минасян)](minasyan-misak)
 + [Synthposium](synthposium-festival)
 
 ## Footnotes
 
 [[1, 2]](#a1) <span id="f1"></span> [Proun artists Misak Minasyan (Readymag)](https://readymag.com/proun/misak/)
-
-[[2]](#a2) <span id="f2"></span> [Proun artists Misak Minasyan (Readymag)](https://readymag.com/proun/misak/)
 
 [[3]](#a3) <span id="f3"></span> [Мисак Самокатьян (Facebook)](https://www.facebook.com/misak.samokatyan)
 
