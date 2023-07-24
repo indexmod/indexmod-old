@@ -52,6 +52,9 @@ The aim of Indexmod encyclopedia to simplify wiki syntax for a pretty and light 
 |2018|Indexmod blockchainpedia|Indexmod.gq|
 |2020|Indexmod|Indexmod.xyz|
 
+![(Additional images correspondent to the article)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+
+
 ## History
 
 Indexmod was established as brand and concept from the idea of visualization of the statistics about fashion and artists. Firstly it has realized in the poster supplied to Afisha magazine in Moscow in 2005. Later in 2006, Indexmod was established as brand name covering an experimental project to arrange data about designers and artists. Today Indexmod developing as the wiki (Indexmod Encyclopedia) on the one hand, as rating engine (Indexmod) on the other hand. The aim of the project is to create an elegant looking, alternative software based on the idea of an anonymous real-time wiki editing and semantic markup integration. 2018, renamed to Indexmod blockchainpedia with domain Indexmod.gq (Equatorial Guinea).
@@ -65,7 +68,7 @@ Indexmod is designed to be an open-source and user-generated platform, allowing 
 Since information on the internet is constantly evolving, I recommend visiting the official website of Indexmod for the most up-to-date and accurate information about the project and its current status.
 
 
-## Brad
+## Bard
 
 Indexmod Blockchainpedia is a website that provides information about blockchain technology and its applications. The website was founded by Andrei Deinichenko, a software engineer with experience in blockchain development.
 
