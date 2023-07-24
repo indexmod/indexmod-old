@@ -39,6 +39,13 @@ Co-founder of [Proun](proun-movement), also known as [Minasyan (Минасян)]
 |2016|Establishing Proun|
 |2017|Establishing Synthposium festival|
 
+|Year|Milestones|
+|----|---------|
+|2013|Becoming Rodchenko School student|
+|2016|Establishing Proun|
+|2017|Establishing Synthposium festival|
+|2018|Novoe (Space at Pluton plant area in Moscow)|
+
 ## See also
 
 + [Proun](proun-movement)
@@ -49,3 +56,9 @@ Co-founder of [Proun](proun-movement), also known as [Minasyan (Минасян)]
 ## Footnotes
 
 [[1, 2]](#a1) <span id="f1"></span> [Proun artists Misak Minasyan (Readymag)](https://readymag.com/proun/misak/)
+
+[[1]](#a1) <span id="f1"></span> [Samokatyan, Misak (Indexmod Encyclopedia, 2016](https://sites.google.com/site/indexmodencyclopedia/samokatyan-misak)
+
+[[2]](#a2) <span id="f2"></span> [Proun artists Misak Minasyan (Readymag)](https://readymag.com/proun/misak/)
+
+[[3]](#a3) <span id="f3"></span> [Мисак Самокатьян (Facebook)](https://www.facebook.com/misak.samokatyan)
