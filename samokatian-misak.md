@@ -1,6 +1,6 @@
 ---
-title: 'Samokatjan, Misak'
-permalink: samokatjan-misak
+title: 'Samokatian, Misak'
+permalink: samokatian-misak
 layout: default
 givenname: Misak
 familyname: Samokatjan
