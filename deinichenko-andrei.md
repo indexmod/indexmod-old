@@ -49,6 +49,7 @@ I became a journalist, it being happened, I worked for several years as a Fashio
 |2015|Indexmod Encyclopedia|
 |2017|Entering the Eta fellowship|
 |2018|Indexmod blockchainpedia|
+|2019|Animation Producer at Lastik Studio|
 
 ## Transhumanist actionism
 

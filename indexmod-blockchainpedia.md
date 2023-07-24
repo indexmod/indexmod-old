@@ -7,7 +7,7 @@ familyname:
 shortname: INDEXMOD
 originlang: Rus.
 originspell: Индексмод
-othername: Indexmod blockchainpedia
+othername: Indexmod blockchainpedia / Indexmod
 appearing: Est.
 birth: 2006
 city: Moscow
@@ -50,10 +50,45 @@ The aim of Indexmod encyclopedia to simplify wiki syntax for a pretty and light 
 |2016|Indexmod encyclopedia|Indexmod.online|
 |2017|Indexmod (Github.io) encyclopedia|Indexmod.github.io|
 |2018|Indexmod blockchainpedia|Indexmod.gq|
+|2020|Indexmod|Indexmod.xyz|
 
 ## History
 
 Indexmod was established as brand and concept from the idea of visualization of the statistics about fashion and artists. Firstly it has realized in the poster supplied to Afisha magazine in Moscow in 2005. Later in 2006, Indexmod was established as brand name covering an experimental project to arrange data about designers and artists. Today Indexmod developing as the wiki (Indexmod Encyclopedia) on the one hand, as rating engine (Indexmod) on the other hand. The aim of the project is to create an elegant looking, alternative software based on the idea of an anonymous real-time wiki editing and semantic markup integration. 2018, renamed to Indexmod blockchainpedia with domain Indexmod.gq (Equatorial Guinea).
+
+## ChatGPT
+
+As of my last update in September 2021, "Indexmod" refers to an online project that aims to create a digital encyclopedia of fashion, art, and culture. It serves as a platform that provides information and profiles of various individuals, artists, designers, and cultural figures from around the world.
+
+Indexmod is designed to be an open-source and user-generated platform, allowing contributors to add and edit information about relevant subjects. It aims to be a comprehensive resource for anyone interested in fashion, art, and cultural topics, providing a central hub for information and knowledge in these fields.
+
+Since information on the internet is constantly evolving, I recommend visiting the official website of Indexmod for the most up-to-date and accurate information about the project and its current status.
+
+
+## Brad
+
+Indexmod Blockchainpedia is a website that provides information about blockchain technology and its applications. The website was founded by Andrei Deinichenko, a software engineer with experience in blockchain development.
+
+Indexmod Blockchainpedia covers a wide range of topics related to blockchain, including:
+
+The basics of blockchain technology
+Different types of blockchains
+Blockchain applications in various industries
+The latest news and developments in the blockchain space
+The website also provides a forum where users can discuss blockchain-related topics and share their knowledge.
+
+Indexmod Blockchainpedia is a valuable resource for anyone who wants to learn more about blockchain technology. The website is well-organized and easy to use, and the content is comprehensive and informative.
+
+Here are some of the features of Indexmod Blockchainpedia:
+
+A comprehensive library of articles on blockchain technology and its applications
+A forum where users can discuss blockchain-related topics and share their knowledge
+A news section that keeps users up-to-date on the latest developments in the blockchain space
+A blog that features articles written by experts in the blockchain field
+A directory of blockchain projects and organizations
+If you are interested in learning more about blockchain technology, I recommend checking out Indexmod Blockchainpedia. The website is a great resource for anyone who wants to stay up-to-date on the latest developments in this rapidly growing field.
+
+
 
 ## See also
 
