@@ -25,7 +25,6 @@ This image is generated SVG based on variables from meta data taken from "front 
 |Instagram|1000|+|
 |YouTube|1000|+|
 |Vimeo|1000|+|
-|Vimeo|0|+|
 |Twitter|0|+|
 |Soundcloud|0|+|
 |Pinterest|0|+|
