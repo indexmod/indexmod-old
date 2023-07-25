@@ -49,7 +49,7 @@ Co-founder of [Proun](proun-movement), also known as [Minasyan (Минасян)]
 |2018|Novoe (Space at Pluton plant area in Moscow)|
 |2019|Moving to Erevan|
 |2022|Establishing Lava the 1-st Armenian virtual influencer with MA @tes.models|
-
+|2023|Exhibition “Based on real events. Selected Fragments of Russian Video Art", Triumph Gallery, Winzavod, Moscow|
 
 ## See also
 
