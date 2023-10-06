@@ -4,7 +4,7 @@ layout: cover
 ---
 # is a Fashion and Art Chainpædia
 
-by Andrei Deinichenko indexmod@ya.ru
+developed and edited by [Андрей Дейниченко](mailto:indexmod@ya.ru)
 
 [Selected pages](index) [All pages](all-pages)
 
