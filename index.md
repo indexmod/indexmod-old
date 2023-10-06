@@ -5,8 +5,11 @@ layout: cover
 # is a Fashion and Art Chainpædia
 
 developed and edited by [Андрей Дейниченко](mailto:indexmod@ya.ru)
+---
+
 
 [Selected pages](index) [All pages](all-pages)
+
 
 # 123
   [032c (magazine)](032-c)
