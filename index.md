@@ -2,11 +2,11 @@
 title: Indexmod by Andrei Deinichenko
 layout: cover
 ---
-# is a Fashion and Art Chainpædia
 
-developed and edited by [Андрей Дейниченко](mailto:indexmod@ya.ru)
----
 
+is a Fashion and Art Chainpædia developed and edited by [Андрей Дейниченко](mailto:indexmod@ya.ru)
+
+...
 
 [Selected pages](index) [All pages](all-pages)
 
