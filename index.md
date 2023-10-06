@@ -2,6 +2,8 @@
 title: Indexmod by Andrei Deinichenko
 layout: cover
 ---
+# This is a fashion and art chainpædia
+
 [Selected pages](index) [All pages](all-pages)
 
 # 123
