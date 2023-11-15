@@ -1,5 +1,5 @@
 ---
-title: Youdkis, Olga
+title: 'Youdkis, Olga'
 permalink: youdkis-olga
 layout: info
 originlang: Rus.
@@ -13,7 +13,10 @@ othername: Other name
 venue: Red Square
 founder: Founder
 origin: a Russian
-profession: media person who working in fashion scene as PR director of GUM (ЗАО “Московский международный дом” “Восток и Запад” known under the brand of Bosco di Ciliegi)
+profession: >-
+  media person who working in fashion scene as PR director of GUM (ЗАО
+  “Московский международный дом” “Восток и Запад” known under the brand of Bosco
+  di Ciliegi)
 photo: This is sample for image caption
 photographer: Photographer
 source: Source
@@ -29,10 +32,16 @@ tumblr: 0
 vkontakte: 0
 soundcloud: 0
 pinterest: 0
+published: true
 ---
 
 (Rus. Ольга Юдкис, born 1968, Saint Petersburg) Russian media person who working in fashion scene as PR director of GUM (ЗАО “Московский международный дом” “Восток и Запад” known under the brand of Bosco di Ciliegi), standing at 5th position of the SNC rate of “the 100 most influential people in Russian fashion” (2015), living and working in Moscow (2015).
 
 ## Education
 
-+ Moscow State Pedagogical University, Faculty of Foreign Languages (1991)
++ Moscow State Pedagogical University, Faculty of Foreign Languages (1991) 
+
+
+## See also
+
++ GUM
