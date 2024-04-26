@@ -5,7 +5,7 @@ layout: cover
 
 
 is a Fashion and Art Chainpædia developed and edited by [Андрей Дейниченко](mailto:indexmod@ya.ru) 
-Indexmod 2.0 is published at [indexmod.xyz](indexmod.xyz).
+Indexmod 2.0 is published at [indexmod.xyz](indexmod.xyz)
 
 ...
 
