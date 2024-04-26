@@ -1,10 +1,11 @@
 ---
-title: Indexmod by Andrei Deinichenko
+title: Indexmod 1.0
 layout: cover
 ---
 
 
-is a Fashion and Art Chainpædia developed and edited by [Андрей Дейниченко](mailto:indexmod@ya.ru)
+is a Fashion and Art Chainpædia developed and edited by [Андрей Дейниченко](mailto:indexmod@ya.ru) 
+Indexmod 2.0 is published at [indexmod.xyz](indexmod.xyz).
 
 ...
 
